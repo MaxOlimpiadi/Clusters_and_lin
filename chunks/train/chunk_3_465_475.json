@@ -1,0 +1,5622 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 56,
+            "end": 8
+          }
+        ],
+        "text": "Wohl nach schon viertelstündiger Arbeit sagte die Mutter",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 6,
+            "charBegin": 46,
+            "charEnd": 56,
+            "end": 8
+          }
+        ],
+        "text": [
+          "die",
+          "Mutter"
+        ],
+        "tokenIds": [
+          6,
+          7
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1040,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 9,
+            "charBegin": 58,
+            "charEnd": 102,
+            "end": 17
+          }
+        ],
+        "text": "man solle den Kasten doch lieber hier lassen",
+        "tokenIds": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 9,
+            "charBegin": 58,
+            "charEnd": 61,
+            "end": 10
+          },
+          {
+            "begin": 9,
+            "charBegin": 58,
+            "charEnd": 61,
+            "end": 10
+          }
+        ],
+        "text": [
+          "man",
+          "man"
+        ],
+        "tokenIds": [
+          9,
+          9
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1041,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 18,
+            "charBegin": 104,
+            "charEnd": 133,
+            "end": 24
+          }
+        ],
+        "text": "denn erstens sei er zu schwer",
+        "tokenIds": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1042,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 25,
+            "charBegin": 135,
+            "charEnd": 188,
+            "end": 34
+          }
+        ],
+        "text": "sie würden vor Ankunft des Vaters nicht fertig werden",
+        "tokenIds": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 25,
+            "charBegin": 135,
+            "charEnd": 138,
+            "end": 26
+          },
+          {
+            "begin": 25,
+            "charBegin": 135,
+            "charEnd": 138,
+            "end": 26
+          }
+        ],
+        "text": [
+          "sie",
+          "sie"
+        ],
+        "tokenIds": [
+          25,
+          25
+        ]
+      },
+      "hasNested": false,
+      "id": 1043,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 34,
+            "charBegin": 189,
+            "charEnd": 260,
+            "end": 47
+          }
+        ],
+        "text": "und mit dem Kasten in der Mitte des Zimmers Gregor jeden Weg verrammeln",
+        "tokenIds": [
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 43,
+            "charBegin": 233,
+            "charEnd": 239,
+            "end": 44
+          }
+        ],
+        "text": [
+          "Gregor"
+        ],
+        "tokenIds": [
+          43
+        ]
+      },
+      "hasNested": false,
+      "id": 1044,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 48,
+            "charBegin": 262,
+            "charEnd": 304,
+            "end": 56
+          }
+        ],
+        "text": "zweitens aber sei es doch gar nicht sicher",
+        "tokenIds": [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1045,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 57,
+            "charBegin": 306,
+            "charEnd": 367,
+            "end": 67
+          }
+        ],
+        "text": "daß Gregor mit der Entfernung der Möbel ein Gefallen geschehe",
+        "tokenIds": [
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 58,
+            "charBegin": 310,
+            "charEnd": 316,
+            "end": 59
+          }
+        ],
+        "text": [
+          "Gregor"
+        ],
+        "tokenIds": [
+          58
+        ]
+      },
+      "hasNested": false,
+      "id": 1046,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 68,
+            "charBegin": 369,
+            "charEnd": 411,
+            "end": 76
+          }
+        ],
+        "text": "Ihr scheine das Gegenteil der Fall zu sein",
+        "tokenIds": [
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 68,
+            "charBegin": 369,
+            "charEnd": 372,
+            "end": 69
+          }
+        ],
+        "text": [
+          "Ihr"
+        ],
+        "tokenIds": [
+          68
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1047,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 77,
+            "charBegin": 413,
+            "charEnd": 471,
+            "end": 87
+          }
+        ],
+        "text": "ihr bedrücke der Anblick der leeren Wand geradezu das Herz",
+        "tokenIds": [
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 77,
+            "charBegin": 413,
+            "charEnd": 416,
+            "end": 78
+          }
+        ],
+        "text": [
+          "ihr"
+        ],
+        "tokenIds": [
+          77
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1048,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 88,
+            "charBegin": 473,
+            "charEnd": 529,
+            "end": 97
+          }
+        ],
+        "text": "und warum solle nicht auch Gregor diese Empfindung haben",
+        "tokenIds": [
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1049,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 98,
+            "charBegin": 531,
+            "charEnd": 579,
+            "end": 107
+          }
+        ],
+        "text": "da er doch an die Zimmermöbel längst gewöhnt sei",
+        "tokenIds": [
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1050,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 107,
+            "charBegin": 580,
+            "charEnd": 636,
+            "end": 116
+          }
+        ],
+        "text": "und sich deshalb im leeren Zimmer verlassen fühlen werde",
+        "tokenIds": [
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1051,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 126,
+            "charBegin": 666,
+            "charEnd": 694,
+            "end": 131
+          }
+        ],
+        "text": "schloß die Mutter ganz leise",
+        "tokenIds": [
+          126,
+          127,
+          128,
+          129,
+          130
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 127,
+            "charBegin": 673,
+            "charEnd": 683,
+            "end": 129
+          }
+        ],
+        "text": [
+          "die",
+          "Mutter"
+        ],
+        "tokenIds": [
+          127,
+          128
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1052,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 132,
+            "charBegin": 696,
+            "charEnd": 728,
+            "end": 137
+          }
+        ],
+        "text": "wie sie überhaupt fast flüsterte",
+        "tokenIds": [
+          132,
+          133,
+          134,
+          135,
+          136
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 133,
+            "charBegin": 700,
+            "charEnd": 703,
+            "end": 134
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          133
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1053,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 138,
+            "charBegin": 730,
+            "charEnd": 753,
+            "end": 142
+          }
+        ],
+        "text": "als wolle sie vermeiden",
+        "tokenIds": [
+          138,
+          139,
+          140,
+          141
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 140,
+            "charBegin": 740,
+            "charEnd": 743,
+            "end": 141
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          140
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1054,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 143,
+            "charBegin": 755,
+            "charEnd": 765,
+            "end": 145
+          },
+          {
+            "begin": 154,
+            "charBegin": 814,
+            "charEnd": 848,
+            "end": 161
+          }
+        ],
+        "text": "daß Gregor auch nur den Klang der Stimme höre",
+        "tokenIds": [
+          143,
+          144,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 144,
+            "charBegin": 759,
+            "charEnd": 765,
+            "end": 145
+          }
+        ],
+        "text": [
+          "Gregor"
+        ],
+        "tokenIds": [
+          144
+        ]
+      },
+      "hasNested": false,
+      "id": 1055,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 146,
+            "charBegin": 767,
+            "charEnd": 812,
+            "end": 153
+          }
+        ],
+        "text": "dessen genauen Aufenthalt sie ja nicht kannte",
+        "tokenIds": [
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 149,
+            "charBegin": 793,
+            "charEnd": 796,
+            "end": 150
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          149
+        ]
+      },
+      "hasNested": false,
+      "id": 1056,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 162,
+            "charBegin": 850,
+            "charEnd": 886,
+            "end": 169
+          }
+        ],
+        "text": "denn daß er die Worte nicht verstand",
+        "tokenIds": [
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 164,
+            "charBegin": 859,
+            "charEnd": 861,
+            "end": 165
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          164
+        ]
+      },
+      "hasNested": false,
+      "id": 1057,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 170,
+            "charBegin": 888,
+            "charEnd": 911,
+            "end": 174
+          }
+        ],
+        "text": "davon war sie überzeugt",
+        "tokenIds": [
+          170,
+          171,
+          172,
+          173
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 172,
+            "charBegin": 898,
+            "charEnd": 901,
+            "end": 173
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          172
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1058,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 253,
+            "charBegin": 1313,
+            "charEnd": 1365,
+            "end": 261
+          }
+        ],
+        "text": "Beim Anhören dieser Worte der Mutter erkannte Gregor",
+        "tokenIds": [
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 260,
+            "charBegin": 1359,
+            "charEnd": 1365,
+            "end": 261
+          }
+        ],
+        "text": [
+          "Gregor"
+        ],
+        "tokenIds": [
+          260
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1059,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 262,
+            "charBegin": 1367,
+            "charEnd": 1550,
+            "end": 289
+          }
+        ],
+        "text": "daß der Mangel jeder unmittelbaren menschlichen Ansprache , verbunden mit dem einförmigen Leben inmitten der Familie , im Laufe dieser zwei Monate seinen Verstand hatte verwirren müssen",
+        "tokenIds": [
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273,
+          274,
+          275,
+          276,
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 284,
+            "charBegin": 1512,
+            "charEnd": 1518,
+            "end": 285
+          }
+        ],
+        "text": [
+          "seinen"
+        ],
+        "tokenIds": [
+          284
+        ]
+      },
+      "hasNested": false,
+      "id": 1060,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 290,
+            "charBegin": 1552,
+            "charEnd": 1596,
+            "end": 298
+          }
+        ],
+        "text": "denn anders konnte er es sich nicht erklären",
+        "tokenIds": [
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 293,
+            "charBegin": 1571,
+            "charEnd": 1573,
+            "end": 294
+          },
+          {
+            "begin": 295,
+            "charBegin": 1577,
+            "charEnd": 1581,
+            "end": 296
+          }
+        ],
+        "text": [
+          "er",
+          "sich"
+        ],
+        "tokenIds": [
+          293,
+          295
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1061,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 299,
+            "charBegin": 1598,
+            "charEnd": 1643,
+            "end": 306
+          }
+        ],
+        "text": "daß er ernsthaft danach hatte verlangen könne",
+        "tokenIds": [
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 300,
+            "charBegin": 1602,
+            "charEnd": 1604,
+            "end": 301
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          300
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1062,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 307,
+            "charBegin": 1645,
+            "charEnd": 1677,
+            "end": 312
+          }
+        ],
+        "text": "daß sein Zimmer ausgeleert würde",
+        "tokenIds": [
+          307,
+          308,
+          309,
+          310,
+          311
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 308,
+            "charBegin": 1649,
+            "charEnd": 1653,
+            "end": 309
+          }
+        ],
+        "text": [
+          "sein"
+        ],
+        "tokenIds": [
+          308
+        ]
+      },
+      "hasNested": false,
+      "id": 1063,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 313,
+            "charBegin": 1679,
+            "charEnd": 1799,
+            "end": 333
+          }
+        ],
+        "text": "Hatte er wirklich Lust , das warme , mit ererbten Möbeln gemütlich ausgestattete Zimmer in eine Höhle verwandeln zu lassen",
+        "tokenIds": [
+          313,
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 314,
+            "charBegin": 1685,
+            "charEnd": 1687,
+            "end": 315
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          314
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1064,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 334,
+            "charBegin": 1801,
+            "charEnd": 1978,
+            "end": 358
+          }
+        ],
+        "text": "in der er dann freilich nach allen Richtungen ungestört würde kriechen können , jedoch auch unter gleichzeitigem schnellen , gänzlichen Vergessen seiner menschlichen Vergangenheit",
+        "tokenIds": [
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354,
+          355,
+          356,
+          357
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 336,
+            "charBegin": 1808,
+            "charEnd": 1810,
+            "end": 337
+          },
+          {
+            "begin": 355,
+            "charBegin": 1945,
+            "charEnd": 1951,
+            "end": 356
+          }
+        ],
+        "text": [
+          "er",
+          "seiner"
+        ],
+        "tokenIds": [
+          336,
+          355
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1065,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 359,
+            "charBegin": 1980,
+            "charEnd": 2028,
+            "end": 369
+          }
+        ],
+        "text": "War er doch jetzt schon nahe daran , zu vergessen",
+        "tokenIds": [
+          359,
+          360,
+          361,
+          362,
+          363,
+          364,
+          365,
+          366,
+          367,
+          368
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 360,
+            "charBegin": 1984,
+            "charEnd": 1986,
+            "end": 361
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          360
+        ]
+      },
+      "hasNested": false,
+      "id": 1066,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 370,
+            "charBegin": 2030,
+            "charEnd": 2108,
+            "end": 383
+          }
+        ],
+        "text": "und nur die seit langem nicht gehörte Stimme der Mutter hatte ihn aufgerüttelt",
+        "tokenIds": [
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377,
+          378,
+          379,
+          380,
+          381,
+          382
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 381,
+            "charBegin": 2092,
+            "charEnd": 2095,
+            "end": 382
+          }
+        ],
+        "text": [
+          "ihn"
+        ],
+        "tokenIds": [
+          381
+        ]
+      },
+      "hasNested": false,
+      "id": 1067,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 384,
+            "charBegin": 2110,
+            "charEnd": 2139,
+            "end": 388
+          }
+        ],
+        "text": "Nichts sollte entfernt werden",
+        "tokenIds": [
+          384,
+          385,
+          386,
+          387
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1068,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 389,
+            "charBegin": 2141,
+            "charEnd": 2160,
+            "end": 392
+          }
+        ],
+        "text": "alles mußte bleiben",
+        "tokenIds": [
+          389,
+          390,
+          391
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1069,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Verwandlung__465_475",
+  "originalText": "Wohl nach schon viertelstündiger Arbeit sagte die Mutter, man solle den Kasten doch lieber hier lassen, denn erstens sei er zu schwer, sie würden vor Ankunft des Vaters nicht fertig werden und mit dem Kasten in der Mitte des Zimmers Gregor jeden Weg\nverrammeln, zweitens aber sei es doch gar nicht sicher, daß Gregor mit der Entfernung der Möbel ein Gefallen geschehe. Ihr scheine das Gegenteil der Fall zu sein; ihr bedrücke der Anblick der leeren Wand geradezu das Herz; und warum solle nicht auch Gregor diese Empfindung haben, da er doch an die Zimmermöbel längst gewöhnt sei und sich deshalb im leeren Zimmer verlassen fühlen werde. »Und ist es dann nicht so,« schloß die Mutter ganz leise, wie sie überhaupt fast flüsterte, als wolle sie vermeiden, daß Gregor, dessen genauen Aufenthalt sie ja nicht kannte, auch nur den Klang der Stimme höre, denn daß er die Worte nicht verstand, davon war sie überzeugt, »und ist es nicht so, als ob wir durch die Entfernung der Möbel zeigten, daß wir jede Hoffnung auf Besserung aufgeben und ihn rücksichtslos sich selbst überlassen? Ich glaube, es wäre das beste, wir suchen das Zimmer genau in dem Zustand zu erhalten, in dem es früher war, damit Gregor, wenn er wieder zu uns zurückkommt, alles unverändert findet und umso leichter die Zwischenzeit vergessen kann.«\n\nBeim Anhören dieser Worte der Mutter erkannte Gregor, daß der Mangel jeder unmittelbaren menschlichen Ansprache, verbunden mit dem einförmigen Leben inmitten der Familie, im Laufe dieser zwei Monate seinen Verstand hatte verwirren müssen, denn anders konnte er es sich nicht erklären, daß er ernsthaft danach hatte verlangen könne, daß sein Zimmer ausgeleert würde. Hatte er wirklich Lust, das warme, mit ererbten Möbeln gemütlich ausgestattete Zimmer in eine Höhle verwandeln zu lassen, in der er dann freilich nach allen Richtungen ungestört würde kriechen können, jedoch auch unter gleichzeitigem schnellen, gänzlichen Vergessen seiner menschlichen Vergangenheit? War er doch jetzt schon nahe daran, zu vergessen, und nur die seit langem nicht gehörte Stimme der Mutter hatte ihn aufgerüttelt. Nichts sollte entfernt werden; alles mußte bleiben;",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 368,
+      "end": 68,
+      "id": 0,
+      "text": "Wohl nach schon viertelstündiger Arbeit sagte die Mutter, man solle den Kasten doch lieber hier lassen, denn erstens sei er zu schwer, sie würden vor Ankunft des Vaters nicht fertig werden und mit dem Kasten in der Mitte des Zimmers Gregor jeden Weg\nverrammeln, zweitens aber sei es doch gar nicht sicher, daß Gregor mit der Entfernung der Möbel ein Gefallen geschehe.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "tokens": [
+        "Wohl",
+        "nach",
+        "schon",
+        "viertelstündiger",
+        "Arbeit",
+        "sagte",
+        "die",
+        "Mutter",
+        ",",
+        "man",
+        "solle",
+        "den",
+        "Kasten",
+        "doch",
+        "lieber",
+        "hier",
+        "lassen",
+        ",",
+        "denn",
+        "erstens",
+        "sei",
+        "er",
+        "zu",
+        "schwer",
+        ",",
+        "sie",
+        "würden",
+        "vor",
+        "Ankunft",
+        "des",
+        "Vaters",
+        "nicht",
+        "fertig",
+        "werden",
+        "und",
+        "mit",
+        "dem",
+        "Kasten",
+        "in",
+        "der",
+        "Mitte",
+        "des",
+        "Zimmers",
+        "Gregor",
+        "jeden",
+        "Weg",
+        "verrammeln",
+        ",",
+        "zweitens",
+        "aber",
+        "sei",
+        "es",
+        "doch",
+        "gar",
+        "nicht",
+        "sicher",
+        ",",
+        "daß",
+        "Gregor",
+        "mit",
+        "der",
+        "Entfernung",
+        "der",
+        "Möbel",
+        "ein",
+        "Gefallen",
+        "geschehe",
+        "."
+      ]
+    },
+    {
+      "begin": 68,
+      "charBegin": 369,
+      "charEnd": 412,
+      "end": 77,
+      "id": 1,
+      "text": "Ihr scheine das Gegenteil der Fall zu sein;",
+      "tokenIds": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "tokens": [
+        "Ihr",
+        "scheine",
+        "das",
+        "Gegenteil",
+        "der",
+        "Fall",
+        "zu",
+        "sein",
+        ";"
+      ]
+    },
+    {
+      "begin": 77,
+      "charBegin": 413,
+      "charEnd": 472,
+      "end": 88,
+      "id": 2,
+      "text": "ihr bedrücke der Anblick der leeren Wand geradezu das Herz;",
+      "tokenIds": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87
+      ],
+      "tokens": [
+        "ihr",
+        "bedrücke",
+        "der",
+        "Anblick",
+        "der",
+        "leeren",
+        "Wand",
+        "geradezu",
+        "das",
+        "Herz",
+        ";"
+      ]
+    },
+    {
+      "begin": 88,
+      "charBegin": 473,
+      "charEnd": 637,
+      "end": 117,
+      "id": 3,
+      "text": "und warum solle nicht auch Gregor diese Empfindung haben, da er doch an die Zimmermöbel längst gewöhnt sei und sich deshalb im leeren Zimmer verlassen fühlen werde.",
+      "tokenIds": [
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "tokens": [
+        "und",
+        "warum",
+        "solle",
+        "nicht",
+        "auch",
+        "Gregor",
+        "diese",
+        "Empfindung",
+        "haben",
+        ",",
+        "da",
+        "er",
+        "doch",
+        "an",
+        "die",
+        "Zimmermöbel",
+        "längst",
+        "gewöhnt",
+        "sei",
+        "und",
+        "sich",
+        "deshalb",
+        "im",
+        "leeren",
+        "Zimmer",
+        "verlassen",
+        "fühlen",
+        "werde",
+        "."
+      ]
+    },
+    {
+      "begin": 117,
+      "charBegin": 638,
+      "charEnd": 1076,
+      "end": 206,
+      "id": 4,
+      "text": "»Und ist es dann nicht so,« schloß die Mutter ganz leise, wie sie überhaupt fast flüsterte, als wolle sie vermeiden, daß Gregor, dessen genauen Aufenthalt sie ja nicht kannte, auch nur den Klang der Stimme höre, denn daß er die Worte nicht verstand, davon war sie überzeugt, »und ist es nicht so, als ob wir durch die Entfernung der Möbel zeigten, daß wir jede Hoffnung auf Besserung aufgeben und ihn rücksichtslos sich selbst überlassen?",
+      "tokenIds": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205
+      ],
+      "tokens": [
+        "»",
+        "Und",
+        "ist",
+        "es",
+        "dann",
+        "nicht",
+        "so",
+        ",",
+        "«",
+        "schloß",
+        "die",
+        "Mutter",
+        "ganz",
+        "leise",
+        ",",
+        "wie",
+        "sie",
+        "überhaupt",
+        "fast",
+        "flüsterte",
+        ",",
+        "als",
+        "wolle",
+        "sie",
+        "vermeiden",
+        ",",
+        "daß",
+        "Gregor",
+        ",",
+        "dessen",
+        "genauen",
+        "Aufenthalt",
+        "sie",
+        "ja",
+        "nicht",
+        "kannte",
+        ",",
+        "auch",
+        "nur",
+        "den",
+        "Klang",
+        "der",
+        "Stimme",
+        "höre",
+        ",",
+        "denn",
+        "daß",
+        "er",
+        "die",
+        "Worte",
+        "nicht",
+        "verstand",
+        ",",
+        "davon",
+        "war",
+        "sie",
+        "überzeugt",
+        ",",
+        "»",
+        "und",
+        "ist",
+        "es",
+        "nicht",
+        "so",
+        ",",
+        "als",
+        "ob",
+        "wir",
+        "durch",
+        "die",
+        "Entfernung",
+        "der",
+        "Möbel",
+        "zeigten",
+        ",",
+        "daß",
+        "wir",
+        "jede",
+        "Hoffnung",
+        "auf",
+        "Besserung",
+        "aufgeben",
+        "und",
+        "ihn",
+        "rücksichtslos",
+        "sich",
+        "selbst",
+        "überlassen",
+        "?"
+      ]
+    },
+    {
+      "begin": 206,
+      "charBegin": 1077,
+      "charEnd": 1678,
+      "end": 313,
+      "id": 5,
+      "text": "Ich glaube, es wäre das beste, wir suchen das Zimmer genau in dem Zustand zu erhalten, in dem es früher war, damit Gregor, wenn er wieder zu uns zurückkommt, alles unverändert findet und umso leichter die Zwischenzeit vergessen kann.«\n\nBeim Anhören dieser Worte der Mutter erkannte Gregor, daß der Mangel jeder unmittelbaren menschlichen Ansprache, verbunden mit dem einförmigen Leben inmitten der Familie, im Laufe dieser zwei Monate seinen Verstand hatte verwirren müssen, denn anders konnte er es sich nicht erklären, daß er ernsthaft danach hatte verlangen könne, daß sein Zimmer ausgeleert würde.",
+      "tokenIds": [
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312
+      ],
+      "tokens": [
+        "Ich",
+        "glaube",
+        ",",
+        "es",
+        "wäre",
+        "das",
+        "beste",
+        ",",
+        "wir",
+        "suchen",
+        "das",
+        "Zimmer",
+        "genau",
+        "in",
+        "dem",
+        "Zustand",
+        "zu",
+        "erhalten",
+        ",",
+        "in",
+        "dem",
+        "es",
+        "früher",
+        "war",
+        ",",
+        "damit",
+        "Gregor",
+        ",",
+        "wenn",
+        "er",
+        "wieder",
+        "zu",
+        "uns",
+        "zurückkommt",
+        ",",
+        "alles",
+        "unverändert",
+        "findet",
+        "und",
+        "umso",
+        "leichter",
+        "die",
+        "Zwischenzeit",
+        "vergessen",
+        "kann",
+        ".",
+        "«",
+        "Beim",
+        "Anhören",
+        "dieser",
+        "Worte",
+        "der",
+        "Mutter",
+        "erkannte",
+        "Gregor",
+        ",",
+        "daß",
+        "der",
+        "Mangel",
+        "jeder",
+        "unmittelbaren",
+        "menschlichen",
+        "Ansprache",
+        ",",
+        "verbunden",
+        "mit",
+        "dem",
+        "einförmigen",
+        "Leben",
+        "inmitten",
+        "der",
+        "Familie",
+        ",",
+        "im",
+        "Laufe",
+        "dieser",
+        "zwei",
+        "Monate",
+        "seinen",
+        "Verstand",
+        "hatte",
+        "verwirren",
+        "müssen",
+        ",",
+        "denn",
+        "anders",
+        "konnte",
+        "er",
+        "es",
+        "sich",
+        "nicht",
+        "erklären",
+        ",",
+        "daß",
+        "er",
+        "ernsthaft",
+        "danach",
+        "hatte",
+        "verlangen",
+        "könne",
+        ",",
+        "daß",
+        "sein",
+        "Zimmer",
+        "ausgeleert",
+        "würde",
+        "."
+      ]
+    },
+    {
+      "begin": 313,
+      "charBegin": 1679,
+      "charEnd": 1979,
+      "end": 359,
+      "id": 6,
+      "text": "Hatte er wirklich Lust, das warme, mit ererbten Möbeln gemütlich ausgestattete Zimmer in eine Höhle verwandeln zu lassen, in der er dann freilich nach allen Richtungen ungestört würde kriechen können, jedoch auch unter gleichzeitigem schnellen, gänzlichen Vergessen seiner menschlichen Vergangenheit?",
+      "tokenIds": [
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358
+      ],
+      "tokens": [
+        "Hatte",
+        "er",
+        "wirklich",
+        "Lust",
+        ",",
+        "das",
+        "warme",
+        ",",
+        "mit",
+        "ererbten",
+        "Möbeln",
+        "gemütlich",
+        "ausgestattete",
+        "Zimmer",
+        "in",
+        "eine",
+        "Höhle",
+        "verwandeln",
+        "zu",
+        "lassen",
+        ",",
+        "in",
+        "der",
+        "er",
+        "dann",
+        "freilich",
+        "nach",
+        "allen",
+        "Richtungen",
+        "ungestört",
+        "würde",
+        "kriechen",
+        "können",
+        ",",
+        "jedoch",
+        "auch",
+        "unter",
+        "gleichzeitigem",
+        "schnellen",
+        ",",
+        "gänzlichen",
+        "Vergessen",
+        "seiner",
+        "menschlichen",
+        "Vergangenheit",
+        "?"
+      ]
+    },
+    {
+      "begin": 359,
+      "charBegin": 1980,
+      "charEnd": 2109,
+      "end": 384,
+      "id": 7,
+      "text": "War er doch jetzt schon nahe daran, zu vergessen, und nur die seit langem nicht gehörte Stimme der Mutter hatte ihn aufgerüttelt.",
+      "tokenIds": [
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383
+      ],
+      "tokens": [
+        "War",
+        "er",
+        "doch",
+        "jetzt",
+        "schon",
+        "nahe",
+        "daran",
+        ",",
+        "zu",
+        "vergessen",
+        ",",
+        "und",
+        "nur",
+        "die",
+        "seit",
+        "langem",
+        "nicht",
+        "gehörte",
+        "Stimme",
+        "der",
+        "Mutter",
+        "hatte",
+        "ihn",
+        "aufgerüttelt",
+        "."
+      ]
+    },
+    {
+      "begin": 384,
+      "charBegin": 2110,
+      "charEnd": 2140,
+      "end": 389,
+      "id": 8,
+      "text": "Nichts sollte entfernt werden;",
+      "tokenIds": [
+        384,
+        385,
+        386,
+        387,
+        388
+      ],
+      "tokens": [
+        "Nichts",
+        "sollte",
+        "entfernt",
+        "werden",
+        ";"
+      ]
+    },
+    {
+      "begin": 389,
+      "charBegin": 2141,
+      "charEnd": 2161,
+      "end": 393,
+      "id": 9,
+      "text": "alles mußte bleiben;",
+      "tokenIds": [
+        389,
+        390,
+        391,
+        392
+      ],
+      "tokens": [
+        "alles",
+        "mußte",
+        "bleiben",
+        ";"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 4,
+      "id": 0,
+      "sentence": 1,
+      "text": "Wohl",
+      "word": 1
+    },
+    {
+      "charBegin": 5,
+      "charEnd": 9,
+      "id": 1,
+      "sentence": 1,
+      "text": "nach",
+      "word": 2
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 15,
+      "id": 2,
+      "sentence": 1,
+      "text": "schon",
+      "word": 3
+    },
+    {
+      "charBegin": 16,
+      "charEnd": 32,
+      "id": 3,
+      "sentence": 1,
+      "text": "viertelstündiger",
+      "word": 4
+    },
+    {
+      "charBegin": 33,
+      "charEnd": 39,
+      "id": 4,
+      "sentence": 1,
+      "text": "Arbeit",
+      "word": 5
+    },
+    {
+      "charBegin": 40,
+      "charEnd": 45,
+      "id": 5,
+      "sentence": 1,
+      "text": "sagte",
+      "word": 6
+    },
+    {
+      "charBegin": 46,
+      "charEnd": 49,
+      "id": 6,
+      "sentence": 1,
+      "text": "die",
+      "word": 7
+    },
+    {
+      "charBegin": 50,
+      "charEnd": 56,
+      "id": 7,
+      "sentence": 1,
+      "text": "Mutter",
+      "word": 8
+    },
+    {
+      "charBegin": 56,
+      "charEnd": 57,
+      "id": 8,
+      "sentence": 1,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 58,
+      "charEnd": 61,
+      "id": 9,
+      "sentence": 1,
+      "text": "man",
+      "word": 10
+    },
+    {
+      "charBegin": 62,
+      "charEnd": 67,
+      "id": 10,
+      "sentence": 1,
+      "text": "solle",
+      "word": 11
+    },
+    {
+      "charBegin": 68,
+      "charEnd": 71,
+      "id": 11,
+      "sentence": 1,
+      "text": "den",
+      "word": 12
+    },
+    {
+      "charBegin": 72,
+      "charEnd": 78,
+      "id": 12,
+      "sentence": 1,
+      "text": "Kasten",
+      "word": 13
+    },
+    {
+      "charBegin": 79,
+      "charEnd": 83,
+      "id": 13,
+      "sentence": 1,
+      "text": "doch",
+      "word": 14
+    },
+    {
+      "charBegin": 84,
+      "charEnd": 90,
+      "id": 14,
+      "sentence": 1,
+      "text": "lieber",
+      "word": 15
+    },
+    {
+      "charBegin": 91,
+      "charEnd": 95,
+      "id": 15,
+      "sentence": 1,
+      "text": "hier",
+      "word": 16
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 102,
+      "id": 16,
+      "sentence": 1,
+      "text": "lassen",
+      "word": 17
+    },
+    {
+      "charBegin": 102,
+      "charEnd": 103,
+      "id": 17,
+      "sentence": 1,
+      "text": ",",
+      "word": 18
+    },
+    {
+      "charBegin": 104,
+      "charEnd": 108,
+      "id": 18,
+      "sentence": 1,
+      "text": "denn",
+      "word": 19
+    },
+    {
+      "charBegin": 109,
+      "charEnd": 116,
+      "id": 19,
+      "sentence": 1,
+      "text": "erstens",
+      "word": 20
+    },
+    {
+      "charBegin": 117,
+      "charEnd": 120,
+      "id": 20,
+      "sentence": 1,
+      "text": "sei",
+      "word": 21
+    },
+    {
+      "charBegin": 121,
+      "charEnd": 123,
+      "id": 21,
+      "sentence": 1,
+      "text": "er",
+      "word": 22
+    },
+    {
+      "charBegin": 124,
+      "charEnd": 126,
+      "id": 22,
+      "sentence": 1,
+      "text": "zu",
+      "word": 23
+    },
+    {
+      "charBegin": 127,
+      "charEnd": 133,
+      "id": 23,
+      "sentence": 1,
+      "text": "schwer",
+      "word": 24
+    },
+    {
+      "charBegin": 133,
+      "charEnd": 134,
+      "id": 24,
+      "sentence": 1,
+      "text": ",",
+      "word": 25
+    },
+    {
+      "charBegin": 135,
+      "charEnd": 138,
+      "id": 25,
+      "sentence": 1,
+      "text": "sie",
+      "word": 26
+    },
+    {
+      "charBegin": 139,
+      "charEnd": 145,
+      "id": 26,
+      "sentence": 1,
+      "text": "würden",
+      "word": 27
+    },
+    {
+      "charBegin": 146,
+      "charEnd": 149,
+      "id": 27,
+      "sentence": 1,
+      "text": "vor",
+      "word": 28
+    },
+    {
+      "charBegin": 150,
+      "charEnd": 157,
+      "id": 28,
+      "sentence": 1,
+      "text": "Ankunft",
+      "word": 29
+    },
+    {
+      "charBegin": 158,
+      "charEnd": 161,
+      "id": 29,
+      "sentence": 1,
+      "text": "des",
+      "word": 30
+    },
+    {
+      "charBegin": 162,
+      "charEnd": 168,
+      "id": 30,
+      "sentence": 1,
+      "text": "Vaters",
+      "word": 31
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 174,
+      "id": 31,
+      "sentence": 1,
+      "text": "nicht",
+      "word": 32
+    },
+    {
+      "charBegin": 175,
+      "charEnd": 181,
+      "id": 32,
+      "sentence": 1,
+      "text": "fertig",
+      "word": 33
+    },
+    {
+      "charBegin": 182,
+      "charEnd": 188,
+      "id": 33,
+      "sentence": 1,
+      "text": "werden",
+      "word": 34
+    },
+    {
+      "charBegin": 189,
+      "charEnd": 192,
+      "id": 34,
+      "sentence": 1,
+      "text": "und",
+      "word": 35
+    },
+    {
+      "charBegin": 193,
+      "charEnd": 196,
+      "id": 35,
+      "sentence": 1,
+      "text": "mit",
+      "word": 36
+    },
+    {
+      "charBegin": 197,
+      "charEnd": 200,
+      "id": 36,
+      "sentence": 1,
+      "text": "dem",
+      "word": 37
+    },
+    {
+      "charBegin": 201,
+      "charEnd": 207,
+      "id": 37,
+      "sentence": 1,
+      "text": "Kasten",
+      "word": 38
+    },
+    {
+      "charBegin": 208,
+      "charEnd": 210,
+      "id": 38,
+      "sentence": 1,
+      "text": "in",
+      "word": 39
+    },
+    {
+      "charBegin": 211,
+      "charEnd": 214,
+      "id": 39,
+      "sentence": 1,
+      "text": "der",
+      "word": 40
+    },
+    {
+      "charBegin": 215,
+      "charEnd": 220,
+      "id": 40,
+      "sentence": 1,
+      "text": "Mitte",
+      "word": 41
+    },
+    {
+      "charBegin": 221,
+      "charEnd": 224,
+      "id": 41,
+      "sentence": 1,
+      "text": "des",
+      "word": 42
+    },
+    {
+      "charBegin": 225,
+      "charEnd": 232,
+      "id": 42,
+      "sentence": 1,
+      "text": "Zimmers",
+      "word": 43
+    },
+    {
+      "charBegin": 233,
+      "charEnd": 239,
+      "id": 43,
+      "sentence": 1,
+      "text": "Gregor",
+      "word": 44
+    },
+    {
+      "charBegin": 240,
+      "charEnd": 245,
+      "id": 44,
+      "sentence": 1,
+      "text": "jeden",
+      "word": 45
+    },
+    {
+      "charBegin": 246,
+      "charEnd": 249,
+      "id": 45,
+      "sentence": 1,
+      "text": "Weg",
+      "word": 46
+    },
+    {
+      "charBegin": 250,
+      "charEnd": 260,
+      "id": 46,
+      "sentence": 1,
+      "text": "verrammeln",
+      "word": 47
+    },
+    {
+      "charBegin": 260,
+      "charEnd": 261,
+      "id": 47,
+      "sentence": 1,
+      "text": ",",
+      "word": 48
+    },
+    {
+      "charBegin": 262,
+      "charEnd": 270,
+      "id": 48,
+      "sentence": 1,
+      "text": "zweitens",
+      "word": 49
+    },
+    {
+      "charBegin": 271,
+      "charEnd": 275,
+      "id": 49,
+      "sentence": 1,
+      "text": "aber",
+      "word": 50
+    },
+    {
+      "charBegin": 276,
+      "charEnd": 279,
+      "id": 50,
+      "sentence": 1,
+      "text": "sei",
+      "word": 51
+    },
+    {
+      "charBegin": 280,
+      "charEnd": 282,
+      "id": 51,
+      "sentence": 1,
+      "text": "es",
+      "word": 52
+    },
+    {
+      "charBegin": 283,
+      "charEnd": 287,
+      "id": 52,
+      "sentence": 1,
+      "text": "doch",
+      "word": 53
+    },
+    {
+      "charBegin": 288,
+      "charEnd": 291,
+      "id": 53,
+      "sentence": 1,
+      "text": "gar",
+      "word": 54
+    },
+    {
+      "charBegin": 292,
+      "charEnd": 297,
+      "id": 54,
+      "sentence": 1,
+      "text": "nicht",
+      "word": 55
+    },
+    {
+      "charBegin": 298,
+      "charEnd": 304,
+      "id": 55,
+      "sentence": 1,
+      "text": "sicher",
+      "word": 56
+    },
+    {
+      "charBegin": 304,
+      "charEnd": 305,
+      "id": 56,
+      "sentence": 1,
+      "text": ",",
+      "word": 57
+    },
+    {
+      "charBegin": 306,
+      "charEnd": 309,
+      "id": 57,
+      "sentence": 1,
+      "text": "daß",
+      "word": 58
+    },
+    {
+      "charBegin": 310,
+      "charEnd": 316,
+      "id": 58,
+      "sentence": 1,
+      "text": "Gregor",
+      "word": 59
+    },
+    {
+      "charBegin": 317,
+      "charEnd": 320,
+      "id": 59,
+      "sentence": 1,
+      "text": "mit",
+      "word": 60
+    },
+    {
+      "charBegin": 321,
+      "charEnd": 324,
+      "id": 60,
+      "sentence": 1,
+      "text": "der",
+      "word": 61
+    },
+    {
+      "charBegin": 325,
+      "charEnd": 335,
+      "id": 61,
+      "sentence": 1,
+      "text": "Entfernung",
+      "word": 62
+    },
+    {
+      "charBegin": 336,
+      "charEnd": 339,
+      "id": 62,
+      "sentence": 1,
+      "text": "der",
+      "word": 63
+    },
+    {
+      "charBegin": 340,
+      "charEnd": 345,
+      "id": 63,
+      "sentence": 1,
+      "text": "Möbel",
+      "word": 64
+    },
+    {
+      "charBegin": 346,
+      "charEnd": 349,
+      "id": 64,
+      "sentence": 1,
+      "text": "ein",
+      "word": 65
+    },
+    {
+      "charBegin": 350,
+      "charEnd": 358,
+      "id": 65,
+      "sentence": 1,
+      "text": "Gefallen",
+      "word": 66
+    },
+    {
+      "charBegin": 359,
+      "charEnd": 367,
+      "id": 66,
+      "sentence": 1,
+      "text": "geschehe",
+      "word": 67
+    },
+    {
+      "charBegin": 367,
+      "charEnd": 368,
+      "id": 67,
+      "sentence": 1,
+      "text": ".",
+      "word": 68
+    },
+    {
+      "charBegin": 369,
+      "charEnd": 372,
+      "id": 68,
+      "sentence": 2,
+      "text": "Ihr",
+      "word": 1
+    },
+    {
+      "charBegin": 373,
+      "charEnd": 380,
+      "id": 69,
+      "sentence": 2,
+      "text": "scheine",
+      "word": 2
+    },
+    {
+      "charBegin": 381,
+      "charEnd": 384,
+      "id": 70,
+      "sentence": 2,
+      "text": "das",
+      "word": 3
+    },
+    {
+      "charBegin": 385,
+      "charEnd": 394,
+      "id": 71,
+      "sentence": 2,
+      "text": "Gegenteil",
+      "word": 4
+    },
+    {
+      "charBegin": 395,
+      "charEnd": 398,
+      "id": 72,
+      "sentence": 2,
+      "text": "der",
+      "word": 5
+    },
+    {
+      "charBegin": 399,
+      "charEnd": 403,
+      "id": 73,
+      "sentence": 2,
+      "text": "Fall",
+      "word": 6
+    },
+    {
+      "charBegin": 404,
+      "charEnd": 406,
+      "id": 74,
+      "sentence": 2,
+      "text": "zu",
+      "word": 7
+    },
+    {
+      "charBegin": 407,
+      "charEnd": 411,
+      "id": 75,
+      "sentence": 2,
+      "text": "sein",
+      "word": 8
+    },
+    {
+      "charBegin": 411,
+      "charEnd": 412,
+      "id": 76,
+      "sentence": 2,
+      "text": ";",
+      "word": 9
+    },
+    {
+      "charBegin": 413,
+      "charEnd": 416,
+      "id": 77,
+      "sentence": 3,
+      "text": "ihr",
+      "word": 1
+    },
+    {
+      "charBegin": 417,
+      "charEnd": 425,
+      "id": 78,
+      "sentence": 3,
+      "text": "bedrücke",
+      "word": 2
+    },
+    {
+      "charBegin": 426,
+      "charEnd": 429,
+      "id": 79,
+      "sentence": 3,
+      "text": "der",
+      "word": 3
+    },
+    {
+      "charBegin": 430,
+      "charEnd": 437,
+      "id": 80,
+      "sentence": 3,
+      "text": "Anblick",
+      "word": 4
+    },
+    {
+      "charBegin": 438,
+      "charEnd": 441,
+      "id": 81,
+      "sentence": 3,
+      "text": "der",
+      "word": 5
+    },
+    {
+      "charBegin": 442,
+      "charEnd": 448,
+      "id": 82,
+      "sentence": 3,
+      "text": "leeren",
+      "word": 6
+    },
+    {
+      "charBegin": 449,
+      "charEnd": 453,
+      "id": 83,
+      "sentence": 3,
+      "text": "Wand",
+      "word": 7
+    },
+    {
+      "charBegin": 454,
+      "charEnd": 462,
+      "id": 84,
+      "sentence": 3,
+      "text": "geradezu",
+      "word": 8
+    },
+    {
+      "charBegin": 463,
+      "charEnd": 466,
+      "id": 85,
+      "sentence": 3,
+      "text": "das",
+      "word": 9
+    },
+    {
+      "charBegin": 467,
+      "charEnd": 471,
+      "id": 86,
+      "sentence": 3,
+      "text": "Herz",
+      "word": 10
+    },
+    {
+      "charBegin": 471,
+      "charEnd": 472,
+      "id": 87,
+      "sentence": 3,
+      "text": ";",
+      "word": 11
+    },
+    {
+      "charBegin": 473,
+      "charEnd": 476,
+      "id": 88,
+      "sentence": 4,
+      "text": "und",
+      "word": 1
+    },
+    {
+      "charBegin": 477,
+      "charEnd": 482,
+      "id": 89,
+      "sentence": 4,
+      "text": "warum",
+      "word": 2
+    },
+    {
+      "charBegin": 483,
+      "charEnd": 488,
+      "id": 90,
+      "sentence": 4,
+      "text": "solle",
+      "word": 3
+    },
+    {
+      "charBegin": 489,
+      "charEnd": 494,
+      "id": 91,
+      "sentence": 4,
+      "text": "nicht",
+      "word": 4
+    },
+    {
+      "charBegin": 495,
+      "charEnd": 499,
+      "id": 92,
+      "sentence": 4,
+      "text": "auch",
+      "word": 5
+    },
+    {
+      "charBegin": 500,
+      "charEnd": 506,
+      "id": 93,
+      "sentence": 4,
+      "text": "Gregor",
+      "word": 6
+    },
+    {
+      "charBegin": 507,
+      "charEnd": 512,
+      "id": 94,
+      "sentence": 4,
+      "text": "diese",
+      "word": 7
+    },
+    {
+      "charBegin": 513,
+      "charEnd": 523,
+      "id": 95,
+      "sentence": 4,
+      "text": "Empfindung",
+      "word": 8
+    },
+    {
+      "charBegin": 524,
+      "charEnd": 529,
+      "id": 96,
+      "sentence": 4,
+      "text": "haben",
+      "word": 9
+    },
+    {
+      "charBegin": 529,
+      "charEnd": 530,
+      "id": 97,
+      "sentence": 4,
+      "text": ",",
+      "word": 10
+    },
+    {
+      "charBegin": 531,
+      "charEnd": 533,
+      "id": 98,
+      "sentence": 4,
+      "text": "da",
+      "word": 11
+    },
+    {
+      "charBegin": 534,
+      "charEnd": 536,
+      "id": 99,
+      "sentence": 4,
+      "text": "er",
+      "word": 12
+    },
+    {
+      "charBegin": 537,
+      "charEnd": 541,
+      "id": 100,
+      "sentence": 4,
+      "text": "doch",
+      "word": 13
+    },
+    {
+      "charBegin": 542,
+      "charEnd": 544,
+      "id": 101,
+      "sentence": 4,
+      "text": "an",
+      "word": 14
+    },
+    {
+      "charBegin": 545,
+      "charEnd": 548,
+      "id": 102,
+      "sentence": 4,
+      "text": "die",
+      "word": 15
+    },
+    {
+      "charBegin": 549,
+      "charEnd": 560,
+      "id": 103,
+      "sentence": 4,
+      "text": "Zimmermöbel",
+      "word": 16
+    },
+    {
+      "charBegin": 561,
+      "charEnd": 567,
+      "id": 104,
+      "sentence": 4,
+      "text": "längst",
+      "word": 17
+    },
+    {
+      "charBegin": 568,
+      "charEnd": 575,
+      "id": 105,
+      "sentence": 4,
+      "text": "gewöhnt",
+      "word": 18
+    },
+    {
+      "charBegin": 576,
+      "charEnd": 579,
+      "id": 106,
+      "sentence": 4,
+      "text": "sei",
+      "word": 19
+    },
+    {
+      "charBegin": 580,
+      "charEnd": 583,
+      "id": 107,
+      "sentence": 4,
+      "text": "und",
+      "word": 20
+    },
+    {
+      "charBegin": 584,
+      "charEnd": 588,
+      "id": 108,
+      "sentence": 4,
+      "text": "sich",
+      "word": 21
+    },
+    {
+      "charBegin": 589,
+      "charEnd": 596,
+      "id": 109,
+      "sentence": 4,
+      "text": "deshalb",
+      "word": 22
+    },
+    {
+      "charBegin": 597,
+      "charEnd": 599,
+      "id": 110,
+      "sentence": 4,
+      "text": "im",
+      "word": 23
+    },
+    {
+      "charBegin": 600,
+      "charEnd": 606,
+      "id": 111,
+      "sentence": 4,
+      "text": "leeren",
+      "word": 24
+    },
+    {
+      "charBegin": 607,
+      "charEnd": 613,
+      "id": 112,
+      "sentence": 4,
+      "text": "Zimmer",
+      "word": 25
+    },
+    {
+      "charBegin": 614,
+      "charEnd": 623,
+      "id": 113,
+      "sentence": 4,
+      "text": "verlassen",
+      "word": 26
+    },
+    {
+      "charBegin": 624,
+      "charEnd": 630,
+      "id": 114,
+      "sentence": 4,
+      "text": "fühlen",
+      "word": 27
+    },
+    {
+      "charBegin": 631,
+      "charEnd": 636,
+      "id": 115,
+      "sentence": 4,
+      "text": "werde",
+      "word": 28
+    },
+    {
+      "charBegin": 636,
+      "charEnd": 637,
+      "id": 116,
+      "sentence": 4,
+      "text": ".",
+      "word": 29
+    },
+    {
+      "charBegin": 638,
+      "charEnd": 639,
+      "id": 117,
+      "sentence": 5,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 639,
+      "charEnd": 642,
+      "id": 118,
+      "sentence": 5,
+      "text": "Und",
+      "word": 2
+    },
+    {
+      "charBegin": 643,
+      "charEnd": 646,
+      "id": 119,
+      "sentence": 5,
+      "text": "ist",
+      "word": 3
+    },
+    {
+      "charBegin": 647,
+      "charEnd": 649,
+      "id": 120,
+      "sentence": 5,
+      "text": "es",
+      "word": 4
+    },
+    {
+      "charBegin": 650,
+      "charEnd": 654,
+      "id": 121,
+      "sentence": 5,
+      "text": "dann",
+      "word": 5
+    },
+    {
+      "charBegin": 655,
+      "charEnd": 660,
+      "id": 122,
+      "sentence": 5,
+      "text": "nicht",
+      "word": 6
+    },
+    {
+      "charBegin": 661,
+      "charEnd": 663,
+      "id": 123,
+      "sentence": 5,
+      "text": "so",
+      "word": 7
+    },
+    {
+      "charBegin": 663,
+      "charEnd": 664,
+      "id": 124,
+      "sentence": 5,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 664,
+      "charEnd": 665,
+      "id": 125,
+      "sentence": 5,
+      "text": "«",
+      "word": 9
+    },
+    {
+      "charBegin": 666,
+      "charEnd": 672,
+      "id": 126,
+      "sentence": 5,
+      "text": "schloß",
+      "word": 10
+    },
+    {
+      "charBegin": 673,
+      "charEnd": 676,
+      "id": 127,
+      "sentence": 5,
+      "text": "die",
+      "word": 11
+    },
+    {
+      "charBegin": 677,
+      "charEnd": 683,
+      "id": 128,
+      "sentence": 5,
+      "text": "Mutter",
+      "word": 12
+    },
+    {
+      "charBegin": 684,
+      "charEnd": 688,
+      "id": 129,
+      "sentence": 5,
+      "text": "ganz",
+      "word": 13
+    },
+    {
+      "charBegin": 689,
+      "charEnd": 694,
+      "id": 130,
+      "sentence": 5,
+      "text": "leise",
+      "word": 14
+    },
+    {
+      "charBegin": 694,
+      "charEnd": 695,
+      "id": 131,
+      "sentence": 5,
+      "text": ",",
+      "word": 15
+    },
+    {
+      "charBegin": 696,
+      "charEnd": 699,
+      "id": 132,
+      "sentence": 5,
+      "text": "wie",
+      "word": 16
+    },
+    {
+      "charBegin": 700,
+      "charEnd": 703,
+      "id": 133,
+      "sentence": 5,
+      "text": "sie",
+      "word": 17
+    },
+    {
+      "charBegin": 704,
+      "charEnd": 713,
+      "id": 134,
+      "sentence": 5,
+      "text": "überhaupt",
+      "word": 18
+    },
+    {
+      "charBegin": 714,
+      "charEnd": 718,
+      "id": 135,
+      "sentence": 5,
+      "text": "fast",
+      "word": 19
+    },
+    {
+      "charBegin": 719,
+      "charEnd": 728,
+      "id": 136,
+      "sentence": 5,
+      "text": "flüsterte",
+      "word": 20
+    },
+    {
+      "charBegin": 728,
+      "charEnd": 729,
+      "id": 137,
+      "sentence": 5,
+      "text": ",",
+      "word": 21
+    },
+    {
+      "charBegin": 730,
+      "charEnd": 733,
+      "id": 138,
+      "sentence": 5,
+      "text": "als",
+      "word": 22
+    },
+    {
+      "charBegin": 734,
+      "charEnd": 739,
+      "id": 139,
+      "sentence": 5,
+      "text": "wolle",
+      "word": 23
+    },
+    {
+      "charBegin": 740,
+      "charEnd": 743,
+      "id": 140,
+      "sentence": 5,
+      "text": "sie",
+      "word": 24
+    },
+    {
+      "charBegin": 744,
+      "charEnd": 753,
+      "id": 141,
+      "sentence": 5,
+      "text": "vermeiden",
+      "word": 25
+    },
+    {
+      "charBegin": 753,
+      "charEnd": 754,
+      "id": 142,
+      "sentence": 5,
+      "text": ",",
+      "word": 26
+    },
+    {
+      "charBegin": 755,
+      "charEnd": 758,
+      "id": 143,
+      "sentence": 5,
+      "text": "daß",
+      "word": 27
+    },
+    {
+      "charBegin": 759,
+      "charEnd": 765,
+      "id": 144,
+      "sentence": 5,
+      "text": "Gregor",
+      "word": 28
+    },
+    {
+      "charBegin": 765,
+      "charEnd": 766,
+      "id": 145,
+      "sentence": 5,
+      "text": ",",
+      "word": 29
+    },
+    {
+      "charBegin": 767,
+      "charEnd": 773,
+      "id": 146,
+      "sentence": 5,
+      "text": "dessen",
+      "word": 30
+    },
+    {
+      "charBegin": 774,
+      "charEnd": 781,
+      "id": 147,
+      "sentence": 5,
+      "text": "genauen",
+      "word": 31
+    },
+    {
+      "charBegin": 782,
+      "charEnd": 792,
+      "id": 148,
+      "sentence": 5,
+      "text": "Aufenthalt",
+      "word": 32
+    },
+    {
+      "charBegin": 793,
+      "charEnd": 796,
+      "id": 149,
+      "sentence": 5,
+      "text": "sie",
+      "word": 33
+    },
+    {
+      "charBegin": 797,
+      "charEnd": 799,
+      "id": 150,
+      "sentence": 5,
+      "text": "ja",
+      "word": 34
+    },
+    {
+      "charBegin": 800,
+      "charEnd": 805,
+      "id": 151,
+      "sentence": 5,
+      "text": "nicht",
+      "word": 35
+    },
+    {
+      "charBegin": 806,
+      "charEnd": 812,
+      "id": 152,
+      "sentence": 5,
+      "text": "kannte",
+      "word": 36
+    },
+    {
+      "charBegin": 812,
+      "charEnd": 813,
+      "id": 153,
+      "sentence": 5,
+      "text": ",",
+      "word": 37
+    },
+    {
+      "charBegin": 814,
+      "charEnd": 818,
+      "id": 154,
+      "sentence": 5,
+      "text": "auch",
+      "word": 38
+    },
+    {
+      "charBegin": 819,
+      "charEnd": 822,
+      "id": 155,
+      "sentence": 5,
+      "text": "nur",
+      "word": 39
+    },
+    {
+      "charBegin": 823,
+      "charEnd": 826,
+      "id": 156,
+      "sentence": 5,
+      "text": "den",
+      "word": 40
+    },
+    {
+      "charBegin": 827,
+      "charEnd": 832,
+      "id": 157,
+      "sentence": 5,
+      "text": "Klang",
+      "word": 41
+    },
+    {
+      "charBegin": 833,
+      "charEnd": 836,
+      "id": 158,
+      "sentence": 5,
+      "text": "der",
+      "word": 42
+    },
+    {
+      "charBegin": 837,
+      "charEnd": 843,
+      "id": 159,
+      "sentence": 5,
+      "text": "Stimme",
+      "word": 43
+    },
+    {
+      "charBegin": 844,
+      "charEnd": 848,
+      "id": 160,
+      "sentence": 5,
+      "text": "höre",
+      "word": 44
+    },
+    {
+      "charBegin": 848,
+      "charEnd": 849,
+      "id": 161,
+      "sentence": 5,
+      "text": ",",
+      "word": 45
+    },
+    {
+      "charBegin": 850,
+      "charEnd": 854,
+      "id": 162,
+      "sentence": 5,
+      "text": "denn",
+      "word": 46
+    },
+    {
+      "charBegin": 855,
+      "charEnd": 858,
+      "id": 163,
+      "sentence": 5,
+      "text": "daß",
+      "word": 47
+    },
+    {
+      "charBegin": 859,
+      "charEnd": 861,
+      "id": 164,
+      "sentence": 5,
+      "text": "er",
+      "word": 48
+    },
+    {
+      "charBegin": 862,
+      "charEnd": 865,
+      "id": 165,
+      "sentence": 5,
+      "text": "die",
+      "word": 49
+    },
+    {
+      "charBegin": 866,
+      "charEnd": 871,
+      "id": 166,
+      "sentence": 5,
+      "text": "Worte",
+      "word": 50
+    },
+    {
+      "charBegin": 872,
+      "charEnd": 877,
+      "id": 167,
+      "sentence": 5,
+      "text": "nicht",
+      "word": 51
+    },
+    {
+      "charBegin": 878,
+      "charEnd": 886,
+      "id": 168,
+      "sentence": 5,
+      "text": "verstand",
+      "word": 52
+    },
+    {
+      "charBegin": 886,
+      "charEnd": 887,
+      "id": 169,
+      "sentence": 5,
+      "text": ",",
+      "word": 53
+    },
+    {
+      "charBegin": 888,
+      "charEnd": 893,
+      "id": 170,
+      "sentence": 5,
+      "text": "davon",
+      "word": 54
+    },
+    {
+      "charBegin": 894,
+      "charEnd": 897,
+      "id": 171,
+      "sentence": 5,
+      "text": "war",
+      "word": 55
+    },
+    {
+      "charBegin": 898,
+      "charEnd": 901,
+      "id": 172,
+      "sentence": 5,
+      "text": "sie",
+      "word": 56
+    },
+    {
+      "charBegin": 902,
+      "charEnd": 911,
+      "id": 173,
+      "sentence": 5,
+      "text": "überzeugt",
+      "word": 57
+    },
+    {
+      "charBegin": 911,
+      "charEnd": 912,
+      "id": 174,
+      "sentence": 5,
+      "text": ",",
+      "word": 58
+    },
+    {
+      "charBegin": 913,
+      "charEnd": 914,
+      "id": 175,
+      "sentence": 5,
+      "text": "»",
+      "word": 59
+    },
+    {
+      "charBegin": 914,
+      "charEnd": 917,
+      "id": 176,
+      "sentence": 5,
+      "text": "und",
+      "word": 60
+    },
+    {
+      "charBegin": 918,
+      "charEnd": 921,
+      "id": 177,
+      "sentence": 5,
+      "text": "ist",
+      "word": 61
+    },
+    {
+      "charBegin": 922,
+      "charEnd": 924,
+      "id": 178,
+      "sentence": 5,
+      "text": "es",
+      "word": 62
+    },
+    {
+      "charBegin": 925,
+      "charEnd": 930,
+      "id": 179,
+      "sentence": 5,
+      "text": "nicht",
+      "word": 63
+    },
+    {
+      "charBegin": 931,
+      "charEnd": 933,
+      "id": 180,
+      "sentence": 5,
+      "text": "so",
+      "word": 64
+    },
+    {
+      "charBegin": 933,
+      "charEnd": 934,
+      "id": 181,
+      "sentence": 5,
+      "text": ",",
+      "word": 65
+    },
+    {
+      "charBegin": 935,
+      "charEnd": 938,
+      "id": 182,
+      "sentence": 5,
+      "text": "als",
+      "word": 66
+    },
+    {
+      "charBegin": 939,
+      "charEnd": 941,
+      "id": 183,
+      "sentence": 5,
+      "text": "ob",
+      "word": 67
+    },
+    {
+      "charBegin": 942,
+      "charEnd": 945,
+      "id": 184,
+      "sentence": 5,
+      "text": "wir",
+      "word": 68
+    },
+    {
+      "charBegin": 946,
+      "charEnd": 951,
+      "id": 185,
+      "sentence": 5,
+      "text": "durch",
+      "word": 69
+    },
+    {
+      "charBegin": 952,
+      "charEnd": 955,
+      "id": 186,
+      "sentence": 5,
+      "text": "die",
+      "word": 70
+    },
+    {
+      "charBegin": 956,
+      "charEnd": 966,
+      "id": 187,
+      "sentence": 5,
+      "text": "Entfernung",
+      "word": 71
+    },
+    {
+      "charBegin": 967,
+      "charEnd": 970,
+      "id": 188,
+      "sentence": 5,
+      "text": "der",
+      "word": 72
+    },
+    {
+      "charBegin": 971,
+      "charEnd": 976,
+      "id": 189,
+      "sentence": 5,
+      "text": "Möbel",
+      "word": 73
+    },
+    {
+      "charBegin": 977,
+      "charEnd": 984,
+      "id": 190,
+      "sentence": 5,
+      "text": "zeigten",
+      "word": 74
+    },
+    {
+      "charBegin": 984,
+      "charEnd": 985,
+      "id": 191,
+      "sentence": 5,
+      "text": ",",
+      "word": 75
+    },
+    {
+      "charBegin": 986,
+      "charEnd": 989,
+      "id": 192,
+      "sentence": 5,
+      "text": "daß",
+      "word": 76
+    },
+    {
+      "charBegin": 990,
+      "charEnd": 993,
+      "id": 193,
+      "sentence": 5,
+      "text": "wir",
+      "word": 77
+    },
+    {
+      "charBegin": 994,
+      "charEnd": 998,
+      "id": 194,
+      "sentence": 5,
+      "text": "jede",
+      "word": 78
+    },
+    {
+      "charBegin": 999,
+      "charEnd": 1007,
+      "id": 195,
+      "sentence": 5,
+      "text": "Hoffnung",
+      "word": 79
+    },
+    {
+      "charBegin": 1008,
+      "charEnd": 1011,
+      "id": 196,
+      "sentence": 5,
+      "text": "auf",
+      "word": 80
+    },
+    {
+      "charBegin": 1012,
+      "charEnd": 1021,
+      "id": 197,
+      "sentence": 5,
+      "text": "Besserung",
+      "word": 81
+    },
+    {
+      "charBegin": 1022,
+      "charEnd": 1030,
+      "id": 198,
+      "sentence": 5,
+      "text": "aufgeben",
+      "word": 82
+    },
+    {
+      "charBegin": 1031,
+      "charEnd": 1034,
+      "id": 199,
+      "sentence": 5,
+      "text": "und",
+      "word": 83
+    },
+    {
+      "charBegin": 1035,
+      "charEnd": 1038,
+      "id": 200,
+      "sentence": 5,
+      "text": "ihn",
+      "word": 84
+    },
+    {
+      "charBegin": 1039,
+      "charEnd": 1052,
+      "id": 201,
+      "sentence": 5,
+      "text": "rücksichtslos",
+      "word": 85
+    },
+    {
+      "charBegin": 1053,
+      "charEnd": 1057,
+      "id": 202,
+      "sentence": 5,
+      "text": "sich",
+      "word": 86
+    },
+    {
+      "charBegin": 1058,
+      "charEnd": 1064,
+      "id": 203,
+      "sentence": 5,
+      "text": "selbst",
+      "word": 87
+    },
+    {
+      "charBegin": 1065,
+      "charEnd": 1075,
+      "id": 204,
+      "sentence": 5,
+      "text": "überlassen",
+      "word": 88
+    },
+    {
+      "charBegin": 1075,
+      "charEnd": 1076,
+      "id": 205,
+      "sentence": 5,
+      "text": "?",
+      "word": 89
+    },
+    {
+      "charBegin": 1077,
+      "charEnd": 1080,
+      "id": 206,
+      "sentence": 6,
+      "text": "Ich",
+      "word": 1
+    },
+    {
+      "charBegin": 1081,
+      "charEnd": 1087,
+      "id": 207,
+      "sentence": 6,
+      "text": "glaube",
+      "word": 2
+    },
+    {
+      "charBegin": 1087,
+      "charEnd": 1088,
+      "id": 208,
+      "sentence": 6,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 1089,
+      "charEnd": 1091,
+      "id": 209,
+      "sentence": 6,
+      "text": "es",
+      "word": 4
+    },
+    {
+      "charBegin": 1092,
+      "charEnd": 1096,
+      "id": 210,
+      "sentence": 6,
+      "text": "wäre",
+      "word": 5
+    },
+    {
+      "charBegin": 1097,
+      "charEnd": 1100,
+      "id": 211,
+      "sentence": 6,
+      "text": "das",
+      "word": 6
+    },
+    {
+      "charBegin": 1101,
+      "charEnd": 1106,
+      "id": 212,
+      "sentence": 6,
+      "text": "beste",
+      "word": 7
+    },
+    {
+      "charBegin": 1106,
+      "charEnd": 1107,
+      "id": 213,
+      "sentence": 6,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 1108,
+      "charEnd": 1111,
+      "id": 214,
+      "sentence": 6,
+      "text": "wir",
+      "word": 9
+    },
+    {
+      "charBegin": 1112,
+      "charEnd": 1118,
+      "id": 215,
+      "sentence": 6,
+      "text": "suchen",
+      "word": 10
+    },
+    {
+      "charBegin": 1119,
+      "charEnd": 1122,
+      "id": 216,
+      "sentence": 6,
+      "text": "das",
+      "word": 11
+    },
+    {
+      "charBegin": 1123,
+      "charEnd": 1129,
+      "id": 217,
+      "sentence": 6,
+      "text": "Zimmer",
+      "word": 12
+    },
+    {
+      "charBegin": 1130,
+      "charEnd": 1135,
+      "id": 218,
+      "sentence": 6,
+      "text": "genau",
+      "word": 13
+    },
+    {
+      "charBegin": 1136,
+      "charEnd": 1138,
+      "id": 219,
+      "sentence": 6,
+      "text": "in",
+      "word": 14
+    },
+    {
+      "charBegin": 1139,
+      "charEnd": 1142,
+      "id": 220,
+      "sentence": 6,
+      "text": "dem",
+      "word": 15
+    },
+    {
+      "charBegin": 1143,
+      "charEnd": 1150,
+      "id": 221,
+      "sentence": 6,
+      "text": "Zustand",
+      "word": 16
+    },
+    {
+      "charBegin": 1151,
+      "charEnd": 1153,
+      "id": 222,
+      "sentence": 6,
+      "text": "zu",
+      "word": 17
+    },
+    {
+      "charBegin": 1154,
+      "charEnd": 1162,
+      "id": 223,
+      "sentence": 6,
+      "text": "erhalten",
+      "word": 18
+    },
+    {
+      "charBegin": 1162,
+      "charEnd": 1163,
+      "id": 224,
+      "sentence": 6,
+      "text": ",",
+      "word": 19
+    },
+    {
+      "charBegin": 1164,
+      "charEnd": 1166,
+      "id": 225,
+      "sentence": 6,
+      "text": "in",
+      "word": 20
+    },
+    {
+      "charBegin": 1167,
+      "charEnd": 1170,
+      "id": 226,
+      "sentence": 6,
+      "text": "dem",
+      "word": 21
+    },
+    {
+      "charBegin": 1171,
+      "charEnd": 1173,
+      "id": 227,
+      "sentence": 6,
+      "text": "es",
+      "word": 22
+    },
+    {
+      "charBegin": 1174,
+      "charEnd": 1180,
+      "id": 228,
+      "sentence": 6,
+      "text": "früher",
+      "word": 23
+    },
+    {
+      "charBegin": 1181,
+      "charEnd": 1184,
+      "id": 229,
+      "sentence": 6,
+      "text": "war",
+      "word": 24
+    },
+    {
+      "charBegin": 1184,
+      "charEnd": 1185,
+      "id": 230,
+      "sentence": 6,
+      "text": ",",
+      "word": 25
+    },
+    {
+      "charBegin": 1186,
+      "charEnd": 1191,
+      "id": 231,
+      "sentence": 6,
+      "text": "damit",
+      "word": 26
+    },
+    {
+      "charBegin": 1192,
+      "charEnd": 1198,
+      "id": 232,
+      "sentence": 6,
+      "text": "Gregor",
+      "word": 27
+    },
+    {
+      "charBegin": 1198,
+      "charEnd": 1199,
+      "id": 233,
+      "sentence": 6,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 1200,
+      "charEnd": 1204,
+      "id": 234,
+      "sentence": 6,
+      "text": "wenn",
+      "word": 29
+    },
+    {
+      "charBegin": 1205,
+      "charEnd": 1207,
+      "id": 235,
+      "sentence": 6,
+      "text": "er",
+      "word": 30
+    },
+    {
+      "charBegin": 1208,
+      "charEnd": 1214,
+      "id": 236,
+      "sentence": 6,
+      "text": "wieder",
+      "word": 31
+    },
+    {
+      "charBegin": 1215,
+      "charEnd": 1217,
+      "id": 237,
+      "sentence": 6,
+      "text": "zu",
+      "word": 32
+    },
+    {
+      "charBegin": 1218,
+      "charEnd": 1221,
+      "id": 238,
+      "sentence": 6,
+      "text": "uns",
+      "word": 33
+    },
+    {
+      "charBegin": 1222,
+      "charEnd": 1233,
+      "id": 239,
+      "sentence": 6,
+      "text": "zurückkommt",
+      "word": 34
+    },
+    {
+      "charBegin": 1233,
+      "charEnd": 1234,
+      "id": 240,
+      "sentence": 6,
+      "text": ",",
+      "word": 35
+    },
+    {
+      "charBegin": 1235,
+      "charEnd": 1240,
+      "id": 241,
+      "sentence": 6,
+      "text": "alles",
+      "word": 36
+    },
+    {
+      "charBegin": 1241,
+      "charEnd": 1252,
+      "id": 242,
+      "sentence": 6,
+      "text": "unverändert",
+      "word": 37
+    },
+    {
+      "charBegin": 1253,
+      "charEnd": 1259,
+      "id": 243,
+      "sentence": 6,
+      "text": "findet",
+      "word": 38
+    },
+    {
+      "charBegin": 1260,
+      "charEnd": 1263,
+      "id": 244,
+      "sentence": 6,
+      "text": "und",
+      "word": 39
+    },
+    {
+      "charBegin": 1264,
+      "charEnd": 1268,
+      "id": 245,
+      "sentence": 6,
+      "text": "umso",
+      "word": 40
+    },
+    {
+      "charBegin": 1269,
+      "charEnd": 1277,
+      "id": 246,
+      "sentence": 6,
+      "text": "leichter",
+      "word": 41
+    },
+    {
+      "charBegin": 1278,
+      "charEnd": 1281,
+      "id": 247,
+      "sentence": 6,
+      "text": "die",
+      "word": 42
+    },
+    {
+      "charBegin": 1282,
+      "charEnd": 1294,
+      "id": 248,
+      "sentence": 6,
+      "text": "Zwischenzeit",
+      "word": 43
+    },
+    {
+      "charBegin": 1295,
+      "charEnd": 1304,
+      "id": 249,
+      "sentence": 6,
+      "text": "vergessen",
+      "word": 44
+    },
+    {
+      "charBegin": 1305,
+      "charEnd": 1309,
+      "id": 250,
+      "sentence": 6,
+      "text": "kann",
+      "word": 45
+    },
+    {
+      "charBegin": 1309,
+      "charEnd": 1310,
+      "id": 251,
+      "sentence": 6,
+      "text": ".",
+      "word": 46
+    },
+    {
+      "charBegin": 1310,
+      "charEnd": 1311,
+      "id": 252,
+      "sentence": 6,
+      "text": "«",
+      "word": 47
+    },
+    {
+      "charBegin": 1313,
+      "charEnd": 1317,
+      "id": 253,
+      "sentence": 6,
+      "text": "Beim",
+      "word": 48
+    },
+    {
+      "charBegin": 1318,
+      "charEnd": 1325,
+      "id": 254,
+      "sentence": 6,
+      "text": "Anhören",
+      "word": 49
+    },
+    {
+      "charBegin": 1326,
+      "charEnd": 1332,
+      "id": 255,
+      "sentence": 6,
+      "text": "dieser",
+      "word": 50
+    },
+    {
+      "charBegin": 1333,
+      "charEnd": 1338,
+      "id": 256,
+      "sentence": 6,
+      "text": "Worte",
+      "word": 51
+    },
+    {
+      "charBegin": 1339,
+      "charEnd": 1342,
+      "id": 257,
+      "sentence": 6,
+      "text": "der",
+      "word": 52
+    },
+    {
+      "charBegin": 1343,
+      "charEnd": 1349,
+      "id": 258,
+      "sentence": 6,
+      "text": "Mutter",
+      "word": 53
+    },
+    {
+      "charBegin": 1350,
+      "charEnd": 1358,
+      "id": 259,
+      "sentence": 6,
+      "text": "erkannte",
+      "word": 54
+    },
+    {
+      "charBegin": 1359,
+      "charEnd": 1365,
+      "id": 260,
+      "sentence": 6,
+      "text": "Gregor",
+      "word": 55
+    },
+    {
+      "charBegin": 1365,
+      "charEnd": 1366,
+      "id": 261,
+      "sentence": 6,
+      "text": ",",
+      "word": 56
+    },
+    {
+      "charBegin": 1367,
+      "charEnd": 1370,
+      "id": 262,
+      "sentence": 6,
+      "text": "daß",
+      "word": 57
+    },
+    {
+      "charBegin": 1371,
+      "charEnd": 1374,
+      "id": 263,
+      "sentence": 6,
+      "text": "der",
+      "word": 58
+    },
+    {
+      "charBegin": 1375,
+      "charEnd": 1381,
+      "id": 264,
+      "sentence": 6,
+      "text": "Mangel",
+      "word": 59
+    },
+    {
+      "charBegin": 1382,
+      "charEnd": 1387,
+      "id": 265,
+      "sentence": 6,
+      "text": "jeder",
+      "word": 60
+    },
+    {
+      "charBegin": 1388,
+      "charEnd": 1401,
+      "id": 266,
+      "sentence": 6,
+      "text": "unmittelbaren",
+      "word": 61
+    },
+    {
+      "charBegin": 1402,
+      "charEnd": 1414,
+      "id": 267,
+      "sentence": 6,
+      "text": "menschlichen",
+      "word": 62
+    },
+    {
+      "charBegin": 1415,
+      "charEnd": 1424,
+      "id": 268,
+      "sentence": 6,
+      "text": "Ansprache",
+      "word": 63
+    },
+    {
+      "charBegin": 1424,
+      "charEnd": 1425,
+      "id": 269,
+      "sentence": 6,
+      "text": ",",
+      "word": 64
+    },
+    {
+      "charBegin": 1426,
+      "charEnd": 1435,
+      "id": 270,
+      "sentence": 6,
+      "text": "verbunden",
+      "word": 65
+    },
+    {
+      "charBegin": 1436,
+      "charEnd": 1439,
+      "id": 271,
+      "sentence": 6,
+      "text": "mit",
+      "word": 66
+    },
+    {
+      "charBegin": 1440,
+      "charEnd": 1443,
+      "id": 272,
+      "sentence": 6,
+      "text": "dem",
+      "word": 67
+    },
+    {
+      "charBegin": 1444,
+      "charEnd": 1455,
+      "id": 273,
+      "sentence": 6,
+      "text": "einförmigen",
+      "word": 68
+    },
+    {
+      "charBegin": 1456,
+      "charEnd": 1461,
+      "id": 274,
+      "sentence": 6,
+      "text": "Leben",
+      "word": 69
+    },
+    {
+      "charBegin": 1462,
+      "charEnd": 1470,
+      "id": 275,
+      "sentence": 6,
+      "text": "inmitten",
+      "word": 70
+    },
+    {
+      "charBegin": 1471,
+      "charEnd": 1474,
+      "id": 276,
+      "sentence": 6,
+      "text": "der",
+      "word": 71
+    },
+    {
+      "charBegin": 1475,
+      "charEnd": 1482,
+      "id": 277,
+      "sentence": 6,
+      "text": "Familie",
+      "word": 72
+    },
+    {
+      "charBegin": 1482,
+      "charEnd": 1483,
+      "id": 278,
+      "sentence": 6,
+      "text": ",",
+      "word": 73
+    },
+    {
+      "charBegin": 1484,
+      "charEnd": 1486,
+      "id": 279,
+      "sentence": 6,
+      "text": "im",
+      "word": 74
+    },
+    {
+      "charBegin": 1487,
+      "charEnd": 1492,
+      "id": 280,
+      "sentence": 6,
+      "text": "Laufe",
+      "word": 75
+    },
+    {
+      "charBegin": 1493,
+      "charEnd": 1499,
+      "id": 281,
+      "sentence": 6,
+      "text": "dieser",
+      "word": 76
+    },
+    {
+      "charBegin": 1500,
+      "charEnd": 1504,
+      "id": 282,
+      "sentence": 6,
+      "text": "zwei",
+      "word": 77
+    },
+    {
+      "charBegin": 1505,
+      "charEnd": 1511,
+      "id": 283,
+      "sentence": 6,
+      "text": "Monate",
+      "word": 78
+    },
+    {
+      "charBegin": 1512,
+      "charEnd": 1518,
+      "id": 284,
+      "sentence": 6,
+      "text": "seinen",
+      "word": 79
+    },
+    {
+      "charBegin": 1519,
+      "charEnd": 1527,
+      "id": 285,
+      "sentence": 6,
+      "text": "Verstand",
+      "word": 80
+    },
+    {
+      "charBegin": 1528,
+      "charEnd": 1533,
+      "id": 286,
+      "sentence": 6,
+      "text": "hatte",
+      "word": 81
+    },
+    {
+      "charBegin": 1534,
+      "charEnd": 1543,
+      "id": 287,
+      "sentence": 6,
+      "text": "verwirren",
+      "word": 82
+    },
+    {
+      "charBegin": 1544,
+      "charEnd": 1550,
+      "id": 288,
+      "sentence": 6,
+      "text": "müssen",
+      "word": 83
+    },
+    {
+      "charBegin": 1550,
+      "charEnd": 1551,
+      "id": 289,
+      "sentence": 6,
+      "text": ",",
+      "word": 84
+    },
+    {
+      "charBegin": 1552,
+      "charEnd": 1556,
+      "id": 290,
+      "sentence": 6,
+      "text": "denn",
+      "word": 85
+    },
+    {
+      "charBegin": 1557,
+      "charEnd": 1563,
+      "id": 291,
+      "sentence": 6,
+      "text": "anders",
+      "word": 86
+    },
+    {
+      "charBegin": 1564,
+      "charEnd": 1570,
+      "id": 292,
+      "sentence": 6,
+      "text": "konnte",
+      "word": 87
+    },
+    {
+      "charBegin": 1571,
+      "charEnd": 1573,
+      "id": 293,
+      "sentence": 6,
+      "text": "er",
+      "word": 88
+    },
+    {
+      "charBegin": 1574,
+      "charEnd": 1576,
+      "id": 294,
+      "sentence": 6,
+      "text": "es",
+      "word": 89
+    },
+    {
+      "charBegin": 1577,
+      "charEnd": 1581,
+      "id": 295,
+      "sentence": 6,
+      "text": "sich",
+      "word": 90
+    },
+    {
+      "charBegin": 1582,
+      "charEnd": 1587,
+      "id": 296,
+      "sentence": 6,
+      "text": "nicht",
+      "word": 91
+    },
+    {
+      "charBegin": 1588,
+      "charEnd": 1596,
+      "id": 297,
+      "sentence": 6,
+      "text": "erklären",
+      "word": 92
+    },
+    {
+      "charBegin": 1596,
+      "charEnd": 1597,
+      "id": 298,
+      "sentence": 6,
+      "text": ",",
+      "word": 93
+    },
+    {
+      "charBegin": 1598,
+      "charEnd": 1601,
+      "id": 299,
+      "sentence": 6,
+      "text": "daß",
+      "word": 94
+    },
+    {
+      "charBegin": 1602,
+      "charEnd": 1604,
+      "id": 300,
+      "sentence": 6,
+      "text": "er",
+      "word": 95
+    },
+    {
+      "charBegin": 1605,
+      "charEnd": 1614,
+      "id": 301,
+      "sentence": 6,
+      "text": "ernsthaft",
+      "word": 96
+    },
+    {
+      "charBegin": 1615,
+      "charEnd": 1621,
+      "id": 302,
+      "sentence": 6,
+      "text": "danach",
+      "word": 97
+    },
+    {
+      "charBegin": 1622,
+      "charEnd": 1627,
+      "id": 303,
+      "sentence": 6,
+      "text": "hatte",
+      "word": 98
+    },
+    {
+      "charBegin": 1628,
+      "charEnd": 1637,
+      "id": 304,
+      "sentence": 6,
+      "text": "verlangen",
+      "word": 99
+    },
+    {
+      "charBegin": 1638,
+      "charEnd": 1643,
+      "id": 305,
+      "sentence": 6,
+      "text": "könne",
+      "word": 100
+    },
+    {
+      "charBegin": 1643,
+      "charEnd": 1644,
+      "id": 306,
+      "sentence": 6,
+      "text": ",",
+      "word": 101
+    },
+    {
+      "charBegin": 1645,
+      "charEnd": 1648,
+      "id": 307,
+      "sentence": 6,
+      "text": "daß",
+      "word": 102
+    },
+    {
+      "charBegin": 1649,
+      "charEnd": 1653,
+      "id": 308,
+      "sentence": 6,
+      "text": "sein",
+      "word": 103
+    },
+    {
+      "charBegin": 1654,
+      "charEnd": 1660,
+      "id": 309,
+      "sentence": 6,
+      "text": "Zimmer",
+      "word": 104
+    },
+    {
+      "charBegin": 1661,
+      "charEnd": 1671,
+      "id": 310,
+      "sentence": 6,
+      "text": "ausgeleert",
+      "word": 105
+    },
+    {
+      "charBegin": 1672,
+      "charEnd": 1677,
+      "id": 311,
+      "sentence": 6,
+      "text": "würde",
+      "word": 106
+    },
+    {
+      "charBegin": 1677,
+      "charEnd": 1678,
+      "id": 312,
+      "sentence": 6,
+      "text": ".",
+      "word": 107
+    },
+    {
+      "charBegin": 1679,
+      "charEnd": 1684,
+      "id": 313,
+      "sentence": 7,
+      "text": "Hatte",
+      "word": 1
+    },
+    {
+      "charBegin": 1685,
+      "charEnd": 1687,
+      "id": 314,
+      "sentence": 7,
+      "text": "er",
+      "word": 2
+    },
+    {
+      "charBegin": 1688,
+      "charEnd": 1696,
+      "id": 315,
+      "sentence": 7,
+      "text": "wirklich",
+      "word": 3
+    },
+    {
+      "charBegin": 1697,
+      "charEnd": 1701,
+      "id": 316,
+      "sentence": 7,
+      "text": "Lust",
+      "word": 4
+    },
+    {
+      "charBegin": 1701,
+      "charEnd": 1702,
+      "id": 317,
+      "sentence": 7,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 1703,
+      "charEnd": 1706,
+      "id": 318,
+      "sentence": 7,
+      "text": "das",
+      "word": 6
+    },
+    {
+      "charBegin": 1707,
+      "charEnd": 1712,
+      "id": 319,
+      "sentence": 7,
+      "text": "warme",
+      "word": 7
+    },
+    {
+      "charBegin": 1712,
+      "charEnd": 1713,
+      "id": 320,
+      "sentence": 7,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 1714,
+      "charEnd": 1717,
+      "id": 321,
+      "sentence": 7,
+      "text": "mit",
+      "word": 9
+    },
+    {
+      "charBegin": 1718,
+      "charEnd": 1726,
+      "id": 322,
+      "sentence": 7,
+      "text": "ererbten",
+      "word": 10
+    },
+    {
+      "charBegin": 1727,
+      "charEnd": 1733,
+      "id": 323,
+      "sentence": 7,
+      "text": "Möbeln",
+      "word": 11
+    },
+    {
+      "charBegin": 1734,
+      "charEnd": 1743,
+      "id": 324,
+      "sentence": 7,
+      "text": "gemütlich",
+      "word": 12
+    },
+    {
+      "charBegin": 1744,
+      "charEnd": 1757,
+      "id": 325,
+      "sentence": 7,
+      "text": "ausgestattete",
+      "word": 13
+    },
+    {
+      "charBegin": 1758,
+      "charEnd": 1764,
+      "id": 326,
+      "sentence": 7,
+      "text": "Zimmer",
+      "word": 14
+    },
+    {
+      "charBegin": 1765,
+      "charEnd": 1767,
+      "id": 327,
+      "sentence": 7,
+      "text": "in",
+      "word": 15
+    },
+    {
+      "charBegin": 1768,
+      "charEnd": 1772,
+      "id": 328,
+      "sentence": 7,
+      "text": "eine",
+      "word": 16
+    },
+    {
+      "charBegin": 1773,
+      "charEnd": 1778,
+      "id": 329,
+      "sentence": 7,
+      "text": "Höhle",
+      "word": 17
+    },
+    {
+      "charBegin": 1779,
+      "charEnd": 1789,
+      "id": 330,
+      "sentence": 7,
+      "text": "verwandeln",
+      "word": 18
+    },
+    {
+      "charBegin": 1790,
+      "charEnd": 1792,
+      "id": 331,
+      "sentence": 7,
+      "text": "zu",
+      "word": 19
+    },
+    {
+      "charBegin": 1793,
+      "charEnd": 1799,
+      "id": 332,
+      "sentence": 7,
+      "text": "lassen",
+      "word": 20
+    },
+    {
+      "charBegin": 1799,
+      "charEnd": 1800,
+      "id": 333,
+      "sentence": 7,
+      "text": ",",
+      "word": 21
+    },
+    {
+      "charBegin": 1801,
+      "charEnd": 1803,
+      "id": 334,
+      "sentence": 7,
+      "text": "in",
+      "word": 22
+    },
+    {
+      "charBegin": 1804,
+      "charEnd": 1807,
+      "id": 335,
+      "sentence": 7,
+      "text": "der",
+      "word": 23
+    },
+    {
+      "charBegin": 1808,
+      "charEnd": 1810,
+      "id": 336,
+      "sentence": 7,
+      "text": "er",
+      "word": 24
+    },
+    {
+      "charBegin": 1811,
+      "charEnd": 1815,
+      "id": 337,
+      "sentence": 7,
+      "text": "dann",
+      "word": 25
+    },
+    {
+      "charBegin": 1816,
+      "charEnd": 1824,
+      "id": 338,
+      "sentence": 7,
+      "text": "freilich",
+      "word": 26
+    },
+    {
+      "charBegin": 1825,
+      "charEnd": 1829,
+      "id": 339,
+      "sentence": 7,
+      "text": "nach",
+      "word": 27
+    },
+    {
+      "charBegin": 1830,
+      "charEnd": 1835,
+      "id": 340,
+      "sentence": 7,
+      "text": "allen",
+      "word": 28
+    },
+    {
+      "charBegin": 1836,
+      "charEnd": 1846,
+      "id": 341,
+      "sentence": 7,
+      "text": "Richtungen",
+      "word": 29
+    },
+    {
+      "charBegin": 1847,
+      "charEnd": 1856,
+      "id": 342,
+      "sentence": 7,
+      "text": "ungestört",
+      "word": 30
+    },
+    {
+      "charBegin": 1857,
+      "charEnd": 1862,
+      "id": 343,
+      "sentence": 7,
+      "text": "würde",
+      "word": 31
+    },
+    {
+      "charBegin": 1863,
+      "charEnd": 1871,
+      "id": 344,
+      "sentence": 7,
+      "text": "kriechen",
+      "word": 32
+    },
+    {
+      "charBegin": 1872,
+      "charEnd": 1878,
+      "id": 345,
+      "sentence": 7,
+      "text": "können",
+      "word": 33
+    },
+    {
+      "charBegin": 1878,
+      "charEnd": 1879,
+      "id": 346,
+      "sentence": 7,
+      "text": ",",
+      "word": 34
+    },
+    {
+      "charBegin": 1880,
+      "charEnd": 1886,
+      "id": 347,
+      "sentence": 7,
+      "text": "jedoch",
+      "word": 35
+    },
+    {
+      "charBegin": 1887,
+      "charEnd": 1891,
+      "id": 348,
+      "sentence": 7,
+      "text": "auch",
+      "word": 36
+    },
+    {
+      "charBegin": 1892,
+      "charEnd": 1897,
+      "id": 349,
+      "sentence": 7,
+      "text": "unter",
+      "word": 37
+    },
+    {
+      "charBegin": 1898,
+      "charEnd": 1912,
+      "id": 350,
+      "sentence": 7,
+      "text": "gleichzeitigem",
+      "word": 38
+    },
+    {
+      "charBegin": 1913,
+      "charEnd": 1922,
+      "id": 351,
+      "sentence": 7,
+      "text": "schnellen",
+      "word": 39
+    },
+    {
+      "charBegin": 1922,
+      "charEnd": 1923,
+      "id": 352,
+      "sentence": 7,
+      "text": ",",
+      "word": 40
+    },
+    {
+      "charBegin": 1924,
+      "charEnd": 1934,
+      "id": 353,
+      "sentence": 7,
+      "text": "gänzlichen",
+      "word": 41
+    },
+    {
+      "charBegin": 1935,
+      "charEnd": 1944,
+      "id": 354,
+      "sentence": 7,
+      "text": "Vergessen",
+      "word": 42
+    },
+    {
+      "charBegin": 1945,
+      "charEnd": 1951,
+      "id": 355,
+      "sentence": 7,
+      "text": "seiner",
+      "word": 43
+    },
+    {
+      "charBegin": 1952,
+      "charEnd": 1964,
+      "id": 356,
+      "sentence": 7,
+      "text": "menschlichen",
+      "word": 44
+    },
+    {
+      "charBegin": 1965,
+      "charEnd": 1978,
+      "id": 357,
+      "sentence": 7,
+      "text": "Vergangenheit",
+      "word": 45
+    },
+    {
+      "charBegin": 1978,
+      "charEnd": 1979,
+      "id": 358,
+      "sentence": 7,
+      "text": "?",
+      "word": 46
+    },
+    {
+      "charBegin": 1980,
+      "charEnd": 1983,
+      "id": 359,
+      "sentence": 8,
+      "text": "War",
+      "word": 1
+    },
+    {
+      "charBegin": 1984,
+      "charEnd": 1986,
+      "id": 360,
+      "sentence": 8,
+      "text": "er",
+      "word": 2
+    },
+    {
+      "charBegin": 1987,
+      "charEnd": 1991,
+      "id": 361,
+      "sentence": 8,
+      "text": "doch",
+      "word": 3
+    },
+    {
+      "charBegin": 1992,
+      "charEnd": 1997,
+      "id": 362,
+      "sentence": 8,
+      "text": "jetzt",
+      "word": 4
+    },
+    {
+      "charBegin": 1998,
+      "charEnd": 2003,
+      "id": 363,
+      "sentence": 8,
+      "text": "schon",
+      "word": 5
+    },
+    {
+      "charBegin": 2004,
+      "charEnd": 2008,
+      "id": 364,
+      "sentence": 8,
+      "text": "nahe",
+      "word": 6
+    },
+    {
+      "charBegin": 2009,
+      "charEnd": 2014,
+      "id": 365,
+      "sentence": 8,
+      "text": "daran",
+      "word": 7
+    },
+    {
+      "charBegin": 2014,
+      "charEnd": 2015,
+      "id": 366,
+      "sentence": 8,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 2016,
+      "charEnd": 2018,
+      "id": 367,
+      "sentence": 8,
+      "text": "zu",
+      "word": 9
+    },
+    {
+      "charBegin": 2019,
+      "charEnd": 2028,
+      "id": 368,
+      "sentence": 8,
+      "text": "vergessen",
+      "word": 10
+    },
+    {
+      "charBegin": 2028,
+      "charEnd": 2029,
+      "id": 369,
+      "sentence": 8,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 2030,
+      "charEnd": 2033,
+      "id": 370,
+      "sentence": 8,
+      "text": "und",
+      "word": 12
+    },
+    {
+      "charBegin": 2034,
+      "charEnd": 2037,
+      "id": 371,
+      "sentence": 8,
+      "text": "nur",
+      "word": 13
+    },
+    {
+      "charBegin": 2038,
+      "charEnd": 2041,
+      "id": 372,
+      "sentence": 8,
+      "text": "die",
+      "word": 14
+    },
+    {
+      "charBegin": 2042,
+      "charEnd": 2046,
+      "id": 373,
+      "sentence": 8,
+      "text": "seit",
+      "word": 15
+    },
+    {
+      "charBegin": 2047,
+      "charEnd": 2053,
+      "id": 374,
+      "sentence": 8,
+      "text": "langem",
+      "word": 16
+    },
+    {
+      "charBegin": 2054,
+      "charEnd": 2059,
+      "id": 375,
+      "sentence": 8,
+      "text": "nicht",
+      "word": 17
+    },
+    {
+      "charBegin": 2060,
+      "charEnd": 2067,
+      "id": 376,
+      "sentence": 8,
+      "text": "gehörte",
+      "word": 18
+    },
+    {
+      "charBegin": 2068,
+      "charEnd": 2074,
+      "id": 377,
+      "sentence": 8,
+      "text": "Stimme",
+      "word": 19
+    },
+    {
+      "charBegin": 2075,
+      "charEnd": 2078,
+      "id": 378,
+      "sentence": 8,
+      "text": "der",
+      "word": 20
+    },
+    {
+      "charBegin": 2079,
+      "charEnd": 2085,
+      "id": 379,
+      "sentence": 8,
+      "text": "Mutter",
+      "word": 21
+    },
+    {
+      "charBegin": 2086,
+      "charEnd": 2091,
+      "id": 380,
+      "sentence": 8,
+      "text": "hatte",
+      "word": 22
+    },
+    {
+      "charBegin": 2092,
+      "charEnd": 2095,
+      "id": 381,
+      "sentence": 8,
+      "text": "ihn",
+      "word": 23
+    },
+    {
+      "charBegin": 2096,
+      "charEnd": 2108,
+      "id": 382,
+      "sentence": 8,
+      "text": "aufgerüttelt",
+      "word": 24
+    },
+    {
+      "charBegin": 2108,
+      "charEnd": 2109,
+      "id": 383,
+      "sentence": 8,
+      "text": ".",
+      "word": 25
+    },
+    {
+      "charBegin": 2110,
+      "charEnd": 2116,
+      "id": 384,
+      "sentence": 9,
+      "text": "Nichts",
+      "word": 1
+    },
+    {
+      "charBegin": 2117,
+      "charEnd": 2123,
+      "id": 385,
+      "sentence": 9,
+      "text": "sollte",
+      "word": 2
+    },
+    {
+      "charBegin": 2124,
+      "charEnd": 2132,
+      "id": 386,
+      "sentence": 9,
+      "text": "entfernt",
+      "word": 3
+    },
+    {
+      "charBegin": 2133,
+      "charEnd": 2139,
+      "id": 387,
+      "sentence": 9,
+      "text": "werden",
+      "word": 4
+    },
+    {
+      "charBegin": 2139,
+      "charEnd": 2140,
+      "id": 388,
+      "sentence": 9,
+      "text": ";",
+      "word": 5
+    },
+    {
+      "charBegin": 2141,
+      "charEnd": 2146,
+      "id": 389,
+      "sentence": 10,
+      "text": "alles",
+      "word": 1
+    },
+    {
+      "charBegin": 2147,
+      "charEnd": 2152,
+      "id": 390,
+      "sentence": 10,
+      "text": "mußte",
+      "word": 2
+    },
+    {
+      "charBegin": 2153,
+      "charEnd": 2160,
+      "id": 391,
+      "sentence": 10,
+      "text": "bleiben",
+      "word": 3
+    },
+    {
+      "charBegin": 2160,
+      "charEnd": 2161,
+      "id": 392,
+      "sentence": 10,
+      "text": ";",
+      "word": 4
+    }
+  ]
+}

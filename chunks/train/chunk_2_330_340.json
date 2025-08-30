@@ -1,0 +1,1033 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 8,
+            "charBegin": 30,
+            "charEnd": 64,
+            "end": 14
+          }
+        ],
+        "text": "Margreth wandte sich zu dem Knaben",
+        "tokenIds": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 8,
+            "charBegin": 30,
+            "charEnd": 38,
+            "end": 9
+          },
+          {
+            "begin": 10,
+            "charBegin": 46,
+            "charEnd": 50,
+            "end": 11
+          }
+        ],
+        "text": [
+          "Margreth",
+          "sich"
+        ],
+        "tokenIds": [
+          8,
+          10
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 13,
+            "charBegin": 58,
+            "charEnd": 64,
+            "end": 14
+          }
+        ],
+        "text": [
+          "Knaben"
+        ],
+        "tokenIds": [
+          13
+        ]
+      },
+      "hasNested": false,
+      "id": 439,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 35,
+            "charBegin": 134,
+            "charEnd": 153,
+            "end": 39
+          }
+        ],
+        "text": "stotterte das Kind .",
+        "tokenIds": [
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 37,
+            "charBegin": 148,
+            "charEnd": 152,
+            "end": 38
+          }
+        ],
+        "text": [
+          "Kind"
+        ],
+        "tokenIds": [
+          37
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 440,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 44,
+            "charBegin": 167,
+            "charEnd": 183,
+            "end": 47
+          }
+        ],
+        "text": "wiederholte sie ;",
+        "tokenIds": [
+          44,
+          45,
+          46
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 45,
+            "charBegin": 179,
+            "charEnd": 182,
+            "end": 46
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          45
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 441,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 54,
+            "charBegin": 201,
+            "charEnd": 224,
+            "end": 59
+          }
+        ],
+        "text": "fügte sie heftig hinzu ;",
+        "tokenIds": [
+          54,
+          55,
+          56,
+          57,
+          58
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 55,
+            "charBegin": 207,
+            "charEnd": 210,
+            "end": 56
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          55
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 442,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__330_340",
+  "originalText": "Ohm Simon ißt um sieben Uhr.« Margreth wandte sich zu dem Knaben: »Hebt man dir nichts auf? Sprich, wer sorgt für dich?« – »Niemand,« stotterte das Kind. – »Niemand?« wiederholte sie; »da nimm, nimm!« fügte sie heftig hinzu; »du heißt Niemand und Niemand sorgt für dich!",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 3,
+      "end": 1,
+      "id": 0,
+      "text": "Ohm",
+      "tokenIds": [
+        0
+      ],
+      "tokens": [
+        "Ohm"
+      ]
+    },
+    {
+      "begin": 1,
+      "charBegin": 4,
+      "charEnd": 29,
+      "end": 8,
+      "id": 1,
+      "text": "Simon ißt um sieben Uhr.«",
+      "tokenIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokens": [
+        "Simon",
+        "ißt",
+        "um",
+        "sieben",
+        "Uhr",
+        ".",
+        "«"
+      ]
+    },
+    {
+      "begin": 8,
+      "charBegin": 30,
+      "charEnd": 91,
+      "end": 22,
+      "id": 2,
+      "text": "Margreth wandte sich zu dem Knaben: »Hebt man dir nichts auf?",
+      "tokenIds": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokens": [
+        "Margreth",
+        "wandte",
+        "sich",
+        "zu",
+        "dem",
+        "Knaben",
+        ":",
+        "»",
+        "Hebt",
+        "man",
+        "dir",
+        "nichts",
+        "auf",
+        "?"
+      ]
+    },
+    {
+      "begin": 22,
+      "charBegin": 92,
+      "charEnd": 119,
+      "end": 29,
+      "id": 3,
+      "text": "Sprich, wer sorgt für dich?",
+      "tokenIds": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "tokens": [
+        "Sprich",
+        ",",
+        "wer",
+        "sorgt",
+        "für",
+        "dich",
+        "?"
+      ]
+    },
+    {
+      "begin": 29,
+      "charBegin": 119,
+      "charEnd": 153,
+      "end": 39,
+      "id": 4,
+      "text": "« – »Niemand,« stotterte das Kind.",
+      "tokenIds": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "tokens": [
+        "«",
+        "–",
+        "»",
+        "Niemand",
+        ",",
+        "«",
+        "stotterte",
+        "das",
+        "Kind",
+        "."
+      ]
+    },
+    {
+      "begin": 39,
+      "charBegin": 154,
+      "charEnd": 155,
+      "end": 40,
+      "id": 5,
+      "text": "–",
+      "tokenIds": [
+        39
+      ],
+      "tokens": [
+        "–"
+      ]
+    },
+    {
+      "begin": 40,
+      "charBegin": 156,
+      "charEnd": 183,
+      "end": 47,
+      "id": 6,
+      "text": "»Niemand?« wiederholte sie;",
+      "tokenIds": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "tokens": [
+        "»",
+        "Niemand",
+        "?",
+        "«",
+        "wiederholte",
+        "sie",
+        ";"
+      ]
+    },
+    {
+      "begin": 47,
+      "charBegin": 184,
+      "charEnd": 224,
+      "end": 59,
+      "id": 7,
+      "text": "»da nimm, nimm!« fügte sie heftig hinzu;",
+      "tokenIds": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "tokens": [
+        "»",
+        "da",
+        "nimm",
+        ",",
+        "nimm",
+        "!",
+        "«",
+        "fügte",
+        "sie",
+        "heftig",
+        "hinzu",
+        ";"
+      ]
+    },
+    {
+      "begin": 59,
+      "charBegin": 225,
+      "charEnd": 269,
+      "end": 68,
+      "id": 8,
+      "text": "»du heißt Niemand und Niemand sorgt für dich",
+      "tokenIds": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "tokens": [
+        "»",
+        "du",
+        "heißt",
+        "Niemand",
+        "und",
+        "Niemand",
+        "sorgt",
+        "für",
+        "dich"
+      ]
+    },
+    {
+      "begin": 68,
+      "charBegin": 269,
+      "charEnd": 270,
+      "end": 69,
+      "id": 9,
+      "text": "!",
+      "tokenIds": [
+        68
+      ],
+      "tokens": [
+        "!"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 3,
+      "id": 0,
+      "sentence": 1,
+      "text": "Ohm",
+      "word": 1
+    },
+    {
+      "charBegin": 4,
+      "charEnd": 9,
+      "id": 1,
+      "sentence": 2,
+      "text": "Simon",
+      "word": 1
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 13,
+      "id": 2,
+      "sentence": 2,
+      "text": "ißt",
+      "word": 2
+    },
+    {
+      "charBegin": 14,
+      "charEnd": 16,
+      "id": 3,
+      "sentence": 2,
+      "text": "um",
+      "word": 3
+    },
+    {
+      "charBegin": 17,
+      "charEnd": 23,
+      "id": 4,
+      "sentence": 2,
+      "text": "sieben",
+      "word": 4
+    },
+    {
+      "charBegin": 24,
+      "charEnd": 27,
+      "id": 5,
+      "sentence": 2,
+      "text": "Uhr",
+      "word": 5
+    },
+    {
+      "charBegin": 27,
+      "charEnd": 28,
+      "id": 6,
+      "sentence": 2,
+      "text": ".",
+      "word": 6
+    },
+    {
+      "charBegin": 28,
+      "charEnd": 29,
+      "id": 7,
+      "sentence": 2,
+      "text": "«",
+      "word": 7
+    },
+    {
+      "charBegin": 30,
+      "charEnd": 38,
+      "id": 8,
+      "sentence": 3,
+      "text": "Margreth",
+      "word": 1
+    },
+    {
+      "charBegin": 39,
+      "charEnd": 45,
+      "id": 9,
+      "sentence": 3,
+      "text": "wandte",
+      "word": 2
+    },
+    {
+      "charBegin": 46,
+      "charEnd": 50,
+      "id": 10,
+      "sentence": 3,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 51,
+      "charEnd": 53,
+      "id": 11,
+      "sentence": 3,
+      "text": "zu",
+      "word": 4
+    },
+    {
+      "charBegin": 54,
+      "charEnd": 57,
+      "id": 12,
+      "sentence": 3,
+      "text": "dem",
+      "word": 5
+    },
+    {
+      "charBegin": 58,
+      "charEnd": 64,
+      "id": 13,
+      "sentence": 3,
+      "text": "Knaben",
+      "word": 6
+    },
+    {
+      "charBegin": 64,
+      "charEnd": 65,
+      "id": 14,
+      "sentence": 3,
+      "text": ":",
+      "word": 7
+    },
+    {
+      "charBegin": 66,
+      "charEnd": 67,
+      "id": 15,
+      "sentence": 3,
+      "text": "»",
+      "word": 8
+    },
+    {
+      "charBegin": 67,
+      "charEnd": 71,
+      "id": 16,
+      "sentence": 3,
+      "text": "Hebt",
+      "word": 9
+    },
+    {
+      "charBegin": 72,
+      "charEnd": 75,
+      "id": 17,
+      "sentence": 3,
+      "text": "man",
+      "word": 10
+    },
+    {
+      "charBegin": 76,
+      "charEnd": 79,
+      "id": 18,
+      "sentence": 3,
+      "text": "dir",
+      "word": 11
+    },
+    {
+      "charBegin": 80,
+      "charEnd": 86,
+      "id": 19,
+      "sentence": 3,
+      "text": "nichts",
+      "word": 12
+    },
+    {
+      "charBegin": 87,
+      "charEnd": 90,
+      "id": 20,
+      "sentence": 3,
+      "text": "auf",
+      "word": 13
+    },
+    {
+      "charBegin": 90,
+      "charEnd": 91,
+      "id": 21,
+      "sentence": 3,
+      "text": "?",
+      "word": 14
+    },
+    {
+      "charBegin": 92,
+      "charEnd": 98,
+      "id": 22,
+      "sentence": 4,
+      "text": "Sprich",
+      "word": 1
+    },
+    {
+      "charBegin": 98,
+      "charEnd": 99,
+      "id": 23,
+      "sentence": 4,
+      "text": ",",
+      "word": 2
+    },
+    {
+      "charBegin": 100,
+      "charEnd": 103,
+      "id": 24,
+      "sentence": 4,
+      "text": "wer",
+      "word": 3
+    },
+    {
+      "charBegin": 104,
+      "charEnd": 109,
+      "id": 25,
+      "sentence": 4,
+      "text": "sorgt",
+      "word": 4
+    },
+    {
+      "charBegin": 110,
+      "charEnd": 113,
+      "id": 26,
+      "sentence": 4,
+      "text": "für",
+      "word": 5
+    },
+    {
+      "charBegin": 114,
+      "charEnd": 118,
+      "id": 27,
+      "sentence": 4,
+      "text": "dich",
+      "word": 6
+    },
+    {
+      "charBegin": 118,
+      "charEnd": 119,
+      "id": 28,
+      "sentence": 4,
+      "text": "?",
+      "word": 7
+    },
+    {
+      "charBegin": 119,
+      "charEnd": 120,
+      "id": 29,
+      "sentence": 5,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 121,
+      "charEnd": 122,
+      "id": 30,
+      "sentence": 5,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 123,
+      "charEnd": 124,
+      "id": 31,
+      "sentence": 5,
+      "text": "»",
+      "word": 3
+    },
+    {
+      "charBegin": 124,
+      "charEnd": 131,
+      "id": 32,
+      "sentence": 5,
+      "text": "Niemand",
+      "word": 4
+    },
+    {
+      "charBegin": 131,
+      "charEnd": 132,
+      "id": 33,
+      "sentence": 5,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 132,
+      "charEnd": 133,
+      "id": 34,
+      "sentence": 5,
+      "text": "«",
+      "word": 6
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 143,
+      "id": 35,
+      "sentence": 5,
+      "text": "stotterte",
+      "word": 7
+    },
+    {
+      "charBegin": 144,
+      "charEnd": 147,
+      "id": 36,
+      "sentence": 5,
+      "text": "das",
+      "word": 8
+    },
+    {
+      "charBegin": 148,
+      "charEnd": 152,
+      "id": 37,
+      "sentence": 5,
+      "text": "Kind",
+      "word": 9
+    },
+    {
+      "charBegin": 152,
+      "charEnd": 153,
+      "id": 38,
+      "sentence": 5,
+      "text": ".",
+      "word": 10
+    },
+    {
+      "charBegin": 154,
+      "charEnd": 155,
+      "id": 39,
+      "sentence": 6,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 156,
+      "charEnd": 157,
+      "id": 40,
+      "sentence": 7,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 157,
+      "charEnd": 164,
+      "id": 41,
+      "sentence": 7,
+      "text": "Niemand",
+      "word": 2
+    },
+    {
+      "charBegin": 164,
+      "charEnd": 165,
+      "id": 42,
+      "sentence": 7,
+      "text": "?",
+      "word": 3
+    },
+    {
+      "charBegin": 165,
+      "charEnd": 166,
+      "id": 43,
+      "sentence": 7,
+      "text": "«",
+      "word": 4
+    },
+    {
+      "charBegin": 167,
+      "charEnd": 178,
+      "id": 44,
+      "sentence": 7,
+      "text": "wiederholte",
+      "word": 5
+    },
+    {
+      "charBegin": 179,
+      "charEnd": 182,
+      "id": 45,
+      "sentence": 7,
+      "text": "sie",
+      "word": 6
+    },
+    {
+      "charBegin": 182,
+      "charEnd": 183,
+      "id": 46,
+      "sentence": 7,
+      "text": ";",
+      "word": 7
+    },
+    {
+      "charBegin": 184,
+      "charEnd": 185,
+      "id": 47,
+      "sentence": 8,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 185,
+      "charEnd": 187,
+      "id": 48,
+      "sentence": 8,
+      "text": "da",
+      "word": 2
+    },
+    {
+      "charBegin": 188,
+      "charEnd": 192,
+      "id": 49,
+      "sentence": 8,
+      "text": "nimm",
+      "word": 3
+    },
+    {
+      "charBegin": 192,
+      "charEnd": 193,
+      "id": 50,
+      "sentence": 8,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 194,
+      "charEnd": 198,
+      "id": 51,
+      "sentence": 8,
+      "text": "nimm",
+      "word": 5
+    },
+    {
+      "charBegin": 198,
+      "charEnd": 199,
+      "id": 52,
+      "sentence": 8,
+      "text": "!",
+      "word": 6
+    },
+    {
+      "charBegin": 199,
+      "charEnd": 200,
+      "id": 53,
+      "sentence": 8,
+      "text": "«",
+      "word": 7
+    },
+    {
+      "charBegin": 201,
+      "charEnd": 206,
+      "id": 54,
+      "sentence": 8,
+      "text": "fügte",
+      "word": 8
+    },
+    {
+      "charBegin": 207,
+      "charEnd": 210,
+      "id": 55,
+      "sentence": 8,
+      "text": "sie",
+      "word": 9
+    },
+    {
+      "charBegin": 211,
+      "charEnd": 217,
+      "id": 56,
+      "sentence": 8,
+      "text": "heftig",
+      "word": 10
+    },
+    {
+      "charBegin": 218,
+      "charEnd": 223,
+      "id": 57,
+      "sentence": 8,
+      "text": "hinzu",
+      "word": 11
+    },
+    {
+      "charBegin": 223,
+      "charEnd": 224,
+      "id": 58,
+      "sentence": 8,
+      "text": ";",
+      "word": 12
+    },
+    {
+      "charBegin": 225,
+      "charEnd": 226,
+      "id": 59,
+      "sentence": 9,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 226,
+      "charEnd": 228,
+      "id": 60,
+      "sentence": 9,
+      "text": "du",
+      "word": 2
+    },
+    {
+      "charBegin": 229,
+      "charEnd": 234,
+      "id": 61,
+      "sentence": 9,
+      "text": "heißt",
+      "word": 3
+    },
+    {
+      "charBegin": 235,
+      "charEnd": 242,
+      "id": 62,
+      "sentence": 9,
+      "text": "Niemand",
+      "word": 4
+    },
+    {
+      "charBegin": 243,
+      "charEnd": 246,
+      "id": 63,
+      "sentence": 9,
+      "text": "und",
+      "word": 5
+    },
+    {
+      "charBegin": 247,
+      "charEnd": 254,
+      "id": 64,
+      "sentence": 9,
+      "text": "Niemand",
+      "word": 6
+    },
+    {
+      "charBegin": 255,
+      "charEnd": 260,
+      "id": 65,
+      "sentence": 9,
+      "text": "sorgt",
+      "word": 7
+    },
+    {
+      "charBegin": 261,
+      "charEnd": 264,
+      "id": 66,
+      "sentence": 9,
+      "text": "für",
+      "word": 8
+    },
+    {
+      "charBegin": 265,
+      "charEnd": 269,
+      "id": 67,
+      "sentence": 9,
+      "text": "dich",
+      "word": 9
+    },
+    {
+      "charBegin": 269,
+      "charEnd": 270,
+      "id": 68,
+      "sentence": 10,
+      "text": "!",
+      "word": 1
+    }
+  ]
+}

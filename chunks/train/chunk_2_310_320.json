@@ -1,0 +1,1611 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 6,
+            "charBegin": 15,
+            "charEnd": 30,
+            "end": 9
+          }
+        ],
+        "text": "und dann leiser",
+        "tokenIds": [
+          6,
+          7,
+          8
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 426,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 24,
+            "charBegin": 77,
+            "charEnd": 111,
+            "end": 29
+          }
+        ],
+        "text": "Friedrich antwortete ebenso leise :",
+        "tokenIds": [
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 24,
+            "charBegin": 77,
+            "charEnd": 86,
+            "end": 25
+          }
+        ],
+        "text": [
+          "Friedrich"
+        ],
+        "tokenIds": [
+          24
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 427,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 95,
+            "charBegin": 410,
+            "charEnd": 424,
+            "end": 97
+          }
+        ],
+        "text": "sagte Margreth",
+        "tokenIds": [
+          95,
+          96
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 96,
+            "charBegin": 416,
+            "charEnd": 424,
+            "end": 97
+          }
+        ],
+        "text": [
+          "Margreth"
+        ],
+        "tokenIds": [
+          96
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 428,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__310_320",
+  "originalText": "»Nein, höre –« und dann leiser: »Was ist das für ein Junge? Wie heißt er?« – Friedrich antwortete ebenso leise: »Das ist des Ohms Simon Schweinehirt, der eine Botschaft an den Hülsmeyer hat. Der Ohm hat mir ein Paar Schuhe und eine Weste von Drillich gegeben; die hat mir der Junge unterwegs getragen; dafür hab' ich ihm meine Violine versprochen; er ist ja doch ein armes Kind; Johannes heißt er.« – »Nun –?« sagte Margreth. – »Was willst du, Mutter?« – »Wie heißt er weiter?« – »Ja – weiter nicht – oder, warte – doch: Niemand, Johannes Niemand heißt er.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 59,
+      "end": 18,
+      "id": 0,
+      "text": "»Nein, höre –« und dann leiser: »Was ist das für ein Junge?",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "tokens": [
+        "»",
+        "Nein",
+        ",",
+        "höre",
+        "–",
+        "«",
+        "und",
+        "dann",
+        "leiser",
+        ":",
+        "»",
+        "Was",
+        "ist",
+        "das",
+        "für",
+        "ein",
+        "Junge",
+        "?"
+      ]
+    },
+    {
+      "begin": 18,
+      "charBegin": 60,
+      "charEnd": 73,
+      "end": 22,
+      "id": 1,
+      "text": "Wie heißt er?",
+      "tokenIds": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokens": [
+        "Wie",
+        "heißt",
+        "er",
+        "?"
+      ]
+    },
+    {
+      "begin": 22,
+      "charBegin": 73,
+      "charEnd": 190,
+      "end": 45,
+      "id": 2,
+      "text": "« – Friedrich antwortete ebenso leise: »Das ist des Ohms Simon Schweinehirt, der eine Botschaft an den Hülsmeyer hat.",
+      "tokenIds": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "tokens": [
+        "«",
+        "–",
+        "Friedrich",
+        "antwortete",
+        "ebenso",
+        "leise",
+        ":",
+        "»",
+        "Das",
+        "ist",
+        "des",
+        "Ohms",
+        "Simon",
+        "Schweinehirt",
+        ",",
+        "der",
+        "eine",
+        "Botschaft",
+        "an",
+        "den",
+        "Hülsmeyer",
+        "hat",
+        "."
+      ]
+    },
+    {
+      "begin": 45,
+      "charBegin": 191,
+      "charEnd": 259,
+      "end": 59,
+      "id": 3,
+      "text": "Der Ohm hat mir ein Paar Schuhe und eine Weste von Drillich gegeben;",
+      "tokenIds": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "tokens": [
+        "Der",
+        "Ohm",
+        "hat",
+        "mir",
+        "ein",
+        "Paar",
+        "Schuhe",
+        "und",
+        "eine",
+        "Weste",
+        "von",
+        "Drillich",
+        "gegeben",
+        ";"
+      ]
+    },
+    {
+      "begin": 59,
+      "charBegin": 260,
+      "charEnd": 301,
+      "end": 67,
+      "id": 4,
+      "text": "die hat mir der Junge unterwegs getragen;",
+      "tokenIds": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "tokens": [
+        "die",
+        "hat",
+        "mir",
+        "der",
+        "Junge",
+        "unterwegs",
+        "getragen",
+        ";"
+      ]
+    },
+    {
+      "begin": 67,
+      "charBegin": 302,
+      "charEnd": 347,
+      "end": 76,
+      "id": 5,
+      "text": "dafür hab' ich ihm meine Violine versprochen;",
+      "tokenIds": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "tokens": [
+        "dafür",
+        "hab",
+        "'",
+        "ich",
+        "ihm",
+        "meine",
+        "Violine",
+        "versprochen",
+        ";"
+      ]
+    },
+    {
+      "begin": 76,
+      "charBegin": 348,
+      "charEnd": 378,
+      "end": 84,
+      "id": 6,
+      "text": "er ist ja doch ein armes Kind;",
+      "tokenIds": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "tokens": [
+        "er",
+        "ist",
+        "ja",
+        "doch",
+        "ein",
+        "armes",
+        "Kind",
+        ";"
+      ]
+    },
+    {
+      "begin": 84,
+      "charBegin": 379,
+      "charEnd": 397,
+      "end": 88,
+      "id": 7,
+      "text": "Johannes heißt er.",
+      "tokenIds": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "tokens": [
+        "Johannes",
+        "heißt",
+        "er",
+        "."
+      ]
+    },
+    {
+      "begin": 88,
+      "charBegin": 397,
+      "charEnd": 425,
+      "end": 98,
+      "id": 8,
+      "text": "« – »Nun –?« sagte Margreth.",
+      "tokenIds": [
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "tokens": [
+        "«",
+        "–",
+        "»",
+        "Nun",
+        "–",
+        "?",
+        "«",
+        "sagte",
+        "Margreth",
+        "."
+      ]
+    },
+    {
+      "begin": 98,
+      "charBegin": 426,
+      "charEnd": 556,
+      "end": 135,
+      "id": 9,
+      "text": "– »Was willst du, Mutter?« – »Wie heißt er weiter?« – »Ja – weiter nicht – oder, warte – doch: Niemand, Johannes Niemand heißt er.",
+      "tokenIds": [
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Was",
+        "willst",
+        "du",
+        ",",
+        "Mutter",
+        "?",
+        "«",
+        "–",
+        "»",
+        "Wie",
+        "heißt",
+        "er",
+        "weiter",
+        "?",
+        "«",
+        "–",
+        "»",
+        "Ja",
+        "–",
+        "weiter",
+        "nicht",
+        "–",
+        "oder",
+        ",",
+        "warte",
+        "–",
+        "doch",
+        ":",
+        "Niemand",
+        ",",
+        "Johannes",
+        "Niemand",
+        "heißt",
+        "er",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 1,
+      "id": 0,
+      "sentence": 1,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 1,
+      "charEnd": 5,
+      "id": 1,
+      "sentence": 1,
+      "text": "Nein",
+      "word": 2
+    },
+    {
+      "charBegin": 5,
+      "charEnd": 6,
+      "id": 2,
+      "sentence": 1,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 7,
+      "charEnd": 11,
+      "id": 3,
+      "sentence": 1,
+      "text": "höre",
+      "word": 4
+    },
+    {
+      "charBegin": 12,
+      "charEnd": 13,
+      "id": 4,
+      "sentence": 1,
+      "text": "–",
+      "word": 5
+    },
+    {
+      "charBegin": 13,
+      "charEnd": 14,
+      "id": 5,
+      "sentence": 1,
+      "text": "«",
+      "word": 6
+    },
+    {
+      "charBegin": 15,
+      "charEnd": 18,
+      "id": 6,
+      "sentence": 1,
+      "text": "und",
+      "word": 7
+    },
+    {
+      "charBegin": 19,
+      "charEnd": 23,
+      "id": 7,
+      "sentence": 1,
+      "text": "dann",
+      "word": 8
+    },
+    {
+      "charBegin": 24,
+      "charEnd": 30,
+      "id": 8,
+      "sentence": 1,
+      "text": "leiser",
+      "word": 9
+    },
+    {
+      "charBegin": 30,
+      "charEnd": 31,
+      "id": 9,
+      "sentence": 1,
+      "text": ":",
+      "word": 10
+    },
+    {
+      "charBegin": 32,
+      "charEnd": 33,
+      "id": 10,
+      "sentence": 1,
+      "text": "»",
+      "word": 11
+    },
+    {
+      "charBegin": 33,
+      "charEnd": 36,
+      "id": 11,
+      "sentence": 1,
+      "text": "Was",
+      "word": 12
+    },
+    {
+      "charBegin": 37,
+      "charEnd": 40,
+      "id": 12,
+      "sentence": 1,
+      "text": "ist",
+      "word": 13
+    },
+    {
+      "charBegin": 41,
+      "charEnd": 44,
+      "id": 13,
+      "sentence": 1,
+      "text": "das",
+      "word": 14
+    },
+    {
+      "charBegin": 45,
+      "charEnd": 48,
+      "id": 14,
+      "sentence": 1,
+      "text": "für",
+      "word": 15
+    },
+    {
+      "charBegin": 49,
+      "charEnd": 52,
+      "id": 15,
+      "sentence": 1,
+      "text": "ein",
+      "word": 16
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 58,
+      "id": 16,
+      "sentence": 1,
+      "text": "Junge",
+      "word": 17
+    },
+    {
+      "charBegin": 58,
+      "charEnd": 59,
+      "id": 17,
+      "sentence": 1,
+      "text": "?",
+      "word": 18
+    },
+    {
+      "charBegin": 60,
+      "charEnd": 63,
+      "id": 18,
+      "sentence": 2,
+      "text": "Wie",
+      "word": 1
+    },
+    {
+      "charBegin": 64,
+      "charEnd": 69,
+      "id": 19,
+      "sentence": 2,
+      "text": "heißt",
+      "word": 2
+    },
+    {
+      "charBegin": 70,
+      "charEnd": 72,
+      "id": 20,
+      "sentence": 2,
+      "text": "er",
+      "word": 3
+    },
+    {
+      "charBegin": 72,
+      "charEnd": 73,
+      "id": 21,
+      "sentence": 2,
+      "text": "?",
+      "word": 4
+    },
+    {
+      "charBegin": 73,
+      "charEnd": 74,
+      "id": 22,
+      "sentence": 3,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 75,
+      "charEnd": 76,
+      "id": 23,
+      "sentence": 3,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 77,
+      "charEnd": 86,
+      "id": 24,
+      "sentence": 3,
+      "text": "Friedrich",
+      "word": 3
+    },
+    {
+      "charBegin": 87,
+      "charEnd": 97,
+      "id": 25,
+      "sentence": 3,
+      "text": "antwortete",
+      "word": 4
+    },
+    {
+      "charBegin": 98,
+      "charEnd": 104,
+      "id": 26,
+      "sentence": 3,
+      "text": "ebenso",
+      "word": 5
+    },
+    {
+      "charBegin": 105,
+      "charEnd": 110,
+      "id": 27,
+      "sentence": 3,
+      "text": "leise",
+      "word": 6
+    },
+    {
+      "charBegin": 110,
+      "charEnd": 111,
+      "id": 28,
+      "sentence": 3,
+      "text": ":",
+      "word": 7
+    },
+    {
+      "charBegin": 112,
+      "charEnd": 113,
+      "id": 29,
+      "sentence": 3,
+      "text": "»",
+      "word": 8
+    },
+    {
+      "charBegin": 113,
+      "charEnd": 116,
+      "id": 30,
+      "sentence": 3,
+      "text": "Das",
+      "word": 9
+    },
+    {
+      "charBegin": 117,
+      "charEnd": 120,
+      "id": 31,
+      "sentence": 3,
+      "text": "ist",
+      "word": 10
+    },
+    {
+      "charBegin": 121,
+      "charEnd": 124,
+      "id": 32,
+      "sentence": 3,
+      "text": "des",
+      "word": 11
+    },
+    {
+      "charBegin": 125,
+      "charEnd": 129,
+      "id": 33,
+      "sentence": 3,
+      "text": "Ohms",
+      "word": 12
+    },
+    {
+      "charBegin": 130,
+      "charEnd": 135,
+      "id": 34,
+      "sentence": 3,
+      "text": "Simon",
+      "word": 13
+    },
+    {
+      "charBegin": 136,
+      "charEnd": 148,
+      "id": 35,
+      "sentence": 3,
+      "text": "Schweinehirt",
+      "word": 14
+    },
+    {
+      "charBegin": 148,
+      "charEnd": 149,
+      "id": 36,
+      "sentence": 3,
+      "text": ",",
+      "word": 15
+    },
+    {
+      "charBegin": 150,
+      "charEnd": 153,
+      "id": 37,
+      "sentence": 3,
+      "text": "der",
+      "word": 16
+    },
+    {
+      "charBegin": 154,
+      "charEnd": 158,
+      "id": 38,
+      "sentence": 3,
+      "text": "eine",
+      "word": 17
+    },
+    {
+      "charBegin": 159,
+      "charEnd": 168,
+      "id": 39,
+      "sentence": 3,
+      "text": "Botschaft",
+      "word": 18
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 171,
+      "id": 40,
+      "sentence": 3,
+      "text": "an",
+      "word": 19
+    },
+    {
+      "charBegin": 172,
+      "charEnd": 175,
+      "id": 41,
+      "sentence": 3,
+      "text": "den",
+      "word": 20
+    },
+    {
+      "charBegin": 176,
+      "charEnd": 185,
+      "id": 42,
+      "sentence": 3,
+      "text": "Hülsmeyer",
+      "word": 21
+    },
+    {
+      "charBegin": 186,
+      "charEnd": 189,
+      "id": 43,
+      "sentence": 3,
+      "text": "hat",
+      "word": 22
+    },
+    {
+      "charBegin": 189,
+      "charEnd": 190,
+      "id": 44,
+      "sentence": 3,
+      "text": ".",
+      "word": 23
+    },
+    {
+      "charBegin": 191,
+      "charEnd": 194,
+      "id": 45,
+      "sentence": 4,
+      "text": "Der",
+      "word": 1
+    },
+    {
+      "charBegin": 195,
+      "charEnd": 198,
+      "id": 46,
+      "sentence": 4,
+      "text": "Ohm",
+      "word": 2
+    },
+    {
+      "charBegin": 199,
+      "charEnd": 202,
+      "id": 47,
+      "sentence": 4,
+      "text": "hat",
+      "word": 3
+    },
+    {
+      "charBegin": 203,
+      "charEnd": 206,
+      "id": 48,
+      "sentence": 4,
+      "text": "mir",
+      "word": 4
+    },
+    {
+      "charBegin": 207,
+      "charEnd": 210,
+      "id": 49,
+      "sentence": 4,
+      "text": "ein",
+      "word": 5
+    },
+    {
+      "charBegin": 211,
+      "charEnd": 215,
+      "id": 50,
+      "sentence": 4,
+      "text": "Paar",
+      "word": 6
+    },
+    {
+      "charBegin": 216,
+      "charEnd": 222,
+      "id": 51,
+      "sentence": 4,
+      "text": "Schuhe",
+      "word": 7
+    },
+    {
+      "charBegin": 223,
+      "charEnd": 226,
+      "id": 52,
+      "sentence": 4,
+      "text": "und",
+      "word": 8
+    },
+    {
+      "charBegin": 227,
+      "charEnd": 231,
+      "id": 53,
+      "sentence": 4,
+      "text": "eine",
+      "word": 9
+    },
+    {
+      "charBegin": 232,
+      "charEnd": 237,
+      "id": 54,
+      "sentence": 4,
+      "text": "Weste",
+      "word": 10
+    },
+    {
+      "charBegin": 238,
+      "charEnd": 241,
+      "id": 55,
+      "sentence": 4,
+      "text": "von",
+      "word": 11
+    },
+    {
+      "charBegin": 242,
+      "charEnd": 250,
+      "id": 56,
+      "sentence": 4,
+      "text": "Drillich",
+      "word": 12
+    },
+    {
+      "charBegin": 251,
+      "charEnd": 258,
+      "id": 57,
+      "sentence": 4,
+      "text": "gegeben",
+      "word": 13
+    },
+    {
+      "charBegin": 258,
+      "charEnd": 259,
+      "id": 58,
+      "sentence": 4,
+      "text": ";",
+      "word": 14
+    },
+    {
+      "charBegin": 260,
+      "charEnd": 263,
+      "id": 59,
+      "sentence": 5,
+      "text": "die",
+      "word": 1
+    },
+    {
+      "charBegin": 264,
+      "charEnd": 267,
+      "id": 60,
+      "sentence": 5,
+      "text": "hat",
+      "word": 2
+    },
+    {
+      "charBegin": 268,
+      "charEnd": 271,
+      "id": 61,
+      "sentence": 5,
+      "text": "mir",
+      "word": 3
+    },
+    {
+      "charBegin": 272,
+      "charEnd": 275,
+      "id": 62,
+      "sentence": 5,
+      "text": "der",
+      "word": 4
+    },
+    {
+      "charBegin": 276,
+      "charEnd": 281,
+      "id": 63,
+      "sentence": 5,
+      "text": "Junge",
+      "word": 5
+    },
+    {
+      "charBegin": 282,
+      "charEnd": 291,
+      "id": 64,
+      "sentence": 5,
+      "text": "unterwegs",
+      "word": 6
+    },
+    {
+      "charBegin": 292,
+      "charEnd": 300,
+      "id": 65,
+      "sentence": 5,
+      "text": "getragen",
+      "word": 7
+    },
+    {
+      "charBegin": 300,
+      "charEnd": 301,
+      "id": 66,
+      "sentence": 5,
+      "text": ";",
+      "word": 8
+    },
+    {
+      "charBegin": 302,
+      "charEnd": 307,
+      "id": 67,
+      "sentence": 6,
+      "text": "dafür",
+      "word": 1
+    },
+    {
+      "charBegin": 308,
+      "charEnd": 311,
+      "id": 68,
+      "sentence": 6,
+      "text": "hab",
+      "word": 2
+    },
+    {
+      "charBegin": 311,
+      "charEnd": 312,
+      "id": 69,
+      "sentence": 6,
+      "text": "'",
+      "word": 3
+    },
+    {
+      "charBegin": 313,
+      "charEnd": 316,
+      "id": 70,
+      "sentence": 6,
+      "text": "ich",
+      "word": 4
+    },
+    {
+      "charBegin": 317,
+      "charEnd": 320,
+      "id": 71,
+      "sentence": 6,
+      "text": "ihm",
+      "word": 5
+    },
+    {
+      "charBegin": 321,
+      "charEnd": 326,
+      "id": 72,
+      "sentence": 6,
+      "text": "meine",
+      "word": 6
+    },
+    {
+      "charBegin": 327,
+      "charEnd": 334,
+      "id": 73,
+      "sentence": 6,
+      "text": "Violine",
+      "word": 7
+    },
+    {
+      "charBegin": 335,
+      "charEnd": 346,
+      "id": 74,
+      "sentence": 6,
+      "text": "versprochen",
+      "word": 8
+    },
+    {
+      "charBegin": 346,
+      "charEnd": 347,
+      "id": 75,
+      "sentence": 6,
+      "text": ";",
+      "word": 9
+    },
+    {
+      "charBegin": 348,
+      "charEnd": 350,
+      "id": 76,
+      "sentence": 7,
+      "text": "er",
+      "word": 1
+    },
+    {
+      "charBegin": 351,
+      "charEnd": 354,
+      "id": 77,
+      "sentence": 7,
+      "text": "ist",
+      "word": 2
+    },
+    {
+      "charBegin": 355,
+      "charEnd": 357,
+      "id": 78,
+      "sentence": 7,
+      "text": "ja",
+      "word": 3
+    },
+    {
+      "charBegin": 358,
+      "charEnd": 362,
+      "id": 79,
+      "sentence": 7,
+      "text": "doch",
+      "word": 4
+    },
+    {
+      "charBegin": 363,
+      "charEnd": 366,
+      "id": 80,
+      "sentence": 7,
+      "text": "ein",
+      "word": 5
+    },
+    {
+      "charBegin": 367,
+      "charEnd": 372,
+      "id": 81,
+      "sentence": 7,
+      "text": "armes",
+      "word": 6
+    },
+    {
+      "charBegin": 373,
+      "charEnd": 377,
+      "id": 82,
+      "sentence": 7,
+      "text": "Kind",
+      "word": 7
+    },
+    {
+      "charBegin": 377,
+      "charEnd": 378,
+      "id": 83,
+      "sentence": 7,
+      "text": ";",
+      "word": 8
+    },
+    {
+      "charBegin": 379,
+      "charEnd": 387,
+      "id": 84,
+      "sentence": 8,
+      "text": "Johannes",
+      "word": 1
+    },
+    {
+      "charBegin": 388,
+      "charEnd": 393,
+      "id": 85,
+      "sentence": 8,
+      "text": "heißt",
+      "word": 2
+    },
+    {
+      "charBegin": 394,
+      "charEnd": 396,
+      "id": 86,
+      "sentence": 8,
+      "text": "er",
+      "word": 3
+    },
+    {
+      "charBegin": 396,
+      "charEnd": 397,
+      "id": 87,
+      "sentence": 8,
+      "text": ".",
+      "word": 4
+    },
+    {
+      "charBegin": 397,
+      "charEnd": 398,
+      "id": 88,
+      "sentence": 9,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 399,
+      "charEnd": 400,
+      "id": 89,
+      "sentence": 9,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 401,
+      "charEnd": 402,
+      "id": 90,
+      "sentence": 9,
+      "text": "»",
+      "word": 3
+    },
+    {
+      "charBegin": 402,
+      "charEnd": 405,
+      "id": 91,
+      "sentence": 9,
+      "text": "Nun",
+      "word": 4
+    },
+    {
+      "charBegin": 406,
+      "charEnd": 407,
+      "id": 92,
+      "sentence": 9,
+      "text": "–",
+      "word": 5
+    },
+    {
+      "charBegin": 407,
+      "charEnd": 408,
+      "id": 93,
+      "sentence": 9,
+      "text": "?",
+      "word": 6
+    },
+    {
+      "charBegin": 408,
+      "charEnd": 409,
+      "id": 94,
+      "sentence": 9,
+      "text": "«",
+      "word": 7
+    },
+    {
+      "charBegin": 410,
+      "charEnd": 415,
+      "id": 95,
+      "sentence": 9,
+      "text": "sagte",
+      "word": 8
+    },
+    {
+      "charBegin": 416,
+      "charEnd": 424,
+      "id": 96,
+      "sentence": 9,
+      "text": "Margreth",
+      "word": 9
+    },
+    {
+      "charBegin": 424,
+      "charEnd": 425,
+      "id": 97,
+      "sentence": 9,
+      "text": ".",
+      "word": 10
+    },
+    {
+      "charBegin": 426,
+      "charEnd": 427,
+      "id": 98,
+      "sentence": 10,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 428,
+      "charEnd": 429,
+      "id": 99,
+      "sentence": 10,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 429,
+      "charEnd": 432,
+      "id": 100,
+      "sentence": 10,
+      "text": "Was",
+      "word": 3
+    },
+    {
+      "charBegin": 433,
+      "charEnd": 439,
+      "id": 101,
+      "sentence": 10,
+      "text": "willst",
+      "word": 4
+    },
+    {
+      "charBegin": 440,
+      "charEnd": 442,
+      "id": 102,
+      "sentence": 10,
+      "text": "du",
+      "word": 5
+    },
+    {
+      "charBegin": 442,
+      "charEnd": 443,
+      "id": 103,
+      "sentence": 10,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 444,
+      "charEnd": 450,
+      "id": 104,
+      "sentence": 10,
+      "text": "Mutter",
+      "word": 7
+    },
+    {
+      "charBegin": 450,
+      "charEnd": 451,
+      "id": 105,
+      "sentence": 10,
+      "text": "?",
+      "word": 8
+    },
+    {
+      "charBegin": 451,
+      "charEnd": 452,
+      "id": 106,
+      "sentence": 10,
+      "text": "«",
+      "word": 9
+    },
+    {
+      "charBegin": 453,
+      "charEnd": 454,
+      "id": 107,
+      "sentence": 10,
+      "text": "–",
+      "word": 10
+    },
+    {
+      "charBegin": 455,
+      "charEnd": 456,
+      "id": 108,
+      "sentence": 10,
+      "text": "»",
+      "word": 11
+    },
+    {
+      "charBegin": 456,
+      "charEnd": 459,
+      "id": 109,
+      "sentence": 10,
+      "text": "Wie",
+      "word": 12
+    },
+    {
+      "charBegin": 460,
+      "charEnd": 465,
+      "id": 110,
+      "sentence": 10,
+      "text": "heißt",
+      "word": 13
+    },
+    {
+      "charBegin": 466,
+      "charEnd": 468,
+      "id": 111,
+      "sentence": 10,
+      "text": "er",
+      "word": 14
+    },
+    {
+      "charBegin": 469,
+      "charEnd": 475,
+      "id": 112,
+      "sentence": 10,
+      "text": "weiter",
+      "word": 15
+    },
+    {
+      "charBegin": 475,
+      "charEnd": 476,
+      "id": 113,
+      "sentence": 10,
+      "text": "?",
+      "word": 16
+    },
+    {
+      "charBegin": 476,
+      "charEnd": 477,
+      "id": 114,
+      "sentence": 10,
+      "text": "«",
+      "word": 17
+    },
+    {
+      "charBegin": 478,
+      "charEnd": 479,
+      "id": 115,
+      "sentence": 10,
+      "text": "–",
+      "word": 18
+    },
+    {
+      "charBegin": 480,
+      "charEnd": 481,
+      "id": 116,
+      "sentence": 10,
+      "text": "»",
+      "word": 19
+    },
+    {
+      "charBegin": 481,
+      "charEnd": 483,
+      "id": 117,
+      "sentence": 10,
+      "text": "Ja",
+      "word": 20
+    },
+    {
+      "charBegin": 484,
+      "charEnd": 485,
+      "id": 118,
+      "sentence": 10,
+      "text": "–",
+      "word": 21
+    },
+    {
+      "charBegin": 486,
+      "charEnd": 492,
+      "id": 119,
+      "sentence": 10,
+      "text": "weiter",
+      "word": 22
+    },
+    {
+      "charBegin": 493,
+      "charEnd": 498,
+      "id": 120,
+      "sentence": 10,
+      "text": "nicht",
+      "word": 23
+    },
+    {
+      "charBegin": 499,
+      "charEnd": 500,
+      "id": 121,
+      "sentence": 10,
+      "text": "–",
+      "word": 24
+    },
+    {
+      "charBegin": 501,
+      "charEnd": 505,
+      "id": 122,
+      "sentence": 10,
+      "text": "oder",
+      "word": 25
+    },
+    {
+      "charBegin": 505,
+      "charEnd": 506,
+      "id": 123,
+      "sentence": 10,
+      "text": ",",
+      "word": 26
+    },
+    {
+      "charBegin": 507,
+      "charEnd": 512,
+      "id": 124,
+      "sentence": 10,
+      "text": "warte",
+      "word": 27
+    },
+    {
+      "charBegin": 513,
+      "charEnd": 514,
+      "id": 125,
+      "sentence": 10,
+      "text": "–",
+      "word": 28
+    },
+    {
+      "charBegin": 515,
+      "charEnd": 519,
+      "id": 126,
+      "sentence": 10,
+      "text": "doch",
+      "word": 29
+    },
+    {
+      "charBegin": 519,
+      "charEnd": 520,
+      "id": 127,
+      "sentence": 10,
+      "text": ":",
+      "word": 30
+    },
+    {
+      "charBegin": 521,
+      "charEnd": 528,
+      "id": 128,
+      "sentence": 10,
+      "text": "Niemand",
+      "word": 31
+    },
+    {
+      "charBegin": 528,
+      "charEnd": 529,
+      "id": 129,
+      "sentence": 10,
+      "text": ",",
+      "word": 32
+    },
+    {
+      "charBegin": 530,
+      "charEnd": 538,
+      "id": 130,
+      "sentence": 10,
+      "text": "Johannes",
+      "word": 33
+    },
+    {
+      "charBegin": 539,
+      "charEnd": 546,
+      "id": 131,
+      "sentence": 10,
+      "text": "Niemand",
+      "word": 34
+    },
+    {
+      "charBegin": 547,
+      "charEnd": 552,
+      "id": 132,
+      "sentence": 10,
+      "text": "heißt",
+      "word": 35
+    },
+    {
+      "charBegin": 553,
+      "charEnd": 555,
+      "id": 133,
+      "sentence": 10,
+      "text": "er",
+      "word": 36
+    },
+    {
+      "charBegin": 555,
+      "charEnd": 556,
+      "id": 134,
+      "sentence": 10,
+      "text": ".",
+      "word": 37
+    }
+  ]
+}

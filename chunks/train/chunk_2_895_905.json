@@ -1,0 +1,4042 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 1,
+            "charBegin": 2,
+            "charEnd": 42,
+            "end": 8
+          }
+        ],
+        "text": "Mit diesen Worten stand der Gutsherr auf",
+        "tokenIds": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 6,
+            "charBegin": 30,
+            "charEnd": 38,
+            "end": 7
+          }
+        ],
+        "text": [
+          "Gutsherr"
+        ],
+        "tokenIds": [
+          6
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1156,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 8,
+            "charBegin": 43,
+            "charEnd": 65,
+            "end": 12
+          }
+        ],
+        "text": "und verließ das Zimmer",
+        "tokenIds": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1157,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 13,
+            "charBegin": 67,
+            "charEnd": 126,
+            "end": 21
+          }
+        ],
+        "text": "um mit Herrn Kapp die gerichtliche Leichenschau vorzunehmen",
+        "tokenIds": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 15,
+            "charBegin": 74,
+            "charEnd": 84,
+            "end": 17
+          }
+        ],
+        "text": [
+          "Herrn",
+          "Kapp"
+        ],
+        "tokenIds": [
+          15,
+          16
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1158,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 23,
+            "charBegin": 130,
+            "charEnd": 155,
+            "end": 27
+          }
+        ],
+        "text": "Die Untersuchung war kurz",
+        "tokenIds": [
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1159,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 28,
+            "charBegin": 157,
+            "charEnd": 181,
+            "end": 31
+          }
+        ],
+        "text": "gewaltsamer Tod erwiesen",
+        "tokenIds": [
+          28,
+          29,
+          30
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1160,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 32,
+            "charBegin": 183,
+            "charEnd": 214,
+            "end": 36
+          }
+        ],
+        "text": "der vermutliche Täter entflohen",
+        "tokenIds": [
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 33,
+            "charBegin": 187,
+            "charEnd": 204,
+            "end": 35
+          }
+        ],
+        "text": [
+          "vermutliche",
+          "Täter"
+        ],
+        "tokenIds": [
+          33,
+          34
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1161,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 37,
+            "charBegin": 216,
+            "charEnd": 254,
+            "end": 43
+          }
+        ],
+        "text": "die Anzeigen gegen ihn zwar gravierend",
+        "tokenIds": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1162,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 44,
+            "charBegin": 256,
+            "charEnd": 305,
+            "end": 50
+          }
+        ],
+        "text": "doch ohne persönliches Geständnis nicht beweisend",
+        "tokenIds": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1163,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 51,
+            "charBegin": 307,
+            "charEnd": 346,
+            "end": 56
+          }
+        ],
+        "text": "seine Flucht allerdings sehr verdächtig",
+        "tokenIds": [
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 51,
+            "charBegin": 307,
+            "charEnd": 312,
+            "end": 52
+          }
+        ],
+        "text": [
+          "seine"
+        ],
+        "tokenIds": [
+          51
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1164,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 57,
+            "charBegin": 348,
+            "charEnd": 428,
+            "end": 68
+          }
+        ],
+        "text": "So mußte die gerichtliche Verhandlung ohne genügenden Erfolg geschlossen werden .",
+        "tokenIds": [
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1165,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 68,
+            "charBegin": 429,
+            "charEnd": 480,
+            "end": 76
+          }
+        ],
+        "text": "Die Juden der Umgegend hatten großen Anteil gezeigt",
+        "tokenIds": [
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 69,
+            "charBegin": 433,
+            "charEnd": 451,
+            "end": 72
+          }
+        ],
+        "text": [
+          "Juden",
+          "der",
+          "Umgegend"
+        ],
+        "tokenIds": [
+          69,
+          70,
+          71
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1166,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 77,
+            "charBegin": 482,
+            "charEnd": 542,
+            "end": 88
+          }
+        ],
+        "text": "Das Haus der Witwe ward nie leer von Jammernden und Ratenden",
+        "tokenIds": [
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 85,
+            "charBegin": 519,
+            "charEnd": 529,
+            "end": 86
+          },
+          {
+            "begin": 87,
+            "charBegin": 534,
+            "charEnd": 542,
+            "end": 88
+          }
+        ],
+        "text": [
+          "Jammernden",
+          "Ratenden"
+        ],
+        "tokenIds": [
+          85,
+          87
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1167,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 89,
+            "charBegin": 544,
+            "charEnd": 623,
+            "end": 102
+          }
+        ],
+        "text": "Seit Menschengedenken waren nicht so viel Juden beisammen in L. gesehen worden .",
+        "tokenIds": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1168,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 102,
+            "charBegin": 624,
+            "charEnd": 685,
+            "end": 110
+          }
+        ],
+        "text": "Durch den Mord ihres Glaubensgenossen aufs Äußerste erbittert",
+        "tokenIds": [
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 105,
+            "charBegin": 639,
+            "charEnd": 644,
+            "end": 106
+          }
+        ],
+        "text": [
+          "ihres"
+        ],
+        "tokenIds": [
+          105
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1169,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 111,
+            "charBegin": 687,
+            "charEnd": 761,
+            "end": 127
+          }
+        ],
+        "text": "hatten sie weder Mühe noch Geld gespart , dem Täter auf die Spur zu kommen .",
+        "tokenIds": [
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 112,
+            "charBegin": 694,
+            "charEnd": 697,
+            "end": 113
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          112
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1170,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 127,
+            "charBegin": 762,
+            "charEnd": 852,
+            "end": 143
+          }
+        ],
+        "text": "Man weiß sogar , daß einer derselben , gemeinhin der Wucherjoel genannt , einem seiner Kunden",
+        "tokenIds": [
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 132,
+            "charBegin": 782,
+            "charEnd": 787,
+            "end": 133
+          },
+          {
+            "begin": 137,
+            "charBegin": 813,
+            "charEnd": 823,
+            "end": 138
+          },
+          {
+            "begin": 141,
+            "charBegin": 839,
+            "charEnd": 845,
+            "end": 142
+          }
+        ],
+        "text": [
+          "einer",
+          "Wucherjoel",
+          "seiner"
+        ],
+        "tokenIds": [
+          132,
+          137,
+          141
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1171,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 144,
+            "charBegin": 854,
+            "charEnd": 888,
+            "end": 149
+          }
+        ],
+        "text": "der ihm mehrere Hunderte schuldete",
+        "tokenIds": [
+          144,
+          145,
+          146,
+          147,
+          148
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 145,
+            "charBegin": 858,
+            "charEnd": 861,
+            "end": 146
+          }
+        ],
+        "text": [
+          "ihm"
+        ],
+        "tokenIds": [
+          145
+        ]
+      },
+      "hasNested": false,
+      "id": 1172,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 149,
+            "charBegin": 889,
+            "charEnd": 939,
+            "end": 158
+          }
+        ],
+        "text": "und den er für einen besonders listigen Kerl hielt",
+        "tokenIds": [
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 151,
+            "charBegin": 897,
+            "charEnd": 899,
+            "end": 152
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          151
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1173,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 159,
+            "charBegin": 941,
+            "charEnd": 1035,
+            "end": 175
+          }
+        ],
+        "text": "Erlaß der ganzen Summe angeboten hatte , falls er ihm zur Verhaftung des Mergel verhelfen wolle",
+        "tokenIds": [
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1174,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 176,
+            "charBegin": 1037,
+            "charEnd": 1130,
+            "end": 193
+          }
+        ],
+        "text": "denn der Glaube war allgemein unter den Juden , daß der Täter nur mit guter Beihülfe entwischt",
+        "tokenIds": [
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 183,
+            "charBegin": 1077,
+            "charEnd": 1082,
+            "end": 184
+          }
+        ],
+        "text": [
+          "Juden"
+        ],
+        "tokenIds": [
+          183
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1175,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 193,
+            "charBegin": 1131,
+            "charEnd": 1174,
+            "end": 200
+          }
+        ],
+        "text": "und wahrscheinlich noch in der Umgegend sei",
+        "tokenIds": [
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1176,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 201,
+            "charBegin": 1176,
+            "charEnd": 1205,
+            "end": 206
+          }
+        ],
+        "text": "Als dennoch alles nichts half",
+        "tokenIds": [
+          201,
+          202,
+          203,
+          204,
+          205
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1177,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 206,
+            "charBegin": 1206,
+            "charEnd": 1269,
+            "end": 215
+          }
+        ],
+        "text": "und die gerichtliche Verhandlung für beendet erklärt worden war",
+        "tokenIds": [
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1178,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 216,
+            "charBegin": 1271,
+            "charEnd": 1351,
+            "end": 227
+          }
+        ],
+        "text": "erschien am nächsten Morgen eine Anzahl der angesehensten Israeliten im Schlosse",
+        "tokenIds": [
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 221,
+            "charBegin": 1304,
+            "charEnd": 1339,
+            "end": 225
+          }
+        ],
+        "text": [
+          "Anzahl",
+          "der",
+          "angesehensten",
+          "Israeliten"
+        ],
+        "tokenIds": [
+          221,
+          222,
+          223,
+          224
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1179,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 228,
+            "charBegin": 1353,
+            "charEnd": 1398,
+            "end": 235
+          }
+        ],
+        "text": "um dem gnädigen Herrn einen Handel anzutragen",
+        "tokenIds": [
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 230,
+            "charBegin": 1360,
+            "charEnd": 1374,
+            "end": 232
+          }
+        ],
+        "text": [
+          "gnädigen",
+          "Herrn"
+        ],
+        "tokenIds": [
+          230,
+          231
+        ]
+      },
+      "hasNested": false,
+      "id": 1180,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 236,
+            "charBegin": 1400,
+            "charEnd": 1428,
+            "end": 241
+          }
+        ],
+        "text": "Der Gegenstand war die Buche",
+        "tokenIds": [
+          236,
+          237,
+          238,
+          239,
+          240
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1181,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 242,
+            "charBegin": 1430,
+            "charEnd": 1460,
+            "end": 247
+          }
+        ],
+        "text": "unter der Aarons Stab gefunden",
+        "tokenIds": [
+          242,
+          243,
+          244,
+          245,
+          246
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1182,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 247,
+            "charBegin": 1461,
+            "charEnd": 1509,
+            "end": 255
+          }
+        ],
+        "text": "und wo der Mord wahrscheinlich verübt worden war",
+        "tokenIds": [
+          247,
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1183,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__895_905",
+  "originalText": "– Mit diesen Worten stand der Gutsherr auf und verließ das Zimmer, um mit Herrn Kapp die gerichtliche Leichenschau vorzunehmen. – Die Untersuchung war kurz, gewaltsamer Tod erwiesen, der vermutliche Täter entflohen, die Anzeigen gegen ihn zwar gravierend, doch ohne persönliches Geständnis nicht beweisend, seine Flucht allerdings sehr verdächtig. So mußte die gerichtliche Verhandlung ohne genügenden Erfolg geschlossen werden.\nDie Juden der Umgegend hatten großen Anteil gezeigt. Das Haus der Witwe ward nie leer von Jammernden und Ratenden. Seit Menschengedenken waren nicht so viel Juden beisammen in L. gesehen worden. Durch den Mord ihres Glaubensgenossen aufs Äußerste erbittert, hatten sie weder Mühe noch Geld gespart, dem Täter auf die Spur zu kommen. Man weiß sogar, daß einer derselben, gemeinhin der Wucherjoel genannt, einem seiner Kunden, der ihm mehrere Hunderte schuldete und den er für einen besonders listigen Kerl hielt, Erlaß der ganzen Summe angeboten hatte, falls er ihm zur Verhaftung des Mergel verhelfen wolle; denn der Glaube war allgemein unter den Juden, daß der Täter nur mit guter Beihülfe entwischt und wahrscheinlich noch in der Umgegend sei. Als dennoch alles nichts half und die gerichtliche Verhandlung für beendet erklärt worden war, erschien am nächsten Morgen eine Anzahl der angesehensten Israeliten im Schlosse, um dem gnädigen Herrn einen Handel anzutragen. Der Gegenstand war die Buche, unter der Aarons Stab gefunden und wo der Mord wahrscheinlich verübt worden war.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 127,
+      "end": 22,
+      "id": 0,
+      "text": "– Mit diesen Worten stand der Gutsherr auf und verließ das Zimmer, um mit Herrn Kapp die gerichtliche Leichenschau vorzunehmen.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokens": [
+        "–",
+        "Mit",
+        "diesen",
+        "Worten",
+        "stand",
+        "der",
+        "Gutsherr",
+        "auf",
+        "und",
+        "verließ",
+        "das",
+        "Zimmer",
+        ",",
+        "um",
+        "mit",
+        "Herrn",
+        "Kapp",
+        "die",
+        "gerichtliche",
+        "Leichenschau",
+        "vorzunehmen",
+        "."
+      ]
+    },
+    {
+      "begin": 22,
+      "charBegin": 128,
+      "charEnd": 347,
+      "end": 57,
+      "id": 1,
+      "text": "– Die Untersuchung war kurz, gewaltsamer Tod erwiesen, der vermutliche Täter entflohen, die Anzeigen gegen ihn zwar gravierend, doch ohne persönliches Geständnis nicht beweisend, seine Flucht allerdings sehr verdächtig.",
+      "tokenIds": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "tokens": [
+        "–",
+        "Die",
+        "Untersuchung",
+        "war",
+        "kurz",
+        ",",
+        "gewaltsamer",
+        "Tod",
+        "erwiesen",
+        ",",
+        "der",
+        "vermutliche",
+        "Täter",
+        "entflohen",
+        ",",
+        "die",
+        "Anzeigen",
+        "gegen",
+        "ihn",
+        "zwar",
+        "gravierend",
+        ",",
+        "doch",
+        "ohne",
+        "persönliches",
+        "Geständnis",
+        "nicht",
+        "beweisend",
+        ",",
+        "seine",
+        "Flucht",
+        "allerdings",
+        "sehr",
+        "verdächtig",
+        "."
+      ]
+    },
+    {
+      "begin": 57,
+      "charBegin": 348,
+      "charEnd": 428,
+      "end": 68,
+      "id": 2,
+      "text": "So mußte die gerichtliche Verhandlung ohne genügenden Erfolg geschlossen werden.",
+      "tokenIds": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "tokens": [
+        "So",
+        "mußte",
+        "die",
+        "gerichtliche",
+        "Verhandlung",
+        "ohne",
+        "genügenden",
+        "Erfolg",
+        "geschlossen",
+        "werden",
+        "."
+      ]
+    },
+    {
+      "begin": 68,
+      "charBegin": 428,
+      "charEnd": 481,
+      "end": 77,
+      "id": 3,
+      "text": "\nDie Juden der Umgegend hatten großen Anteil gezeigt.",
+      "tokenIds": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "tokens": [
+        "Die",
+        "Juden",
+        "der",
+        "Umgegend",
+        "hatten",
+        "großen",
+        "Anteil",
+        "gezeigt",
+        "."
+      ]
+    },
+    {
+      "begin": 77,
+      "charBegin": 482,
+      "charEnd": 543,
+      "end": 89,
+      "id": 4,
+      "text": "Das Haus der Witwe ward nie leer von Jammernden und Ratenden.",
+      "tokenIds": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      "tokens": [
+        "Das",
+        "Haus",
+        "der",
+        "Witwe",
+        "ward",
+        "nie",
+        "leer",
+        "von",
+        "Jammernden",
+        "und",
+        "Ratenden",
+        "."
+      ]
+    },
+    {
+      "begin": 89,
+      "charBegin": 544,
+      "charEnd": 623,
+      "end": 102,
+      "id": 5,
+      "text": "Seit Menschengedenken waren nicht so viel Juden beisammen in L. gesehen worden.",
+      "tokenIds": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ],
+      "tokens": [
+        "Seit",
+        "Menschengedenken",
+        "waren",
+        "nicht",
+        "so",
+        "viel",
+        "Juden",
+        "beisammen",
+        "in",
+        "L.",
+        "gesehen",
+        "worden",
+        "."
+      ]
+    },
+    {
+      "begin": 102,
+      "charBegin": 624,
+      "charEnd": 761,
+      "end": 127,
+      "id": 6,
+      "text": "Durch den Mord ihres Glaubensgenossen aufs Äußerste erbittert, hatten sie weder Mühe noch Geld gespart, dem Täter auf die Spur zu kommen.",
+      "tokenIds": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "tokens": [
+        "Durch",
+        "den",
+        "Mord",
+        "ihres",
+        "Glaubensgenossen",
+        "aufs",
+        "Äußerste",
+        "erbittert",
+        ",",
+        "hatten",
+        "sie",
+        "weder",
+        "Mühe",
+        "noch",
+        "Geld",
+        "gespart",
+        ",",
+        "dem",
+        "Täter",
+        "auf",
+        "die",
+        "Spur",
+        "zu",
+        "kommen",
+        "."
+      ]
+    },
+    {
+      "begin": 127,
+      "charBegin": 762,
+      "charEnd": 1175,
+      "end": 201,
+      "id": 7,
+      "text": "Man weiß sogar, daß einer derselben, gemeinhin der Wucherjoel genannt, einem seiner Kunden, der ihm mehrere Hunderte schuldete und den er für einen besonders listigen Kerl hielt, Erlaß der ganzen Summe angeboten hatte, falls er ihm zur Verhaftung des Mergel verhelfen wolle; denn der Glaube war allgemein unter den Juden, daß der Täter nur mit guter Beihülfe entwischt und wahrscheinlich noch in der Umgegend sei.",
+      "tokenIds": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "tokens": [
+        "Man",
+        "weiß",
+        "sogar",
+        ",",
+        "daß",
+        "einer",
+        "derselben",
+        ",",
+        "gemeinhin",
+        "der",
+        "Wucherjoel",
+        "genannt",
+        ",",
+        "einem",
+        "seiner",
+        "Kunden",
+        ",",
+        "der",
+        "ihm",
+        "mehrere",
+        "Hunderte",
+        "schuldete",
+        "und",
+        "den",
+        "er",
+        "für",
+        "einen",
+        "besonders",
+        "listigen",
+        "Kerl",
+        "hielt",
+        ",",
+        "Erlaß",
+        "der",
+        "ganzen",
+        "Summe",
+        "angeboten",
+        "hatte",
+        ",",
+        "falls",
+        "er",
+        "ihm",
+        "zur",
+        "Verhaftung",
+        "des",
+        "Mergel",
+        "verhelfen",
+        "wolle",
+        ";",
+        "denn",
+        "der",
+        "Glaube",
+        "war",
+        "allgemein",
+        "unter",
+        "den",
+        "Juden",
+        ",",
+        "daß",
+        "der",
+        "Täter",
+        "nur",
+        "mit",
+        "guter",
+        "Beihülfe",
+        "entwischt",
+        "und",
+        "wahrscheinlich",
+        "noch",
+        "in",
+        "der",
+        "Umgegend",
+        "sei",
+        "."
+      ]
+    },
+    {
+      "begin": 201,
+      "charBegin": 1176,
+      "charEnd": 1399,
+      "end": 236,
+      "id": 8,
+      "text": "Als dennoch alles nichts half und die gerichtliche Verhandlung für beendet erklärt worden war, erschien am nächsten Morgen eine Anzahl der angesehensten Israeliten im Schlosse, um dem gnädigen Herrn einen Handel anzutragen.",
+      "tokenIds": [
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235
+      ],
+      "tokens": [
+        "Als",
+        "dennoch",
+        "alles",
+        "nichts",
+        "half",
+        "und",
+        "die",
+        "gerichtliche",
+        "Verhandlung",
+        "für",
+        "beendet",
+        "erklärt",
+        "worden",
+        "war",
+        ",",
+        "erschien",
+        "am",
+        "nächsten",
+        "Morgen",
+        "eine",
+        "Anzahl",
+        "der",
+        "angesehensten",
+        "Israeliten",
+        "im",
+        "Schlosse",
+        ",",
+        "um",
+        "dem",
+        "gnädigen",
+        "Herrn",
+        "einen",
+        "Handel",
+        "anzutragen",
+        "."
+      ]
+    },
+    {
+      "begin": 236,
+      "charBegin": 1400,
+      "charEnd": 1510,
+      "end": 256,
+      "id": 9,
+      "text": "Der Gegenstand war die Buche, unter der Aarons Stab gefunden und wo der Mord wahrscheinlich verübt worden war.",
+      "tokenIds": [
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255
+      ],
+      "tokens": [
+        "Der",
+        "Gegenstand",
+        "war",
+        "die",
+        "Buche",
+        ",",
+        "unter",
+        "der",
+        "Aarons",
+        "Stab",
+        "gefunden",
+        "und",
+        "wo",
+        "der",
+        "Mord",
+        "wahrscheinlich",
+        "verübt",
+        "worden",
+        "war",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 1,
+      "id": 0,
+      "sentence": 1,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 2,
+      "charEnd": 5,
+      "id": 1,
+      "sentence": 1,
+      "text": "Mit",
+      "word": 2
+    },
+    {
+      "charBegin": 6,
+      "charEnd": 12,
+      "id": 2,
+      "sentence": 1,
+      "text": "diesen",
+      "word": 3
+    },
+    {
+      "charBegin": 13,
+      "charEnd": 19,
+      "id": 3,
+      "sentence": 1,
+      "text": "Worten",
+      "word": 4
+    },
+    {
+      "charBegin": 20,
+      "charEnd": 25,
+      "id": 4,
+      "sentence": 1,
+      "text": "stand",
+      "word": 5
+    },
+    {
+      "charBegin": 26,
+      "charEnd": 29,
+      "id": 5,
+      "sentence": 1,
+      "text": "der",
+      "word": 6
+    },
+    {
+      "charBegin": 30,
+      "charEnd": 38,
+      "id": 6,
+      "sentence": 1,
+      "text": "Gutsherr",
+      "word": 7
+    },
+    {
+      "charBegin": 39,
+      "charEnd": 42,
+      "id": 7,
+      "sentence": 1,
+      "text": "auf",
+      "word": 8
+    },
+    {
+      "charBegin": 43,
+      "charEnd": 46,
+      "id": 8,
+      "sentence": 1,
+      "text": "und",
+      "word": 9
+    },
+    {
+      "charBegin": 47,
+      "charEnd": 54,
+      "id": 9,
+      "sentence": 1,
+      "text": "verließ",
+      "word": 10
+    },
+    {
+      "charBegin": 55,
+      "charEnd": 58,
+      "id": 10,
+      "sentence": 1,
+      "text": "das",
+      "word": 11
+    },
+    {
+      "charBegin": 59,
+      "charEnd": 65,
+      "id": 11,
+      "sentence": 1,
+      "text": "Zimmer",
+      "word": 12
+    },
+    {
+      "charBegin": 65,
+      "charEnd": 66,
+      "id": 12,
+      "sentence": 1,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 67,
+      "charEnd": 69,
+      "id": 13,
+      "sentence": 1,
+      "text": "um",
+      "word": 14
+    },
+    {
+      "charBegin": 70,
+      "charEnd": 73,
+      "id": 14,
+      "sentence": 1,
+      "text": "mit",
+      "word": 15
+    },
+    {
+      "charBegin": 74,
+      "charEnd": 79,
+      "id": 15,
+      "sentence": 1,
+      "text": "Herrn",
+      "word": 16
+    },
+    {
+      "charBegin": 80,
+      "charEnd": 84,
+      "id": 16,
+      "sentence": 1,
+      "text": "Kapp",
+      "word": 17
+    },
+    {
+      "charBegin": 85,
+      "charEnd": 88,
+      "id": 17,
+      "sentence": 1,
+      "text": "die",
+      "word": 18
+    },
+    {
+      "charBegin": 89,
+      "charEnd": 101,
+      "id": 18,
+      "sentence": 1,
+      "text": "gerichtliche",
+      "word": 19
+    },
+    {
+      "charBegin": 102,
+      "charEnd": 114,
+      "id": 19,
+      "sentence": 1,
+      "text": "Leichenschau",
+      "word": 20
+    },
+    {
+      "charBegin": 115,
+      "charEnd": 126,
+      "id": 20,
+      "sentence": 1,
+      "text": "vorzunehmen",
+      "word": 21
+    },
+    {
+      "charBegin": 126,
+      "charEnd": 127,
+      "id": 21,
+      "sentence": 1,
+      "text": ".",
+      "word": 22
+    },
+    {
+      "charBegin": 128,
+      "charEnd": 129,
+      "id": 22,
+      "sentence": 2,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 130,
+      "charEnd": 133,
+      "id": 23,
+      "sentence": 2,
+      "text": "Die",
+      "word": 2
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 146,
+      "id": 24,
+      "sentence": 2,
+      "text": "Untersuchung",
+      "word": 3
+    },
+    {
+      "charBegin": 147,
+      "charEnd": 150,
+      "id": 25,
+      "sentence": 2,
+      "text": "war",
+      "word": 4
+    },
+    {
+      "charBegin": 151,
+      "charEnd": 155,
+      "id": 26,
+      "sentence": 2,
+      "text": "kurz",
+      "word": 5
+    },
+    {
+      "charBegin": 155,
+      "charEnd": 156,
+      "id": 27,
+      "sentence": 2,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 157,
+      "charEnd": 168,
+      "id": 28,
+      "sentence": 2,
+      "text": "gewaltsamer",
+      "word": 7
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 172,
+      "id": 29,
+      "sentence": 2,
+      "text": "Tod",
+      "word": 8
+    },
+    {
+      "charBegin": 173,
+      "charEnd": 181,
+      "id": 30,
+      "sentence": 2,
+      "text": "erwiesen",
+      "word": 9
+    },
+    {
+      "charBegin": 181,
+      "charEnd": 182,
+      "id": 31,
+      "sentence": 2,
+      "text": ",",
+      "word": 10
+    },
+    {
+      "charBegin": 183,
+      "charEnd": 186,
+      "id": 32,
+      "sentence": 2,
+      "text": "der",
+      "word": 11
+    },
+    {
+      "charBegin": 187,
+      "charEnd": 198,
+      "id": 33,
+      "sentence": 2,
+      "text": "vermutliche",
+      "word": 12
+    },
+    {
+      "charBegin": 199,
+      "charEnd": 204,
+      "id": 34,
+      "sentence": 2,
+      "text": "Täter",
+      "word": 13
+    },
+    {
+      "charBegin": 205,
+      "charEnd": 214,
+      "id": 35,
+      "sentence": 2,
+      "text": "entflohen",
+      "word": 14
+    },
+    {
+      "charBegin": 214,
+      "charEnd": 215,
+      "id": 36,
+      "sentence": 2,
+      "text": ",",
+      "word": 15
+    },
+    {
+      "charBegin": 216,
+      "charEnd": 219,
+      "id": 37,
+      "sentence": 2,
+      "text": "die",
+      "word": 16
+    },
+    {
+      "charBegin": 220,
+      "charEnd": 228,
+      "id": 38,
+      "sentence": 2,
+      "text": "Anzeigen",
+      "word": 17
+    },
+    {
+      "charBegin": 229,
+      "charEnd": 234,
+      "id": 39,
+      "sentence": 2,
+      "text": "gegen",
+      "word": 18
+    },
+    {
+      "charBegin": 235,
+      "charEnd": 238,
+      "id": 40,
+      "sentence": 2,
+      "text": "ihn",
+      "word": 19
+    },
+    {
+      "charBegin": 239,
+      "charEnd": 243,
+      "id": 41,
+      "sentence": 2,
+      "text": "zwar",
+      "word": 20
+    },
+    {
+      "charBegin": 244,
+      "charEnd": 254,
+      "id": 42,
+      "sentence": 2,
+      "text": "gravierend",
+      "word": 21
+    },
+    {
+      "charBegin": 254,
+      "charEnd": 255,
+      "id": 43,
+      "sentence": 2,
+      "text": ",",
+      "word": 22
+    },
+    {
+      "charBegin": 256,
+      "charEnd": 260,
+      "id": 44,
+      "sentence": 2,
+      "text": "doch",
+      "word": 23
+    },
+    {
+      "charBegin": 261,
+      "charEnd": 265,
+      "id": 45,
+      "sentence": 2,
+      "text": "ohne",
+      "word": 24
+    },
+    {
+      "charBegin": 266,
+      "charEnd": 278,
+      "id": 46,
+      "sentence": 2,
+      "text": "persönliches",
+      "word": 25
+    },
+    {
+      "charBegin": 279,
+      "charEnd": 289,
+      "id": 47,
+      "sentence": 2,
+      "text": "Geständnis",
+      "word": 26
+    },
+    {
+      "charBegin": 290,
+      "charEnd": 295,
+      "id": 48,
+      "sentence": 2,
+      "text": "nicht",
+      "word": 27
+    },
+    {
+      "charBegin": 296,
+      "charEnd": 305,
+      "id": 49,
+      "sentence": 2,
+      "text": "beweisend",
+      "word": 28
+    },
+    {
+      "charBegin": 305,
+      "charEnd": 306,
+      "id": 50,
+      "sentence": 2,
+      "text": ",",
+      "word": 29
+    },
+    {
+      "charBegin": 307,
+      "charEnd": 312,
+      "id": 51,
+      "sentence": 2,
+      "text": "seine",
+      "word": 30
+    },
+    {
+      "charBegin": 313,
+      "charEnd": 319,
+      "id": 52,
+      "sentence": 2,
+      "text": "Flucht",
+      "word": 31
+    },
+    {
+      "charBegin": 320,
+      "charEnd": 330,
+      "id": 53,
+      "sentence": 2,
+      "text": "allerdings",
+      "word": 32
+    },
+    {
+      "charBegin": 331,
+      "charEnd": 335,
+      "id": 54,
+      "sentence": 2,
+      "text": "sehr",
+      "word": 33
+    },
+    {
+      "charBegin": 336,
+      "charEnd": 346,
+      "id": 55,
+      "sentence": 2,
+      "text": "verdächtig",
+      "word": 34
+    },
+    {
+      "charBegin": 346,
+      "charEnd": 347,
+      "id": 56,
+      "sentence": 2,
+      "text": ".",
+      "word": 35
+    },
+    {
+      "charBegin": 348,
+      "charEnd": 350,
+      "id": 57,
+      "sentence": 3,
+      "text": "So",
+      "word": 1
+    },
+    {
+      "charBegin": 351,
+      "charEnd": 356,
+      "id": 58,
+      "sentence": 3,
+      "text": "mußte",
+      "word": 2
+    },
+    {
+      "charBegin": 357,
+      "charEnd": 360,
+      "id": 59,
+      "sentence": 3,
+      "text": "die",
+      "word": 3
+    },
+    {
+      "charBegin": 361,
+      "charEnd": 373,
+      "id": 60,
+      "sentence": 3,
+      "text": "gerichtliche",
+      "word": 4
+    },
+    {
+      "charBegin": 374,
+      "charEnd": 385,
+      "id": 61,
+      "sentence": 3,
+      "text": "Verhandlung",
+      "word": 5
+    },
+    {
+      "charBegin": 386,
+      "charEnd": 390,
+      "id": 62,
+      "sentence": 3,
+      "text": "ohne",
+      "word": 6
+    },
+    {
+      "charBegin": 391,
+      "charEnd": 401,
+      "id": 63,
+      "sentence": 3,
+      "text": "genügenden",
+      "word": 7
+    },
+    {
+      "charBegin": 402,
+      "charEnd": 408,
+      "id": 64,
+      "sentence": 3,
+      "text": "Erfolg",
+      "word": 8
+    },
+    {
+      "charBegin": 409,
+      "charEnd": 420,
+      "id": 65,
+      "sentence": 3,
+      "text": "geschlossen",
+      "word": 9
+    },
+    {
+      "charBegin": 421,
+      "charEnd": 427,
+      "id": 66,
+      "sentence": 3,
+      "text": "werden",
+      "word": 10
+    },
+    {
+      "charBegin": 427,
+      "charEnd": 428,
+      "id": 67,
+      "sentence": 3,
+      "text": ".",
+      "word": 11
+    },
+    {
+      "charBegin": 429,
+      "charEnd": 432,
+      "id": 68,
+      "sentence": 4,
+      "text": "Die",
+      "word": 1
+    },
+    {
+      "charBegin": 433,
+      "charEnd": 438,
+      "id": 69,
+      "sentence": 4,
+      "text": "Juden",
+      "word": 2
+    },
+    {
+      "charBegin": 439,
+      "charEnd": 442,
+      "id": 70,
+      "sentence": 4,
+      "text": "der",
+      "word": 3
+    },
+    {
+      "charBegin": 443,
+      "charEnd": 451,
+      "id": 71,
+      "sentence": 4,
+      "text": "Umgegend",
+      "word": 4
+    },
+    {
+      "charBegin": 452,
+      "charEnd": 458,
+      "id": 72,
+      "sentence": 4,
+      "text": "hatten",
+      "word": 5
+    },
+    {
+      "charBegin": 459,
+      "charEnd": 465,
+      "id": 73,
+      "sentence": 4,
+      "text": "großen",
+      "word": 6
+    },
+    {
+      "charBegin": 466,
+      "charEnd": 472,
+      "id": 74,
+      "sentence": 4,
+      "text": "Anteil",
+      "word": 7
+    },
+    {
+      "charBegin": 473,
+      "charEnd": 480,
+      "id": 75,
+      "sentence": 4,
+      "text": "gezeigt",
+      "word": 8
+    },
+    {
+      "charBegin": 480,
+      "charEnd": 481,
+      "id": 76,
+      "sentence": 4,
+      "text": ".",
+      "word": 9
+    },
+    {
+      "charBegin": 482,
+      "charEnd": 485,
+      "id": 77,
+      "sentence": 5,
+      "text": "Das",
+      "word": 1
+    },
+    {
+      "charBegin": 486,
+      "charEnd": 490,
+      "id": 78,
+      "sentence": 5,
+      "text": "Haus",
+      "word": 2
+    },
+    {
+      "charBegin": 491,
+      "charEnd": 494,
+      "id": 79,
+      "sentence": 5,
+      "text": "der",
+      "word": 3
+    },
+    {
+      "charBegin": 495,
+      "charEnd": 500,
+      "id": 80,
+      "sentence": 5,
+      "text": "Witwe",
+      "word": 4
+    },
+    {
+      "charBegin": 501,
+      "charEnd": 505,
+      "id": 81,
+      "sentence": 5,
+      "text": "ward",
+      "word": 5
+    },
+    {
+      "charBegin": 506,
+      "charEnd": 509,
+      "id": 82,
+      "sentence": 5,
+      "text": "nie",
+      "word": 6
+    },
+    {
+      "charBegin": 510,
+      "charEnd": 514,
+      "id": 83,
+      "sentence": 5,
+      "text": "leer",
+      "word": 7
+    },
+    {
+      "charBegin": 515,
+      "charEnd": 518,
+      "id": 84,
+      "sentence": 5,
+      "text": "von",
+      "word": 8
+    },
+    {
+      "charBegin": 519,
+      "charEnd": 529,
+      "id": 85,
+      "sentence": 5,
+      "text": "Jammernden",
+      "word": 9
+    },
+    {
+      "charBegin": 530,
+      "charEnd": 533,
+      "id": 86,
+      "sentence": 5,
+      "text": "und",
+      "word": 10
+    },
+    {
+      "charBegin": 534,
+      "charEnd": 542,
+      "id": 87,
+      "sentence": 5,
+      "text": "Ratenden",
+      "word": 11
+    },
+    {
+      "charBegin": 542,
+      "charEnd": 543,
+      "id": 88,
+      "sentence": 5,
+      "text": ".",
+      "word": 12
+    },
+    {
+      "charBegin": 544,
+      "charEnd": 548,
+      "id": 89,
+      "sentence": 6,
+      "text": "Seit",
+      "word": 1
+    },
+    {
+      "charBegin": 549,
+      "charEnd": 565,
+      "id": 90,
+      "sentence": 6,
+      "text": "Menschengedenken",
+      "word": 2
+    },
+    {
+      "charBegin": 566,
+      "charEnd": 571,
+      "id": 91,
+      "sentence": 6,
+      "text": "waren",
+      "word": 3
+    },
+    {
+      "charBegin": 572,
+      "charEnd": 577,
+      "id": 92,
+      "sentence": 6,
+      "text": "nicht",
+      "word": 4
+    },
+    {
+      "charBegin": 578,
+      "charEnd": 580,
+      "id": 93,
+      "sentence": 6,
+      "text": "so",
+      "word": 5
+    },
+    {
+      "charBegin": 581,
+      "charEnd": 585,
+      "id": 94,
+      "sentence": 6,
+      "text": "viel",
+      "word": 6
+    },
+    {
+      "charBegin": 586,
+      "charEnd": 591,
+      "id": 95,
+      "sentence": 6,
+      "text": "Juden",
+      "word": 7
+    },
+    {
+      "charBegin": 592,
+      "charEnd": 601,
+      "id": 96,
+      "sentence": 6,
+      "text": "beisammen",
+      "word": 8
+    },
+    {
+      "charBegin": 602,
+      "charEnd": 604,
+      "id": 97,
+      "sentence": 6,
+      "text": "in",
+      "word": 9
+    },
+    {
+      "charBegin": 605,
+      "charEnd": 607,
+      "id": 98,
+      "sentence": 6,
+      "text": "L.",
+      "word": 10
+    },
+    {
+      "charBegin": 608,
+      "charEnd": 615,
+      "id": 99,
+      "sentence": 6,
+      "text": "gesehen",
+      "word": 11
+    },
+    {
+      "charBegin": 616,
+      "charEnd": 622,
+      "id": 100,
+      "sentence": 6,
+      "text": "worden",
+      "word": 12
+    },
+    {
+      "charBegin": 622,
+      "charEnd": 623,
+      "id": 101,
+      "sentence": 6,
+      "text": ".",
+      "word": 13
+    },
+    {
+      "charBegin": 624,
+      "charEnd": 629,
+      "id": 102,
+      "sentence": 7,
+      "text": "Durch",
+      "word": 1
+    },
+    {
+      "charBegin": 630,
+      "charEnd": 633,
+      "id": 103,
+      "sentence": 7,
+      "text": "den",
+      "word": 2
+    },
+    {
+      "charBegin": 634,
+      "charEnd": 638,
+      "id": 104,
+      "sentence": 7,
+      "text": "Mord",
+      "word": 3
+    },
+    {
+      "charBegin": 639,
+      "charEnd": 644,
+      "id": 105,
+      "sentence": 7,
+      "text": "ihres",
+      "word": 4
+    },
+    {
+      "charBegin": 645,
+      "charEnd": 661,
+      "id": 106,
+      "sentence": 7,
+      "text": "Glaubensgenossen",
+      "word": 5
+    },
+    {
+      "charBegin": 662,
+      "charEnd": 666,
+      "id": 107,
+      "sentence": 7,
+      "text": "aufs",
+      "word": 6
+    },
+    {
+      "charBegin": 667,
+      "charEnd": 675,
+      "id": 108,
+      "sentence": 7,
+      "text": "Äußerste",
+      "word": 7
+    },
+    {
+      "charBegin": 676,
+      "charEnd": 685,
+      "id": 109,
+      "sentence": 7,
+      "text": "erbittert",
+      "word": 8
+    },
+    {
+      "charBegin": 685,
+      "charEnd": 686,
+      "id": 110,
+      "sentence": 7,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 687,
+      "charEnd": 693,
+      "id": 111,
+      "sentence": 7,
+      "text": "hatten",
+      "word": 10
+    },
+    {
+      "charBegin": 694,
+      "charEnd": 697,
+      "id": 112,
+      "sentence": 7,
+      "text": "sie",
+      "word": 11
+    },
+    {
+      "charBegin": 698,
+      "charEnd": 703,
+      "id": 113,
+      "sentence": 7,
+      "text": "weder",
+      "word": 12
+    },
+    {
+      "charBegin": 704,
+      "charEnd": 708,
+      "id": 114,
+      "sentence": 7,
+      "text": "Mühe",
+      "word": 13
+    },
+    {
+      "charBegin": 709,
+      "charEnd": 713,
+      "id": 115,
+      "sentence": 7,
+      "text": "noch",
+      "word": 14
+    },
+    {
+      "charBegin": 714,
+      "charEnd": 718,
+      "id": 116,
+      "sentence": 7,
+      "text": "Geld",
+      "word": 15
+    },
+    {
+      "charBegin": 719,
+      "charEnd": 726,
+      "id": 117,
+      "sentence": 7,
+      "text": "gespart",
+      "word": 16
+    },
+    {
+      "charBegin": 726,
+      "charEnd": 727,
+      "id": 118,
+      "sentence": 7,
+      "text": ",",
+      "word": 17
+    },
+    {
+      "charBegin": 728,
+      "charEnd": 731,
+      "id": 119,
+      "sentence": 7,
+      "text": "dem",
+      "word": 18
+    },
+    {
+      "charBegin": 732,
+      "charEnd": 737,
+      "id": 120,
+      "sentence": 7,
+      "text": "Täter",
+      "word": 19
+    },
+    {
+      "charBegin": 738,
+      "charEnd": 741,
+      "id": 121,
+      "sentence": 7,
+      "text": "auf",
+      "word": 20
+    },
+    {
+      "charBegin": 742,
+      "charEnd": 745,
+      "id": 122,
+      "sentence": 7,
+      "text": "die",
+      "word": 21
+    },
+    {
+      "charBegin": 746,
+      "charEnd": 750,
+      "id": 123,
+      "sentence": 7,
+      "text": "Spur",
+      "word": 22
+    },
+    {
+      "charBegin": 751,
+      "charEnd": 753,
+      "id": 124,
+      "sentence": 7,
+      "text": "zu",
+      "word": 23
+    },
+    {
+      "charBegin": 754,
+      "charEnd": 760,
+      "id": 125,
+      "sentence": 7,
+      "text": "kommen",
+      "word": 24
+    },
+    {
+      "charBegin": 760,
+      "charEnd": 761,
+      "id": 126,
+      "sentence": 7,
+      "text": ".",
+      "word": 25
+    },
+    {
+      "charBegin": 762,
+      "charEnd": 765,
+      "id": 127,
+      "sentence": 8,
+      "text": "Man",
+      "word": 1
+    },
+    {
+      "charBegin": 766,
+      "charEnd": 770,
+      "id": 128,
+      "sentence": 8,
+      "text": "weiß",
+      "word": 2
+    },
+    {
+      "charBegin": 771,
+      "charEnd": 776,
+      "id": 129,
+      "sentence": 8,
+      "text": "sogar",
+      "word": 3
+    },
+    {
+      "charBegin": 776,
+      "charEnd": 777,
+      "id": 130,
+      "sentence": 8,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 778,
+      "charEnd": 781,
+      "id": 131,
+      "sentence": 8,
+      "text": "daß",
+      "word": 5
+    },
+    {
+      "charBegin": 782,
+      "charEnd": 787,
+      "id": 132,
+      "sentence": 8,
+      "text": "einer",
+      "word": 6
+    },
+    {
+      "charBegin": 788,
+      "charEnd": 797,
+      "id": 133,
+      "sentence": 8,
+      "text": "derselben",
+      "word": 7
+    },
+    {
+      "charBegin": 797,
+      "charEnd": 798,
+      "id": 134,
+      "sentence": 8,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 799,
+      "charEnd": 808,
+      "id": 135,
+      "sentence": 8,
+      "text": "gemeinhin",
+      "word": 9
+    },
+    {
+      "charBegin": 809,
+      "charEnd": 812,
+      "id": 136,
+      "sentence": 8,
+      "text": "der",
+      "word": 10
+    },
+    {
+      "charBegin": 813,
+      "charEnd": 823,
+      "id": 137,
+      "sentence": 8,
+      "text": "Wucherjoel",
+      "word": 11
+    },
+    {
+      "charBegin": 824,
+      "charEnd": 831,
+      "id": 138,
+      "sentence": 8,
+      "text": "genannt",
+      "word": 12
+    },
+    {
+      "charBegin": 831,
+      "charEnd": 832,
+      "id": 139,
+      "sentence": 8,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 833,
+      "charEnd": 838,
+      "id": 140,
+      "sentence": 8,
+      "text": "einem",
+      "word": 14
+    },
+    {
+      "charBegin": 839,
+      "charEnd": 845,
+      "id": 141,
+      "sentence": 8,
+      "text": "seiner",
+      "word": 15
+    },
+    {
+      "charBegin": 846,
+      "charEnd": 852,
+      "id": 142,
+      "sentence": 8,
+      "text": "Kunden",
+      "word": 16
+    },
+    {
+      "charBegin": 852,
+      "charEnd": 853,
+      "id": 143,
+      "sentence": 8,
+      "text": ",",
+      "word": 17
+    },
+    {
+      "charBegin": 854,
+      "charEnd": 857,
+      "id": 144,
+      "sentence": 8,
+      "text": "der",
+      "word": 18
+    },
+    {
+      "charBegin": 858,
+      "charEnd": 861,
+      "id": 145,
+      "sentence": 8,
+      "text": "ihm",
+      "word": 19
+    },
+    {
+      "charBegin": 862,
+      "charEnd": 869,
+      "id": 146,
+      "sentence": 8,
+      "text": "mehrere",
+      "word": 20
+    },
+    {
+      "charBegin": 870,
+      "charEnd": 878,
+      "id": 147,
+      "sentence": 8,
+      "text": "Hunderte",
+      "word": 21
+    },
+    {
+      "charBegin": 879,
+      "charEnd": 888,
+      "id": 148,
+      "sentence": 8,
+      "text": "schuldete",
+      "word": 22
+    },
+    {
+      "charBegin": 889,
+      "charEnd": 892,
+      "id": 149,
+      "sentence": 8,
+      "text": "und",
+      "word": 23
+    },
+    {
+      "charBegin": 893,
+      "charEnd": 896,
+      "id": 150,
+      "sentence": 8,
+      "text": "den",
+      "word": 24
+    },
+    {
+      "charBegin": 897,
+      "charEnd": 899,
+      "id": 151,
+      "sentence": 8,
+      "text": "er",
+      "word": 25
+    },
+    {
+      "charBegin": 900,
+      "charEnd": 903,
+      "id": 152,
+      "sentence": 8,
+      "text": "für",
+      "word": 26
+    },
+    {
+      "charBegin": 904,
+      "charEnd": 909,
+      "id": 153,
+      "sentence": 8,
+      "text": "einen",
+      "word": 27
+    },
+    {
+      "charBegin": 910,
+      "charEnd": 919,
+      "id": 154,
+      "sentence": 8,
+      "text": "besonders",
+      "word": 28
+    },
+    {
+      "charBegin": 920,
+      "charEnd": 928,
+      "id": 155,
+      "sentence": 8,
+      "text": "listigen",
+      "word": 29
+    },
+    {
+      "charBegin": 929,
+      "charEnd": 933,
+      "id": 156,
+      "sentence": 8,
+      "text": "Kerl",
+      "word": 30
+    },
+    {
+      "charBegin": 934,
+      "charEnd": 939,
+      "id": 157,
+      "sentence": 8,
+      "text": "hielt",
+      "word": 31
+    },
+    {
+      "charBegin": 939,
+      "charEnd": 940,
+      "id": 158,
+      "sentence": 8,
+      "text": ",",
+      "word": 32
+    },
+    {
+      "charBegin": 941,
+      "charEnd": 946,
+      "id": 159,
+      "sentence": 8,
+      "text": "Erlaß",
+      "word": 33
+    },
+    {
+      "charBegin": 947,
+      "charEnd": 950,
+      "id": 160,
+      "sentence": 8,
+      "text": "der",
+      "word": 34
+    },
+    {
+      "charBegin": 951,
+      "charEnd": 957,
+      "id": 161,
+      "sentence": 8,
+      "text": "ganzen",
+      "word": 35
+    },
+    {
+      "charBegin": 958,
+      "charEnd": 963,
+      "id": 162,
+      "sentence": 8,
+      "text": "Summe",
+      "word": 36
+    },
+    {
+      "charBegin": 964,
+      "charEnd": 973,
+      "id": 163,
+      "sentence": 8,
+      "text": "angeboten",
+      "word": 37
+    },
+    {
+      "charBegin": 974,
+      "charEnd": 979,
+      "id": 164,
+      "sentence": 8,
+      "text": "hatte",
+      "word": 38
+    },
+    {
+      "charBegin": 979,
+      "charEnd": 980,
+      "id": 165,
+      "sentence": 8,
+      "text": ",",
+      "word": 39
+    },
+    {
+      "charBegin": 981,
+      "charEnd": 986,
+      "id": 166,
+      "sentence": 8,
+      "text": "falls",
+      "word": 40
+    },
+    {
+      "charBegin": 987,
+      "charEnd": 989,
+      "id": 167,
+      "sentence": 8,
+      "text": "er",
+      "word": 41
+    },
+    {
+      "charBegin": 990,
+      "charEnd": 993,
+      "id": 168,
+      "sentence": 8,
+      "text": "ihm",
+      "word": 42
+    },
+    {
+      "charBegin": 994,
+      "charEnd": 997,
+      "id": 169,
+      "sentence": 8,
+      "text": "zur",
+      "word": 43
+    },
+    {
+      "charBegin": 998,
+      "charEnd": 1008,
+      "id": 170,
+      "sentence": 8,
+      "text": "Verhaftung",
+      "word": 44
+    },
+    {
+      "charBegin": 1009,
+      "charEnd": 1012,
+      "id": 171,
+      "sentence": 8,
+      "text": "des",
+      "word": 45
+    },
+    {
+      "charBegin": 1013,
+      "charEnd": 1019,
+      "id": 172,
+      "sentence": 8,
+      "text": "Mergel",
+      "word": 46
+    },
+    {
+      "charBegin": 1020,
+      "charEnd": 1029,
+      "id": 173,
+      "sentence": 8,
+      "text": "verhelfen",
+      "word": 47
+    },
+    {
+      "charBegin": 1030,
+      "charEnd": 1035,
+      "id": 174,
+      "sentence": 8,
+      "text": "wolle",
+      "word": 48
+    },
+    {
+      "charBegin": 1035,
+      "charEnd": 1036,
+      "id": 175,
+      "sentence": 8,
+      "text": ";",
+      "word": 49
+    },
+    {
+      "charBegin": 1037,
+      "charEnd": 1041,
+      "id": 176,
+      "sentence": 8,
+      "text": "denn",
+      "word": 50
+    },
+    {
+      "charBegin": 1042,
+      "charEnd": 1045,
+      "id": 177,
+      "sentence": 8,
+      "text": "der",
+      "word": 51
+    },
+    {
+      "charBegin": 1046,
+      "charEnd": 1052,
+      "id": 178,
+      "sentence": 8,
+      "text": "Glaube",
+      "word": 52
+    },
+    {
+      "charBegin": 1053,
+      "charEnd": 1056,
+      "id": 179,
+      "sentence": 8,
+      "text": "war",
+      "word": 53
+    },
+    {
+      "charBegin": 1057,
+      "charEnd": 1066,
+      "id": 180,
+      "sentence": 8,
+      "text": "allgemein",
+      "word": 54
+    },
+    {
+      "charBegin": 1067,
+      "charEnd": 1072,
+      "id": 181,
+      "sentence": 8,
+      "text": "unter",
+      "word": 55
+    },
+    {
+      "charBegin": 1073,
+      "charEnd": 1076,
+      "id": 182,
+      "sentence": 8,
+      "text": "den",
+      "word": 56
+    },
+    {
+      "charBegin": 1077,
+      "charEnd": 1082,
+      "id": 183,
+      "sentence": 8,
+      "text": "Juden",
+      "word": 57
+    },
+    {
+      "charBegin": 1082,
+      "charEnd": 1083,
+      "id": 184,
+      "sentence": 8,
+      "text": ",",
+      "word": 58
+    },
+    {
+      "charBegin": 1084,
+      "charEnd": 1087,
+      "id": 185,
+      "sentence": 8,
+      "text": "daß",
+      "word": 59
+    },
+    {
+      "charBegin": 1088,
+      "charEnd": 1091,
+      "id": 186,
+      "sentence": 8,
+      "text": "der",
+      "word": 60
+    },
+    {
+      "charBegin": 1092,
+      "charEnd": 1097,
+      "id": 187,
+      "sentence": 8,
+      "text": "Täter",
+      "word": 61
+    },
+    {
+      "charBegin": 1098,
+      "charEnd": 1101,
+      "id": 188,
+      "sentence": 8,
+      "text": "nur",
+      "word": 62
+    },
+    {
+      "charBegin": 1102,
+      "charEnd": 1105,
+      "id": 189,
+      "sentence": 8,
+      "text": "mit",
+      "word": 63
+    },
+    {
+      "charBegin": 1106,
+      "charEnd": 1111,
+      "id": 190,
+      "sentence": 8,
+      "text": "guter",
+      "word": 64
+    },
+    {
+      "charBegin": 1112,
+      "charEnd": 1120,
+      "id": 191,
+      "sentence": 8,
+      "text": "Beihülfe",
+      "word": 65
+    },
+    {
+      "charBegin": 1121,
+      "charEnd": 1130,
+      "id": 192,
+      "sentence": 8,
+      "text": "entwischt",
+      "word": 66
+    },
+    {
+      "charBegin": 1131,
+      "charEnd": 1134,
+      "id": 193,
+      "sentence": 8,
+      "text": "und",
+      "word": 67
+    },
+    {
+      "charBegin": 1135,
+      "charEnd": 1149,
+      "id": 194,
+      "sentence": 8,
+      "text": "wahrscheinlich",
+      "word": 68
+    },
+    {
+      "charBegin": 1150,
+      "charEnd": 1154,
+      "id": 195,
+      "sentence": 8,
+      "text": "noch",
+      "word": 69
+    },
+    {
+      "charBegin": 1155,
+      "charEnd": 1157,
+      "id": 196,
+      "sentence": 8,
+      "text": "in",
+      "word": 70
+    },
+    {
+      "charBegin": 1158,
+      "charEnd": 1161,
+      "id": 197,
+      "sentence": 8,
+      "text": "der",
+      "word": 71
+    },
+    {
+      "charBegin": 1162,
+      "charEnd": 1170,
+      "id": 198,
+      "sentence": 8,
+      "text": "Umgegend",
+      "word": 72
+    },
+    {
+      "charBegin": 1171,
+      "charEnd": 1174,
+      "id": 199,
+      "sentence": 8,
+      "text": "sei",
+      "word": 73
+    },
+    {
+      "charBegin": 1174,
+      "charEnd": 1175,
+      "id": 200,
+      "sentence": 8,
+      "text": ".",
+      "word": 74
+    },
+    {
+      "charBegin": 1176,
+      "charEnd": 1179,
+      "id": 201,
+      "sentence": 9,
+      "text": "Als",
+      "word": 1
+    },
+    {
+      "charBegin": 1180,
+      "charEnd": 1187,
+      "id": 202,
+      "sentence": 9,
+      "text": "dennoch",
+      "word": 2
+    },
+    {
+      "charBegin": 1188,
+      "charEnd": 1193,
+      "id": 203,
+      "sentence": 9,
+      "text": "alles",
+      "word": 3
+    },
+    {
+      "charBegin": 1194,
+      "charEnd": 1200,
+      "id": 204,
+      "sentence": 9,
+      "text": "nichts",
+      "word": 4
+    },
+    {
+      "charBegin": 1201,
+      "charEnd": 1205,
+      "id": 205,
+      "sentence": 9,
+      "text": "half",
+      "word": 5
+    },
+    {
+      "charBegin": 1206,
+      "charEnd": 1209,
+      "id": 206,
+      "sentence": 9,
+      "text": "und",
+      "word": 6
+    },
+    {
+      "charBegin": 1210,
+      "charEnd": 1213,
+      "id": 207,
+      "sentence": 9,
+      "text": "die",
+      "word": 7
+    },
+    {
+      "charBegin": 1214,
+      "charEnd": 1226,
+      "id": 208,
+      "sentence": 9,
+      "text": "gerichtliche",
+      "word": 8
+    },
+    {
+      "charBegin": 1227,
+      "charEnd": 1238,
+      "id": 209,
+      "sentence": 9,
+      "text": "Verhandlung",
+      "word": 9
+    },
+    {
+      "charBegin": 1239,
+      "charEnd": 1242,
+      "id": 210,
+      "sentence": 9,
+      "text": "für",
+      "word": 10
+    },
+    {
+      "charBegin": 1243,
+      "charEnd": 1250,
+      "id": 211,
+      "sentence": 9,
+      "text": "beendet",
+      "word": 11
+    },
+    {
+      "charBegin": 1251,
+      "charEnd": 1258,
+      "id": 212,
+      "sentence": 9,
+      "text": "erklärt",
+      "word": 12
+    },
+    {
+      "charBegin": 1259,
+      "charEnd": 1265,
+      "id": 213,
+      "sentence": 9,
+      "text": "worden",
+      "word": 13
+    },
+    {
+      "charBegin": 1266,
+      "charEnd": 1269,
+      "id": 214,
+      "sentence": 9,
+      "text": "war",
+      "word": 14
+    },
+    {
+      "charBegin": 1269,
+      "charEnd": 1270,
+      "id": 215,
+      "sentence": 9,
+      "text": ",",
+      "word": 15
+    },
+    {
+      "charBegin": 1271,
+      "charEnd": 1279,
+      "id": 216,
+      "sentence": 9,
+      "text": "erschien",
+      "word": 16
+    },
+    {
+      "charBegin": 1280,
+      "charEnd": 1282,
+      "id": 217,
+      "sentence": 9,
+      "text": "am",
+      "word": 17
+    },
+    {
+      "charBegin": 1283,
+      "charEnd": 1291,
+      "id": 218,
+      "sentence": 9,
+      "text": "nächsten",
+      "word": 18
+    },
+    {
+      "charBegin": 1292,
+      "charEnd": 1298,
+      "id": 219,
+      "sentence": 9,
+      "text": "Morgen",
+      "word": 19
+    },
+    {
+      "charBegin": 1299,
+      "charEnd": 1303,
+      "id": 220,
+      "sentence": 9,
+      "text": "eine",
+      "word": 20
+    },
+    {
+      "charBegin": 1304,
+      "charEnd": 1310,
+      "id": 221,
+      "sentence": 9,
+      "text": "Anzahl",
+      "word": 21
+    },
+    {
+      "charBegin": 1311,
+      "charEnd": 1314,
+      "id": 222,
+      "sentence": 9,
+      "text": "der",
+      "word": 22
+    },
+    {
+      "charBegin": 1315,
+      "charEnd": 1328,
+      "id": 223,
+      "sentence": 9,
+      "text": "angesehensten",
+      "word": 23
+    },
+    {
+      "charBegin": 1329,
+      "charEnd": 1339,
+      "id": 224,
+      "sentence": 9,
+      "text": "Israeliten",
+      "word": 24
+    },
+    {
+      "charBegin": 1340,
+      "charEnd": 1342,
+      "id": 225,
+      "sentence": 9,
+      "text": "im",
+      "word": 25
+    },
+    {
+      "charBegin": 1343,
+      "charEnd": 1351,
+      "id": 226,
+      "sentence": 9,
+      "text": "Schlosse",
+      "word": 26
+    },
+    {
+      "charBegin": 1351,
+      "charEnd": 1352,
+      "id": 227,
+      "sentence": 9,
+      "text": ",",
+      "word": 27
+    },
+    {
+      "charBegin": 1353,
+      "charEnd": 1355,
+      "id": 228,
+      "sentence": 9,
+      "text": "um",
+      "word": 28
+    },
+    {
+      "charBegin": 1356,
+      "charEnd": 1359,
+      "id": 229,
+      "sentence": 9,
+      "text": "dem",
+      "word": 29
+    },
+    {
+      "charBegin": 1360,
+      "charEnd": 1368,
+      "id": 230,
+      "sentence": 9,
+      "text": "gnädigen",
+      "word": 30
+    },
+    {
+      "charBegin": 1369,
+      "charEnd": 1374,
+      "id": 231,
+      "sentence": 9,
+      "text": "Herrn",
+      "word": 31
+    },
+    {
+      "charBegin": 1375,
+      "charEnd": 1380,
+      "id": 232,
+      "sentence": 9,
+      "text": "einen",
+      "word": 32
+    },
+    {
+      "charBegin": 1381,
+      "charEnd": 1387,
+      "id": 233,
+      "sentence": 9,
+      "text": "Handel",
+      "word": 33
+    },
+    {
+      "charBegin": 1388,
+      "charEnd": 1398,
+      "id": 234,
+      "sentence": 9,
+      "text": "anzutragen",
+      "word": 34
+    },
+    {
+      "charBegin": 1398,
+      "charEnd": 1399,
+      "id": 235,
+      "sentence": 9,
+      "text": ".",
+      "word": 35
+    },
+    {
+      "charBegin": 1400,
+      "charEnd": 1403,
+      "id": 236,
+      "sentence": 10,
+      "text": "Der",
+      "word": 1
+    },
+    {
+      "charBegin": 1404,
+      "charEnd": 1414,
+      "id": 237,
+      "sentence": 10,
+      "text": "Gegenstand",
+      "word": 2
+    },
+    {
+      "charBegin": 1415,
+      "charEnd": 1418,
+      "id": 238,
+      "sentence": 10,
+      "text": "war",
+      "word": 3
+    },
+    {
+      "charBegin": 1419,
+      "charEnd": 1422,
+      "id": 239,
+      "sentence": 10,
+      "text": "die",
+      "word": 4
+    },
+    {
+      "charBegin": 1423,
+      "charEnd": 1428,
+      "id": 240,
+      "sentence": 10,
+      "text": "Buche",
+      "word": 5
+    },
+    {
+      "charBegin": 1428,
+      "charEnd": 1429,
+      "id": 241,
+      "sentence": 10,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 1430,
+      "charEnd": 1435,
+      "id": 242,
+      "sentence": 10,
+      "text": "unter",
+      "word": 7
+    },
+    {
+      "charBegin": 1436,
+      "charEnd": 1439,
+      "id": 243,
+      "sentence": 10,
+      "text": "der",
+      "word": 8
+    },
+    {
+      "charBegin": 1440,
+      "charEnd": 1446,
+      "id": 244,
+      "sentence": 10,
+      "text": "Aarons",
+      "word": 9
+    },
+    {
+      "charBegin": 1447,
+      "charEnd": 1451,
+      "id": 245,
+      "sentence": 10,
+      "text": "Stab",
+      "word": 10
+    },
+    {
+      "charBegin": 1452,
+      "charEnd": 1460,
+      "id": 246,
+      "sentence": 10,
+      "text": "gefunden",
+      "word": 11
+    },
+    {
+      "charBegin": 1461,
+      "charEnd": 1464,
+      "id": 247,
+      "sentence": 10,
+      "text": "und",
+      "word": 12
+    },
+    {
+      "charBegin": 1465,
+      "charEnd": 1467,
+      "id": 248,
+      "sentence": 10,
+      "text": "wo",
+      "word": 13
+    },
+    {
+      "charBegin": 1468,
+      "charEnd": 1471,
+      "id": 249,
+      "sentence": 10,
+      "text": "der",
+      "word": 14
+    },
+    {
+      "charBegin": 1472,
+      "charEnd": 1476,
+      "id": 250,
+      "sentence": 10,
+      "text": "Mord",
+      "word": 15
+    },
+    {
+      "charBegin": 1477,
+      "charEnd": 1491,
+      "id": 251,
+      "sentence": 10,
+      "text": "wahrscheinlich",
+      "word": 16
+    },
+    {
+      "charBegin": 1492,
+      "charEnd": 1498,
+      "id": 252,
+      "sentence": 10,
+      "text": "verübt",
+      "word": 17
+    },
+    {
+      "charBegin": 1499,
+      "charEnd": 1505,
+      "id": 253,
+      "sentence": 10,
+      "text": "worden",
+      "word": 18
+    },
+    {
+      "charBegin": 1506,
+      "charEnd": 1509,
+      "id": 254,
+      "sentence": 10,
+      "text": "war",
+      "word": 19
+    },
+    {
+      "charBegin": 1509,
+      "charEnd": 1510,
+      "id": 255,
+      "sentence": 10,
+      "text": ".",
+      "word": 20
+    }
+  ]
+}

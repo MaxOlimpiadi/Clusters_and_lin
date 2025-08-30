@@ -1,0 +1,35 @@
+def get_spans_with_tags(full_annotations, author='katharina_g'):
+    
+    #labels = ['passive', 'agentive', 'low_agentive']
+    spans_with_tags = []
+    num_phrase = 1
+    num_pers = 1 #пока решил нумеровать персов не разделяя по типам активности, просто по порядку нумерую
+    for instance in full_annotations[author]["participations"]:
+        tmp_spans = instance["spans"] #all the spans of current participations
+        tmp_chars = []            #all chars of current participation (пары "перс-тип")
+        #getting chars of current participation object:
+        for category in ["agentive", "low_agentive", "passive"]:
+            if instance[category]:
+                for char in instance[category]:
+                    tmp_chars.append((char, category))
+                    
+        #добавляем тэги фраз:
+        for span_start, span_end in tmp_spans:
+            spans_with_tags.append((span_start, span_end, "phrase", num_phrase))
+        num_phrase += 1
+        
+        #обработка персов в активности:
+        for char, category in tmp_chars:              
+            #getting mention spans of current char in the current participation spans
+            char_mention_spans = get_mention_spans(tmp_spans, full_annotations, author, char) 
+            #if not char_mention_spans:
+                #continue
+            for m_span_start, m_span_end in char_mention_spans:
+                spans_with_tags.append((m_span_start, m_span_end, category, num_pers))
+                num_pers += 1
+        
+    # вывод получившейся структуры:
+    for elem in spans_with_tags:
+        print(elem)
+            
+    return spans_with_tags
