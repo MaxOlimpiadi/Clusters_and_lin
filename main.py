@@ -659,8 +659,6 @@ def split_the_file(num_of_file):
         char_end = chunk_sentences[-1]["charEnd"]
         chunk_text = originalText[char_begin:char_end] if originalText else ""
         
-        if i == 835:
-            print("LOH!")
         
         # Сохраняем результат
         chunk_data = {
