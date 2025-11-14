@@ -65,7 +65,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 290,
+      "id": 286,
       "isNested": false
     },
     {
@@ -114,7 +114,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 291,
+      "id": 287,
       "isNested": false
     },
     {
@@ -204,7 +204,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 292,
+      "id": 288,
       "isNested": false
     },
     {
@@ -273,12 +273,23 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 31,
+            "charBegin": 169,
+            "charEnd": 172,
+            "end": 32
+          }
+        ],
+        "text": [
+          "ihm"
+        ],
+        "tokenIds": [
+          31
+        ]
       },
       "hasNested": false,
-      "id": 293,
+      "id": 289,
       "isNested": false
     },
     {
@@ -349,7 +360,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 294,
+      "id": 290,
       "isNested": false
     },
     {
@@ -399,7 +410,7 @@
         ]
       },
       "hasNested": false,
-      "id": 295,
+      "id": 291,
       "isNested": false
     },
     {
@@ -436,7 +447,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 296,
+      "id": 292,
       "isNested": false
     },
     {
@@ -483,22 +494,14 @@
             "charBegin": 315,
             "charEnd": 318,
             "end": 57
-          },
-          {
-            "begin": 56,
-            "charBegin": 315,
-            "charEnd": 318,
-            "end": 57
           }
         ],
         "text": [
           "sie",
           "sie",
-          "sie",
           "sie"
         ],
         "tokenIds": [
-          56,
           56,
           56,
           56
@@ -510,7 +513,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 297,
+      "id": 293,
       "isNested": false
     },
     {
@@ -570,7 +573,7 @@
         ]
       },
       "hasNested": false,
-      "id": 298,
+      "id": 294,
       "isNested": false
     },
     {
@@ -619,7 +622,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 299,
+      "id": 295,
       "isNested": false
     },
     {
@@ -646,11 +649,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 75,
@@ -674,8 +672,13 @@
           76
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 300,
+      "id": 296,
       "isNested": false
     },
     {
@@ -709,11 +712,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 90,
@@ -729,8 +727,13 @@
           90
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 301,
+      "id": 297,
       "isNested": false
     },
     {
@@ -790,7 +793,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 302,
+      "id": 298,
       "isNested": false
     },
     {
@@ -827,7 +830,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 303,
+      "id": 299,
       "isNested": false
     },
     {
@@ -881,7 +884,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 304,
+      "id": 300,
       "isNested": false
     },
     {
@@ -919,7 +922,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 305,
+      "id": 301,
       "isNested": false
     },
     {
@@ -982,7 +985,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 306,
+      "id": 302,
       "isNested": false
     },
     {
@@ -1051,7 +1054,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 307,
+      "id": 303,
       "isNested": false
     },
     {
@@ -1113,7 +1116,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 308,
+      "id": 304,
       "isNested": false
     },
     {
@@ -1148,7 +1151,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 309,
+      "id": 305,
       "isNested": false
     },
     {
@@ -1184,13 +1187,23 @@
             "charBegin": 903,
             "charEnd": 905,
             "end": 169
+          },
+          {
+            "begin": 169,
+            "charBegin": 906,
+            "charEnd": 921,
+            "end": 171
           }
         ],
         "text": [
-          "er"
+          "er",
+          "den",
+          "Prokuristen"
         ],
         "tokenIds": [
-          168
+          168,
+          169,
+          170
         ]
       },
       "passive": {
@@ -1199,7 +1212,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 310,
+      "id": 306,
       "isNested": false
     },
     {
@@ -1273,7 +1286,7 @@
         ]
       },
       "hasNested": false,
-      "id": 311,
+      "id": 307,
       "isNested": false
     },
     {
@@ -1325,7 +1338,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 312,
+      "id": 308,
       "isNested": false
     }
   ],

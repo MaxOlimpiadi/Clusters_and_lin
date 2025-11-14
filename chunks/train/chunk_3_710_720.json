@@ -60,7 +60,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1719,
+      "id": 1698,
       "isNested": false
     },
     {
@@ -110,7 +110,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1720,
+      "id": 1699,
       "isNested": false
     },
     {
@@ -146,7 +146,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1721,
+      "id": 1700,
       "isNested": false
     },
     {
@@ -214,7 +214,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1722,
+      "id": 1701,
       "isNested": false
     },
     {
@@ -267,7 +267,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1723,
+      "id": 1702,
       "isNested": false
     },
     {
@@ -302,23 +302,12 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [
-          {
-            "begin": 40,
-            "charBegin": 221,
-            "charEnd": 223,
-            "end": 41
-          }
-        ],
-        "text": [
-          "er"
-        ],
-        "tokenIds": [
-          40
-        ]
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "hasNested": false,
-      "id": 1724,
+      "id": 1703,
       "isNested": false
     },
     {
@@ -372,7 +361,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1725,
+      "id": 1704,
       "isNested": false
     },
     {
@@ -397,11 +386,6 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
         "spans": [
           {
             "begin": 61,
@@ -418,6 +402,11 @@
           61,
           62
         ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "passive": {
         "spans": [
@@ -436,7 +425,7 @@
         ]
       },
       "hasNested": false,
-      "id": 1726,
+      "id": 1705,
       "isNested": false
     },
     {
@@ -522,7 +511,7 @@
         ]
       },
       "hasNested": false,
-      "id": 1727,
+      "id": 1706,
       "isNested": false
     },
     {
@@ -592,7 +581,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1728,
+      "id": 1707,
       "isNested": false
     },
     {
@@ -627,7 +616,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1729,
+      "id": 1708,
       "isNested": false
     },
     {
@@ -678,7 +667,7 @@
         ]
       },
       "hasNested": false,
-      "id": 1730,
+      "id": 1709,
       "isNested": false
     },
     {
@@ -687,11 +676,11 @@
           {
             "begin": 122,
             "charBegin": 710,
-            "charEnd": 782,
-            "end": 136
+            "charEnd": 819,
+            "end": 143
           }
         ],
-        "text": "die , unter den zitternden Fingern der Mutter hervor , ihr vom Schoße fiel",
+        "text": "die , unter den zitternden Fingern der Mutter hervor , ihr vom Schoße fiel und einen hallenden Ton von sich gab",
         "tokenIds": [
           122,
           123,
@@ -706,40 +695,7 @@
           132,
           133,
           134,
-          135
-        ]
-      },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 1731,
-      "isNested": false
-    },
-    {
-      "phrase": {
-        "spans": [
-          {
-            "begin": 136,
-            "charBegin": 783,
-            "charEnd": 819,
-            "end": 143
-          }
-        ],
-        "text": "und einen hallenden Ton von sich gab",
-        "tokenIds": [
+          135,
           136,
           137,
           138,
@@ -760,12 +716,33 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 128,
+            "charBegin": 744,
+            "charEnd": 754,
+            "end": 130
+          },
+          {
+            "begin": 132,
+            "charBegin": 763,
+            "charEnd": 766,
+            "end": 133
+          }
+        ],
+        "text": [
+          "der",
+          "Mutter",
+          "ihr"
+        ],
+        "tokenIds": [
+          128,
+          129,
+          132
+        ]
       },
       "hasNested": false,
-      "id": 1732,
+      "id": 1710,
       "isNested": false
     },
     {
@@ -814,7 +791,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1733,
+      "id": 1711,
       "isNested": false
     },
     {
@@ -857,7 +834,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 1734,
+      "id": 1712,
       "isNested": false
     }
   ],

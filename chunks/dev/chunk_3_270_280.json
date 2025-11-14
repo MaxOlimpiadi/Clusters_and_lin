@@ -44,7 +44,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 431,
+      "id": 424,
       "isNested": false
     },
     {
@@ -86,17 +86,7 @@
             "charBegin": 22,
             "charEnd": 24,
             "end": 6
-          }
-        ],
-        "text": [
-          "er"
-        ],
-        "tokenIds": [
-          5
-        ]
-      },
-      "passive": {
-        "spans": [
+          },
           {
             "begin": 6,
             "charBegin": 25,
@@ -105,16 +95,23 @@
           }
         ],
         "text": [
+          "er",
           "den",
           "Prokuristen"
         ],
         "tokenIds": [
+          5,
           6,
           7
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 432,
+      "id": 425,
       "isNested": false
     },
     {
@@ -123,11 +120,11 @@
           {
             "begin": 18,
             "charBegin": 99,
-            "charEnd": 183,
-            "end": 31
+            "charEnd": 182,
+            "end": 30
           }
         ],
-        "text": "wenn dadurch seine Stellung im Geschäft nicht aufs äußerste gefährdet werden sollte .",
+        "text": "wenn dadurch seine Stellung im Geschäft nicht aufs äußerste gefährdet werden sollte",
         "tokenIds": [
           18,
           19,
@@ -140,8 +137,7 @@
           26,
           27,
           28,
-          29,
-          30
+          29
         ]
       },
       "agentive": {
@@ -171,7 +167,7 @@
         ]
       },
       "hasNested": false,
-      "id": 433,
+      "id": 426,
       "isNested": false
     },
     {
@@ -235,7 +231,7 @@
         ]
       },
       "hasNested": false,
-      "id": 434,
+      "id": 427,
       "isNested": false
     },
     {
@@ -313,7 +309,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 435,
+      "id": 428,
       "isNested": false
     },
     {
@@ -346,11 +342,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 52,
@@ -374,8 +365,13 @@
           57
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 436,
+      "id": 429,
       "isNested": false
     },
     {
@@ -420,7 +416,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 437,
+      "id": 430,
       "isNested": false
     },
     {
@@ -479,7 +475,7 @@
         ]
       },
       "hasNested": false,
-      "id": 438,
+      "id": 431,
       "isNested": false
     },
     {
@@ -528,7 +524,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 439,
+      "id": 432,
       "isNested": false
     },
     {
@@ -537,16 +533,24 @@
           {
             "begin": 89,
             "charBegin": 513,
-            "charEnd": 541,
-            "end": 93
+            "charEnd": 594,
+            "end": 101
           }
         ],
-        "text": "Der Prokurist mußte gehalten",
+        "text": "Der Prokurist mußte gehalten , beruhigt , überzeugt und schließlich gewonnen werden",
         "tokenIds": [
           89,
           90,
           91,
-          92
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100
         ]
       },
       "agentive": {
@@ -555,11 +559,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 89,
@@ -577,113 +576,13 @@
           90
         ]
       },
-      "hasNested": false,
-      "id": 440,
-      "isNested": false
-    },
-    {
-      "phrase": {
-        "spans": [
-          {
-            "begin": 94,
-            "charBegin": 543,
-            "charEnd": 551,
-            "end": 95
-          }
-        ],
-        "text": "beruhigt",
-        "tokenIds": [
-          94
-        ]
-      },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
       "passive": {
         "spans": [],
         "text": [],
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 441,
-      "isNested": false
-    },
-    {
-      "phrase": {
-        "spans": [
-          {
-            "begin": 96,
-            "charBegin": 553,
-            "charEnd": 562,
-            "end": 97
-          }
-        ],
-        "text": "überzeugt",
-        "tokenIds": [
-          96
-        ]
-      },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 442,
-      "isNested": false
-    },
-    {
-      "phrase": {
-        "spans": [
-          {
-            "begin": 97,
-            "charBegin": 563,
-            "charEnd": 594,
-            "end": 101
-          }
-        ],
-        "text": "und schließlich gewonnen werden",
-        "tokenIds": [
-          97,
-          98,
-          99,
-          100
-        ]
-      },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 443,
+      "id": 433,
       "isNested": false
     },
     {
@@ -716,7 +615,18 @@
         "tokenIds": []
       },
       "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
         "spans": [
+          {
+            "begin": 107,
+            "charBegin": 627,
+            "charEnd": 634,
+            "end": 108
+          },
           {
             "begin": 104,
             "charBegin": 608,
@@ -728,24 +638,37 @@
             "charBegin": 620,
             "charEnd": 626,
             "end": 107
+          },
+          {
+            "begin": 107,
+            "charBegin": 627,
+            "charEnd": 634,
+            "end": 108
+          },
+          {
+            "begin": 107,
+            "charBegin": 627,
+            "charEnd": 634,
+            "end": 108
           }
         ],
         "text": [
+          "Familie",
           "Gregors",
-          "seiner"
+          "seiner",
+          "Familie",
+          "Familie"
         ],
         "tokenIds": [
           104,
-          106
+          106,
+          107,
+          107,
+          107
         ]
       },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
       "hasNested": false,
-      "id": 444,
+      "id": 434,
       "isNested": false
     },
     {
@@ -774,9 +697,22 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 115,
+            "charBegin": 665,
+            "charEnd": 678,
+            "end": 117
+          }
+        ],
+        "text": [
+          "die",
+          "Schwester"
+        ],
+        "tokenIds": [
+          115,
+          116
+        ]
       },
       "passive": {
         "spans": [],
@@ -784,7 +720,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 445,
+      "id": 435,
       "isNested": false
     },
     {
@@ -831,7 +767,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 446,
+      "id": 436,
       "isNested": false
     },
     {
@@ -879,7 +815,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 447,
+      "id": 437,
       "isNested": false
     },
     {
@@ -931,7 +867,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 448,
+      "id": 438,
       "isNested": false
     },
     {
@@ -1013,7 +949,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 449,
+      "id": 439,
       "isNested": false
     }
   ],

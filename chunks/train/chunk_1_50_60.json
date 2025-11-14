@@ -133,9 +133,26 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 21,
+            "charBegin": 112,
+            "charEnd": 141,
+            "end": 25
+          }
+        ],
+        "text": [
+          "die",
+          "geliebte",
+          "Tochter",
+          "Asterons"
+        ],
+        "tokenIds": [
+          21,
+          22,
+          23,
+          24
+        ]
       },
       "hasNested": false,
       "id": 160,
@@ -207,11 +224,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 34,
@@ -226,6 +238,11 @@
         "tokenIds": [
           34
         ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "hasNested": false,
       "id": 162,
@@ -371,11 +388,6 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
         "spans": [
           {
             "begin": 66,
@@ -390,6 +402,11 @@
         "tokenIds": [
           66
         ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "passive": {
         "spans": [],
@@ -529,6 +546,11 @@
         ]
       },
       "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
         "spans": [
           {
             "begin": 89,
@@ -544,15 +566,25 @@
           89
         ]
       },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 100,
+            "charBegin": 528,
+            "charEnd": 543,
+            "end": 103
+          }
+        ],
+        "text": [
+          "ein",
+          "junges",
+          "Weib"
+        ],
+        "tokenIds": [
+          100,
+          101,
+          102
+        ]
       },
       "hasNested": false,
       "id": 168,
@@ -1139,16 +1171,28 @@
             "charBegin": 1048,
             "charEnd": 1073,
             "end": 201
+          },
+          {
+            "begin": 198,
+            "charBegin": 1048,
+            "charEnd": 1073,
+            "end": 201
           }
         ],
         "text": [
+          "der",
+          "ganze",
+          "Hinrichtungszug",
           "der",
           "ganze",
           "Hinrichtungszug"
         ],
         "tokenIds": [
           198,
+          198,
           199,
+          199,
+          200,
           200
         ]
       },
@@ -1182,11 +1226,6 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
         "spans": [
           {
             "begin": 204,
@@ -1209,6 +1248,11 @@
           204,
           209
         ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "passive": {
         "spans": [],
@@ -1361,9 +1405,20 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 237,
+            "charBegin": 1277,
+            "charEnd": 1280,
+            "end": 238
+          }
+        ],
+        "text": [
+          "ihr"
+        ],
+        "tokenIds": [
+          237
+        ]
       },
       "passive": {
         "spans": [

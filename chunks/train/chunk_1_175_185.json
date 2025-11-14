@@ -48,7 +48,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 530,
+      "id": 521,
       "isNested": false
     },
     {
@@ -79,7 +79,18 @@
         ]
       },
       "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
         "spans": [
+          {
+            "begin": 31,
+            "charBegin": 162,
+            "charEnd": 174,
+            "end": 33
+          },
           {
             "begin": 22,
             "charBegin": 121,
@@ -88,16 +99,15 @@
           }
         ],
         "text": [
+          "Don",
+          "Fernando",
           "sie"
         ],
         "tokenIds": [
-          22
+          22,
+          31,
+          32
         ]
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
       },
       "passive": {
         "spans": [],
@@ -105,7 +115,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 531,
+      "id": 522,
       "isNested": false
     },
     {
@@ -154,7 +164,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 532,
+      "id": 523,
       "isNested": false
     },
     {
@@ -181,12 +191,12 @@
           {
             "begin": 71,
             "charBegin": 356,
-            "charEnd": 363,
-            "end": 72
+            "charEnd": 379,
+            "end": 74
           },
           {
-            "begin": 72,
-            "charBegin": 364,
+            "begin": 71,
+            "charBegin": 356,
             "charEnd": 379,
             "end": 74
           }
@@ -194,11 +204,17 @@
         "text": [
           "mehrere",
           "der",
+          "Umstehenden",
+          "mehrere",
+          "der",
           "Umstehenden"
         ],
         "tokenIds": [
           71,
+          71,
           72,
+          72,
+          73,
           73
         ]
       },
@@ -213,7 +229,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 533,
+      "id": 524,
       "isNested": false
     },
     {
@@ -250,7 +266,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 534,
+      "id": 525,
       "isNested": false
     },
     {
@@ -296,32 +312,30 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [
-          {
-            "begin": 95,
-            "charBegin": 487,
-            "charEnd": 502,
-            "end": 98
-          }
-        ],
-        "text": [
-          "der",
-          "kleine",
-          "Juan"
-        ],
-        "tokenIds": [
-          95,
-          96,
-          97
-        ]
-      },
-      "passive": {
         "spans": [],
         "text": [],
         "tokenIds": []
       },
+      "passive": {
+        "spans": [
+          {
+            "begin": 108,
+            "charBegin": 557,
+            "charEnd": 569,
+            "end": 110
+          }
+        ],
+        "text": [
+          "Don",
+          "Fernando"
+        ],
+        "tokenIds": [
+          108,
+          109
+        ]
+      },
       "hasNested": false,
-      "id": 535,
+      "id": 526,
       "isNested": false
     },
     {
@@ -355,7 +369,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 536,
+      "id": 527,
       "isNested": false
     },
     {
@@ -404,7 +418,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 537,
+      "id": 528,
       "isNested": false
     },
     {
@@ -438,7 +452,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 538,
+      "id": 529,
       "isNested": false
     },
     {
@@ -486,7 +500,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 539,
+      "id": 530,
       "isNested": false
     },
     {
@@ -520,7 +534,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 540,
+      "id": 531,
       "isNested": false
     },
     {
@@ -568,7 +582,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 541,
+      "id": 532,
       "isNested": false
     },
     {
@@ -602,7 +616,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 542,
+      "id": 533,
       "isNested": false
     },
     {
@@ -611,11 +625,11 @@
           {
             "begin": 155,
             "charBegin": 773,
-            "charEnd": 822,
-            "end": 162
+            "charEnd": 823,
+            "end": 163
           }
         ],
-        "text": "die ganze im Tempel Jesu versammelte Christenheit",
+        "text": "die ganze im Tempel Jesu versammelte Christenheit !",
         "tokenIds": [
           155,
           156,
@@ -623,11 +637,18 @@
           158,
           159,
           160,
-          161
+          161,
+          162
         ]
       },
       "agentive": {
         "spans": [
+          {
+            "begin": 155,
+            "charBegin": 773,
+            "charEnd": 822,
+            "end": 162
+          },
           {
             "begin": 155,
             "charBegin": 773,
@@ -642,15 +663,29 @@
           "Tempel",
           "Jesu",
           "versammelte",
+          "Christenheit",
+          "die",
+          "ganze",
+          "im",
+          "Tempel",
+          "Jesu",
+          "versammelte",
           "Christenheit"
         ],
         "tokenIds": [
           155,
+          155,
+          156,
           156,
           157,
+          157,
+          158,
           158,
           159,
+          159,
           160,
+          160,
+          161,
           161
         ]
       },
@@ -665,7 +700,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 543,
+      "id": 534,
       "isNested": false
     },
     {
@@ -712,7 +747,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 544,
+      "id": 535,
       "isNested": false
     }
   ],

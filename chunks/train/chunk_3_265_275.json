@@ -63,7 +63,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 420,
+      "id": 413,
       "isNested": false
     },
     {
@@ -96,11 +96,6 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
         "spans": [
           {
             "begin": 138,
@@ -115,6 +110,11 @@
         "tokenIds": [
           138
         ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "passive": {
         "spans": [
@@ -133,7 +133,7 @@
         ]
       },
       "hasNested": false,
-      "id": 421,
+      "id": 414,
       "isNested": false
     },
     {
@@ -186,7 +186,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 422,
+      "id": 415,
       "isNested": false
     },
     {
@@ -249,7 +249,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 423,
+      "id": 416,
       "isNested": false
     },
     {
@@ -292,7 +292,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 424,
+      "id": 417,
       "isNested": false
     },
     {
@@ -315,6 +315,11 @@
         ]
       },
       "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
         "spans": [
           {
             "begin": 189,
@@ -330,18 +335,13 @@
           189
         ]
       },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
       "passive": {
         "spans": [],
         "text": [],
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 425,
+      "id": 418,
       "isNested": false
     },
     {
@@ -389,7 +389,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 426,
+      "id": 419,
       "isNested": false
     },
     {
@@ -444,7 +444,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 427,
+      "id": 420,
       "isNested": false
     },
     {
@@ -474,11 +474,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 216,
@@ -502,8 +497,13 @@
           218
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 428,
+      "id": 421,
       "isNested": false
     },
     {
@@ -535,6 +535,11 @@
         ]
       },
       "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
         "spans": [
           {
             "begin": 228,
@@ -558,18 +563,13 @@
           234
         ]
       },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
       "passive": {
         "spans": [],
         "text": [],
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 429,
+      "id": 422,
       "isNested": false
     },
     {
@@ -622,7 +622,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 430,
+      "id": 423,
       "isNested": false
     },
     {
@@ -669,7 +669,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 431,
+      "id": 424,
       "isNested": false
     },
     {
@@ -711,17 +711,7 @@
             "charBegin": 1336,
             "charEnd": 1338,
             "end": 255
-          }
-        ],
-        "text": [
-          "er"
-        ],
-        "tokenIds": [
-          254
-        ]
-      },
-      "passive": {
-        "spans": [
+          },
           {
             "begin": 255,
             "charBegin": 1339,
@@ -730,16 +720,23 @@
           }
         ],
         "text": [
+          "er",
           "den",
           "Prokuristen"
         ],
         "tokenIds": [
+          254,
           255,
           256
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 432,
+      "id": 425,
       "isNested": false
     },
     {
@@ -748,11 +745,11 @@
           {
             "begin": 267,
             "charBegin": 1413,
-            "charEnd": 1497,
-            "end": 280
+            "charEnd": 1496,
+            "end": 279
           }
         ],
-        "text": "wenn dadurch seine Stellung im Geschäft nicht aufs äußerste gefährdet werden sollte .",
+        "text": "wenn dadurch seine Stellung im Geschäft nicht aufs äußerste gefährdet werden sollte",
         "tokenIds": [
           267,
           268,
@@ -765,8 +762,7 @@
           275,
           276,
           277,
-          278,
-          279
+          278
         ]
       },
       "agentive": {
@@ -796,7 +792,7 @@
         ]
       },
       "hasNested": false,
-      "id": 433,
+      "id": 426,
       "isNested": false
     },
     {
@@ -860,7 +856,7 @@
         ]
       },
       "hasNested": false,
-      "id": 434,
+      "id": 427,
       "isNested": false
     },
     {
@@ -938,7 +934,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 435,
+      "id": 428,
       "isNested": false
     },
     {
@@ -971,11 +967,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 301,
@@ -999,8 +990,13 @@
           306
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 436,
+      "id": 429,
       "isNested": false
     },
     {
@@ -1045,7 +1041,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 437,
+      "id": 430,
       "isNested": false
     },
     {
@@ -1104,7 +1100,7 @@
         ]
       },
       "hasNested": false,
-      "id": 438,
+      "id": 431,
       "isNested": false
     },
     {
@@ -1153,7 +1149,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 439,
+      "id": 432,
       "isNested": false
     },
     {
@@ -1162,16 +1158,24 @@
           {
             "begin": 338,
             "charBegin": 1827,
-            "charEnd": 1855,
-            "end": 342
+            "charEnd": 1908,
+            "end": 350
           }
         ],
-        "text": "Der Prokurist mußte gehalten",
+        "text": "Der Prokurist mußte gehalten , beruhigt , überzeugt und schließlich gewonnen werden",
         "tokenIds": [
           338,
           339,
           340,
-          341
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349
         ]
       },
       "agentive": {
@@ -1180,11 +1184,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 338,
@@ -1202,113 +1201,13 @@
           339
         ]
       },
-      "hasNested": false,
-      "id": 440,
-      "isNested": false
-    },
-    {
-      "phrase": {
-        "spans": [
-          {
-            "begin": 343,
-            "charBegin": 1857,
-            "charEnd": 1865,
-            "end": 344
-          }
-        ],
-        "text": "beruhigt",
-        "tokenIds": [
-          343
-        ]
-      },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
       "passive": {
         "spans": [],
         "text": [],
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 441,
-      "isNested": false
-    },
-    {
-      "phrase": {
-        "spans": [
-          {
-            "begin": 345,
-            "charBegin": 1867,
-            "charEnd": 1876,
-            "end": 346
-          }
-        ],
-        "text": "überzeugt",
-        "tokenIds": [
-          345
-        ]
-      },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 442,
-      "isNested": false
-    },
-    {
-      "phrase": {
-        "spans": [
-          {
-            "begin": 346,
-            "charBegin": 1877,
-            "charEnd": 1908,
-            "end": 350
-          }
-        ],
-        "text": "und schließlich gewonnen werden",
-        "tokenIds": [
-          346,
-          347,
-          348,
-          349
-        ]
-      },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 443,
+      "id": 433,
       "isNested": false
     }
   ],

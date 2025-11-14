@@ -91,14 +91,38 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 10,
+            "charBegin": 49,
+            "charEnd": 61,
+            "end": 12
+          }
+        ],
+        "text": [
+          "die",
+          "Äbtissin"
+        ],
+        "tokenIds": [
+          10,
+          11
+        ]
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 44,
+            "charBegin": 217,
+            "charEnd": 220,
+            "end": 45
+          }
+        ],
+        "text": [
+          "ihn"
+        ],
+        "tokenIds": [
+          44
+        ]
       },
       "passive": {
         "spans": [],
@@ -141,9 +165,20 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 13,
+            "charBegin": 63,
+            "charEnd": 66,
+            "end": 14
+          }
+        ],
+        "text": [
+          "die"
+        ],
+        "tokenIds": [
+          13
+        ]
       },
       "low_agentive": {
         "spans": [],
@@ -225,8 +260,8 @@
           {
             "begin": 48,
             "charBegin": 232,
-            "charEnd": 283,
-            "end": 56
+            "charEnd": 284,
+            "end": 57
           },
           {
             "begin": 61,
@@ -235,7 +270,7 @@
             "end": 69
           }
         ],
-        "text": "Josephe stürzte sich , unerschrocken durch den Dampf in das von allen Seiten schon zusammenfallende Gebäude",
+        "text": "Josephe stürzte sich , unerschrocken durch den Dampf , in das von allen Seiten schon zusammenfallende Gebäude",
         "tokenIds": [
           48,
           49,
@@ -245,6 +280,7 @@
           53,
           54,
           55,
+          56,
           61,
           62,
           63,
@@ -258,12 +294,6 @@
       "agentive": {
         "spans": [
           {
-            "begin": 48,
-            "charBegin": 232,
-            "charEnd": 239,
-            "end": 49
-          },
-          {
             "begin": 50,
             "charBegin": 248,
             "charEnd": 252,
@@ -271,11 +301,9 @@
           }
         ],
         "text": [
-          "Josephe",
           "sich"
         ],
         "tokenIds": [
-          48,
           50
         ]
       },
@@ -394,20 +422,9 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [
-          {
-            "begin": 85,
-            "charBegin": 438,
-            "charEnd": 441,
-            "end": 86
-          }
-        ],
-        "text": [
-          "ihm"
-        ],
-        "tokenIds": [
-          85
-        ]
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "hasNested": false,
       "id": 190,
@@ -441,25 +458,45 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
-            "begin": 79,
-            "charBegin": 408,
-            "charEnd": 411,
-            "end": 80
+            "begin": 75,
+            "charBegin": 385,
+            "charEnd": 407,
+            "end": 79
+          },
+          {
+            "begin": 75,
+            "charBegin": 385,
+            "charEnd": 407,
+            "end": 79
           }
         ],
         "text": [
-          "sie"
+          "alle",
+          "Engel",
+          "des",
+          "Himmels",
+          "alle",
+          "Engel",
+          "des",
+          "Himmels"
         ],
         "tokenIds": [
-          79
+          75,
+          75,
+          76,
+          76,
+          77,
+          77,
+          78,
+          78
         ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "hasNested": false,
       "id": 191,
@@ -511,9 +548,22 @@
         ]
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 95,
+            "charBegin": 496,
+            "charEnd": 508,
+            "end": 97
+          }
+        ],
+        "text": [
+          "der",
+          "Äbtissin"
+        ],
+        "tokenIds": [
+          95,
+          96
+        ]
       },
       "passive": {
         "spans": [],
@@ -546,9 +596,28 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 98,
+            "charBegin": 510,
+            "charEnd": 516,
+            "end": 99
+          },
+          {
+            "begin": 102,
+            "charBegin": 532,
+            "charEnd": 535,
+            "end": 103
+          }
+        ],
+        "text": [
+          "welche",
+          "ihr"
+        ],
+        "tokenIds": [
+          98,
+          102
+        ]
       },
       "low_agentive": {
         "spans": [],
@@ -613,16 +682,44 @@
       "passive": {
         "spans": [
           {
-            "begin": 119,
-            "charBegin": 615,
+            "begin": 113,
+            "charBegin": 587,
+            "charEnd": 592,
+            "end": 114
+          },
+          {
+            "begin": 116,
+            "charBegin": 598,
+            "charEnd": 628,
+            "end": 120
+          },
+          {
+            "begin": 116,
+            "charBegin": 598,
             "charEnd": 628,
             "end": 120
           }
         ],
         "text": [
+          "diese",
+          "fast",
+          "allen",
+          "ihren",
+          "Klosterfrauen",
+          "fast",
+          "allen",
+          "ihren",
           "Klosterfrauen"
         ],
         "tokenIds": [
+          113,
+          116,
+          116,
+          117,
+          117,
+          118,
+          118,
+          119,
           119
         ]
       },
@@ -725,9 +822,22 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 145,
+            "charBegin": 784,
+            "charEnd": 796,
+            "end": 147
+          }
+        ],
+        "text": [
+          "der",
+          "Äbtissin"
+        ],
+        "tokenIds": [
+          145,
+          146
+        ]
       },
       "hasNested": false,
       "id": 196,
@@ -779,9 +889,24 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 160,
+            "charBegin": 858,
+            "charEnd": 875,
+            "end": 163
+          }
+        ],
+        "text": [
+          "den",
+          "teuern",
+          "Knaben"
+        ],
+        "tokenIds": [
+          160,
+          161,
+          162
+        ]
       },
       "hasNested": false,
       "id": 197,
@@ -814,9 +939,20 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 164,
+            "charBegin": 877,
+            "charEnd": 880,
+            "end": 165
+          }
+        ],
+        "text": [
+          "den"
+        ],
+        "tokenIds": [
+          164
+        ]
       },
       "passive": {
         "spans": [
@@ -917,25 +1053,39 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 185,
             "charBegin": 989,
             "charEnd": 992,
             "end": 186
+          },
+          {
+            "begin": 188,
+            "charBegin": 1004,
+            "charEnd": 1030,
+            "end": 192
           }
         ],
         "text": [
-          "ihr"
+          "ihr",
+          "die",
+          "Leiche",
+          "des",
+          "Erzbischofs"
         ],
         "tokenIds": [
-          185
+          185,
+          188,
+          189,
+          190,
+          191
         ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "hasNested": false,
       "id": 200,
@@ -967,9 +1117,20 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 194,
+            "charBegin": 1042,
+            "charEnd": 1045,
+            "end": 195
+          }
+        ],
+        "text": [
+          "die"
+        ],
+        "tokenIds": [
+          194
+        ]
       },
       "low_agentive": {
         "spans": [],
@@ -977,12 +1138,108 @@
         "tokenIds": []
       },
       "passive": {
+        "spans": [
+          {
+            "begin": 194,
+            "charBegin": 1042,
+            "charEnd": 1045,
+            "end": 195
+          }
+        ],
+        "text": [
+          "die"
+        ],
+        "tokenIds": [
+          194
+        ]
+      },
+      "hasNested": false,
+      "id": 201,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 196,
+            "charBegin": 1050,
+            "charEnd": 1227,
+            "end": 224
+          }
+        ],
+        "text": "soeben zerschmettert aus dem Schutt der Kathedrale hervorgezogen hatte . Der Palast des Vizekönigs war versunken , der Gerichtshof , in welchem ihr das Urteil gesprochen worden war",
+        "tokenIds": [
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 208,
+            "charBegin": 1133,
+            "charEnd": 1147,
+            "end": 210
+          }
+        ],
+        "text": [
+          "des",
+          "Vizekönigs"
+        ],
+        "tokenIds": [
+          208,
+          209
+        ]
+      },
+      "low_agentive": {
         "spans": [],
         "text": [],
         "tokenIds": []
       },
+      "passive": {
+        "spans": [
+          {
+            "begin": 218,
+            "charBegin": 1191,
+            "charEnd": 1194,
+            "end": 219
+          }
+        ],
+        "text": [
+          "ihr"
+        ],
+        "tokenIds": [
+          218
+        ]
+      },
       "hasNested": false,
-      "id": 201,
+      "id": 202,
       "isNested": false
     },
     {
@@ -1021,7 +1278,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 202,
+      "id": 203,
       "isNested": false
     },
     {
@@ -1063,58 +1320,6 @@
         "spans": [],
         "text": [],
         "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 203,
-      "isNested": false
-    },
-    {
-      "phrase": {
-        "spans": [
-          {
-            "begin": 216,
-            "charBegin": 1180,
-            "charEnd": 1227,
-            "end": 224
-          }
-        ],
-        "text": "in welchem ihr das Urteil gesprochen worden war",
-        "tokenIds": [
-          216,
-          217,
-          218,
-          219,
-          220,
-          221,
-          222,
-          223
-        ]
-      },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [
-          {
-            "begin": 218,
-            "charBegin": 1191,
-            "charEnd": 1194,
-            "end": 219
-          }
-        ],
-        "text": [
-          "ihr"
-        ],
-        "tokenIds": [
-          218
-        ]
       },
       "hasNested": false,
       "id": 204,
@@ -1380,11 +1585,6 @@
         ]
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 277,
@@ -1399,6 +1599,11 @@
         "tokenIds": [
           277
         ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "hasNested": false,
       "id": 209,

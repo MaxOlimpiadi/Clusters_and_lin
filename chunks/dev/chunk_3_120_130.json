@@ -20,6 +20,11 @@
         ]
       },
       "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
         "spans": [
           {
             "begin": 6,
@@ -43,18 +48,13 @@
           8
         ]
       },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
       "passive": {
         "spans": [],
         "text": [],
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 245,
+      "id": 243,
       "isNested": false
     },
     {
@@ -114,7 +114,7 @@
         ]
       },
       "hasNested": false,
-      "id": 246,
+      "id": 244,
       "isNested": false
     },
     {
@@ -144,63 +144,22 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 247,
-      "isNested": false
-    },
-    {
-      "phrase": {
         "spans": [
           {
-            "begin": 35,
-            "charBegin": 143,
-            "charEnd": 188,
-            "end": 43
-          }
-        ],
-        "text": "sagte nun der Vater aus dem Nebenzimmer links",
-        "tokenIds": [
-          35,
-          36,
-          37,
-          38,
-          39,
-          40,
-          41,
-          42
-        ]
-      },
-      "agentive": {
-        "spans": [
-          {
-            "begin": 37,
-            "charBegin": 153,
-            "charEnd": 162,
-            "end": 39
+            "begin": 17,
+            "charBegin": 60,
+            "charEnd": 73,
+            "end": 19
           }
         ],
         "text": [
-          "der",
-          "Vater"
+          "die",
+          "Schwester"
         ],
         "tokenIds": [
-          37,
-          38
+          17,
+          18
         ]
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
       },
       "passive": {
         "spans": [],
@@ -208,7 +167,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 248,
+      "id": 245,
       "isNested": false
     },
     {
@@ -259,7 +218,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 249,
+      "id": 246,
       "isNested": false
     },
     {
@@ -321,7 +280,7 @@
         ]
       },
       "hasNested": false,
-      "id": 250,
+      "id": 247,
       "isNested": false
     },
     {
@@ -375,7 +334,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 251,
+      "id": 248,
       "isNested": false
     }
   ],

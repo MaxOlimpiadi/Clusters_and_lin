@@ -63,7 +63,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 485,
+      "id": 476,
       "isNested": false
     },
     {
@@ -103,7 +103,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 486,
+      "id": 477,
       "isNested": false
     },
     {
@@ -138,16 +138,22 @@
       "agentive": {
         "spans": [
           {
-            "begin": 27,
-            "charBegin": 157,
+            "begin": 24,
+            "charBegin": 133,
             "charEnd": 162,
             "end": 28
           }
         ],
         "text": [
+          "der",
+          "ältesten",
+          "Chorherren",
           "einer"
         ],
         "tokenIds": [
+          24,
+          25,
+          26,
           27
         ]
       },
@@ -162,7 +168,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 487,
+      "id": 478,
       "isNested": false
     },
     {
@@ -236,7 +242,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 488,
+      "id": 479,
       "isNested": false
     },
     {
@@ -281,9 +287,36 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 64,
+            "charBegin": 347,
+            "charEnd": 355,
+            "end": 65
+          },
+          {
+            "begin": 80,
+            "charBegin": 425,
+            "charEnd": 429,
+            "end": 81
+          },
+          {
+            "begin": 64,
+            "charBegin": 347,
+            "charEnd": 355,
+            "end": 65
+          }
+        ],
+        "text": [
+          "Menschen",
+          "Gott",
+          "Menschen"
+        ],
+        "tokenIds": [
+          64,
+          64,
+          80
+        ]
       },
       "passive": {
         "spans": [],
@@ -291,7 +324,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 489,
+      "id": 480,
       "isNested": false
     },
     {
@@ -337,7 +370,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 490,
+      "id": 481,
       "isNested": false
     },
     {
@@ -363,6 +396,58 @@
         ]
       },
       "agentive": {
+        "spans": [
+          {
+            "begin": 92,
+            "charBegin": 481,
+            "charEnd": 497,
+            "end": 94
+          }
+        ],
+        "text": [
+          "des",
+          "Allmächtigen"
+        ],
+        "tokenIds": [
+          92,
+          93
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 482,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 97,
+            "charBegin": 513,
+            "charEnd": 558,
+            "end": 103
+          }
+        ],
+        "text": "das Weltgericht kann nicht entsetzlicher sein",
+        "tokenIds": [
+          97,
+          98,
+          99,
+          100,
+          101,
+          102
+        ]
+      },
+      "agentive": {
         "spans": [],
         "text": [],
         "tokenIds": []
@@ -378,7 +463,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 491,
+      "id": 483,
       "isNested": false
     },
     {
@@ -446,7 +531,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 492,
+      "id": 484,
       "isNested": false
     },
     {
@@ -484,7 +569,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 493,
+      "id": 485,
       "isNested": false
     },
     {
@@ -514,72 +599,9 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [
-          {
-            "begin": 134,
-            "charBegin": 719,
-            "charEnd": 740,
-            "end": 137
-          },
-          {
-            "begin": 134,
-            "charBegin": 719,
-            "charEnd": 740,
-            "end": 137
-          },
-          {
-            "begin": 134,
-            "charBegin": 719,
-            "charEnd": 740,
-            "end": 137
-          },
-          {
-            "begin": 134,
-            "charBegin": 719,
-            "charEnd": 740,
-            "end": 137
-          },
-          {
-            "begin": 134,
-            "charBegin": 719,
-            "charEnd": 740,
-            "end": 137
-          }
-        ],
-        "text": [
-          "die",
-          "ganze",
-          "Versammlung",
-          "die",
-          "ganze",
-          "Versammlung",
-          "die",
-          "ganze",
-          "Versammlung",
-          "die",
-          "ganze",
-          "Versammlung",
-          "die",
-          "ganze",
-          "Versammlung"
-        ],
-        "tokenIds": [
-          134,
-          134,
-          134,
-          134,
-          134,
-          135,
-          135,
-          135,
-          135,
-          135,
-          136,
-          136,
-          136,
-          136,
-          136
-        ]
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "passive": {
         "spans": [],
@@ -587,7 +609,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 494,
+      "id": 486,
       "isNested": false
     },
     {
@@ -645,7 +667,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 495,
+      "id": 487,
       "isNested": false
     },
     {
@@ -654,19 +676,22 @@
           {
             "begin": 153,
             "charBegin": 833,
-            "charEnd": 839,
-            "end": 154
-          },
-          {
-            "begin": 163,
-            "charBegin": 881,
             "charEnd": 898,
             "end": 168
           }
         ],
-        "text": "Greuel straft ' er an ihr",
+        "text": "Greuel , wie Sodom und Gomorrha sie nicht sahen , straft ' er an ihr",
         "tokenIds": [
           153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
           163,
           164,
           165,
@@ -677,6 +702,12 @@
       "agentive": {
         "spans": [
           {
+            "begin": 159,
+            "charBegin": 864,
+            "charEnd": 867,
+            "end": 160
+          },
+          {
             "begin": 165,
             "charBegin": 889,
             "charEnd": 891,
@@ -684,64 +715,80 @@
           }
         ],
         "text": [
+          "sie",
           "er"
         ],
         "tokenIds": [
+          159,
           165
         ]
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 496,
-      "isNested": false
-    },
-    {
-      "phrase": {
         "spans": [
           {
-            "begin": 155,
-            "charBegin": 841,
-            "charEnd": 879,
-            "end": 162
+            "begin": 159,
+            "charBegin": 864,
+            "charEnd": 867,
+            "end": 160
+          },
+          {
+            "begin": 165,
+            "charBegin": 889,
+            "charEnd": 891,
+            "end": 166
+          },
+          {
+            "begin": 159,
+            "charBegin": 864,
+            "charEnd": 867,
+            "end": 160
           }
         ],
-        "text": "wie Sodom und Gomorrha sie nicht sahen",
+        "text": [
+          "sie",
+          "er",
+          "sie"
+        ],
         "tokenIds": [
-          155,
-          156,
-          157,
-          158,
           159,
-          160,
-          161
+          159,
+          165
         ]
       },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 159,
+            "charBegin": 864,
+            "charEnd": 867,
+            "end": 160
+          },
+          {
+            "begin": 165,
+            "charBegin": 889,
+            "charEnd": 891,
+            "end": 166
+          },
+          {
+            "begin": 159,
+            "charBegin": 864,
+            "charEnd": 867,
+            "end": 160
+          }
+        ],
+        "text": [
+          "sie",
+          "er",
+          "sie"
+        ],
+        "tokenIds": [
+          159,
+          159,
+          165
+        ]
       },
       "hasNested": false,
-      "id": 497,
+      "id": 488,
       "isNested": false
     },
     {
@@ -795,7 +842,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 498,
+      "id": 489,
       "isNested": false
     },
     {
@@ -838,7 +885,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 499,
+      "id": 490,
       "isNested": false
     },
     {
@@ -880,11 +927,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 207,
@@ -916,8 +958,13 @@
           209
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 500,
+      "id": 491,
       "isNested": false
     },
     {
@@ -973,7 +1020,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 501,
+      "id": 492,
       "isNested": false
     },
     {
@@ -1015,7 +1062,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 502,
+      "id": 493,
       "isNested": false
     },
     {
@@ -1058,7 +1105,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 503,
+      "id": 494,
       "isNested": false
     },
     {
@@ -1098,7 +1145,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 504,
+      "id": 495,
       "isNested": false
     },
     {
@@ -1107,11 +1154,11 @@
           {
             "begin": 246,
             "charBegin": 1347,
-            "charEnd": 1476,
-            "end": 268
+            "charEnd": 1477,
+            "end": 269
           }
         ],
-        "text": "und in einer von Verwünschungen erfüllten Seitenwendung , die Seelen der Täter , wörtlich genannt , allen Fürsten der Hölle über gab",
+        "text": "und in einer von Verwünschungen erfüllten Seitenwendung , die Seelen der Täter , wörtlich genannt , allen Fürsten der Hölle über gab !",
         "tokenIds": [
           246,
           247,
@@ -1134,7 +1181,8 @@
           264,
           265,
           266,
-          267
+          267,
+          268
         ]
       },
       "agentive": {
@@ -1148,12 +1196,35 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 256,
+            "charBegin": 1415,
+            "charEnd": 1424,
+            "end": 258
+          },
+          {
+            "begin": 256,
+            "charBegin": 1415,
+            "charEnd": 1424,
+            "end": 258
+          }
+        ],
+        "text": [
+          "der",
+          "Täter",
+          "der",
+          "Täter"
+        ],
+        "tokenIds": [
+          256,
+          256,
+          257,
+          257
+        ]
       },
       "hasNested": false,
-      "id": 505,
+      "id": 496,
       "isNested": false
     }
   ],

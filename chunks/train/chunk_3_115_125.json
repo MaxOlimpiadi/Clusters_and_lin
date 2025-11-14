@@ -53,7 +53,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 238,
+      "id": 236,
       "isNested": false
     },
     {
@@ -86,9 +86,22 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 9,
+            "charBegin": 54,
+            "charEnd": 69,
+            "end": 11
+          }
+        ],
+        "text": [
+          "dem",
+          "Prokuristen"
+        ],
+        "tokenIds": [
+          9,
+          10
+        ]
       },
       "passive": {
         "spans": [],
@@ -96,7 +109,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 239,
+      "id": 237,
       "isNested": false
     },
     {
@@ -127,12 +140,23 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 18,
+            "charBegin": 114,
+            "charEnd": 117,
+            "end": 19
+          }
+        ],
+        "text": [
+          "ihm"
+        ],
+        "tokenIds": [
+          18
+        ]
       },
       "hasNested": false,
-      "id": 240,
+      "id": 238,
       "isNested": false
     },
     {
@@ -173,7 +197,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 241,
+      "id": 239,
       "isNested": false
     },
     {
@@ -237,7 +261,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 242,
+      "id": 240,
       "isNested": false
     },
     {
@@ -286,7 +310,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 243,
+      "id": 241,
       "isNested": false
     },
     {
@@ -316,22 +340,9 @@
         ]
       },
       "agentive": {
-        "spans": [
-          {
-            "begin": 58,
-            "charBegin": 363,
-            "charEnd": 376,
-            "end": 60
-          }
-        ],
-        "text": [
-          "die",
-          "Schwester"
-        ],
-        "tokenIds": [
-          58,
-          59
-        ]
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "low_agentive": {
         "spans": [],
@@ -344,7 +355,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 244,
+      "id": 242,
       "isNested": false
     },
     {
@@ -367,6 +378,11 @@
         ]
       },
       "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
         "spans": [
           {
             "begin": 81,
@@ -390,18 +406,13 @@
           83
         ]
       },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
       "passive": {
         "spans": [],
         "text": [],
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 245,
+      "id": 243,
       "isNested": false
     },
     {
@@ -461,7 +472,7 @@
         ]
       },
       "hasNested": false,
-      "id": 246,
+      "id": 244,
       "isNested": false
     },
     {
@@ -491,63 +502,22 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 247,
-      "isNested": false
-    },
-    {
-      "phrase": {
         "spans": [
           {
-            "begin": 110,
-            "charBegin": 580,
-            "charEnd": 625,
-            "end": 118
-          }
-        ],
-        "text": "sagte nun der Vater aus dem Nebenzimmer links",
-        "tokenIds": [
-          110,
-          111,
-          112,
-          113,
-          114,
-          115,
-          116,
-          117
-        ]
-      },
-      "agentive": {
-        "spans": [
-          {
-            "begin": 112,
-            "charBegin": 590,
-            "charEnd": 599,
-            "end": 114
+            "begin": 92,
+            "charBegin": 497,
+            "charEnd": 510,
+            "end": 94
           }
         ],
         "text": [
-          "der",
-          "Vater"
+          "die",
+          "Schwester"
         ],
         "tokenIds": [
-          112,
-          113
+          92,
+          93
         ]
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
       },
       "passive": {
         "spans": [],
@@ -555,7 +525,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 248,
+      "id": 245,
       "isNested": false
     }
   ],

@@ -46,7 +46,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 252,
+      "id": 249,
       "isNested": false
     },
     {
@@ -102,7 +102,7 @@
         ]
       },
       "hasNested": false,
-      "id": 253,
+      "id": 250,
       "isNested": false
     },
     {
@@ -123,22 +123,9 @@
         ]
       },
       "agentive": {
-        "spans": [
-          {
-            "begin": 74,
-            "charBegin": 347,
-            "charEnd": 360,
-            "end": 76
-          }
-        ],
-        "text": [
-          "der",
-          "Prokurist"
-        ],
-        "tokenIds": [
-          74,
-          75
-        ]
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "low_agentive": {
         "spans": [],
@@ -151,7 +138,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 254,
+      "id": 251,
       "isNested": false
     },
     {
@@ -203,7 +190,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 255,
+      "id": 252,
       "isNested": false
     },
     {
@@ -242,7 +229,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 256,
+      "id": 253,
       "isNested": false
     },
     {
@@ -288,7 +275,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 257,
+      "id": 254,
       "isNested": false
     },
     {
@@ -329,7 +316,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 258,
+      "id": 255,
       "isNested": false
     },
     {
@@ -383,7 +370,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 259,
+      "id": 256,
       "isNested": false
     },
     {
@@ -420,12 +407,25 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 167,
+            "charBegin": 862,
+            "charEnd": 875,
+            "end": 169
+          }
+        ],
+        "text": [
+          "die",
+          "Schwester"
+        ],
+        "tokenIds": [
+          167,
+          168
+        ]
       },
       "hasNested": false,
-      "id": 260,
+      "id": 257,
       "isNested": false
     }
   ],

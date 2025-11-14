@@ -44,7 +44,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 2002,
+      "id": 1980,
       "isNested": false
     },
     {
@@ -120,7 +120,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 2003,
+      "id": 1981,
       "isNested": false
     },
     {
@@ -163,7 +163,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 2004,
+      "id": 1982,
       "isNested": false
     },
     {
@@ -252,7 +252,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 2005,
+      "id": 1983,
       "isNested": false
     },
     {
@@ -301,20 +301,14 @@
           {
             "begin": 57,
             "charBegin": 347,
-            "charEnd": 352,
-            "end": 58
+            "charEnd": 386,
+            "end": 62
           },
           {
             "begin": 51,
             "charBegin": 315,
             "charEnd": 335,
             "end": 55
-          },
-          {
-            "begin": 57,
-            "charBegin": 347,
-            "charEnd": 352,
-            "end": 58
           }
         ],
         "text": [
@@ -323,11 +317,14 @@
           "Frau",
           "Samsa",
           "ihrer",
+          "immer",
+          "lebhafter",
+          "werdenden",
+          "Tochter",
           "Herrn",
           "und",
           "Frau",
-          "Samsa",
-          "ihrer"
+          "Samsa"
         ],
         "tokenIds": [
           51,
@@ -339,7 +336,10 @@
           54,
           54,
           57,
-          57
+          58,
+          59,
+          60,
+          61
         ]
       },
       "passive": {
@@ -348,7 +348,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 2006,
+      "id": 1984,
       "isNested": false
     },
     {
@@ -394,28 +394,44 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 67,
             "charBegin": 414,
             "charEnd": 417,
             "end": 68
+          },
+          {
+            "begin": 84,
+            "charBegin": 498,
+            "charEnd": 531,
+            "end": 89
           }
         ],
         "text": [
-          "sie"
+          "sie",
+          "einem",
+          "schönen",
+          "und",
+          "üppigen",
+          "Mädchen"
         ],
         "tokenIds": [
-          67
+          67,
+          84,
+          85,
+          86,
+          87,
+          88
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 2007,
+      "id": 1985,
       "isNested": false
     },
     {
@@ -465,7 +481,7 @@
         ]
       },
       "hasNested": false,
-      "id": 2008,
+      "id": 1986,
       "isNested": false
     },
     {
@@ -503,22 +519,10 @@
       "low_agentive": {
         "spans": [
           {
-            "begin": 99,
-            "charBegin": 595,
-            "charEnd": 599,
-            "end": 100
-          },
-          {
             "begin": 103,
             "charBegin": 623,
             "charEnd": 626,
             "end": 104
-          },
-          {
-            "begin": 99,
-            "charBegin": 595,
-            "charEnd": 599,
-            "end": 100
           },
           {
             "begin": 103,
@@ -528,14 +532,10 @@
           }
         ],
         "text": [
-          "sich",
           "sie",
-          "sich",
           "sie"
         ],
         "tokenIds": [
-          99,
-          99,
           103,
           103
         ]
@@ -546,7 +546,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 2009,
+      "id": 1987,
       "isNested": false
     },
     {
@@ -589,12 +589,23 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 118,
+            "charBegin": 689,
+            "charEnd": 692,
+            "end": 119
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          118
+        ]
       },
       "hasNested": false,
-      "id": 2010,
+      "id": 1988,
       "isNested": false
     },
     {
@@ -675,7 +686,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 2011,
+      "id": 1989,
       "isNested": false
     },
     {
@@ -748,7 +759,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 2012,
+      "id": 1990,
       "isNested": false
     },
     {
@@ -786,7 +797,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 2013,
+      "id": 1991,
       "isNested": false
     }
   ],

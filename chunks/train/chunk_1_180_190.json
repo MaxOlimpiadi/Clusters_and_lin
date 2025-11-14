@@ -31,7 +31,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 536,
+      "id": 527,
       "isNested": false
     },
     {
@@ -80,7 +80,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 537,
+      "id": 528,
       "isNested": false
     },
     {
@@ -114,7 +114,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 538,
+      "id": 529,
       "isNested": false
     },
     {
@@ -162,7 +162,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 539,
+      "id": 530,
       "isNested": false
     },
     {
@@ -196,7 +196,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 540,
+      "id": 531,
       "isNested": false
     },
     {
@@ -244,7 +244,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 541,
+      "id": 532,
       "isNested": false
     },
     {
@@ -278,7 +278,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 542,
+      "id": 533,
       "isNested": false
     },
     {
@@ -287,11 +287,11 @@
           {
             "begin": 40,
             "charBegin": 182,
-            "charEnd": 231,
-            "end": 47
+            "charEnd": 232,
+            "end": 48
           }
         ],
-        "text": "die ganze im Tempel Jesu versammelte Christenheit",
+        "text": "die ganze im Tempel Jesu versammelte Christenheit !",
         "tokenIds": [
           40,
           41,
@@ -299,11 +299,18 @@
           43,
           44,
           45,
-          46
+          46,
+          47
         ]
       },
       "agentive": {
         "spans": [
+          {
+            "begin": 40,
+            "charBegin": 182,
+            "charEnd": 231,
+            "end": 47
+          },
           {
             "begin": 40,
             "charBegin": 182,
@@ -318,15 +325,29 @@
           "Tempel",
           "Jesu",
           "versammelte",
+          "Christenheit",
+          "die",
+          "ganze",
+          "im",
+          "Tempel",
+          "Jesu",
+          "versammelte",
           "Christenheit"
         ],
         "tokenIds": [
           40,
+          40,
+          41,
           41,
           42,
+          42,
+          43,
           43,
           44,
+          44,
           45,
+          45,
+          46,
           46
         ]
       },
@@ -341,7 +362,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 543,
+      "id": 534,
       "isNested": false
     },
     {
@@ -388,7 +409,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 544,
+      "id": 535,
       "isNested": false
     },
     {
@@ -428,16 +449,28 @@
             "charBegin": 376,
             "charEnd": 394,
             "end": 80
+          },
+          {
+            "begin": 77,
+            "charBegin": 376,
+            "charEnd": 394,
+            "end": 80
           }
         ],
         "text": [
+          "Der",
+          "wütende",
+          "Haufen",
           "Der",
           "wütende",
           "Haufen"
         ],
         "tokenIds": [
           77,
+          77,
           78,
+          78,
+          79,
           79
         ]
       },
@@ -447,7 +480,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 545,
+      "id": 536,
       "isNested": false
     },
     {
@@ -471,9 +504,32 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 89,
+            "charBegin": 444,
+            "charEnd": 457,
+            "end": 91
+          },
+          {
+            "begin": 89,
+            "charBegin": 444,
+            "charEnd": 457,
+            "end": 91
+          }
+        ],
+        "text": [
+          "mehrere",
+          "Hände",
+          "mehrere",
+          "Hände"
+        ],
+        "tokenIds": [
+          89,
+          89,
+          90,
+          90
+        ]
       },
       "low_agentive": {
         "spans": [],
@@ -499,7 +555,7 @@
         ]
       },
       "hasNested": false,
-      "id": 546,
+      "id": 537,
       "isNested": false
     },
     {
@@ -562,7 +618,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 547,
+      "id": 538,
       "isNested": false
     },
     {
@@ -603,7 +659,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 548,
+      "id": 539,
       "isNested": false
     },
     {
@@ -662,7 +718,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 549,
+      "id": 540,
       "isNested": false
     },
     {
@@ -718,7 +774,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 550,
+      "id": 541,
       "isNested": false
     }
   ],

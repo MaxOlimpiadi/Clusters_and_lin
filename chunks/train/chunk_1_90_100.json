@@ -1,0 +1,5033 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 10,
+            "end": 3
+          },
+          {
+            "begin": 11,
+            "charBegin": 53,
+            "charEnd": 61,
+            "end": 12
+          }
+        ],
+        "text": "doch da er fortfuhr",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          11
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 2,
+            "charBegin": 8,
+            "charEnd": 10,
+            "end": 3
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          2
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 290,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 4,
+            "charBegin": 12,
+            "charEnd": 51,
+            "end": 10
+          }
+        ],
+        "text": "indem er ihre Verwirrung falsch deutete",
+        "tokenIds": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 5,
+            "charBegin": 18,
+            "charEnd": 20,
+            "end": 6
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          5
+        ]
+      },
+      "hasNested": false,
+      "id": 291,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 42,
+            "charBegin": 208,
+            "charEnd": 220,
+            "end": 45
+          }
+        ],
+        "text": "so sagte sie",
+        "tokenIds": [
+          42,
+          43,
+          44
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 44,
+            "charBegin": 217,
+            "charEnd": 220,
+            "end": 45
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          44
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 292,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 77,
+            "charBegin": 373,
+            "charEnd": 403,
+            "end": 82
+          }
+        ],
+        "text": "und nahm den kleinen Fremdling",
+        "tokenIds": [
+          77,
+          78,
+          79,
+          80,
+          81
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 79,
+            "charBegin": 382,
+            "charEnd": 403,
+            "end": 82
+          }
+        ],
+        "text": [
+          "den",
+          "kleinen",
+          "Fremdling"
+        ],
+        "tokenIds": [
+          79,
+          80,
+          81
+        ]
+      },
+      "hasNested": false,
+      "id": 293,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 83,
+            "charBegin": 405,
+            "charEnd": 445,
+            "end": 91
+          }
+        ],
+        "text": "indem sie ihr eigenes Kind dem Vater gab",
+        "tokenIds": [
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 84,
+            "charBegin": 411,
+            "charEnd": 414,
+            "end": 85
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          84
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 88,
+            "charBegin": 432,
+            "charEnd": 441,
+            "end": 90
+          }
+        ],
+        "text": [
+          "dem",
+          "Vater"
+        ],
+        "tokenIds": [
+          88,
+          89
+        ]
+      },
+      "hasNested": false,
+      "id": 294,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 92,
+            "charBegin": 447,
+            "charEnd": 474,
+            "end": 98
+          }
+        ],
+        "text": "und legte ihn an ihre Brust",
+        "tokenIds": [
+          92,
+          93,
+          94,
+          95,
+          96,
+          97
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 96,
+            "charBegin": 464,
+            "charEnd": 468,
+            "end": 97
+          }
+        ],
+        "text": [
+          "ihre"
+        ],
+        "tokenIds": [
+          96
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 94,
+            "charBegin": 457,
+            "charEnd": 460,
+            "end": 95
+          }
+        ],
+        "text": [
+          "ihn"
+        ],
+        "tokenIds": [
+          94
+        ]
+      },
+      "hasNested": false,
+      "id": 295,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 99,
+            "charBegin": 476,
+            "charEnd": 520,
+            "end": 107
+          }
+        ],
+        "text": "Don Fernando war sehr dankbar für diese Güte",
+        "tokenIds": [
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 99,
+            "charBegin": 476,
+            "charEnd": 488,
+            "end": 101
+          }
+        ],
+        "text": [
+          "Don",
+          "Fernando"
+        ],
+        "tokenIds": [
+          99,
+          100
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 296,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 108,
+            "charBegin": 522,
+            "charEnd": 532,
+            "end": 110
+          }
+        ],
+        "text": "und fragte",
+        "tokenIds": [
+          108,
+          109
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 297,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 111,
+            "charBegin": 534,
+            "charEnd": 598,
+            "end": 122
+          }
+        ],
+        "text": "ob sie sich nicht mit ihm zu jener Gesellschaft verfügen wollten",
+        "tokenIds": [
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 116,
+            "charBegin": 556,
+            "charEnd": 559,
+            "end": 117
+          },
+          {
+            "begin": 112,
+            "charBegin": 537,
+            "charEnd": 540,
+            "end": 113
+          },
+          {
+            "begin": 113,
+            "charBegin": 541,
+            "charEnd": 545,
+            "end": 114
+          }
+        ],
+        "text": [
+          "ihm",
+          "sie",
+          "sich"
+        ],
+        "tokenIds": [
+          112,
+          113,
+          116
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 298,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 123,
+            "charBegin": 600,
+            "charEnd": 661,
+            "end": 133
+          }
+        ],
+        "text": "wo eben jetzt beim Feuer ein kleines Frühstück bereitet werde",
+        "tokenIds": [
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 299,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 134,
+            "charBegin": 663,
+            "charEnd": 681,
+            "end": 136
+          }
+        ],
+        "text": "Josephe antwortete",
+        "tokenIds": [
+          134,
+          135
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 134,
+            "charBegin": 663,
+            "charEnd": 670,
+            "end": 135
+          }
+        ],
+        "text": [
+          "Josephe"
+        ],
+        "tokenIds": [
+          134
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 300,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 137,
+            "charBegin": 683,
+            "charEnd": 735,
+            "end": 145
+          }
+        ],
+        "text": "daß sie dies Anerbieten mit Vergnügen annehmen würde",
+        "tokenIds": [
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 138,
+            "charBegin": 687,
+            "charEnd": 690,
+            "end": 139
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          138
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 301,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 146,
+            "charBegin": 737,
+            "charEnd": 751,
+            "end": 149
+          },
+          {
+            "begin": 157,
+            "charBegin": 796,
+            "charEnd": 813,
+            "end": 160
+          }
+        ],
+        "text": "und folgte ihm zu seiner Familie",
+        "tokenIds": [
+          146,
+          147,
+          148,
+          157,
+          158,
+          159
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 158,
+            "charBegin": 799,
+            "charEnd": 813,
+            "end": 160
+          },
+          {
+            "begin": 158,
+            "charBegin": 799,
+            "charEnd": 813,
+            "end": 160
+          },
+          {
+            "begin": 158,
+            "charBegin": 799,
+            "charEnd": 813,
+            "end": 160
+          }
+        ],
+        "text": [
+          "seiner",
+          "Familie",
+          "seiner",
+          "Familie",
+          "seiner",
+          "Familie"
+        ],
+        "tokenIds": [
+          158,
+          158,
+          158,
+          159,
+          159,
+          159
+        ]
+      },
+      "hasNested": false,
+      "id": 302,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 150,
+            "charBegin": 753,
+            "charEnd": 794,
+            "end": 156
+          }
+        ],
+        "text": "da auch Jeronimo nichts einzuwenden hatte",
+        "tokenIds": [
+          150,
+          151,
+          152,
+          153,
+          154,
+          155
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 152,
+            "charBegin": 761,
+            "charEnd": 769,
+            "end": 153
+          }
+        ],
+        "text": [
+          "Jeronimo"
+        ],
+        "tokenIds": [
+          152
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 303,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 161,
+            "charBegin": 815,
+            "charEnd": 893,
+            "end": 173
+          },
+          {
+            "begin": 183,
+            "charBegin": 940,
+            "charEnd": 954,
+            "end": 185
+          }
+        ],
+        "text": "wo sie auf das innigste und zärtlichste von Don Fernandos beiden Schwägerinnen empfangen ward",
+        "tokenIds": [
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          183,
+          184
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 162,
+            "charBegin": 818,
+            "charEnd": 821,
+            "end": 163
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          162
+        ]
+      },
+      "hasNested": false,
+      "id": 304,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 186,
+            "charBegin": 956,
+            "charEnd": 992,
+            "end": 192
+          },
+          {
+            "begin": 204,
+            "charBegin": 1049,
+            "charEnd": 1061,
+            "end": 206
+          },
+          {
+            "begin": 218,
+            "charBegin": 1123,
+            "charEnd": 1163,
+            "end": 224
+          }
+        ],
+        "text": "Donna Elvire , Don Fernandos Gemahlin zog Josephen mit vieler Freundlichkeit zu sich nieder",
+        "tokenIds": [
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          204,
+          205,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 186,
+            "charBegin": 956,
+            "charEnd": 968,
+            "end": 188
+          },
+          {
+            "begin": 189,
+            "charBegin": 970,
+            "charEnd": 992,
+            "end": 192
+          },
+          {
+            "begin": 222,
+            "charBegin": 1152,
+            "charEnd": 1156,
+            "end": 223
+          }
+        ],
+        "text": [
+          "Donna",
+          "Elvire",
+          "Don",
+          "Fernandos",
+          "Gemahlin",
+          "sich"
+        ],
+        "tokenIds": [
+          186,
+          187,
+          189,
+          190,
+          191,
+          222
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 205,
+            "charBegin": 1053,
+            "charEnd": 1061,
+            "end": 206
+          }
+        ],
+        "text": [
+          "Josephen"
+        ],
+        "tokenIds": [
+          205
+        ]
+      },
+      "hasNested": false,
+      "id": 305,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 193,
+            "charBegin": 994,
+            "charEnd": 1047,
+            "end": 203
+          }
+        ],
+        "text": "welche schwer in den Füßen verwundet auf der Erde lag",
+        "tokenIds": [
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 193,
+            "charBegin": 994,
+            "charEnd": 1000,
+            "end": 194
+          }
+        ],
+        "text": [
+          "welche"
+        ],
+        "tokenIds": [
+          193
+        ]
+      },
+      "hasNested": false,
+      "id": 306,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 207,
+            "charBegin": 1063,
+            "charEnd": 1121,
+            "end": 217
+          }
+        ],
+        "text": "da sie ihren abgehärmten Knaben an der Brust derselben sah",
+        "tokenIds": [
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 208,
+            "charBegin": 1066,
+            "charEnd": 1069,
+            "end": 209
+          },
+          {
+            "begin": 215,
+            "charBegin": 1108,
+            "charEnd": 1117,
+            "end": 216
+          },
+          {
+            "begin": 209,
+            "charBegin": 1070,
+            "charEnd": 1094,
+            "end": 212
+          }
+        ],
+        "text": [
+          "sie",
+          "derselben",
+          "ihren",
+          "abgehärmten",
+          "Knaben"
+        ],
+        "tokenIds": [
+          208,
+          209,
+          210,
+          211,
+          215
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 307,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 225,
+            "charBegin": 1165,
+            "charEnd": 1200,
+            "end": 231
+          },
+          {
+            "begin": 239,
+            "charBegin": 1237,
+            "charEnd": 1275,
+            "end": 246
+          }
+        ],
+        "text": "Auch Don Pedro , sein Schwiegervater nickte ihr liebreich mit dem Haupte zu",
+        "tokenIds": [
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          239,
+          240,
+          241,
+          242,
+          243,
+          244,
+          245
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 226,
+            "charBegin": 1170,
+            "charEnd": 1200,
+            "end": 231
+          }
+        ],
+        "text": [
+          "Don",
+          "Pedro",
+          ",",
+          "sein",
+          "Schwiegervater"
+        ],
+        "tokenIds": [
+          226,
+          227,
+          228,
+          229,
+          230
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 240,
+            "charBegin": 1244,
+            "charEnd": 1247,
+            "end": 241
+          }
+        ],
+        "text": [
+          "ihr"
+        ],
+        "tokenIds": [
+          240
+        ]
+      },
+      "hasNested": false,
+      "id": 308,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 232,
+            "charBegin": 1202,
+            "charEnd": 1235,
+            "end": 238
+          }
+        ],
+        "text": "der an der Schulter verwundet war",
+        "tokenIds": [
+          232,
+          233,
+          234,
+          235,
+          236,
+          237
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 232,
+            "charBegin": 1202,
+            "charEnd": 1205,
+            "end": 233
+          }
+        ],
+        "text": [
+          "der"
+        ],
+        "tokenIds": [
+          232
+        ]
+      },
+      "hasNested": false,
+      "id": 309,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 248,
+            "charBegin": 1279,
+            "charEnd": 1350,
+            "end": 259
+          }
+        ],
+        "text": "In Jeronimos und Josephens Brust regten sich Gedanken von seltsamer Art",
+        "tokenIds": [
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 251,
+            "charBegin": 1296,
+            "charEnd": 1305,
+            "end": 252
+          },
+          {
+            "begin": 249,
+            "charBegin": 1282,
+            "charEnd": 1291,
+            "end": 250
+          }
+        ],
+        "text": [
+          "Josephens",
+          "Jeronimos"
+        ],
+        "tokenIds": [
+          249,
+          251
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 310,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 260,
+            "charBegin": 1352,
+            "charEnd": 1420,
+            "end": 271
+          }
+        ],
+        "text": "Wenn sie sich mit so vieler Vertraulichkeit und Güte behandelt sahen",
+        "tokenIds": [
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 311,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 272,
+            "charBegin": 1422,
+            "charEnd": 1441,
+            "end": 276
+          }
+        ],
+        "text": "so wußten sie nicht",
+        "tokenIds": [
+          272,
+          273,
+          274,
+          275
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 274,
+            "charBegin": 1432,
+            "charEnd": 1435,
+            "end": 275
+          },
+          {
+            "begin": 274,
+            "charBegin": 1432,
+            "charEnd": 1435,
+            "end": 275
+          }
+        ],
+        "text": [
+          "sie",
+          "sie"
+        ],
+        "tokenIds": [
+          274,
+          274
+        ]
+      },
+      "hasNested": false,
+      "id": 312,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 277,
+            "charBegin": 1443,
+            "charEnd": 1541,
+            "end": 295
+          }
+        ],
+        "text": "was sie von der Vergangenheit denken sollten , vom Richtplatze , von dem Gefängnisse , und der Glocke",
+        "tokenIds": [
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291,
+          292,
+          293,
+          294
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 278,
+            "charBegin": 1447,
+            "charEnd": 1450,
+            "end": 279
+          },
+          {
+            "begin": 278,
+            "charBegin": 1447,
+            "charEnd": 1450,
+            "end": 279
+          }
+        ],
+        "text": [
+          "sie",
+          "sie"
+        ],
+        "tokenIds": [
+          278,
+          278
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 313,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 296,
+            "charBegin": 1543,
+            "charEnd": 1580,
+            "end": 303
+          }
+        ],
+        "text": "und ob sie bloß davon geträumt hätten",
+        "tokenIds": [
+          296,
+          297,
+          298,
+          299,
+          300,
+          301,
+          302
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 298,
+            "charBegin": 1550,
+            "charEnd": 1553,
+            "end": 299
+          },
+          {
+            "begin": 298,
+            "charBegin": 1550,
+            "charEnd": 1553,
+            "end": 299
+          }
+        ],
+        "text": [
+          "sie",
+          "sie"
+        ],
+        "tokenIds": [
+          298,
+          298
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 314,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 304,
+            "charBegin": 1582,
+            "charEnd": 1588,
+            "end": 306
+          }
+        ],
+        "text": "Es war",
+        "tokenIds": [
+          304,
+          305
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 315,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 307,
+            "charBegin": 1590,
+            "charEnd": 1641,
+            "end": 316
+          },
+          {
+            "begin": 322,
+            "charBegin": 1670,
+            "charEnd": 1689,
+            "end": 325
+          }
+        ],
+        "text": "als ob die Gemüter , seit dem fürchterlichen Schlage alle versöhnt wären",
+        "tokenIds": [
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313,
+          314,
+          315,
+          322,
+          323,
+          324
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 309,
+            "charBegin": 1597,
+            "charEnd": 1608,
+            "end": 311
+          },
+          {
+            "begin": 309,
+            "charBegin": 1597,
+            "charEnd": 1608,
+            "end": 311
+          }
+        ],
+        "text": [
+          "die",
+          "Gemüter",
+          "die",
+          "Gemüter"
+        ],
+        "tokenIds": [
+          309,
+          309,
+          310,
+          310
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 316,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 317,
+            "charBegin": 1643,
+            "charEnd": 1668,
+            "end": 321
+          }
+        ],
+        "text": "der sie durchdröhnt hatte",
+        "tokenIds": [
+          317,
+          318,
+          319,
+          320
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 318,
+            "charBegin": 1647,
+            "charEnd": 1650,
+            "end": 319
+          },
+          {
+            "begin": 318,
+            "charBegin": 1647,
+            "charEnd": 1650,
+            "end": 319
+          }
+        ],
+        "text": [
+          "sie",
+          "sie"
+        ],
+        "tokenIds": [
+          318,
+          318
+        ]
+      },
+      "hasNested": false,
+      "id": 317,
+      "isNested": false
+    }
+  ],
+  "documentName": "Das Erdbeben in Chili__90_100",
+  "originalText": "doch da er, indem er ihre Verwirrung falsch deutete, fortfuhr: es ist nur auf wenige Augenblicke, Donna Josephe, und dieses Kind hat, seit jener Stunde, die uns alle unglücklich gemacht hat, nichts genossen; so sagte sie: »ich schwieg – aus einem andern Grunde, Don Fernando; in diesen schrecklichen Zeiten weigert sich niemand, von dem, was er besitzen mag, mitzuteilen«: und nahm den kleinen Fremdling, indem sie ihr eigenes Kind dem Vater gab, und legte ihn an ihre Brust. Don Fernando war sehr dankbar für diese Güte, und fragte: ob sie sich nicht mit ihm zu jener Gesellschaft verfügen wollten, wo eben jetzt beim Feuer ein kleines Frühstück bereitet werde? Josephe antwortete, daß sie dies Anerbieten mit Vergnügen annehmen würde, und folgte ihm, da auch Jeronimo nichts einzuwenden hatte, zu seiner Familie, wo sie auf das innigste und zärtlichste von Don Fernandos beiden Schwägerinnen, die sie als sehr würdige junge Damen kannte, empfangen ward. Donna Elvire, Don Fernandos Gemahlin, welche schwer in den Füßen verwundet auf der Erde lag, zog Josephen, da sie ihren abgehärmten Knaben an der Brust derselben sah, mit vieler Freundlichkeit zu sich nieder. Auch Don Pedro, sein Schwiegervater, der an der Schulter verwundet war, nickte ihr liebreich mit dem Haupte zu. – In Jeronimos und Josephens Brust regten sich Gedanken von seltsamer Art. Wenn sie sich mit so vieler Vertraulichkeit und Güte behandelt sahen, so wußten sie nicht, was sie von der Vergangenheit denken sollten, vom Richtplatze, von dem Gefängnisse, und der Glocke; und ob sie bloß davon geträumt hätten? Es war, als ob die Gemüter, seit dem fürchterlichen Schlage, der sie durchdröhnt hatte, alle versöhnt wären.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 207,
+      "end": 42,
+      "id": 0,
+      "text": "doch da er, indem er ihre Verwirrung falsch deutete, fortfuhr: es ist nur auf wenige Augenblicke, Donna Josephe, und dieses Kind hat, seit jener Stunde, die uns alle unglücklich gemacht hat, nichts genossen;",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "tokens": [
+        "doch",
+        "da",
+        "er",
+        ",",
+        "indem",
+        "er",
+        "ihre",
+        "Verwirrung",
+        "falsch",
+        "deutete",
+        ",",
+        "fortfuhr",
+        ":",
+        "es",
+        "ist",
+        "nur",
+        "auf",
+        "wenige",
+        "Augenblicke",
+        ",",
+        "Donna",
+        "Josephe",
+        ",",
+        "und",
+        "dieses",
+        "Kind",
+        "hat",
+        ",",
+        "seit",
+        "jener",
+        "Stunde",
+        ",",
+        "die",
+        "uns",
+        "alle",
+        "unglücklich",
+        "gemacht",
+        "hat",
+        ",",
+        "nichts",
+        "genossen",
+        ";"
+      ]
+    },
+    {
+      "begin": 42,
+      "charBegin": 208,
+      "charEnd": 275,
+      "end": 58,
+      "id": 1,
+      "text": "so sagte sie: »ich schwieg – aus einem andern Grunde, Don Fernando;",
+      "tokenIds": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "tokens": [
+        "so",
+        "sagte",
+        "sie",
+        ":",
+        "»",
+        "ich",
+        "schwieg",
+        "–",
+        "aus",
+        "einem",
+        "andern",
+        "Grunde",
+        ",",
+        "Don",
+        "Fernando",
+        ";"
+      ]
+    },
+    {
+      "begin": 58,
+      "charBegin": 276,
+      "charEnd": 475,
+      "end": 99,
+      "id": 2,
+      "text": "in diesen schrecklichen Zeiten weigert sich niemand, von dem, was er besitzen mag, mitzuteilen«: und nahm den kleinen Fremdling, indem sie ihr eigenes Kind dem Vater gab, und legte ihn an ihre Brust.",
+      "tokenIds": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ],
+      "tokens": [
+        "in",
+        "diesen",
+        "schrecklichen",
+        "Zeiten",
+        "weigert",
+        "sich",
+        "niemand",
+        ",",
+        "von",
+        "dem",
+        ",",
+        "was",
+        "er",
+        "besitzen",
+        "mag",
+        ",",
+        "mitzuteilen",
+        "«",
+        ":",
+        "und",
+        "nahm",
+        "den",
+        "kleinen",
+        "Fremdling",
+        ",",
+        "indem",
+        "sie",
+        "ihr",
+        "eigenes",
+        "Kind",
+        "dem",
+        "Vater",
+        "gab",
+        ",",
+        "und",
+        "legte",
+        "ihn",
+        "an",
+        "ihre",
+        "Brust",
+        "."
+      ]
+    },
+    {
+      "begin": 99,
+      "charBegin": 476,
+      "charEnd": 662,
+      "end": 134,
+      "id": 3,
+      "text": "Don Fernando war sehr dankbar für diese Güte, und fragte: ob sie sich nicht mit ihm zu jener Gesellschaft verfügen wollten, wo eben jetzt beim Feuer ein kleines Frühstück bereitet werde?",
+      "tokenIds": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133
+      ],
+      "tokens": [
+        "Don",
+        "Fernando",
+        "war",
+        "sehr",
+        "dankbar",
+        "für",
+        "diese",
+        "Güte",
+        ",",
+        "und",
+        "fragte",
+        ":",
+        "ob",
+        "sie",
+        "sich",
+        "nicht",
+        "mit",
+        "ihm",
+        "zu",
+        "jener",
+        "Gesellschaft",
+        "verfügen",
+        "wollten",
+        ",",
+        "wo",
+        "eben",
+        "jetzt",
+        "beim",
+        "Feuer",
+        "ein",
+        "kleines",
+        "Frühstück",
+        "bereitet",
+        "werde",
+        "?"
+      ]
+    },
+    {
+      "begin": 134,
+      "charBegin": 663,
+      "charEnd": 955,
+      "end": 186,
+      "id": 4,
+      "text": "Josephe antwortete, daß sie dies Anerbieten mit Vergnügen annehmen würde, und folgte ihm, da auch Jeronimo nichts einzuwenden hatte, zu seiner Familie, wo sie auf das innigste und zärtlichste von Don Fernandos beiden Schwägerinnen, die sie als sehr würdige junge Damen kannte, empfangen ward.",
+      "tokenIds": [
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185
+      ],
+      "tokens": [
+        "Josephe",
+        "antwortete",
+        ",",
+        "daß",
+        "sie",
+        "dies",
+        "Anerbieten",
+        "mit",
+        "Vergnügen",
+        "annehmen",
+        "würde",
+        ",",
+        "und",
+        "folgte",
+        "ihm",
+        ",",
+        "da",
+        "auch",
+        "Jeronimo",
+        "nichts",
+        "einzuwenden",
+        "hatte",
+        ",",
+        "zu",
+        "seiner",
+        "Familie",
+        ",",
+        "wo",
+        "sie",
+        "auf",
+        "das",
+        "innigste",
+        "und",
+        "zärtlichste",
+        "von",
+        "Don",
+        "Fernandos",
+        "beiden",
+        "Schwägerinnen",
+        ",",
+        "die",
+        "sie",
+        "als",
+        "sehr",
+        "würdige",
+        "junge",
+        "Damen",
+        "kannte",
+        ",",
+        "empfangen",
+        "ward",
+        "."
+      ]
+    },
+    {
+      "begin": 186,
+      "charBegin": 956,
+      "charEnd": 1164,
+      "end": 225,
+      "id": 5,
+      "text": "Donna Elvire, Don Fernandos Gemahlin, welche schwer in den Füßen verwundet auf der Erde lag, zog Josephen, da sie ihren abgehärmten Knaben an der Brust derselben sah, mit vieler Freundlichkeit zu sich nieder.",
+      "tokenIds": [
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224
+      ],
+      "tokens": [
+        "Donna",
+        "Elvire",
+        ",",
+        "Don",
+        "Fernandos",
+        "Gemahlin",
+        ",",
+        "welche",
+        "schwer",
+        "in",
+        "den",
+        "Füßen",
+        "verwundet",
+        "auf",
+        "der",
+        "Erde",
+        "lag",
+        ",",
+        "zog",
+        "Josephen",
+        ",",
+        "da",
+        "sie",
+        "ihren",
+        "abgehärmten",
+        "Knaben",
+        "an",
+        "der",
+        "Brust",
+        "derselben",
+        "sah",
+        ",",
+        "mit",
+        "vieler",
+        "Freundlichkeit",
+        "zu",
+        "sich",
+        "nieder",
+        "."
+      ]
+    },
+    {
+      "begin": 225,
+      "charBegin": 1165,
+      "charEnd": 1276,
+      "end": 247,
+      "id": 6,
+      "text": "Auch Don Pedro, sein Schwiegervater, der an der Schulter verwundet war, nickte ihr liebreich mit dem Haupte zu.",
+      "tokenIds": [
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246
+      ],
+      "tokens": [
+        "Auch",
+        "Don",
+        "Pedro",
+        ",",
+        "sein",
+        "Schwiegervater",
+        ",",
+        "der",
+        "an",
+        "der",
+        "Schulter",
+        "verwundet",
+        "war",
+        ",",
+        "nickte",
+        "ihr",
+        "liebreich",
+        "mit",
+        "dem",
+        "Haupte",
+        "zu",
+        "."
+      ]
+    },
+    {
+      "begin": 247,
+      "charBegin": 1277,
+      "charEnd": 1351,
+      "end": 260,
+      "id": 7,
+      "text": "– In Jeronimos und Josephens Brust regten sich Gedanken von seltsamer Art.",
+      "tokenIds": [
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259
+      ],
+      "tokens": [
+        "–",
+        "In",
+        "Jeronimos",
+        "und",
+        "Josephens",
+        "Brust",
+        "regten",
+        "sich",
+        "Gedanken",
+        "von",
+        "seltsamer",
+        "Art",
+        "."
+      ]
+    },
+    {
+      "begin": 260,
+      "charBegin": 1352,
+      "charEnd": 1581,
+      "end": 304,
+      "id": 8,
+      "text": "Wenn sie sich mit so vieler Vertraulichkeit und Güte behandelt sahen, so wußten sie nicht, was sie von der Vergangenheit denken sollten, vom Richtplatze, von dem Gefängnisse, und der Glocke; und ob sie bloß davon geträumt hätten?",
+      "tokenIds": [
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303
+      ],
+      "tokens": [
+        "Wenn",
+        "sie",
+        "sich",
+        "mit",
+        "so",
+        "vieler",
+        "Vertraulichkeit",
+        "und",
+        "Güte",
+        "behandelt",
+        "sahen",
+        ",",
+        "so",
+        "wußten",
+        "sie",
+        "nicht",
+        ",",
+        "was",
+        "sie",
+        "von",
+        "der",
+        "Vergangenheit",
+        "denken",
+        "sollten",
+        ",",
+        "vom",
+        "Richtplatze",
+        ",",
+        "von",
+        "dem",
+        "Gefängnisse",
+        ",",
+        "und",
+        "der",
+        "Glocke",
+        ";",
+        "und",
+        "ob",
+        "sie",
+        "bloß",
+        "davon",
+        "geträumt",
+        "hätten",
+        "?"
+      ]
+    },
+    {
+      "begin": 304,
+      "charBegin": 1582,
+      "charEnd": 1690,
+      "end": 326,
+      "id": 9,
+      "text": "Es war, als ob die Gemüter, seit dem fürchterlichen Schlage, der sie durchdröhnt hatte, alle versöhnt wären.",
+      "tokenIds": [
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325
+      ],
+      "tokens": [
+        "Es",
+        "war",
+        ",",
+        "als",
+        "ob",
+        "die",
+        "Gemüter",
+        ",",
+        "seit",
+        "dem",
+        "fürchterlichen",
+        "Schlage",
+        ",",
+        "der",
+        "sie",
+        "durchdröhnt",
+        "hatte",
+        ",",
+        "alle",
+        "versöhnt",
+        "wären",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 4,
+      "id": 0,
+      "sentence": 1,
+      "text": "doch",
+      "word": 1
+    },
+    {
+      "charBegin": 5,
+      "charEnd": 7,
+      "id": 1,
+      "sentence": 1,
+      "text": "da",
+      "word": 2
+    },
+    {
+      "charBegin": 8,
+      "charEnd": 10,
+      "id": 2,
+      "sentence": 1,
+      "text": "er",
+      "word": 3
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 11,
+      "id": 3,
+      "sentence": 1,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 12,
+      "charEnd": 17,
+      "id": 4,
+      "sentence": 1,
+      "text": "indem",
+      "word": 5
+    },
+    {
+      "charBegin": 18,
+      "charEnd": 20,
+      "id": 5,
+      "sentence": 1,
+      "text": "er",
+      "word": 6
+    },
+    {
+      "charBegin": 21,
+      "charEnd": 25,
+      "id": 6,
+      "sentence": 1,
+      "text": "ihre",
+      "word": 7
+    },
+    {
+      "charBegin": 26,
+      "charEnd": 36,
+      "id": 7,
+      "sentence": 1,
+      "text": "Verwirrung",
+      "word": 8
+    },
+    {
+      "charBegin": 37,
+      "charEnd": 43,
+      "id": 8,
+      "sentence": 1,
+      "text": "falsch",
+      "word": 9
+    },
+    {
+      "charBegin": 44,
+      "charEnd": 51,
+      "id": 9,
+      "sentence": 1,
+      "text": "deutete",
+      "word": 10
+    },
+    {
+      "charBegin": 51,
+      "charEnd": 52,
+      "id": 10,
+      "sentence": 1,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 61,
+      "id": 11,
+      "sentence": 1,
+      "text": "fortfuhr",
+      "word": 12
+    },
+    {
+      "charBegin": 61,
+      "charEnd": 62,
+      "id": 12,
+      "sentence": 1,
+      "text": ":",
+      "word": 13
+    },
+    {
+      "charBegin": 63,
+      "charEnd": 65,
+      "id": 13,
+      "sentence": 1,
+      "text": "es",
+      "word": 14
+    },
+    {
+      "charBegin": 66,
+      "charEnd": 69,
+      "id": 14,
+      "sentence": 1,
+      "text": "ist",
+      "word": 15
+    },
+    {
+      "charBegin": 70,
+      "charEnd": 73,
+      "id": 15,
+      "sentence": 1,
+      "text": "nur",
+      "word": 16
+    },
+    {
+      "charBegin": 74,
+      "charEnd": 77,
+      "id": 16,
+      "sentence": 1,
+      "text": "auf",
+      "word": 17
+    },
+    {
+      "charBegin": 78,
+      "charEnd": 84,
+      "id": 17,
+      "sentence": 1,
+      "text": "wenige",
+      "word": 18
+    },
+    {
+      "charBegin": 85,
+      "charEnd": 96,
+      "id": 18,
+      "sentence": 1,
+      "text": "Augenblicke",
+      "word": 19
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 97,
+      "id": 19,
+      "sentence": 1,
+      "text": ",",
+      "word": 20
+    },
+    {
+      "charBegin": 98,
+      "charEnd": 103,
+      "id": 20,
+      "sentence": 1,
+      "text": "Donna",
+      "word": 21
+    },
+    {
+      "charBegin": 104,
+      "charEnd": 111,
+      "id": 21,
+      "sentence": 1,
+      "text": "Josephe",
+      "word": 22
+    },
+    {
+      "charBegin": 111,
+      "charEnd": 112,
+      "id": 22,
+      "sentence": 1,
+      "text": ",",
+      "word": 23
+    },
+    {
+      "charBegin": 113,
+      "charEnd": 116,
+      "id": 23,
+      "sentence": 1,
+      "text": "und",
+      "word": 24
+    },
+    {
+      "charBegin": 117,
+      "charEnd": 123,
+      "id": 24,
+      "sentence": 1,
+      "text": "dieses",
+      "word": 25
+    },
+    {
+      "charBegin": 124,
+      "charEnd": 128,
+      "id": 25,
+      "sentence": 1,
+      "text": "Kind",
+      "word": 26
+    },
+    {
+      "charBegin": 129,
+      "charEnd": 132,
+      "id": 26,
+      "sentence": 1,
+      "text": "hat",
+      "word": 27
+    },
+    {
+      "charBegin": 132,
+      "charEnd": 133,
+      "id": 27,
+      "sentence": 1,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 138,
+      "id": 28,
+      "sentence": 1,
+      "text": "seit",
+      "word": 29
+    },
+    {
+      "charBegin": 139,
+      "charEnd": 144,
+      "id": 29,
+      "sentence": 1,
+      "text": "jener",
+      "word": 30
+    },
+    {
+      "charBegin": 145,
+      "charEnd": 151,
+      "id": 30,
+      "sentence": 1,
+      "text": "Stunde",
+      "word": 31
+    },
+    {
+      "charBegin": 151,
+      "charEnd": 152,
+      "id": 31,
+      "sentence": 1,
+      "text": ",",
+      "word": 32
+    },
+    {
+      "charBegin": 153,
+      "charEnd": 156,
+      "id": 32,
+      "sentence": 1,
+      "text": "die",
+      "word": 33
+    },
+    {
+      "charBegin": 157,
+      "charEnd": 160,
+      "id": 33,
+      "sentence": 1,
+      "text": "uns",
+      "word": 34
+    },
+    {
+      "charBegin": 161,
+      "charEnd": 165,
+      "id": 34,
+      "sentence": 1,
+      "text": "alle",
+      "word": 35
+    },
+    {
+      "charBegin": 166,
+      "charEnd": 177,
+      "id": 35,
+      "sentence": 1,
+      "text": "unglücklich",
+      "word": 36
+    },
+    {
+      "charBegin": 178,
+      "charEnd": 185,
+      "id": 36,
+      "sentence": 1,
+      "text": "gemacht",
+      "word": 37
+    },
+    {
+      "charBegin": 186,
+      "charEnd": 189,
+      "id": 37,
+      "sentence": 1,
+      "text": "hat",
+      "word": 38
+    },
+    {
+      "charBegin": 189,
+      "charEnd": 190,
+      "id": 38,
+      "sentence": 1,
+      "text": ",",
+      "word": 39
+    },
+    {
+      "charBegin": 191,
+      "charEnd": 197,
+      "id": 39,
+      "sentence": 1,
+      "text": "nichts",
+      "word": 40
+    },
+    {
+      "charBegin": 198,
+      "charEnd": 206,
+      "id": 40,
+      "sentence": 1,
+      "text": "genossen",
+      "word": 41
+    },
+    {
+      "charBegin": 206,
+      "charEnd": 207,
+      "id": 41,
+      "sentence": 1,
+      "text": ";",
+      "word": 42
+    },
+    {
+      "charBegin": 208,
+      "charEnd": 210,
+      "id": 42,
+      "sentence": 2,
+      "text": "so",
+      "word": 1
+    },
+    {
+      "charBegin": 211,
+      "charEnd": 216,
+      "id": 43,
+      "sentence": 2,
+      "text": "sagte",
+      "word": 2
+    },
+    {
+      "charBegin": 217,
+      "charEnd": 220,
+      "id": 44,
+      "sentence": 2,
+      "text": "sie",
+      "word": 3
+    },
+    {
+      "charBegin": 220,
+      "charEnd": 221,
+      "id": 45,
+      "sentence": 2,
+      "text": ":",
+      "word": 4
+    },
+    {
+      "charBegin": 222,
+      "charEnd": 223,
+      "id": 46,
+      "sentence": 2,
+      "text": "»",
+      "word": 5
+    },
+    {
+      "charBegin": 223,
+      "charEnd": 226,
+      "id": 47,
+      "sentence": 2,
+      "text": "ich",
+      "word": 6
+    },
+    {
+      "charBegin": 227,
+      "charEnd": 234,
+      "id": 48,
+      "sentence": 2,
+      "text": "schwieg",
+      "word": 7
+    },
+    {
+      "charBegin": 235,
+      "charEnd": 236,
+      "id": 49,
+      "sentence": 2,
+      "text": "–",
+      "word": 8
+    },
+    {
+      "charBegin": 237,
+      "charEnd": 240,
+      "id": 50,
+      "sentence": 2,
+      "text": "aus",
+      "word": 9
+    },
+    {
+      "charBegin": 241,
+      "charEnd": 246,
+      "id": 51,
+      "sentence": 2,
+      "text": "einem",
+      "word": 10
+    },
+    {
+      "charBegin": 247,
+      "charEnd": 253,
+      "id": 52,
+      "sentence": 2,
+      "text": "andern",
+      "word": 11
+    },
+    {
+      "charBegin": 254,
+      "charEnd": 260,
+      "id": 53,
+      "sentence": 2,
+      "text": "Grunde",
+      "word": 12
+    },
+    {
+      "charBegin": 260,
+      "charEnd": 261,
+      "id": 54,
+      "sentence": 2,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 262,
+      "charEnd": 265,
+      "id": 55,
+      "sentence": 2,
+      "text": "Don",
+      "word": 14
+    },
+    {
+      "charBegin": 266,
+      "charEnd": 274,
+      "id": 56,
+      "sentence": 2,
+      "text": "Fernando",
+      "word": 15
+    },
+    {
+      "charBegin": 274,
+      "charEnd": 275,
+      "id": 57,
+      "sentence": 2,
+      "text": ";",
+      "word": 16
+    },
+    {
+      "charBegin": 276,
+      "charEnd": 278,
+      "id": 58,
+      "sentence": 3,
+      "text": "in",
+      "word": 1
+    },
+    {
+      "charBegin": 279,
+      "charEnd": 285,
+      "id": 59,
+      "sentence": 3,
+      "text": "diesen",
+      "word": 2
+    },
+    {
+      "charBegin": 286,
+      "charEnd": 299,
+      "id": 60,
+      "sentence": 3,
+      "text": "schrecklichen",
+      "word": 3
+    },
+    {
+      "charBegin": 300,
+      "charEnd": 306,
+      "id": 61,
+      "sentence": 3,
+      "text": "Zeiten",
+      "word": 4
+    },
+    {
+      "charBegin": 307,
+      "charEnd": 314,
+      "id": 62,
+      "sentence": 3,
+      "text": "weigert",
+      "word": 5
+    },
+    {
+      "charBegin": 315,
+      "charEnd": 319,
+      "id": 63,
+      "sentence": 3,
+      "text": "sich",
+      "word": 6
+    },
+    {
+      "charBegin": 320,
+      "charEnd": 327,
+      "id": 64,
+      "sentence": 3,
+      "text": "niemand",
+      "word": 7
+    },
+    {
+      "charBegin": 327,
+      "charEnd": 328,
+      "id": 65,
+      "sentence": 3,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 329,
+      "charEnd": 332,
+      "id": 66,
+      "sentence": 3,
+      "text": "von",
+      "word": 9
+    },
+    {
+      "charBegin": 333,
+      "charEnd": 336,
+      "id": 67,
+      "sentence": 3,
+      "text": "dem",
+      "word": 10
+    },
+    {
+      "charBegin": 336,
+      "charEnd": 337,
+      "id": 68,
+      "sentence": 3,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 338,
+      "charEnd": 341,
+      "id": 69,
+      "sentence": 3,
+      "text": "was",
+      "word": 12
+    },
+    {
+      "charBegin": 342,
+      "charEnd": 344,
+      "id": 70,
+      "sentence": 3,
+      "text": "er",
+      "word": 13
+    },
+    {
+      "charBegin": 345,
+      "charEnd": 353,
+      "id": 71,
+      "sentence": 3,
+      "text": "besitzen",
+      "word": 14
+    },
+    {
+      "charBegin": 354,
+      "charEnd": 357,
+      "id": 72,
+      "sentence": 3,
+      "text": "mag",
+      "word": 15
+    },
+    {
+      "charBegin": 357,
+      "charEnd": 358,
+      "id": 73,
+      "sentence": 3,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 359,
+      "charEnd": 370,
+      "id": 74,
+      "sentence": 3,
+      "text": "mitzuteilen",
+      "word": 17
+    },
+    {
+      "charBegin": 370,
+      "charEnd": 371,
+      "id": 75,
+      "sentence": 3,
+      "text": "«",
+      "word": 18
+    },
+    {
+      "charBegin": 371,
+      "charEnd": 372,
+      "id": 76,
+      "sentence": 3,
+      "text": ":",
+      "word": 19
+    },
+    {
+      "charBegin": 373,
+      "charEnd": 376,
+      "id": 77,
+      "sentence": 3,
+      "text": "und",
+      "word": 20
+    },
+    {
+      "charBegin": 377,
+      "charEnd": 381,
+      "id": 78,
+      "sentence": 3,
+      "text": "nahm",
+      "word": 21
+    },
+    {
+      "charBegin": 382,
+      "charEnd": 385,
+      "id": 79,
+      "sentence": 3,
+      "text": "den",
+      "word": 22
+    },
+    {
+      "charBegin": 386,
+      "charEnd": 393,
+      "id": 80,
+      "sentence": 3,
+      "text": "kleinen",
+      "word": 23
+    },
+    {
+      "charBegin": 394,
+      "charEnd": 403,
+      "id": 81,
+      "sentence": 3,
+      "text": "Fremdling",
+      "word": 24
+    },
+    {
+      "charBegin": 403,
+      "charEnd": 404,
+      "id": 82,
+      "sentence": 3,
+      "text": ",",
+      "word": 25
+    },
+    {
+      "charBegin": 405,
+      "charEnd": 410,
+      "id": 83,
+      "sentence": 3,
+      "text": "indem",
+      "word": 26
+    },
+    {
+      "charBegin": 411,
+      "charEnd": 414,
+      "id": 84,
+      "sentence": 3,
+      "text": "sie",
+      "word": 27
+    },
+    {
+      "charBegin": 415,
+      "charEnd": 418,
+      "id": 85,
+      "sentence": 3,
+      "text": "ihr",
+      "word": 28
+    },
+    {
+      "charBegin": 419,
+      "charEnd": 426,
+      "id": 86,
+      "sentence": 3,
+      "text": "eigenes",
+      "word": 29
+    },
+    {
+      "charBegin": 427,
+      "charEnd": 431,
+      "id": 87,
+      "sentence": 3,
+      "text": "Kind",
+      "word": 30
+    },
+    {
+      "charBegin": 432,
+      "charEnd": 435,
+      "id": 88,
+      "sentence": 3,
+      "text": "dem",
+      "word": 31
+    },
+    {
+      "charBegin": 436,
+      "charEnd": 441,
+      "id": 89,
+      "sentence": 3,
+      "text": "Vater",
+      "word": 32
+    },
+    {
+      "charBegin": 442,
+      "charEnd": 445,
+      "id": 90,
+      "sentence": 3,
+      "text": "gab",
+      "word": 33
+    },
+    {
+      "charBegin": 445,
+      "charEnd": 446,
+      "id": 91,
+      "sentence": 3,
+      "text": ",",
+      "word": 34
+    },
+    {
+      "charBegin": 447,
+      "charEnd": 450,
+      "id": 92,
+      "sentence": 3,
+      "text": "und",
+      "word": 35
+    },
+    {
+      "charBegin": 451,
+      "charEnd": 456,
+      "id": 93,
+      "sentence": 3,
+      "text": "legte",
+      "word": 36
+    },
+    {
+      "charBegin": 457,
+      "charEnd": 460,
+      "id": 94,
+      "sentence": 3,
+      "text": "ihn",
+      "word": 37
+    },
+    {
+      "charBegin": 461,
+      "charEnd": 463,
+      "id": 95,
+      "sentence": 3,
+      "text": "an",
+      "word": 38
+    },
+    {
+      "charBegin": 464,
+      "charEnd": 468,
+      "id": 96,
+      "sentence": 3,
+      "text": "ihre",
+      "word": 39
+    },
+    {
+      "charBegin": 469,
+      "charEnd": 474,
+      "id": 97,
+      "sentence": 3,
+      "text": "Brust",
+      "word": 40
+    },
+    {
+      "charBegin": 474,
+      "charEnd": 475,
+      "id": 98,
+      "sentence": 3,
+      "text": ".",
+      "word": 41
+    },
+    {
+      "charBegin": 476,
+      "charEnd": 479,
+      "id": 99,
+      "sentence": 4,
+      "text": "Don",
+      "word": 1
+    },
+    {
+      "charBegin": 480,
+      "charEnd": 488,
+      "id": 100,
+      "sentence": 4,
+      "text": "Fernando",
+      "word": 2
+    },
+    {
+      "charBegin": 489,
+      "charEnd": 492,
+      "id": 101,
+      "sentence": 4,
+      "text": "war",
+      "word": 3
+    },
+    {
+      "charBegin": 493,
+      "charEnd": 497,
+      "id": 102,
+      "sentence": 4,
+      "text": "sehr",
+      "word": 4
+    },
+    {
+      "charBegin": 498,
+      "charEnd": 505,
+      "id": 103,
+      "sentence": 4,
+      "text": "dankbar",
+      "word": 5
+    },
+    {
+      "charBegin": 506,
+      "charEnd": 509,
+      "id": 104,
+      "sentence": 4,
+      "text": "für",
+      "word": 6
+    },
+    {
+      "charBegin": 510,
+      "charEnd": 515,
+      "id": 105,
+      "sentence": 4,
+      "text": "diese",
+      "word": 7
+    },
+    {
+      "charBegin": 516,
+      "charEnd": 520,
+      "id": 106,
+      "sentence": 4,
+      "text": "Güte",
+      "word": 8
+    },
+    {
+      "charBegin": 520,
+      "charEnd": 521,
+      "id": 107,
+      "sentence": 4,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 522,
+      "charEnd": 525,
+      "id": 108,
+      "sentence": 4,
+      "text": "und",
+      "word": 10
+    },
+    {
+      "charBegin": 526,
+      "charEnd": 532,
+      "id": 109,
+      "sentence": 4,
+      "text": "fragte",
+      "word": 11
+    },
+    {
+      "charBegin": 532,
+      "charEnd": 533,
+      "id": 110,
+      "sentence": 4,
+      "text": ":",
+      "word": 12
+    },
+    {
+      "charBegin": 534,
+      "charEnd": 536,
+      "id": 111,
+      "sentence": 4,
+      "text": "ob",
+      "word": 13
+    },
+    {
+      "charBegin": 537,
+      "charEnd": 540,
+      "id": 112,
+      "sentence": 4,
+      "text": "sie",
+      "word": 14
+    },
+    {
+      "charBegin": 541,
+      "charEnd": 545,
+      "id": 113,
+      "sentence": 4,
+      "text": "sich",
+      "word": 15
+    },
+    {
+      "charBegin": 546,
+      "charEnd": 551,
+      "id": 114,
+      "sentence": 4,
+      "text": "nicht",
+      "word": 16
+    },
+    {
+      "charBegin": 552,
+      "charEnd": 555,
+      "id": 115,
+      "sentence": 4,
+      "text": "mit",
+      "word": 17
+    },
+    {
+      "charBegin": 556,
+      "charEnd": 559,
+      "id": 116,
+      "sentence": 4,
+      "text": "ihm",
+      "word": 18
+    },
+    {
+      "charBegin": 560,
+      "charEnd": 562,
+      "id": 117,
+      "sentence": 4,
+      "text": "zu",
+      "word": 19
+    },
+    {
+      "charBegin": 563,
+      "charEnd": 568,
+      "id": 118,
+      "sentence": 4,
+      "text": "jener",
+      "word": 20
+    },
+    {
+      "charBegin": 569,
+      "charEnd": 581,
+      "id": 119,
+      "sentence": 4,
+      "text": "Gesellschaft",
+      "word": 21
+    },
+    {
+      "charBegin": 582,
+      "charEnd": 590,
+      "id": 120,
+      "sentence": 4,
+      "text": "verfügen",
+      "word": 22
+    },
+    {
+      "charBegin": 591,
+      "charEnd": 598,
+      "id": 121,
+      "sentence": 4,
+      "text": "wollten",
+      "word": 23
+    },
+    {
+      "charBegin": 598,
+      "charEnd": 599,
+      "id": 122,
+      "sentence": 4,
+      "text": ",",
+      "word": 24
+    },
+    {
+      "charBegin": 600,
+      "charEnd": 602,
+      "id": 123,
+      "sentence": 4,
+      "text": "wo",
+      "word": 25
+    },
+    {
+      "charBegin": 603,
+      "charEnd": 607,
+      "id": 124,
+      "sentence": 4,
+      "text": "eben",
+      "word": 26
+    },
+    {
+      "charBegin": 608,
+      "charEnd": 613,
+      "id": 125,
+      "sentence": 4,
+      "text": "jetzt",
+      "word": 27
+    },
+    {
+      "charBegin": 614,
+      "charEnd": 618,
+      "id": 126,
+      "sentence": 4,
+      "text": "beim",
+      "word": 28
+    },
+    {
+      "charBegin": 619,
+      "charEnd": 624,
+      "id": 127,
+      "sentence": 4,
+      "text": "Feuer",
+      "word": 29
+    },
+    {
+      "charBegin": 625,
+      "charEnd": 628,
+      "id": 128,
+      "sentence": 4,
+      "text": "ein",
+      "word": 30
+    },
+    {
+      "charBegin": 629,
+      "charEnd": 636,
+      "id": 129,
+      "sentence": 4,
+      "text": "kleines",
+      "word": 31
+    },
+    {
+      "charBegin": 637,
+      "charEnd": 646,
+      "id": 130,
+      "sentence": 4,
+      "text": "Frühstück",
+      "word": 32
+    },
+    {
+      "charBegin": 647,
+      "charEnd": 655,
+      "id": 131,
+      "sentence": 4,
+      "text": "bereitet",
+      "word": 33
+    },
+    {
+      "charBegin": 656,
+      "charEnd": 661,
+      "id": 132,
+      "sentence": 4,
+      "text": "werde",
+      "word": 34
+    },
+    {
+      "charBegin": 661,
+      "charEnd": 662,
+      "id": 133,
+      "sentence": 4,
+      "text": "?",
+      "word": 35
+    },
+    {
+      "charBegin": 663,
+      "charEnd": 670,
+      "id": 134,
+      "sentence": 5,
+      "text": "Josephe",
+      "word": 1
+    },
+    {
+      "charBegin": 671,
+      "charEnd": 681,
+      "id": 135,
+      "sentence": 5,
+      "text": "antwortete",
+      "word": 2
+    },
+    {
+      "charBegin": 681,
+      "charEnd": 682,
+      "id": 136,
+      "sentence": 5,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 683,
+      "charEnd": 686,
+      "id": 137,
+      "sentence": 5,
+      "text": "daß",
+      "word": 4
+    },
+    {
+      "charBegin": 687,
+      "charEnd": 690,
+      "id": 138,
+      "sentence": 5,
+      "text": "sie",
+      "word": 5
+    },
+    {
+      "charBegin": 691,
+      "charEnd": 695,
+      "id": 139,
+      "sentence": 5,
+      "text": "dies",
+      "word": 6
+    },
+    {
+      "charBegin": 696,
+      "charEnd": 706,
+      "id": 140,
+      "sentence": 5,
+      "text": "Anerbieten",
+      "word": 7
+    },
+    {
+      "charBegin": 707,
+      "charEnd": 710,
+      "id": 141,
+      "sentence": 5,
+      "text": "mit",
+      "word": 8
+    },
+    {
+      "charBegin": 711,
+      "charEnd": 720,
+      "id": 142,
+      "sentence": 5,
+      "text": "Vergnügen",
+      "word": 9
+    },
+    {
+      "charBegin": 721,
+      "charEnd": 729,
+      "id": 143,
+      "sentence": 5,
+      "text": "annehmen",
+      "word": 10
+    },
+    {
+      "charBegin": 730,
+      "charEnd": 735,
+      "id": 144,
+      "sentence": 5,
+      "text": "würde",
+      "word": 11
+    },
+    {
+      "charBegin": 735,
+      "charEnd": 736,
+      "id": 145,
+      "sentence": 5,
+      "text": ",",
+      "word": 12
+    },
+    {
+      "charBegin": 737,
+      "charEnd": 740,
+      "id": 146,
+      "sentence": 5,
+      "text": "und",
+      "word": 13
+    },
+    {
+      "charBegin": 741,
+      "charEnd": 747,
+      "id": 147,
+      "sentence": 5,
+      "text": "folgte",
+      "word": 14
+    },
+    {
+      "charBegin": 748,
+      "charEnd": 751,
+      "id": 148,
+      "sentence": 5,
+      "text": "ihm",
+      "word": 15
+    },
+    {
+      "charBegin": 751,
+      "charEnd": 752,
+      "id": 149,
+      "sentence": 5,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 753,
+      "charEnd": 755,
+      "id": 150,
+      "sentence": 5,
+      "text": "da",
+      "word": 17
+    },
+    {
+      "charBegin": 756,
+      "charEnd": 760,
+      "id": 151,
+      "sentence": 5,
+      "text": "auch",
+      "word": 18
+    },
+    {
+      "charBegin": 761,
+      "charEnd": 769,
+      "id": 152,
+      "sentence": 5,
+      "text": "Jeronimo",
+      "word": 19
+    },
+    {
+      "charBegin": 770,
+      "charEnd": 776,
+      "id": 153,
+      "sentence": 5,
+      "text": "nichts",
+      "word": 20
+    },
+    {
+      "charBegin": 777,
+      "charEnd": 788,
+      "id": 154,
+      "sentence": 5,
+      "text": "einzuwenden",
+      "word": 21
+    },
+    {
+      "charBegin": 789,
+      "charEnd": 794,
+      "id": 155,
+      "sentence": 5,
+      "text": "hatte",
+      "word": 22
+    },
+    {
+      "charBegin": 794,
+      "charEnd": 795,
+      "id": 156,
+      "sentence": 5,
+      "text": ",",
+      "word": 23
+    },
+    {
+      "charBegin": 796,
+      "charEnd": 798,
+      "id": 157,
+      "sentence": 5,
+      "text": "zu",
+      "word": 24
+    },
+    {
+      "charBegin": 799,
+      "charEnd": 805,
+      "id": 158,
+      "sentence": 5,
+      "text": "seiner",
+      "word": 25
+    },
+    {
+      "charBegin": 806,
+      "charEnd": 813,
+      "id": 159,
+      "sentence": 5,
+      "text": "Familie",
+      "word": 26
+    },
+    {
+      "charBegin": 813,
+      "charEnd": 814,
+      "id": 160,
+      "sentence": 5,
+      "text": ",",
+      "word": 27
+    },
+    {
+      "charBegin": 815,
+      "charEnd": 817,
+      "id": 161,
+      "sentence": 5,
+      "text": "wo",
+      "word": 28
+    },
+    {
+      "charBegin": 818,
+      "charEnd": 821,
+      "id": 162,
+      "sentence": 5,
+      "text": "sie",
+      "word": 29
+    },
+    {
+      "charBegin": 822,
+      "charEnd": 825,
+      "id": 163,
+      "sentence": 5,
+      "text": "auf",
+      "word": 30
+    },
+    {
+      "charBegin": 826,
+      "charEnd": 829,
+      "id": 164,
+      "sentence": 5,
+      "text": "das",
+      "word": 31
+    },
+    {
+      "charBegin": 830,
+      "charEnd": 838,
+      "id": 165,
+      "sentence": 5,
+      "text": "innigste",
+      "word": 32
+    },
+    {
+      "charBegin": 839,
+      "charEnd": 842,
+      "id": 166,
+      "sentence": 5,
+      "text": "und",
+      "word": 33
+    },
+    {
+      "charBegin": 843,
+      "charEnd": 854,
+      "id": 167,
+      "sentence": 5,
+      "text": "zärtlichste",
+      "word": 34
+    },
+    {
+      "charBegin": 855,
+      "charEnd": 858,
+      "id": 168,
+      "sentence": 5,
+      "text": "von",
+      "word": 35
+    },
+    {
+      "charBegin": 859,
+      "charEnd": 862,
+      "id": 169,
+      "sentence": 5,
+      "text": "Don",
+      "word": 36
+    },
+    {
+      "charBegin": 863,
+      "charEnd": 872,
+      "id": 170,
+      "sentence": 5,
+      "text": "Fernandos",
+      "word": 37
+    },
+    {
+      "charBegin": 873,
+      "charEnd": 879,
+      "id": 171,
+      "sentence": 5,
+      "text": "beiden",
+      "word": 38
+    },
+    {
+      "charBegin": 880,
+      "charEnd": 893,
+      "id": 172,
+      "sentence": 5,
+      "text": "Schwägerinnen",
+      "word": 39
+    },
+    {
+      "charBegin": 893,
+      "charEnd": 894,
+      "id": 173,
+      "sentence": 5,
+      "text": ",",
+      "word": 40
+    },
+    {
+      "charBegin": 895,
+      "charEnd": 898,
+      "id": 174,
+      "sentence": 5,
+      "text": "die",
+      "word": 41
+    },
+    {
+      "charBegin": 899,
+      "charEnd": 902,
+      "id": 175,
+      "sentence": 5,
+      "text": "sie",
+      "word": 42
+    },
+    {
+      "charBegin": 903,
+      "charEnd": 906,
+      "id": 176,
+      "sentence": 5,
+      "text": "als",
+      "word": 43
+    },
+    {
+      "charBegin": 907,
+      "charEnd": 911,
+      "id": 177,
+      "sentence": 5,
+      "text": "sehr",
+      "word": 44
+    },
+    {
+      "charBegin": 912,
+      "charEnd": 919,
+      "id": 178,
+      "sentence": 5,
+      "text": "würdige",
+      "word": 45
+    },
+    {
+      "charBegin": 920,
+      "charEnd": 925,
+      "id": 179,
+      "sentence": 5,
+      "text": "junge",
+      "word": 46
+    },
+    {
+      "charBegin": 926,
+      "charEnd": 931,
+      "id": 180,
+      "sentence": 5,
+      "text": "Damen",
+      "word": 47
+    },
+    {
+      "charBegin": 932,
+      "charEnd": 938,
+      "id": 181,
+      "sentence": 5,
+      "text": "kannte",
+      "word": 48
+    },
+    {
+      "charBegin": 938,
+      "charEnd": 939,
+      "id": 182,
+      "sentence": 5,
+      "text": ",",
+      "word": 49
+    },
+    {
+      "charBegin": 940,
+      "charEnd": 949,
+      "id": 183,
+      "sentence": 5,
+      "text": "empfangen",
+      "word": 50
+    },
+    {
+      "charBegin": 950,
+      "charEnd": 954,
+      "id": 184,
+      "sentence": 5,
+      "text": "ward",
+      "word": 51
+    },
+    {
+      "charBegin": 954,
+      "charEnd": 955,
+      "id": 185,
+      "sentence": 5,
+      "text": ".",
+      "word": 52
+    },
+    {
+      "charBegin": 956,
+      "charEnd": 961,
+      "id": 186,
+      "sentence": 6,
+      "text": "Donna",
+      "word": 1
+    },
+    {
+      "charBegin": 962,
+      "charEnd": 968,
+      "id": 187,
+      "sentence": 6,
+      "text": "Elvire",
+      "word": 2
+    },
+    {
+      "charBegin": 968,
+      "charEnd": 969,
+      "id": 188,
+      "sentence": 6,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 970,
+      "charEnd": 973,
+      "id": 189,
+      "sentence": 6,
+      "text": "Don",
+      "word": 4
+    },
+    {
+      "charBegin": 974,
+      "charEnd": 983,
+      "id": 190,
+      "sentence": 6,
+      "text": "Fernandos",
+      "word": 5
+    },
+    {
+      "charBegin": 984,
+      "charEnd": 992,
+      "id": 191,
+      "sentence": 6,
+      "text": "Gemahlin",
+      "word": 6
+    },
+    {
+      "charBegin": 992,
+      "charEnd": 993,
+      "id": 192,
+      "sentence": 6,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 994,
+      "charEnd": 1000,
+      "id": 193,
+      "sentence": 6,
+      "text": "welche",
+      "word": 8
+    },
+    {
+      "charBegin": 1001,
+      "charEnd": 1007,
+      "id": 194,
+      "sentence": 6,
+      "text": "schwer",
+      "word": 9
+    },
+    {
+      "charBegin": 1008,
+      "charEnd": 1010,
+      "id": 195,
+      "sentence": 6,
+      "text": "in",
+      "word": 10
+    },
+    {
+      "charBegin": 1011,
+      "charEnd": 1014,
+      "id": 196,
+      "sentence": 6,
+      "text": "den",
+      "word": 11
+    },
+    {
+      "charBegin": 1015,
+      "charEnd": 1020,
+      "id": 197,
+      "sentence": 6,
+      "text": "Füßen",
+      "word": 12
+    },
+    {
+      "charBegin": 1021,
+      "charEnd": 1030,
+      "id": 198,
+      "sentence": 6,
+      "text": "verwundet",
+      "word": 13
+    },
+    {
+      "charBegin": 1031,
+      "charEnd": 1034,
+      "id": 199,
+      "sentence": 6,
+      "text": "auf",
+      "word": 14
+    },
+    {
+      "charBegin": 1035,
+      "charEnd": 1038,
+      "id": 200,
+      "sentence": 6,
+      "text": "der",
+      "word": 15
+    },
+    {
+      "charBegin": 1039,
+      "charEnd": 1043,
+      "id": 201,
+      "sentence": 6,
+      "text": "Erde",
+      "word": 16
+    },
+    {
+      "charBegin": 1044,
+      "charEnd": 1047,
+      "id": 202,
+      "sentence": 6,
+      "text": "lag",
+      "word": 17
+    },
+    {
+      "charBegin": 1047,
+      "charEnd": 1048,
+      "id": 203,
+      "sentence": 6,
+      "text": ",",
+      "word": 18
+    },
+    {
+      "charBegin": 1049,
+      "charEnd": 1052,
+      "id": 204,
+      "sentence": 6,
+      "text": "zog",
+      "word": 19
+    },
+    {
+      "charBegin": 1053,
+      "charEnd": 1061,
+      "id": 205,
+      "sentence": 6,
+      "text": "Josephen",
+      "word": 20
+    },
+    {
+      "charBegin": 1061,
+      "charEnd": 1062,
+      "id": 206,
+      "sentence": 6,
+      "text": ",",
+      "word": 21
+    },
+    {
+      "charBegin": 1063,
+      "charEnd": 1065,
+      "id": 207,
+      "sentence": 6,
+      "text": "da",
+      "word": 22
+    },
+    {
+      "charBegin": 1066,
+      "charEnd": 1069,
+      "id": 208,
+      "sentence": 6,
+      "text": "sie",
+      "word": 23
+    },
+    {
+      "charBegin": 1070,
+      "charEnd": 1075,
+      "id": 209,
+      "sentence": 6,
+      "text": "ihren",
+      "word": 24
+    },
+    {
+      "charBegin": 1076,
+      "charEnd": 1087,
+      "id": 210,
+      "sentence": 6,
+      "text": "abgehärmten",
+      "word": 25
+    },
+    {
+      "charBegin": 1088,
+      "charEnd": 1094,
+      "id": 211,
+      "sentence": 6,
+      "text": "Knaben",
+      "word": 26
+    },
+    {
+      "charBegin": 1095,
+      "charEnd": 1097,
+      "id": 212,
+      "sentence": 6,
+      "text": "an",
+      "word": 27
+    },
+    {
+      "charBegin": 1098,
+      "charEnd": 1101,
+      "id": 213,
+      "sentence": 6,
+      "text": "der",
+      "word": 28
+    },
+    {
+      "charBegin": 1102,
+      "charEnd": 1107,
+      "id": 214,
+      "sentence": 6,
+      "text": "Brust",
+      "word": 29
+    },
+    {
+      "charBegin": 1108,
+      "charEnd": 1117,
+      "id": 215,
+      "sentence": 6,
+      "text": "derselben",
+      "word": 30
+    },
+    {
+      "charBegin": 1118,
+      "charEnd": 1121,
+      "id": 216,
+      "sentence": 6,
+      "text": "sah",
+      "word": 31
+    },
+    {
+      "charBegin": 1121,
+      "charEnd": 1122,
+      "id": 217,
+      "sentence": 6,
+      "text": ",",
+      "word": 32
+    },
+    {
+      "charBegin": 1123,
+      "charEnd": 1126,
+      "id": 218,
+      "sentence": 6,
+      "text": "mit",
+      "word": 33
+    },
+    {
+      "charBegin": 1127,
+      "charEnd": 1133,
+      "id": 219,
+      "sentence": 6,
+      "text": "vieler",
+      "word": 34
+    },
+    {
+      "charBegin": 1134,
+      "charEnd": 1148,
+      "id": 220,
+      "sentence": 6,
+      "text": "Freundlichkeit",
+      "word": 35
+    },
+    {
+      "charBegin": 1149,
+      "charEnd": 1151,
+      "id": 221,
+      "sentence": 6,
+      "text": "zu",
+      "word": 36
+    },
+    {
+      "charBegin": 1152,
+      "charEnd": 1156,
+      "id": 222,
+      "sentence": 6,
+      "text": "sich",
+      "word": 37
+    },
+    {
+      "charBegin": 1157,
+      "charEnd": 1163,
+      "id": 223,
+      "sentence": 6,
+      "text": "nieder",
+      "word": 38
+    },
+    {
+      "charBegin": 1163,
+      "charEnd": 1164,
+      "id": 224,
+      "sentence": 6,
+      "text": ".",
+      "word": 39
+    },
+    {
+      "charBegin": 1165,
+      "charEnd": 1169,
+      "id": 225,
+      "sentence": 7,
+      "text": "Auch",
+      "word": 1
+    },
+    {
+      "charBegin": 1170,
+      "charEnd": 1173,
+      "id": 226,
+      "sentence": 7,
+      "text": "Don",
+      "word": 2
+    },
+    {
+      "charBegin": 1174,
+      "charEnd": 1179,
+      "id": 227,
+      "sentence": 7,
+      "text": "Pedro",
+      "word": 3
+    },
+    {
+      "charBegin": 1179,
+      "charEnd": 1180,
+      "id": 228,
+      "sentence": 7,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 1181,
+      "charEnd": 1185,
+      "id": 229,
+      "sentence": 7,
+      "text": "sein",
+      "word": 5
+    },
+    {
+      "charBegin": 1186,
+      "charEnd": 1200,
+      "id": 230,
+      "sentence": 7,
+      "text": "Schwiegervater",
+      "word": 6
+    },
+    {
+      "charBegin": 1200,
+      "charEnd": 1201,
+      "id": 231,
+      "sentence": 7,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 1202,
+      "charEnd": 1205,
+      "id": 232,
+      "sentence": 7,
+      "text": "der",
+      "word": 8
+    },
+    {
+      "charBegin": 1206,
+      "charEnd": 1208,
+      "id": 233,
+      "sentence": 7,
+      "text": "an",
+      "word": 9
+    },
+    {
+      "charBegin": 1209,
+      "charEnd": 1212,
+      "id": 234,
+      "sentence": 7,
+      "text": "der",
+      "word": 10
+    },
+    {
+      "charBegin": 1213,
+      "charEnd": 1221,
+      "id": 235,
+      "sentence": 7,
+      "text": "Schulter",
+      "word": 11
+    },
+    {
+      "charBegin": 1222,
+      "charEnd": 1231,
+      "id": 236,
+      "sentence": 7,
+      "text": "verwundet",
+      "word": 12
+    },
+    {
+      "charBegin": 1232,
+      "charEnd": 1235,
+      "id": 237,
+      "sentence": 7,
+      "text": "war",
+      "word": 13
+    },
+    {
+      "charBegin": 1235,
+      "charEnd": 1236,
+      "id": 238,
+      "sentence": 7,
+      "text": ",",
+      "word": 14
+    },
+    {
+      "charBegin": 1237,
+      "charEnd": 1243,
+      "id": 239,
+      "sentence": 7,
+      "text": "nickte",
+      "word": 15
+    },
+    {
+      "charBegin": 1244,
+      "charEnd": 1247,
+      "id": 240,
+      "sentence": 7,
+      "text": "ihr",
+      "word": 16
+    },
+    {
+      "charBegin": 1248,
+      "charEnd": 1257,
+      "id": 241,
+      "sentence": 7,
+      "text": "liebreich",
+      "word": 17
+    },
+    {
+      "charBegin": 1258,
+      "charEnd": 1261,
+      "id": 242,
+      "sentence": 7,
+      "text": "mit",
+      "word": 18
+    },
+    {
+      "charBegin": 1262,
+      "charEnd": 1265,
+      "id": 243,
+      "sentence": 7,
+      "text": "dem",
+      "word": 19
+    },
+    {
+      "charBegin": 1266,
+      "charEnd": 1272,
+      "id": 244,
+      "sentence": 7,
+      "text": "Haupte",
+      "word": 20
+    },
+    {
+      "charBegin": 1273,
+      "charEnd": 1275,
+      "id": 245,
+      "sentence": 7,
+      "text": "zu",
+      "word": 21
+    },
+    {
+      "charBegin": 1275,
+      "charEnd": 1276,
+      "id": 246,
+      "sentence": 7,
+      "text": ".",
+      "word": 22
+    },
+    {
+      "charBegin": 1277,
+      "charEnd": 1278,
+      "id": 247,
+      "sentence": 8,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 1279,
+      "charEnd": 1281,
+      "id": 248,
+      "sentence": 8,
+      "text": "In",
+      "word": 2
+    },
+    {
+      "charBegin": 1282,
+      "charEnd": 1291,
+      "id": 249,
+      "sentence": 8,
+      "text": "Jeronimos",
+      "word": 3
+    },
+    {
+      "charBegin": 1292,
+      "charEnd": 1295,
+      "id": 250,
+      "sentence": 8,
+      "text": "und",
+      "word": 4
+    },
+    {
+      "charBegin": 1296,
+      "charEnd": 1305,
+      "id": 251,
+      "sentence": 8,
+      "text": "Josephens",
+      "word": 5
+    },
+    {
+      "charBegin": 1306,
+      "charEnd": 1311,
+      "id": 252,
+      "sentence": 8,
+      "text": "Brust",
+      "word": 6
+    },
+    {
+      "charBegin": 1312,
+      "charEnd": 1318,
+      "id": 253,
+      "sentence": 8,
+      "text": "regten",
+      "word": 7
+    },
+    {
+      "charBegin": 1319,
+      "charEnd": 1323,
+      "id": 254,
+      "sentence": 8,
+      "text": "sich",
+      "word": 8
+    },
+    {
+      "charBegin": 1324,
+      "charEnd": 1332,
+      "id": 255,
+      "sentence": 8,
+      "text": "Gedanken",
+      "word": 9
+    },
+    {
+      "charBegin": 1333,
+      "charEnd": 1336,
+      "id": 256,
+      "sentence": 8,
+      "text": "von",
+      "word": 10
+    },
+    {
+      "charBegin": 1337,
+      "charEnd": 1346,
+      "id": 257,
+      "sentence": 8,
+      "text": "seltsamer",
+      "word": 11
+    },
+    {
+      "charBegin": 1347,
+      "charEnd": 1350,
+      "id": 258,
+      "sentence": 8,
+      "text": "Art",
+      "word": 12
+    },
+    {
+      "charBegin": 1350,
+      "charEnd": 1351,
+      "id": 259,
+      "sentence": 8,
+      "text": ".",
+      "word": 13
+    },
+    {
+      "charBegin": 1352,
+      "charEnd": 1356,
+      "id": 260,
+      "sentence": 9,
+      "text": "Wenn",
+      "word": 1
+    },
+    {
+      "charBegin": 1357,
+      "charEnd": 1360,
+      "id": 261,
+      "sentence": 9,
+      "text": "sie",
+      "word": 2
+    },
+    {
+      "charBegin": 1361,
+      "charEnd": 1365,
+      "id": 262,
+      "sentence": 9,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 1366,
+      "charEnd": 1369,
+      "id": 263,
+      "sentence": 9,
+      "text": "mit",
+      "word": 4
+    },
+    {
+      "charBegin": 1370,
+      "charEnd": 1372,
+      "id": 264,
+      "sentence": 9,
+      "text": "so",
+      "word": 5
+    },
+    {
+      "charBegin": 1373,
+      "charEnd": 1379,
+      "id": 265,
+      "sentence": 9,
+      "text": "vieler",
+      "word": 6
+    },
+    {
+      "charBegin": 1380,
+      "charEnd": 1395,
+      "id": 266,
+      "sentence": 9,
+      "text": "Vertraulichkeit",
+      "word": 7
+    },
+    {
+      "charBegin": 1396,
+      "charEnd": 1399,
+      "id": 267,
+      "sentence": 9,
+      "text": "und",
+      "word": 8
+    },
+    {
+      "charBegin": 1400,
+      "charEnd": 1404,
+      "id": 268,
+      "sentence": 9,
+      "text": "Güte",
+      "word": 9
+    },
+    {
+      "charBegin": 1405,
+      "charEnd": 1414,
+      "id": 269,
+      "sentence": 9,
+      "text": "behandelt",
+      "word": 10
+    },
+    {
+      "charBegin": 1415,
+      "charEnd": 1420,
+      "id": 270,
+      "sentence": 9,
+      "text": "sahen",
+      "word": 11
+    },
+    {
+      "charBegin": 1420,
+      "charEnd": 1421,
+      "id": 271,
+      "sentence": 9,
+      "text": ",",
+      "word": 12
+    },
+    {
+      "charBegin": 1422,
+      "charEnd": 1424,
+      "id": 272,
+      "sentence": 9,
+      "text": "so",
+      "word": 13
+    },
+    {
+      "charBegin": 1425,
+      "charEnd": 1431,
+      "id": 273,
+      "sentence": 9,
+      "text": "wußten",
+      "word": 14
+    },
+    {
+      "charBegin": 1432,
+      "charEnd": 1435,
+      "id": 274,
+      "sentence": 9,
+      "text": "sie",
+      "word": 15
+    },
+    {
+      "charBegin": 1436,
+      "charEnd": 1441,
+      "id": 275,
+      "sentence": 9,
+      "text": "nicht",
+      "word": 16
+    },
+    {
+      "charBegin": 1441,
+      "charEnd": 1442,
+      "id": 276,
+      "sentence": 9,
+      "text": ",",
+      "word": 17
+    },
+    {
+      "charBegin": 1443,
+      "charEnd": 1446,
+      "id": 277,
+      "sentence": 9,
+      "text": "was",
+      "word": 18
+    },
+    {
+      "charBegin": 1447,
+      "charEnd": 1450,
+      "id": 278,
+      "sentence": 9,
+      "text": "sie",
+      "word": 19
+    },
+    {
+      "charBegin": 1451,
+      "charEnd": 1454,
+      "id": 279,
+      "sentence": 9,
+      "text": "von",
+      "word": 20
+    },
+    {
+      "charBegin": 1455,
+      "charEnd": 1458,
+      "id": 280,
+      "sentence": 9,
+      "text": "der",
+      "word": 21
+    },
+    {
+      "charBegin": 1459,
+      "charEnd": 1472,
+      "id": 281,
+      "sentence": 9,
+      "text": "Vergangenheit",
+      "word": 22
+    },
+    {
+      "charBegin": 1473,
+      "charEnd": 1479,
+      "id": 282,
+      "sentence": 9,
+      "text": "denken",
+      "word": 23
+    },
+    {
+      "charBegin": 1480,
+      "charEnd": 1487,
+      "id": 283,
+      "sentence": 9,
+      "text": "sollten",
+      "word": 24
+    },
+    {
+      "charBegin": 1487,
+      "charEnd": 1488,
+      "id": 284,
+      "sentence": 9,
+      "text": ",",
+      "word": 25
+    },
+    {
+      "charBegin": 1489,
+      "charEnd": 1492,
+      "id": 285,
+      "sentence": 9,
+      "text": "vom",
+      "word": 26
+    },
+    {
+      "charBegin": 1493,
+      "charEnd": 1504,
+      "id": 286,
+      "sentence": 9,
+      "text": "Richtplatze",
+      "word": 27
+    },
+    {
+      "charBegin": 1504,
+      "charEnd": 1505,
+      "id": 287,
+      "sentence": 9,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 1506,
+      "charEnd": 1509,
+      "id": 288,
+      "sentence": 9,
+      "text": "von",
+      "word": 29
+    },
+    {
+      "charBegin": 1510,
+      "charEnd": 1513,
+      "id": 289,
+      "sentence": 9,
+      "text": "dem",
+      "word": 30
+    },
+    {
+      "charBegin": 1514,
+      "charEnd": 1525,
+      "id": 290,
+      "sentence": 9,
+      "text": "Gefängnisse",
+      "word": 31
+    },
+    {
+      "charBegin": 1525,
+      "charEnd": 1526,
+      "id": 291,
+      "sentence": 9,
+      "text": ",",
+      "word": 32
+    },
+    {
+      "charBegin": 1527,
+      "charEnd": 1530,
+      "id": 292,
+      "sentence": 9,
+      "text": "und",
+      "word": 33
+    },
+    {
+      "charBegin": 1531,
+      "charEnd": 1534,
+      "id": 293,
+      "sentence": 9,
+      "text": "der",
+      "word": 34
+    },
+    {
+      "charBegin": 1535,
+      "charEnd": 1541,
+      "id": 294,
+      "sentence": 9,
+      "text": "Glocke",
+      "word": 35
+    },
+    {
+      "charBegin": 1541,
+      "charEnd": 1542,
+      "id": 295,
+      "sentence": 9,
+      "text": ";",
+      "word": 36
+    },
+    {
+      "charBegin": 1543,
+      "charEnd": 1546,
+      "id": 296,
+      "sentence": 9,
+      "text": "und",
+      "word": 37
+    },
+    {
+      "charBegin": 1547,
+      "charEnd": 1549,
+      "id": 297,
+      "sentence": 9,
+      "text": "ob",
+      "word": 38
+    },
+    {
+      "charBegin": 1550,
+      "charEnd": 1553,
+      "id": 298,
+      "sentence": 9,
+      "text": "sie",
+      "word": 39
+    },
+    {
+      "charBegin": 1554,
+      "charEnd": 1558,
+      "id": 299,
+      "sentence": 9,
+      "text": "bloß",
+      "word": 40
+    },
+    {
+      "charBegin": 1559,
+      "charEnd": 1564,
+      "id": 300,
+      "sentence": 9,
+      "text": "davon",
+      "word": 41
+    },
+    {
+      "charBegin": 1565,
+      "charEnd": 1573,
+      "id": 301,
+      "sentence": 9,
+      "text": "geträumt",
+      "word": 42
+    },
+    {
+      "charBegin": 1574,
+      "charEnd": 1580,
+      "id": 302,
+      "sentence": 9,
+      "text": "hätten",
+      "word": 43
+    },
+    {
+      "charBegin": 1580,
+      "charEnd": 1581,
+      "id": 303,
+      "sentence": 9,
+      "text": "?",
+      "word": 44
+    },
+    {
+      "charBegin": 1582,
+      "charEnd": 1584,
+      "id": 304,
+      "sentence": 10,
+      "text": "Es",
+      "word": 1
+    },
+    {
+      "charBegin": 1585,
+      "charEnd": 1588,
+      "id": 305,
+      "sentence": 10,
+      "text": "war",
+      "word": 2
+    },
+    {
+      "charBegin": 1588,
+      "charEnd": 1589,
+      "id": 306,
+      "sentence": 10,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 1590,
+      "charEnd": 1593,
+      "id": 307,
+      "sentence": 10,
+      "text": "als",
+      "word": 4
+    },
+    {
+      "charBegin": 1594,
+      "charEnd": 1596,
+      "id": 308,
+      "sentence": 10,
+      "text": "ob",
+      "word": 5
+    },
+    {
+      "charBegin": 1597,
+      "charEnd": 1600,
+      "id": 309,
+      "sentence": 10,
+      "text": "die",
+      "word": 6
+    },
+    {
+      "charBegin": 1601,
+      "charEnd": 1608,
+      "id": 310,
+      "sentence": 10,
+      "text": "Gemüter",
+      "word": 7
+    },
+    {
+      "charBegin": 1608,
+      "charEnd": 1609,
+      "id": 311,
+      "sentence": 10,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 1610,
+      "charEnd": 1614,
+      "id": 312,
+      "sentence": 10,
+      "text": "seit",
+      "word": 9
+    },
+    {
+      "charBegin": 1615,
+      "charEnd": 1618,
+      "id": 313,
+      "sentence": 10,
+      "text": "dem",
+      "word": 10
+    },
+    {
+      "charBegin": 1619,
+      "charEnd": 1633,
+      "id": 314,
+      "sentence": 10,
+      "text": "fürchterlichen",
+      "word": 11
+    },
+    {
+      "charBegin": 1634,
+      "charEnd": 1641,
+      "id": 315,
+      "sentence": 10,
+      "text": "Schlage",
+      "word": 12
+    },
+    {
+      "charBegin": 1641,
+      "charEnd": 1642,
+      "id": 316,
+      "sentence": 10,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 1643,
+      "charEnd": 1646,
+      "id": 317,
+      "sentence": 10,
+      "text": "der",
+      "word": 14
+    },
+    {
+      "charBegin": 1647,
+      "charEnd": 1650,
+      "id": 318,
+      "sentence": 10,
+      "text": "sie",
+      "word": 15
+    },
+    {
+      "charBegin": 1651,
+      "charEnd": 1662,
+      "id": 319,
+      "sentence": 10,
+      "text": "durchdröhnt",
+      "word": 16
+    },
+    {
+      "charBegin": 1663,
+      "charEnd": 1668,
+      "id": 320,
+      "sentence": 10,
+      "text": "hatte",
+      "word": 17
+    },
+    {
+      "charBegin": 1668,
+      "charEnd": 1669,
+      "id": 321,
+      "sentence": 10,
+      "text": ",",
+      "word": 18
+    },
+    {
+      "charBegin": 1670,
+      "charEnd": 1674,
+      "id": 322,
+      "sentence": 10,
+      "text": "alle",
+      "word": 19
+    },
+    {
+      "charBegin": 1675,
+      "charEnd": 1683,
+      "id": 323,
+      "sentence": 10,
+      "text": "versöhnt",
+      "word": 20
+    },
+    {
+      "charBegin": 1684,
+      "charEnd": 1689,
+      "id": 324,
+      "sentence": 10,
+      "text": "wären",
+      "word": 21
+    },
+    {
+      "charBegin": 1689,
+      "charEnd": 1690,
+      "id": 325,
+      "sentence": 10,
+      "text": ".",
+      "word": 22
+    }
+  ]
+}

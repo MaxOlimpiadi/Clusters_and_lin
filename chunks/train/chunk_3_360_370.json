@@ -54,7 +54,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 676,
+      "id": 661,
       "isNested": false
     },
     {
@@ -96,7 +96,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 677,
+      "id": 662,
       "isNested": false
     },
     {
@@ -157,7 +157,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 678,
+      "id": 663,
       "isNested": false
     },
     {
@@ -194,7 +194,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 679,
+      "id": 664,
       "isNested": false
     },
     {
@@ -242,7 +242,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 680,
+      "id": 665,
       "isNested": false
     },
     {
@@ -292,7 +292,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 681,
+      "id": 666,
       "isNested": false
     },
     {
@@ -352,7 +352,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 682,
+      "id": 667,
       "isNested": false
     },
     {
@@ -402,7 +402,7 @@
         ]
       },
       "hasNested": false,
-      "id": 683,
+      "id": 668,
       "isNested": false
     },
     {
@@ -464,7 +464,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 684,
+      "id": 669,
       "isNested": false
     },
     {
@@ -547,7 +547,7 @@
         ]
       },
       "hasNested": false,
-      "id": 685,
+      "id": 670,
       "isNested": false
     },
     {
@@ -590,7 +590,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 686,
+      "id": 671,
       "isNested": false
     },
     {
@@ -639,47 +639,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 687,
-      "isNested": false
-    },
-    {
-      "phrase": {
-        "spans": [
-          {
-            "begin": 114,
-            "charBegin": 615,
-            "charEnd": 664,
-            "end": 121
-          }
-        ],
-        "text": "die von festgewordener weißer Sauce umgeben waren",
-        "tokenIds": [
-          114,
-          115,
-          116,
-          117,
-          118,
-          119,
-          120
-        ]
-      },
-      "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "hasNested": false,
-      "id": 688,
+      "id": 672,
       "isNested": false
     },
     {
@@ -732,7 +692,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 689,
+      "id": 673,
       "isNested": false
     },
     {
@@ -776,7 +736,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 690,
+      "id": 674,
       "isNested": false
     },
     {
@@ -831,12 +791,23 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 166,
+            "charBegin": 910,
+            "charEnd": 916,
+            "end": 167
+          }
+        ],
+        "text": [
+          "Gregor"
+        ],
+        "tokenIds": [
+          166
+        ]
       },
       "hasNested": false,
-      "id": 691,
+      "id": 675,
       "isNested": false
     },
     {
@@ -886,7 +857,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 692,
+      "id": 676,
       "isNested": false
     },
     {
@@ -942,7 +913,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 693,
+      "id": 677,
       "isNested": false
     },
     {
@@ -989,7 +960,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 694,
+      "id": 678,
       "isNested": false
     },
     {
@@ -1019,11 +990,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 186,
@@ -1039,8 +1005,13 @@
           186
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 695,
+      "id": 679,
       "isNested": false
     },
     {
@@ -1079,7 +1050,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 696,
+      "id": 680,
       "isNested": false
     },
     {
@@ -1112,23 +1083,12 @@
         "tokenIds": []
       },
       "passive": {
-        "spans": [
-          {
-            "begin": 205,
-            "charBegin": 1108,
-            "charEnd": 1114,
-            "end": 206
-          }
-        ],
-        "text": [
-          "Gregor"
-        ],
-        "tokenIds": [
-          205
-        ]
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "hasNested": false,
-      "id": 697,
+      "id": 681,
       "isNested": false
     },
     {
@@ -1179,7 +1139,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 698,
+      "id": 682,
       "isNested": false
     },
     {
@@ -1226,7 +1186,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 699,
+      "id": 683,
       "isNested": false
     },
     {
@@ -1273,7 +1233,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 700,
+      "id": 684,
       "isNested": false
     },
     {
@@ -1312,7 +1272,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 701,
+      "id": 685,
       "isNested": false
     },
     {
@@ -1344,11 +1304,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 232,
@@ -1364,8 +1319,13 @@
           232
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 702,
+      "id": 686,
       "isNested": false
     },
     {
@@ -1393,11 +1353,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 242,
@@ -1413,8 +1368,13 @@
           242
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 703,
+      "id": 687,
       "isNested": false
     },
     {
@@ -1461,7 +1421,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 704,
+      "id": 688,
       "isNested": false
     },
     {
@@ -1497,7 +1457,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 705,
+      "id": 689,
       "isNested": false
     },
     {
@@ -1537,11 +1497,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 256,
@@ -1565,8 +1520,13 @@
           262
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 706,
+      "id": 690,
       "isNested": false
     },
     {
@@ -1621,7 +1581,7 @@
         ]
       },
       "hasNested": false,
-      "id": 707,
+      "id": 691,
       "isNested": false
     },
     {
@@ -1667,7 +1627,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 708,
+      "id": 692,
       "isNested": false
     },
     {
@@ -1707,7 +1667,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 709,
+      "id": 693,
       "isNested": false
     },
     {
@@ -1743,11 +1703,6 @@
         "tokenIds": []
       },
       "low_agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
-      },
-      "passive": {
         "spans": [
           {
             "begin": 307,
@@ -1763,8 +1718,13 @@
           307
         ]
       },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
       "hasNested": false,
-      "id": 710,
+      "id": 694,
       "isNested": false
     }
   ],

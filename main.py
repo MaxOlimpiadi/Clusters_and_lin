@@ -76,7 +76,7 @@ def get_mention_spans(participation_spans, full_annotations, author, pers, min_o
 
 
 
-def get_spans_with_tags(full_annotations, author='katharina_g'):
+def get_spans_with_tags(full_annotations, author='gold'):
     raw_phrase_spans = []
     raw_pers_spans = []
     phrase_group_id = 1  # Один ID на одну активность
@@ -130,7 +130,7 @@ def get_spans_with_tags(full_annotations, author='katharina_g'):
 
 
 
-def get_insertions(spans_with_tags, full_annotations, author="katharina_g"):
+def get_insertions(spans_with_tags, full_annotations, author="gold"):
     insertions = []
     for start, end, tag, id_num in spans_with_tags:
         insertions.append((start, f"<{tag} id=\"{id_num}\">"))
@@ -300,7 +300,7 @@ def get_formated_span(span, formated_full_annotations, cur_span_text, cur_span_t
 
 
 
-def get_category_feild_part(category, elem, full_annotations, formated_full_annotations, author = "katharina_g"):
+def get_category_feild_part(category, elem, full_annotations, formated_full_annotations, author = "gold"):
     formated_spans = []
     cur_span_token_ids = []
     cur_span_text = []
@@ -317,7 +317,7 @@ def get_category_feild_part(category, elem, full_annotations, formated_full_anno
 
 
 
-def format_text(full_annotations, num_of_file, author = "katharina_g"):
+def format_text(full_annotations, num_of_file, author = "gold"):
     #formated_full_annotations = full_annotations
     tokens_spans = full_annotations["tokens"]   #заранее сохраним токены
     sentences_spans = full_annotations["sentences"]
@@ -373,8 +373,8 @@ def format_text(full_annotations, num_of_file, author = "katharina_g"):
     
     
     #+++++++++++++++++++++++++++++Теперь аннотации сами+++++++++++++++++++++++++++++++++++++++++++
-    mentions = full_annotations["katharina_g"]["mentions"]
-    participations = full_annotations["katharina_g"]["participations"]    
+    mentions = full_annotations["gold"]["mentions"]
+    participations = full_annotations["gold"]["participations"]    
     pid = 0 #здесь это НЕ НОМЕР PARTICIPATION OBJECT-A, а именно номер отдельного объекта в нашем формате!
     for elem in participations:
         #phrase_spans = elem["spans"]
@@ -659,6 +659,8 @@ def split_the_file(num_of_file):
         char_end = chunk_sentences[-1]["charEnd"]
         chunk_text = originalText[char_begin:char_end] if originalText else ""
         
+        if i == 835:
+            print("LOH!")
         
         # Сохраняем результат
         chunk_data = {

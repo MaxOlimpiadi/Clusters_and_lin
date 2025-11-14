@@ -44,7 +44,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 313,
+      "id": 309,
       "isNested": false
     },
     {
@@ -97,7 +97,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 314,
+      "id": 310,
       "isNested": false
     },
     {
@@ -171,7 +171,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 315,
+      "id": 311,
       "isNested": false
     },
     {
@@ -200,22 +200,9 @@
         ]
       },
       "agentive": {
-        "spans": [
-          {
-            "begin": 60,
-            "charBegin": 268,
-            "charEnd": 281,
-            "end": 62
-          }
-        ],
-        "text": [
-          "der",
-          "Prokurist"
-        ],
-        "tokenIds": [
-          60,
-          61
-        ]
+        "spans": [],
+        "text": [],
+        "tokenIds": []
       },
       "low_agentive": {
         "spans": [],
@@ -228,7 +215,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 316,
+      "id": 312,
       "isNested": false
     },
     {
@@ -283,7 +270,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 317,
+      "id": 313,
       "isNested": false
     },
     {
@@ -321,7 +308,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 318,
+      "id": 314,
       "isNested": false
     },
     {
@@ -393,7 +380,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 319,
+      "id": 315,
       "isNested": false
     },
     {
@@ -420,9 +407,30 @@
         ]
       },
       "agentive": {
-        "spans": [],
-        "text": [],
-        "tokenIds": []
+        "spans": [
+          {
+            "begin": 114,
+            "charBegin": 546,
+            "charEnd": 550,
+            "end": 115
+          },
+          {
+            "begin": 115,
+            "charBegin": 551,
+            "charEnd": 564,
+            "end": 117
+          }
+        ],
+        "text": [
+          "sich",
+          "die",
+          "Schwester"
+        ],
+        "tokenIds": [
+          114,
+          115,
+          116
+        ]
       },
       "low_agentive": {
         "spans": [],
@@ -435,7 +443,7 @@
         "tokenIds": []
       },
       "hasNested": false,
-      "id": 320,
+      "id": 316,
       "isNested": false
     }
   ],
