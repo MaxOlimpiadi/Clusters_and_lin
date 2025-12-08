@@ -1,0 +1,1356 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 37,
+            "end": 6
+          }
+        ],
+        "text": "Bis jetzt war wenig gesprochen worden",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 313,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 7,
+            "charBegin": 39,
+            "charEnd": 63,
+            "end": 10
+          }
+        ],
+        "text": "Simon schien nachdenkend",
+        "tokenIds": [
+          7,
+          8,
+          9
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 7,
+            "charBegin": 39,
+            "charEnd": 44,
+            "end": 8
+          }
+        ],
+        "text": [
+          "Simon"
+        ],
+        "tokenIds": [
+          7
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 314,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 11,
+            "charBegin": 65,
+            "charEnd": 84,
+            "end": 14
+          }
+        ],
+        "text": "der Knabe zerstreut",
+        "tokenIds": [
+          11,
+          12,
+          13
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 12,
+            "charBegin": 69,
+            "charEnd": 74,
+            "end": 13
+          }
+        ],
+        "text": [
+          "Knabe"
+        ],
+        "tokenIds": [
+          12
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 315,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 15,
+            "charBegin": 86,
+            "charEnd": 123,
+            "end": 21
+          }
+        ],
+        "text": "und beide keuchten unter ihren Säcken",
+        "tokenIds": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 16,
+            "charBegin": 90,
+            "charEnd": 95,
+            "end": 17
+          },
+          {
+            "begin": 19,
+            "charBegin": 111,
+            "charEnd": 116,
+            "end": 20
+          },
+          {
+            "begin": 16,
+            "charBegin": 90,
+            "charEnd": 95,
+            "end": 17
+          },
+          {
+            "begin": 19,
+            "charBegin": 111,
+            "charEnd": 116,
+            "end": 20
+          },
+          {
+            "begin": 16,
+            "charBegin": 90,
+            "charEnd": 95,
+            "end": 17
+          },
+          {
+            "begin": 19,
+            "charBegin": 111,
+            "charEnd": 116,
+            "end": 20
+          }
+        ],
+        "text": [
+          "beide",
+          "ihren",
+          "beide",
+          "ihren",
+          "beide",
+          "ihren"
+        ],
+        "tokenIds": [
+          16,
+          16,
+          16,
+          19,
+          19,
+          19
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 316,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 22,
+            "charBegin": 125,
+            "charEnd": 148,
+            "end": 26
+          }
+        ],
+        "text": "Plötzlich fragte Simon :",
+        "tokenIds": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 24,
+            "charBegin": 142,
+            "charEnd": 147,
+            "end": 25
+          }
+        ],
+        "text": [
+          "Simon"
+        ],
+        "tokenIds": [
+          24
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 317,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 34,
+            "charBegin": 181,
+            "charEnd": 208,
+            "end": 39
+          }
+        ],
+        "text": "Der Knabe antwortete nicht .",
+        "tokenIds": [
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 35,
+            "charBegin": 185,
+            "charEnd": 190,
+            "end": 36
+          }
+        ],
+        "text": [
+          "Knabe"
+        ],
+        "tokenIds": [
+          35
+        ]
+      },
+      "hasNested": false,
+      "id": 318,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 65,
+            "charBegin": 322,
+            "charEnd": 337,
+            "end": 67
+          }
+        ],
+        "text": "sagte Friedrich",
+        "tokenIds": [
+          65,
+          66
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 66,
+            "charBegin": 328,
+            "charEnd": 337,
+            "end": 67
+          }
+        ],
+        "text": [
+          "Friedrich"
+        ],
+        "tokenIds": [
+          66
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 319,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__215_225",
+  "originalText": "Bis jetzt war wenig gesprochen worden. Simon schien nachdenkend, der Knabe zerstreut, und beide keuchten unter ihren Säcken. Plötzlich fragte Simon: »Trinkst du gern Branntwein?« – Der Knabe antwortete nicht. »Ich frage, trinkst du gern Branntwein? Gibt dir die Mutter zuweilen welchen?« – »Die Mutter hat selbst keinen,« sagte Friedrich. – »So, so, desto besser! – Kennst du das Holz da vor uns?",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 38,
+      "end": 7,
+      "id": 0,
+      "text": "Bis jetzt war wenig gesprochen worden.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokens": [
+        "Bis",
+        "jetzt",
+        "war",
+        "wenig",
+        "gesprochen",
+        "worden",
+        "."
+      ]
+    },
+    {
+      "begin": 7,
+      "charBegin": 39,
+      "charEnd": 124,
+      "end": 22,
+      "id": 1,
+      "text": "Simon schien nachdenkend, der Knabe zerstreut, und beide keuchten unter ihren Säcken.",
+      "tokenIds": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokens": [
+        "Simon",
+        "schien",
+        "nachdenkend",
+        ",",
+        "der",
+        "Knabe",
+        "zerstreut",
+        ",",
+        "und",
+        "beide",
+        "keuchten",
+        "unter",
+        "ihren",
+        "Säcken",
+        "."
+      ]
+    },
+    {
+      "begin": 22,
+      "charBegin": 125,
+      "charEnd": 180,
+      "end": 34,
+      "id": 2,
+      "text": "Plötzlich fragte Simon: »Trinkst du gern Branntwein?« –",
+      "tokenIds": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "tokens": [
+        "Plötzlich",
+        "fragte",
+        "Simon",
+        ":",
+        "»",
+        "Trinkst",
+        "du",
+        "gern",
+        "Branntwein",
+        "?",
+        "«",
+        "–"
+      ]
+    },
+    {
+      "begin": 34,
+      "charBegin": 181,
+      "charEnd": 208,
+      "end": 39,
+      "id": 3,
+      "text": "Der Knabe antwortete nicht.",
+      "tokenIds": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "tokens": [
+        "Der",
+        "Knabe",
+        "antwortete",
+        "nicht",
+        "."
+      ]
+    },
+    {
+      "begin": 39,
+      "charBegin": 209,
+      "charEnd": 248,
+      "end": 48,
+      "id": 4,
+      "text": "»Ich frage, trinkst du gern Branntwein?",
+      "tokenIds": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "tokens": [
+        "»",
+        "Ich",
+        "frage",
+        ",",
+        "trinkst",
+        "du",
+        "gern",
+        "Branntwein",
+        "?"
+      ]
+    },
+    {
+      "begin": 48,
+      "charBegin": 249,
+      "charEnd": 286,
+      "end": 55,
+      "id": 5,
+      "text": "Gibt dir die Mutter zuweilen welchen?",
+      "tokenIds": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "tokens": [
+        "Gibt",
+        "dir",
+        "die",
+        "Mutter",
+        "zuweilen",
+        "welchen",
+        "?"
+      ]
+    },
+    {
+      "begin": 55,
+      "charBegin": 286,
+      "charEnd": 289,
+      "end": 57,
+      "id": 6,
+      "text": "« –",
+      "tokenIds": [
+        55,
+        56
+      ],
+      "tokens": [
+        "«",
+        "–"
+      ]
+    },
+    {
+      "begin": 57,
+      "charBegin": 290,
+      "charEnd": 338,
+      "end": 68,
+      "id": 7,
+      "text": "»Die Mutter hat selbst keinen,« sagte Friedrich.",
+      "tokenIds": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "tokens": [
+        "»",
+        "Die",
+        "Mutter",
+        "hat",
+        "selbst",
+        "keinen",
+        ",",
+        "«",
+        "sagte",
+        "Friedrich",
+        "."
+      ]
+    },
+    {
+      "begin": 68,
+      "charBegin": 339,
+      "charEnd": 363,
+      "end": 77,
+      "id": 8,
+      "text": "– »So, so, desto besser!",
+      "tokenIds": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "So",
+        ",",
+        "so",
+        ",",
+        "desto",
+        "besser",
+        "!"
+      ]
+    },
+    {
+      "begin": 77,
+      "charBegin": 364,
+      "charEnd": 396,
+      "end": 86,
+      "id": 9,
+      "text": "– Kennst du das Holz da vor uns?",
+      "tokenIds": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "tokens": [
+        "–",
+        "Kennst",
+        "du",
+        "das",
+        "Holz",
+        "da",
+        "vor",
+        "uns",
+        "?"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 3,
+      "id": 0,
+      "sentence": 1,
+      "text": "Bis",
+      "word": 1
+    },
+    {
+      "charBegin": 4,
+      "charEnd": 9,
+      "id": 1,
+      "sentence": 1,
+      "text": "jetzt",
+      "word": 2
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 13,
+      "id": 2,
+      "sentence": 1,
+      "text": "war",
+      "word": 3
+    },
+    {
+      "charBegin": 14,
+      "charEnd": 19,
+      "id": 3,
+      "sentence": 1,
+      "text": "wenig",
+      "word": 4
+    },
+    {
+      "charBegin": 20,
+      "charEnd": 30,
+      "id": 4,
+      "sentence": 1,
+      "text": "gesprochen",
+      "word": 5
+    },
+    {
+      "charBegin": 31,
+      "charEnd": 37,
+      "id": 5,
+      "sentence": 1,
+      "text": "worden",
+      "word": 6
+    },
+    {
+      "charBegin": 37,
+      "charEnd": 38,
+      "id": 6,
+      "sentence": 1,
+      "text": ".",
+      "word": 7
+    },
+    {
+      "charBegin": 39,
+      "charEnd": 44,
+      "id": 7,
+      "sentence": 2,
+      "text": "Simon",
+      "word": 1
+    },
+    {
+      "charBegin": 45,
+      "charEnd": 51,
+      "id": 8,
+      "sentence": 2,
+      "text": "schien",
+      "word": 2
+    },
+    {
+      "charBegin": 52,
+      "charEnd": 63,
+      "id": 9,
+      "sentence": 2,
+      "text": "nachdenkend",
+      "word": 3
+    },
+    {
+      "charBegin": 63,
+      "charEnd": 64,
+      "id": 10,
+      "sentence": 2,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 65,
+      "charEnd": 68,
+      "id": 11,
+      "sentence": 2,
+      "text": "der",
+      "word": 5
+    },
+    {
+      "charBegin": 69,
+      "charEnd": 74,
+      "id": 12,
+      "sentence": 2,
+      "text": "Knabe",
+      "word": 6
+    },
+    {
+      "charBegin": 75,
+      "charEnd": 84,
+      "id": 13,
+      "sentence": 2,
+      "text": "zerstreut",
+      "word": 7
+    },
+    {
+      "charBegin": 84,
+      "charEnd": 85,
+      "id": 14,
+      "sentence": 2,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 86,
+      "charEnd": 89,
+      "id": 15,
+      "sentence": 2,
+      "text": "und",
+      "word": 9
+    },
+    {
+      "charBegin": 90,
+      "charEnd": 95,
+      "id": 16,
+      "sentence": 2,
+      "text": "beide",
+      "word": 10
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 104,
+      "id": 17,
+      "sentence": 2,
+      "text": "keuchten",
+      "word": 11
+    },
+    {
+      "charBegin": 105,
+      "charEnd": 110,
+      "id": 18,
+      "sentence": 2,
+      "text": "unter",
+      "word": 12
+    },
+    {
+      "charBegin": 111,
+      "charEnd": 116,
+      "id": 19,
+      "sentence": 2,
+      "text": "ihren",
+      "word": 13
+    },
+    {
+      "charBegin": 117,
+      "charEnd": 123,
+      "id": 20,
+      "sentence": 2,
+      "text": "Säcken",
+      "word": 14
+    },
+    {
+      "charBegin": 123,
+      "charEnd": 124,
+      "id": 21,
+      "sentence": 2,
+      "text": ".",
+      "word": 15
+    },
+    {
+      "charBegin": 125,
+      "charEnd": 134,
+      "id": 22,
+      "sentence": 3,
+      "text": "Plötzlich",
+      "word": 1
+    },
+    {
+      "charBegin": 135,
+      "charEnd": 141,
+      "id": 23,
+      "sentence": 3,
+      "text": "fragte",
+      "word": 2
+    },
+    {
+      "charBegin": 142,
+      "charEnd": 147,
+      "id": 24,
+      "sentence": 3,
+      "text": "Simon",
+      "word": 3
+    },
+    {
+      "charBegin": 147,
+      "charEnd": 148,
+      "id": 25,
+      "sentence": 3,
+      "text": ":",
+      "word": 4
+    },
+    {
+      "charBegin": 149,
+      "charEnd": 150,
+      "id": 26,
+      "sentence": 3,
+      "text": "»",
+      "word": 5
+    },
+    {
+      "charBegin": 150,
+      "charEnd": 157,
+      "id": 27,
+      "sentence": 3,
+      "text": "Trinkst",
+      "word": 6
+    },
+    {
+      "charBegin": 158,
+      "charEnd": 160,
+      "id": 28,
+      "sentence": 3,
+      "text": "du",
+      "word": 7
+    },
+    {
+      "charBegin": 161,
+      "charEnd": 165,
+      "id": 29,
+      "sentence": 3,
+      "text": "gern",
+      "word": 8
+    },
+    {
+      "charBegin": 166,
+      "charEnd": 176,
+      "id": 30,
+      "sentence": 3,
+      "text": "Branntwein",
+      "word": 9
+    },
+    {
+      "charBegin": 176,
+      "charEnd": 177,
+      "id": 31,
+      "sentence": 3,
+      "text": "?",
+      "word": 10
+    },
+    {
+      "charBegin": 177,
+      "charEnd": 178,
+      "id": 32,
+      "sentence": 3,
+      "text": "«",
+      "word": 11
+    },
+    {
+      "charBegin": 179,
+      "charEnd": 180,
+      "id": 33,
+      "sentence": 3,
+      "text": "–",
+      "word": 12
+    },
+    {
+      "charBegin": 181,
+      "charEnd": 184,
+      "id": 34,
+      "sentence": 4,
+      "text": "Der",
+      "word": 1
+    },
+    {
+      "charBegin": 185,
+      "charEnd": 190,
+      "id": 35,
+      "sentence": 4,
+      "text": "Knabe",
+      "word": 2
+    },
+    {
+      "charBegin": 191,
+      "charEnd": 201,
+      "id": 36,
+      "sentence": 4,
+      "text": "antwortete",
+      "word": 3
+    },
+    {
+      "charBegin": 202,
+      "charEnd": 207,
+      "id": 37,
+      "sentence": 4,
+      "text": "nicht",
+      "word": 4
+    },
+    {
+      "charBegin": 207,
+      "charEnd": 208,
+      "id": 38,
+      "sentence": 4,
+      "text": ".",
+      "word": 5
+    },
+    {
+      "charBegin": 209,
+      "charEnd": 210,
+      "id": 39,
+      "sentence": 5,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 210,
+      "charEnd": 213,
+      "id": 40,
+      "sentence": 5,
+      "text": "Ich",
+      "word": 2
+    },
+    {
+      "charBegin": 214,
+      "charEnd": 219,
+      "id": 41,
+      "sentence": 5,
+      "text": "frage",
+      "word": 3
+    },
+    {
+      "charBegin": 219,
+      "charEnd": 220,
+      "id": 42,
+      "sentence": 5,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 221,
+      "charEnd": 228,
+      "id": 43,
+      "sentence": 5,
+      "text": "trinkst",
+      "word": 5
+    },
+    {
+      "charBegin": 229,
+      "charEnd": 231,
+      "id": 44,
+      "sentence": 5,
+      "text": "du",
+      "word": 6
+    },
+    {
+      "charBegin": 232,
+      "charEnd": 236,
+      "id": 45,
+      "sentence": 5,
+      "text": "gern",
+      "word": 7
+    },
+    {
+      "charBegin": 237,
+      "charEnd": 247,
+      "id": 46,
+      "sentence": 5,
+      "text": "Branntwein",
+      "word": 8
+    },
+    {
+      "charBegin": 247,
+      "charEnd": 248,
+      "id": 47,
+      "sentence": 5,
+      "text": "?",
+      "word": 9
+    },
+    {
+      "charBegin": 249,
+      "charEnd": 253,
+      "id": 48,
+      "sentence": 6,
+      "text": "Gibt",
+      "word": 1
+    },
+    {
+      "charBegin": 254,
+      "charEnd": 257,
+      "id": 49,
+      "sentence": 6,
+      "text": "dir",
+      "word": 2
+    },
+    {
+      "charBegin": 258,
+      "charEnd": 261,
+      "id": 50,
+      "sentence": 6,
+      "text": "die",
+      "word": 3
+    },
+    {
+      "charBegin": 262,
+      "charEnd": 268,
+      "id": 51,
+      "sentence": 6,
+      "text": "Mutter",
+      "word": 4
+    },
+    {
+      "charBegin": 269,
+      "charEnd": 277,
+      "id": 52,
+      "sentence": 6,
+      "text": "zuweilen",
+      "word": 5
+    },
+    {
+      "charBegin": 278,
+      "charEnd": 285,
+      "id": 53,
+      "sentence": 6,
+      "text": "welchen",
+      "word": 6
+    },
+    {
+      "charBegin": 285,
+      "charEnd": 286,
+      "id": 54,
+      "sentence": 6,
+      "text": "?",
+      "word": 7
+    },
+    {
+      "charBegin": 286,
+      "charEnd": 287,
+      "id": 55,
+      "sentence": 7,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 288,
+      "charEnd": 289,
+      "id": 56,
+      "sentence": 7,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 290,
+      "charEnd": 291,
+      "id": 57,
+      "sentence": 8,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 291,
+      "charEnd": 294,
+      "id": 58,
+      "sentence": 8,
+      "text": "Die",
+      "word": 2
+    },
+    {
+      "charBegin": 295,
+      "charEnd": 301,
+      "id": 59,
+      "sentence": 8,
+      "text": "Mutter",
+      "word": 3
+    },
+    {
+      "charBegin": 302,
+      "charEnd": 305,
+      "id": 60,
+      "sentence": 8,
+      "text": "hat",
+      "word": 4
+    },
+    {
+      "charBegin": 306,
+      "charEnd": 312,
+      "id": 61,
+      "sentence": 8,
+      "text": "selbst",
+      "word": 5
+    },
+    {
+      "charBegin": 313,
+      "charEnd": 319,
+      "id": 62,
+      "sentence": 8,
+      "text": "keinen",
+      "word": 6
+    },
+    {
+      "charBegin": 319,
+      "charEnd": 320,
+      "id": 63,
+      "sentence": 8,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 320,
+      "charEnd": 321,
+      "id": 64,
+      "sentence": 8,
+      "text": "«",
+      "word": 8
+    },
+    {
+      "charBegin": 322,
+      "charEnd": 327,
+      "id": 65,
+      "sentence": 8,
+      "text": "sagte",
+      "word": 9
+    },
+    {
+      "charBegin": 328,
+      "charEnd": 337,
+      "id": 66,
+      "sentence": 8,
+      "text": "Friedrich",
+      "word": 10
+    },
+    {
+      "charBegin": 337,
+      "charEnd": 338,
+      "id": 67,
+      "sentence": 8,
+      "text": ".",
+      "word": 11
+    },
+    {
+      "charBegin": 339,
+      "charEnd": 340,
+      "id": 68,
+      "sentence": 9,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 341,
+      "charEnd": 342,
+      "id": 69,
+      "sentence": 9,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 342,
+      "charEnd": 344,
+      "id": 70,
+      "sentence": 9,
+      "text": "So",
+      "word": 3
+    },
+    {
+      "charBegin": 344,
+      "charEnd": 345,
+      "id": 71,
+      "sentence": 9,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 346,
+      "charEnd": 348,
+      "id": 72,
+      "sentence": 9,
+      "text": "so",
+      "word": 5
+    },
+    {
+      "charBegin": 348,
+      "charEnd": 349,
+      "id": 73,
+      "sentence": 9,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 350,
+      "charEnd": 355,
+      "id": 74,
+      "sentence": 9,
+      "text": "desto",
+      "word": 7
+    },
+    {
+      "charBegin": 356,
+      "charEnd": 362,
+      "id": 75,
+      "sentence": 9,
+      "text": "besser",
+      "word": 8
+    },
+    {
+      "charBegin": 362,
+      "charEnd": 363,
+      "id": 76,
+      "sentence": 9,
+      "text": "!",
+      "word": 9
+    },
+    {
+      "charBegin": 364,
+      "charEnd": 365,
+      "id": 77,
+      "sentence": 10,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 366,
+      "charEnd": 372,
+      "id": 78,
+      "sentence": 10,
+      "text": "Kennst",
+      "word": 2
+    },
+    {
+      "charBegin": 373,
+      "charEnd": 375,
+      "id": 79,
+      "sentence": 10,
+      "text": "du",
+      "word": 3
+    },
+    {
+      "charBegin": 376,
+      "charEnd": 379,
+      "id": 80,
+      "sentence": 10,
+      "text": "das",
+      "word": 4
+    },
+    {
+      "charBegin": 380,
+      "charEnd": 384,
+      "id": 81,
+      "sentence": 10,
+      "text": "Holz",
+      "word": 5
+    },
+    {
+      "charBegin": 385,
+      "charEnd": 387,
+      "id": 82,
+      "sentence": 10,
+      "text": "da",
+      "word": 6
+    },
+    {
+      "charBegin": 388,
+      "charEnd": 391,
+      "id": 83,
+      "sentence": 10,
+      "text": "vor",
+      "word": 7
+    },
+    {
+      "charBegin": 392,
+      "charEnd": 395,
+      "id": 84,
+      "sentence": 10,
+      "text": "uns",
+      "word": 8
+    },
+    {
+      "charBegin": 395,
+      "charEnd": 396,
+      "id": 85,
+      "sentence": 10,
+      "text": "?",
+      "word": 9
+    }
+  ]
+}

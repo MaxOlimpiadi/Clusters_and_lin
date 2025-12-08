@@ -1,0 +1,4827 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 46,
+            "end": 8
+          }
+        ],
+        "text": "er sprang voll Ahndung über die Gesteine herab",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 2,
+            "end": 1
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          0
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 172,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 9,
+            "charBegin": 48,
+            "charEnd": 56,
+            "end": 11
+          }
+        ],
+        "text": "und rief",
+        "tokenIds": [
+          9,
+          10
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 2,
+            "end": 1
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          0
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 173,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 19,
+            "charBegin": 87,
+            "charEnd": 108,
+            "end": 22
+          }
+        ],
+        "text": "und erkannte Josephen",
+        "tokenIds": [
+          19,
+          20,
+          21
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 2,
+            "end": 1
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          0
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 174,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 23,
+            "charBegin": 110,
+            "charEnd": 157,
+            "end": 31
+          }
+        ],
+        "text": "als sie sich bei dem Geräusche schüchtern umsah",
+        "tokenIds": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 24,
+            "charBegin": 114,
+            "charEnd": 117,
+            "end": 25
+          },
+          {
+            "begin": 25,
+            "charBegin": 118,
+            "charEnd": 122,
+            "end": 26
+          }
+        ],
+        "text": [
+          "sie",
+          "sich"
+        ],
+        "tokenIds": [
+          24,
+          25
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 175,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 32,
+            "charBegin": 159,
+            "charEnd": 217,
+            "end": 41
+          }
+        ],
+        "text": "Mit welcher Seligkeit umarmten sie sich , die Unglücklichen",
+        "tokenIds": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 36,
+            "charBegin": 190,
+            "charEnd": 193,
+            "end": 37
+          },
+          {
+            "begin": 37,
+            "charBegin": 194,
+            "charEnd": 198,
+            "end": 38
+          },
+          {
+            "begin": 39,
+            "charBegin": 200,
+            "charEnd": 217,
+            "end": 41
+          },
+          {
+            "begin": 36,
+            "charBegin": 190,
+            "charEnd": 193,
+            "end": 37
+          },
+          {
+            "begin": 37,
+            "charBegin": 194,
+            "charEnd": 198,
+            "end": 38
+          },
+          {
+            "begin": 39,
+            "charBegin": 200,
+            "charEnd": 217,
+            "end": 41
+          }
+        ],
+        "text": [
+          "sie",
+          "sich",
+          "die Unglücklichen",
+          "sie",
+          "sich",
+          "die Unglücklichen"
+        ],
+        "tokenIds": [
+          36,
+          36,
+          37,
+          37,
+          39,
+          39,
+          40,
+          40
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 176,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 42,
+            "charBegin": 219,
+            "charEnd": 260,
+            "end": 49
+          }
+        ],
+        "text": "die ein Wunder des Himmels gerettet hatte",
+        "tokenIds": [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 42,
+            "charBegin": 219,
+            "charEnd": 222,
+            "end": 43
+          },
+          {
+            "begin": 42,
+            "charBegin": 219,
+            "charEnd": 222,
+            "end": 43
+          }
+        ],
+        "text": [
+          "die",
+          "die"
+        ],
+        "tokenIds": [
+          42,
+          42
+        ]
+      },
+      "hasNested": false,
+      "id": 177,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 50,
+            "charBegin": 262,
+            "charEnd": 339,
+            "end": 65
+          }
+        ],
+        "text": "Josephe war , auf ihrem Gang zum Tode , dem Richtplatze schon ganz nahe gewesen",
+        "tokenIds": [
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 50,
+            "charBegin": 262,
+            "charEnd": 269,
+            "end": 51
+          },
+          {
+            "begin": 54,
+            "charBegin": 279,
+            "charEnd": 284,
+            "end": 55
+          }
+        ],
+        "text": [
+          "Josephe",
+          "ihrem"
+        ],
+        "tokenIds": [
+          50,
+          54
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 178,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 66,
+            "charBegin": 341,
+            "charEnd": 448,
+            "end": 79
+          }
+        ],
+        "text": "als durch den krachenden Einsturz der Gebäude plötzlich der ganze Hinrichtungszug auseinandergesprengt ward",
+        "tokenIds": [
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 54,
+            "charBegin": 279,
+            "charEnd": 284,
+            "end": 55
+          }
+        ],
+        "text": [
+          "ihrem"
+        ],
+        "tokenIds": [
+          54
+        ]
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 74,
+            "charBegin": 397,
+            "charEnd": 422,
+            "end": 77
+          },
+          {
+            "begin": 74,
+            "charBegin": 397,
+            "charEnd": 422,
+            "end": 77
+          }
+        ],
+        "text": [
+          "der ganze Hinrichtungszug",
+          "der ganze Hinrichtungszug"
+        ],
+        "tokenIds": [
+          74,
+          74,
+          75,
+          75,
+          76,
+          76
+        ]
+      },
+      "hasNested": false,
+      "id": 179,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 80,
+            "charBegin": 450,
+            "charEnd": 527,
+            "end": 91
+          }
+        ],
+        "text": "Ihre ersten entsetzensvollen Schritte trugen sie hierauf dem nächsten Tore zu",
+        "tokenIds": [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 80,
+            "charBegin": 450,
+            "charEnd": 454,
+            "end": 81
+          },
+          {
+            "begin": 85,
+            "charBegin": 495,
+            "charEnd": 498,
+            "end": 86
+          }
+        ],
+        "text": [
+          "Ihre",
+          "sie"
+        ],
+        "tokenIds": [
+          80,
+          85
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 180,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 92,
+            "charBegin": 529,
+            "charEnd": 570,
+            "end": 99
+          }
+        ],
+        "text": "doch die Besinnung kehrte ihr bald wieder",
+        "tokenIds": [
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 96,
+            "charBegin": 555,
+            "charEnd": 558,
+            "end": 97
+          }
+        ],
+        "text": [
+          "ihr"
+        ],
+        "tokenIds": [
+          96
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 181,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 100,
+            "charBegin": 572,
+            "charEnd": 621,
+            "end": 111
+          }
+        ],
+        "text": "und sie wandte sich , um nach dem Kloster zu eilen",
+        "tokenIds": [
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 101,
+            "charBegin": 576,
+            "charEnd": 579,
+            "end": 102
+          },
+          {
+            "begin": 103,
+            "charBegin": 587,
+            "charEnd": 591,
+            "end": 104
+          }
+        ],
+        "text": [
+          "sie",
+          "sich"
+        ],
+        "tokenIds": [
+          101,
+          103
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 182,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 112,
+            "charBegin": 623,
+            "charEnd": 674,
+            "end": 120
+          }
+        ],
+        "text": "wo ihr kleiner , hülfloser Knabe zurückgeblieben war",
+        "tokenIds": [
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 113,
+            "charBegin": 626,
+            "charEnd": 629,
+            "end": 114
+          }
+        ],
+        "text": [
+          "ihr"
+        ],
+        "tokenIds": [
+          113
+        ]
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 114,
+            "charBegin": 630,
+            "charEnd": 654,
+            "end": 118
+          }
+        ],
+        "text": [
+          "kleiner , hülfloser Knabe"
+        ],
+        "tokenIds": [
+          114,
+          115,
+          116,
+          117
+        ]
+      },
+      "hasNested": false,
+      "id": 183,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 121,
+            "charBegin": 676,
+            "charEnd": 719,
+            "end": 129
+          }
+        ],
+        "text": "Sie fand das ganze Kloster schon in Flammen",
+        "tokenIds": [
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 121,
+            "charBegin": 676,
+            "charEnd": 679,
+            "end": 122
+          }
+        ],
+        "text": [
+          "Sie"
+        ],
+        "tokenIds": [
+          121
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 184,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 130,
+            "charBegin": 721,
+            "charEnd": 737,
+            "end": 133
+          },
+          {
+            "begin": 153,
+            "charBegin": 840,
+            "charEnd": 906,
+            "end": 168
+          }
+        ],
+        "text": "und die Äbtissin schrie eben , vor den Pforten stehend , nach Hülfe , um ihn zu retten",
+        "tokenIds": [
+          130,
+          131,
+          132,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 131,
+            "charBegin": 725,
+            "charEnd": 737,
+            "end": 133
+          }
+        ],
+        "text": [
+          "die Äbtissin"
+        ],
+        "tokenIds": [
+          131,
+          132
+        ]
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 165,
+            "charBegin": 893,
+            "charEnd": 896,
+            "end": 166
+          }
+        ],
+        "text": [
+          "ihn"
+        ],
+        "tokenIds": [
+          165
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 185,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 134,
+            "charBegin": 739,
+            "charEnd": 768,
+            "end": 139
+          },
+          {
+            "begin": 146,
+            "charBegin": 801,
+            "charEnd": 838,
+            "end": 152
+          }
+        ],
+        "text": "die ihr in jenen Augenblicken Sorge für den Säugling angelobt hatte",
+        "tokenIds": [
+          134,
+          135,
+          136,
+          137,
+          138,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 134,
+            "charBegin": 739,
+            "charEnd": 742,
+            "end": 135
+          }
+        ],
+        "text": [
+          "die"
+        ],
+        "tokenIds": [
+          134
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 135,
+            "charBegin": 743,
+            "charEnd": 746,
+            "end": 136
+          }
+        ],
+        "text": [
+          "ihr"
+        ],
+        "tokenIds": [
+          135
+        ]
+      },
+      "hasNested": false,
+      "id": 186,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 140,
+            "charBegin": 770,
+            "charEnd": 799,
+            "end": 145
+          }
+        ],
+        "text": "die ihre letzten sein sollten",
+        "tokenIds": [
+          140,
+          141,
+          142,
+          143,
+          144
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 141,
+            "charBegin": 774,
+            "charEnd": 778,
+            "end": 142
+          }
+        ],
+        "text": [
+          "ihre"
+        ],
+        "tokenIds": [
+          141
+        ]
+      },
+      "hasNested": false,
+      "id": 187,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 169,
+            "charBegin": 908,
+            "charEnd": 960,
+            "end": 178
+          },
+          {
+            "begin": 182,
+            "charBegin": 986,
+            "charEnd": 1040,
+            "end": 190
+          }
+        ],
+        "text": "Josephe stürzte sich , unerschrocken durch den Dampf , in das von allen Seiten schon zusammenfallende Gebäude",
+        "tokenIds": [
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 171,
+            "charBegin": 924,
+            "charEnd": 928,
+            "end": 172
+          }
+        ],
+        "text": [
+          "sich"
+        ],
+        "tokenIds": [
+          171
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 188,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 178,
+            "charBegin": 961,
+            "charEnd": 984,
+            "end": 181
+          }
+        ],
+        "text": "der ihr entgegenqualmte",
+        "tokenIds": [
+          178,
+          179,
+          180
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 179,
+            "charBegin": 965,
+            "charEnd": 968,
+            "end": 180
+          }
+        ],
+        "text": [
+          "ihr"
+        ],
+        "tokenIds": [
+          179
+        ]
+      },
+      "hasNested": false,
+      "id": 189,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 191,
+            "charBegin": 1042,
+            "charEnd": 1052,
+            "end": 193
+          },
+          {
+            "begin": 203,
+            "charBegin": 1101,
+            "charEnd": 1159,
+            "end": 213
+          }
+        ],
+        "text": "und gleich trat sie mit ihm unbeschädigt wieder aus dem Portal hervor",
+        "tokenIds": [
+          191,
+          192,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 204,
+            "charBegin": 1106,
+            "charEnd": 1109,
+            "end": 205
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          204
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 190,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 194,
+            "charBegin": 1054,
+            "charEnd": 1099,
+            "end": 202
+          }
+        ],
+        "text": "als ob alle Engel des Himmels sie umschirmten",
+        "tokenIds": [
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 196,
+            "charBegin": 1061,
+            "charEnd": 1083,
+            "end": 200
+          },
+          {
+            "begin": 196,
+            "charBegin": 1061,
+            "charEnd": 1083,
+            "end": 200
+          }
+        ],
+        "text": [
+          "alle Engel des Himmels",
+          "alle Engel des Himmels"
+        ],
+        "tokenIds": [
+          196,
+          196,
+          197,
+          197,
+          198,
+          198,
+          199,
+          199
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 191,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 214,
+            "charBegin": 1161,
+            "charEnd": 1184,
+            "end": 218
+          },
+          {
+            "begin": 227,
+            "charBegin": 1234,
+            "charEnd": 1257,
+            "end": 232
+          }
+        ],
+        "text": "Sie wollte der Äbtissin eben in die Arme sinken",
+        "tokenIds": [
+          214,
+          215,
+          216,
+          217,
+          227,
+          228,
+          229,
+          230,
+          231
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 214,
+            "charBegin": 1161,
+            "charEnd": 1164,
+            "end": 215
+          }
+        ],
+        "text": [
+          "Sie"
+        ],
+        "tokenIds": [
+          214
+        ]
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 216,
+            "charBegin": 1172,
+            "charEnd": 1184,
+            "end": 218
+          }
+        ],
+        "text": [
+          "der Äbtissin"
+        ],
+        "tokenIds": [
+          216,
+          217
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 192,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 219,
+            "charBegin": 1186,
+            "charEnd": 1232,
+            "end": 226
+          }
+        ],
+        "text": "welche die Hände über ihr Haupt zusammenschlug",
+        "tokenIds": [
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 219,
+            "charBegin": 1186,
+            "charEnd": 1192,
+            "end": 220
+          },
+          {
+            "begin": 223,
+            "charBegin": 1208,
+            "charEnd": 1211,
+            "end": 224
+          }
+        ],
+        "text": [
+          "welche",
+          "ihr"
+        ],
+        "tokenIds": [
+          219,
+          223
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 193,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 233,
+            "charBegin": 1259,
+            "charEnd": 1390,
+            "end": 255
+          }
+        ],
+        "text": "als diese , mit fast allen ihren Klosterfrauen , von einem herabfallenden Giebel des Hauses , auf eine schmähliche Art erschlagen ward",
+        "tokenIds": [
+          233,
+          234,
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243,
+          244,
+          245,
+          246,
+          247,
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 234,
+            "charBegin": 1263,
+            "charEnd": 1268,
+            "end": 235
+          },
+          {
+            "begin": 237,
+            "charBegin": 1274,
+            "charEnd": 1304,
+            "end": 241
+          },
+          {
+            "begin": 237,
+            "charBegin": 1274,
+            "charEnd": 1304,
+            "end": 241
+          }
+        ],
+        "text": [
+          "diese",
+          "fast allen ihren Klosterfrauen",
+          "fast allen ihren Klosterfrauen"
+        ],
+        "tokenIds": [
+          234,
+          237,
+          237,
+          238,
+          238,
+          239,
+          239,
+          240,
+          240
+        ]
+      },
+      "hasNested": false,
+      "id": 194,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 256,
+            "charBegin": 1392,
+            "charEnd": 1446,
+            "end": 263
+          }
+        ],
+        "text": "Josephe bebte bei diesem entsetzlichen Anblicke zurück",
+        "tokenIds": [
+          256,
+          257,
+          258,
+          259,
+          260,
+          261,
+          262
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 256,
+            "charBegin": 1392,
+            "charEnd": 1399,
+            "end": 257
+          }
+        ],
+        "text": [
+          "Josephe"
+        ],
+        "tokenIds": [
+          256
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 195,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 264,
+            "charBegin": 1448,
+            "charEnd": 1494,
+            "end": 272
+          }
+        ],
+        "text": "sie drückte der Äbtissin flüchtig die Augen zu",
+        "tokenIds": [
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 264,
+            "charBegin": 1448,
+            "charEnd": 1451,
+            "end": 265
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          264
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 266,
+            "charBegin": 1460,
+            "charEnd": 1472,
+            "end": 268
+          }
+        ],
+        "text": [
+          "der Äbtissin"
+        ],
+        "tokenIds": [
+          266,
+          267
+        ]
+      },
+      "hasNested": false,
+      "id": 196,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 273,
+            "charBegin": 1496,
+            "charEnd": 1551,
+            "end": 284
+          },
+          {
+            "begin": 293,
+            "charBegin": 1596,
+            "charEnd": 1622,
+            "end": 297
+          }
+        ],
+        "text": "und floh , ganz von Schrecken erfüllt , den teuern Knaben dem Verderben zu entreißen",
+        "tokenIds": [
+          273,
+          274,
+          275,
+          276,
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          293,
+          294,
+          295,
+          296
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 264,
+            "charBegin": 1448,
+            "charEnd": 1451,
+            "end": 265
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          264
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 281,
+            "charBegin": 1534,
+            "charEnd": 1551,
+            "end": 284
+          }
+        ],
+        "text": [
+          "den teuern Knaben"
+        ],
+        "tokenIds": [
+          281,
+          282,
+          283
+        ]
+      },
+      "hasNested": false,
+      "id": 197,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 285,
+            "charBegin": 1553,
+            "charEnd": 1594,
+            "end": 292
+          }
+        ],
+        "text": "den ihr der Himmel wieder geschenkt hatte",
+        "tokenIds": [
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 285,
+            "charBegin": 1553,
+            "charEnd": 1556,
+            "end": 286
+          }
+        ],
+        "text": [
+          "den"
+        ],
+        "tokenIds": [
+          285
+        ]
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 286,
+            "charBegin": 1557,
+            "charEnd": 1560,
+            "end": 287
+          }
+        ],
+        "text": [
+          "ihr"
+        ],
+        "tokenIds": [
+          286
+        ]
+      },
+      "hasNested": false,
+      "id": 198,
+      "isNested": false
+    }
+  ],
+  "documentName": "Das Erdbeben in Chili__55_65",
+  "originalText": "er sprang voll Ahndung über die Gesteine herab, und rief: O Mutter Gottes, du Heilige! und erkannte Josephen, als sie sich bei dem Geräusche schüchtern umsah. Mit welcher Seligkeit umarmten sie sich, die Unglücklichen, die ein Wunder des Himmels gerettet hatte! Josephe war, auf ihrem Gang zum Tode, dem Richtplatze schon ganz nahe gewesen, als durch den krachenden Einsturz der Gebäude plötzlich der ganze Hinrichtungszug auseinandergesprengt ward. Ihre ersten entsetzensvollen Schritte trugen sie hierauf dem nächsten Tore zu; doch die Besinnung kehrte ihr bald wieder, und sie wandte sich, um nach dem Kloster zu eilen, wo ihr kleiner, hülfloser Knabe zurückgeblieben war. Sie fand das ganze Kloster schon in Flammen, und die Äbtissin, die ihr in jenen Augenblicken, die ihre letzten sein sollten, Sorge für den Säugling angelobt hatte, schrie eben, vor den Pforten stehend, nach Hülfe, um ihn zu retten. Josephe stürzte sich, unerschrocken durch den Dampf, der ihr entgegenqualmte, in das von allen Seiten schon zusammenfallende Gebäude, und gleich, als ob alle Engel des Himmels sie umschirmten, trat sie mit ihm unbeschädigt wieder aus dem Portal hervor. Sie wollte der Äbtissin, welche die Hände über ihr Haupt zusammenschlug, eben in die Arme sinken, als diese, mit fast allen ihren Klosterfrauen, von einem herabfallenden Giebel des Hauses, auf eine schmähliche Art erschlagen ward. Josephe bebte bei diesem entsetzlichen Anblicke zurück; sie drückte der Äbtissin flüchtig die Augen zu, und floh, ganz von Schrecken erfüllt, den teuern Knaben, den ihr der Himmel wieder geschenkt hatte, dem Verderben zu entreißen.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 158,
+      "end": 32,
+      "id": 0,
+      "text": "er sprang voll Ahndung über die Gesteine herab, und rief: O Mutter Gottes, du Heilige! und erkannte Josephen, als sie sich bei dem Geräusche schüchtern umsah.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tokens": [
+        "er",
+        "sprang",
+        "voll",
+        "Ahndung",
+        "über",
+        "die",
+        "Gesteine",
+        "herab",
+        ",",
+        "und",
+        "rief",
+        ":",
+        "O",
+        "Mutter",
+        "Gottes",
+        ",",
+        "du",
+        "Heilige",
+        "!",
+        "und",
+        "erkannte",
+        "Josephen",
+        ",",
+        "als",
+        "sie",
+        "sich",
+        "bei",
+        "dem",
+        "Geräusche",
+        "schüchtern",
+        "umsah",
+        "."
+      ]
+    },
+    {
+      "begin": 32,
+      "charBegin": 159,
+      "charEnd": 261,
+      "end": 50,
+      "id": 1,
+      "text": "Mit welcher Seligkeit umarmten sie sich, die Unglücklichen, die ein Wunder des Himmels gerettet hatte!",
+      "tokenIds": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "tokens": [
+        "Mit",
+        "welcher",
+        "Seligkeit",
+        "umarmten",
+        "sie",
+        "sich",
+        ",",
+        "die",
+        "Unglücklichen",
+        ",",
+        "die",
+        "ein",
+        "Wunder",
+        "des",
+        "Himmels",
+        "gerettet",
+        "hatte",
+        "!"
+      ]
+    },
+    {
+      "begin": 50,
+      "charBegin": 262,
+      "charEnd": 449,
+      "end": 80,
+      "id": 2,
+      "text": "Josephe war, auf ihrem Gang zum Tode, dem Richtplatze schon ganz nahe gewesen, als durch den krachenden Einsturz der Gebäude plötzlich der ganze Hinrichtungszug auseinandergesprengt ward.",
+      "tokenIds": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "tokens": [
+        "Josephe",
+        "war",
+        ",",
+        "auf",
+        "ihrem",
+        "Gang",
+        "zum",
+        "Tode",
+        ",",
+        "dem",
+        "Richtplatze",
+        "schon",
+        "ganz",
+        "nahe",
+        "gewesen",
+        ",",
+        "als",
+        "durch",
+        "den",
+        "krachenden",
+        "Einsturz",
+        "der",
+        "Gebäude",
+        "plötzlich",
+        "der",
+        "ganze",
+        "Hinrichtungszug",
+        "auseinandergesprengt",
+        "ward",
+        "."
+      ]
+    },
+    {
+      "begin": 80,
+      "charBegin": 450,
+      "charEnd": 528,
+      "end": 92,
+      "id": 3,
+      "text": "Ihre ersten entsetzensvollen Schritte trugen sie hierauf dem nächsten Tore zu;",
+      "tokenIds": [
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "tokens": [
+        "Ihre",
+        "ersten",
+        "entsetzensvollen",
+        "Schritte",
+        "trugen",
+        "sie",
+        "hierauf",
+        "dem",
+        "nächsten",
+        "Tore",
+        "zu",
+        ";"
+      ]
+    },
+    {
+      "begin": 92,
+      "charBegin": 529,
+      "charEnd": 675,
+      "end": 121,
+      "id": 4,
+      "text": "doch die Besinnung kehrte ihr bald wieder, und sie wandte sich, um nach dem Kloster zu eilen, wo ihr kleiner, hülfloser Knabe zurückgeblieben war.",
+      "tokenIds": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "tokens": [
+        "doch",
+        "die",
+        "Besinnung",
+        "kehrte",
+        "ihr",
+        "bald",
+        "wieder",
+        ",",
+        "und",
+        "sie",
+        "wandte",
+        "sich",
+        ",",
+        "um",
+        "nach",
+        "dem",
+        "Kloster",
+        "zu",
+        "eilen",
+        ",",
+        "wo",
+        "ihr",
+        "kleiner",
+        ",",
+        "hülfloser",
+        "Knabe",
+        "zurückgeblieben",
+        "war",
+        "."
+      ]
+    },
+    {
+      "begin": 121,
+      "charBegin": 676,
+      "charEnd": 907,
+      "end": 169,
+      "id": 5,
+      "text": "Sie fand das ganze Kloster schon in Flammen, und die Äbtissin, die ihr in jenen Augenblicken, die ihre letzten sein sollten, Sorge für den Säugling angelobt hatte, schrie eben, vor den Pforten stehend, nach Hülfe, um ihn zu retten.",
+      "tokenIds": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168
+      ],
+      "tokens": [
+        "Sie",
+        "fand",
+        "das",
+        "ganze",
+        "Kloster",
+        "schon",
+        "in",
+        "Flammen",
+        ",",
+        "und",
+        "die",
+        "Äbtissin",
+        ",",
+        "die",
+        "ihr",
+        "in",
+        "jenen",
+        "Augenblicken",
+        ",",
+        "die",
+        "ihre",
+        "letzten",
+        "sein",
+        "sollten",
+        ",",
+        "Sorge",
+        "für",
+        "den",
+        "Säugling",
+        "angelobt",
+        "hatte",
+        ",",
+        "schrie",
+        "eben",
+        ",",
+        "vor",
+        "den",
+        "Pforten",
+        "stehend",
+        ",",
+        "nach",
+        "Hülfe",
+        ",",
+        "um",
+        "ihn",
+        "zu",
+        "retten",
+        "."
+      ]
+    },
+    {
+      "begin": 169,
+      "charBegin": 908,
+      "charEnd": 1160,
+      "end": 214,
+      "id": 6,
+      "text": "Josephe stürzte sich, unerschrocken durch den Dampf, der ihr entgegenqualmte, in das von allen Seiten schon zusammenfallende Gebäude, und gleich, als ob alle Engel des Himmels sie umschirmten, trat sie mit ihm unbeschädigt wieder aus dem Portal hervor.",
+      "tokenIds": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213
+      ],
+      "tokens": [
+        "Josephe",
+        "stürzte",
+        "sich",
+        ",",
+        "unerschrocken",
+        "durch",
+        "den",
+        "Dampf",
+        ",",
+        "der",
+        "ihr",
+        "entgegenqualmte",
+        ",",
+        "in",
+        "das",
+        "von",
+        "allen",
+        "Seiten",
+        "schon",
+        "zusammenfallende",
+        "Gebäude",
+        ",",
+        "und",
+        "gleich",
+        ",",
+        "als",
+        "ob",
+        "alle",
+        "Engel",
+        "des",
+        "Himmels",
+        "sie",
+        "umschirmten",
+        ",",
+        "trat",
+        "sie",
+        "mit",
+        "ihm",
+        "unbeschädigt",
+        "wieder",
+        "aus",
+        "dem",
+        "Portal",
+        "hervor",
+        "."
+      ]
+    },
+    {
+      "begin": 214,
+      "charBegin": 1161,
+      "charEnd": 1391,
+      "end": 256,
+      "id": 7,
+      "text": "Sie wollte der Äbtissin, welche die Hände über ihr Haupt zusammenschlug, eben in die Arme sinken, als diese, mit fast allen ihren Klosterfrauen, von einem herabfallenden Giebel des Hauses, auf eine schmähliche Art erschlagen ward.",
+      "tokenIds": [
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255
+      ],
+      "tokens": [
+        "Sie",
+        "wollte",
+        "der",
+        "Äbtissin",
+        ",",
+        "welche",
+        "die",
+        "Hände",
+        "über",
+        "ihr",
+        "Haupt",
+        "zusammenschlug",
+        ",",
+        "eben",
+        "in",
+        "die",
+        "Arme",
+        "sinken",
+        ",",
+        "als",
+        "diese",
+        ",",
+        "mit",
+        "fast",
+        "allen",
+        "ihren",
+        "Klosterfrauen",
+        ",",
+        "von",
+        "einem",
+        "herabfallenden",
+        "Giebel",
+        "des",
+        "Hauses",
+        ",",
+        "auf",
+        "eine",
+        "schmähliche",
+        "Art",
+        "erschlagen",
+        "ward",
+        "."
+      ]
+    },
+    {
+      "begin": 256,
+      "charBegin": 1392,
+      "charEnd": 1447,
+      "end": 264,
+      "id": 8,
+      "text": "Josephe bebte bei diesem entsetzlichen Anblicke zurück;",
+      "tokenIds": [
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263
+      ],
+      "tokens": [
+        "Josephe",
+        "bebte",
+        "bei",
+        "diesem",
+        "entsetzlichen",
+        "Anblicke",
+        "zurück",
+        ";"
+      ]
+    },
+    {
+      "begin": 264,
+      "charBegin": 1448,
+      "charEnd": 1623,
+      "end": 298,
+      "id": 9,
+      "text": "sie drückte der Äbtissin flüchtig die Augen zu, und floh, ganz von Schrecken erfüllt, den teuern Knaben, den ihr der Himmel wieder geschenkt hatte, dem Verderben zu entreißen.",
+      "tokenIds": [
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297
+      ],
+      "tokens": [
+        "sie",
+        "drückte",
+        "der",
+        "Äbtissin",
+        "flüchtig",
+        "die",
+        "Augen",
+        "zu",
+        ",",
+        "und",
+        "floh",
+        ",",
+        "ganz",
+        "von",
+        "Schrecken",
+        "erfüllt",
+        ",",
+        "den",
+        "teuern",
+        "Knaben",
+        ",",
+        "den",
+        "ihr",
+        "der",
+        "Himmel",
+        "wieder",
+        "geschenkt",
+        "hatte",
+        ",",
+        "dem",
+        "Verderben",
+        "zu",
+        "entreißen",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 2,
+      "id": 0,
+      "sentence": 1,
+      "text": "er",
+      "word": 1
+    },
+    {
+      "charBegin": 3,
+      "charEnd": 9,
+      "id": 1,
+      "sentence": 1,
+      "text": "sprang",
+      "word": 2
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 14,
+      "id": 2,
+      "sentence": 1,
+      "text": "voll",
+      "word": 3
+    },
+    {
+      "charBegin": 15,
+      "charEnd": 22,
+      "id": 3,
+      "sentence": 1,
+      "text": "Ahndung",
+      "word": 4
+    },
+    {
+      "charBegin": 23,
+      "charEnd": 27,
+      "id": 4,
+      "sentence": 1,
+      "text": "über",
+      "word": 5
+    },
+    {
+      "charBegin": 28,
+      "charEnd": 31,
+      "id": 5,
+      "sentence": 1,
+      "text": "die",
+      "word": 6
+    },
+    {
+      "charBegin": 32,
+      "charEnd": 40,
+      "id": 6,
+      "sentence": 1,
+      "text": "Gesteine",
+      "word": 7
+    },
+    {
+      "charBegin": 41,
+      "charEnd": 46,
+      "id": 7,
+      "sentence": 1,
+      "text": "herab",
+      "word": 8
+    },
+    {
+      "charBegin": 46,
+      "charEnd": 47,
+      "id": 8,
+      "sentence": 1,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 48,
+      "charEnd": 51,
+      "id": 9,
+      "sentence": 1,
+      "text": "und",
+      "word": 10
+    },
+    {
+      "charBegin": 52,
+      "charEnd": 56,
+      "id": 10,
+      "sentence": 1,
+      "text": "rief",
+      "word": 11
+    },
+    {
+      "charBegin": 56,
+      "charEnd": 57,
+      "id": 11,
+      "sentence": 1,
+      "text": ":",
+      "word": 12
+    },
+    {
+      "charBegin": 58,
+      "charEnd": 59,
+      "id": 12,
+      "sentence": 1,
+      "text": "O",
+      "word": 13
+    },
+    {
+      "charBegin": 60,
+      "charEnd": 66,
+      "id": 13,
+      "sentence": 1,
+      "text": "Mutter",
+      "word": 14
+    },
+    {
+      "charBegin": 67,
+      "charEnd": 73,
+      "id": 14,
+      "sentence": 1,
+      "text": "Gottes",
+      "word": 15
+    },
+    {
+      "charBegin": 73,
+      "charEnd": 74,
+      "id": 15,
+      "sentence": 1,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 75,
+      "charEnd": 77,
+      "id": 16,
+      "sentence": 1,
+      "text": "du",
+      "word": 17
+    },
+    {
+      "charBegin": 78,
+      "charEnd": 85,
+      "id": 17,
+      "sentence": 1,
+      "text": "Heilige",
+      "word": 18
+    },
+    {
+      "charBegin": 85,
+      "charEnd": 86,
+      "id": 18,
+      "sentence": 1,
+      "text": "!",
+      "word": 19
+    },
+    {
+      "charBegin": 87,
+      "charEnd": 90,
+      "id": 19,
+      "sentence": 1,
+      "text": "und",
+      "word": 20
+    },
+    {
+      "charBegin": 91,
+      "charEnd": 99,
+      "id": 20,
+      "sentence": 1,
+      "text": "erkannte",
+      "word": 21
+    },
+    {
+      "charBegin": 100,
+      "charEnd": 108,
+      "id": 21,
+      "sentence": 1,
+      "text": "Josephen",
+      "word": 22
+    },
+    {
+      "charBegin": 108,
+      "charEnd": 109,
+      "id": 22,
+      "sentence": 1,
+      "text": ",",
+      "word": 23
+    },
+    {
+      "charBegin": 110,
+      "charEnd": 113,
+      "id": 23,
+      "sentence": 1,
+      "text": "als",
+      "word": 24
+    },
+    {
+      "charBegin": 114,
+      "charEnd": 117,
+      "id": 24,
+      "sentence": 1,
+      "text": "sie",
+      "word": 25
+    },
+    {
+      "charBegin": 118,
+      "charEnd": 122,
+      "id": 25,
+      "sentence": 1,
+      "text": "sich",
+      "word": 26
+    },
+    {
+      "charBegin": 123,
+      "charEnd": 126,
+      "id": 26,
+      "sentence": 1,
+      "text": "bei",
+      "word": 27
+    },
+    {
+      "charBegin": 127,
+      "charEnd": 130,
+      "id": 27,
+      "sentence": 1,
+      "text": "dem",
+      "word": 28
+    },
+    {
+      "charBegin": 131,
+      "charEnd": 140,
+      "id": 28,
+      "sentence": 1,
+      "text": "Geräusche",
+      "word": 29
+    },
+    {
+      "charBegin": 141,
+      "charEnd": 151,
+      "id": 29,
+      "sentence": 1,
+      "text": "schüchtern",
+      "word": 30
+    },
+    {
+      "charBegin": 152,
+      "charEnd": 157,
+      "id": 30,
+      "sentence": 1,
+      "text": "umsah",
+      "word": 31
+    },
+    {
+      "charBegin": 157,
+      "charEnd": 158,
+      "id": 31,
+      "sentence": 1,
+      "text": ".",
+      "word": 32
+    },
+    {
+      "charBegin": 159,
+      "charEnd": 162,
+      "id": 32,
+      "sentence": 2,
+      "text": "Mit",
+      "word": 1
+    },
+    {
+      "charBegin": 163,
+      "charEnd": 170,
+      "id": 33,
+      "sentence": 2,
+      "text": "welcher",
+      "word": 2
+    },
+    {
+      "charBegin": 171,
+      "charEnd": 180,
+      "id": 34,
+      "sentence": 2,
+      "text": "Seligkeit",
+      "word": 3
+    },
+    {
+      "charBegin": 181,
+      "charEnd": 189,
+      "id": 35,
+      "sentence": 2,
+      "text": "umarmten",
+      "word": 4
+    },
+    {
+      "charBegin": 190,
+      "charEnd": 193,
+      "id": 36,
+      "sentence": 2,
+      "text": "sie",
+      "word": 5
+    },
+    {
+      "charBegin": 194,
+      "charEnd": 198,
+      "id": 37,
+      "sentence": 2,
+      "text": "sich",
+      "word": 6
+    },
+    {
+      "charBegin": 198,
+      "charEnd": 199,
+      "id": 38,
+      "sentence": 2,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 200,
+      "charEnd": 203,
+      "id": 39,
+      "sentence": 2,
+      "text": "die",
+      "word": 8
+    },
+    {
+      "charBegin": 204,
+      "charEnd": 217,
+      "id": 40,
+      "sentence": 2,
+      "text": "Unglücklichen",
+      "word": 9
+    },
+    {
+      "charBegin": 217,
+      "charEnd": 218,
+      "id": 41,
+      "sentence": 2,
+      "text": ",",
+      "word": 10
+    },
+    {
+      "charBegin": 219,
+      "charEnd": 222,
+      "id": 42,
+      "sentence": 2,
+      "text": "die",
+      "word": 11
+    },
+    {
+      "charBegin": 223,
+      "charEnd": 226,
+      "id": 43,
+      "sentence": 2,
+      "text": "ein",
+      "word": 12
+    },
+    {
+      "charBegin": 227,
+      "charEnd": 233,
+      "id": 44,
+      "sentence": 2,
+      "text": "Wunder",
+      "word": 13
+    },
+    {
+      "charBegin": 234,
+      "charEnd": 237,
+      "id": 45,
+      "sentence": 2,
+      "text": "des",
+      "word": 14
+    },
+    {
+      "charBegin": 238,
+      "charEnd": 245,
+      "id": 46,
+      "sentence": 2,
+      "text": "Himmels",
+      "word": 15
+    },
+    {
+      "charBegin": 246,
+      "charEnd": 254,
+      "id": 47,
+      "sentence": 2,
+      "text": "gerettet",
+      "word": 16
+    },
+    {
+      "charBegin": 255,
+      "charEnd": 260,
+      "id": 48,
+      "sentence": 2,
+      "text": "hatte",
+      "word": 17
+    },
+    {
+      "charBegin": 260,
+      "charEnd": 261,
+      "id": 49,
+      "sentence": 2,
+      "text": "!",
+      "word": 18
+    },
+    {
+      "charBegin": 262,
+      "charEnd": 269,
+      "id": 50,
+      "sentence": 3,
+      "text": "Josephe",
+      "word": 1
+    },
+    {
+      "charBegin": 270,
+      "charEnd": 273,
+      "id": 51,
+      "sentence": 3,
+      "text": "war",
+      "word": 2
+    },
+    {
+      "charBegin": 273,
+      "charEnd": 274,
+      "id": 52,
+      "sentence": 3,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 275,
+      "charEnd": 278,
+      "id": 53,
+      "sentence": 3,
+      "text": "auf",
+      "word": 4
+    },
+    {
+      "charBegin": 279,
+      "charEnd": 284,
+      "id": 54,
+      "sentence": 3,
+      "text": "ihrem",
+      "word": 5
+    },
+    {
+      "charBegin": 285,
+      "charEnd": 289,
+      "id": 55,
+      "sentence": 3,
+      "text": "Gang",
+      "word": 6
+    },
+    {
+      "charBegin": 290,
+      "charEnd": 293,
+      "id": 56,
+      "sentence": 3,
+      "text": "zum",
+      "word": 7
+    },
+    {
+      "charBegin": 294,
+      "charEnd": 298,
+      "id": 57,
+      "sentence": 3,
+      "text": "Tode",
+      "word": 8
+    },
+    {
+      "charBegin": 298,
+      "charEnd": 299,
+      "id": 58,
+      "sentence": 3,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 300,
+      "charEnd": 303,
+      "id": 59,
+      "sentence": 3,
+      "text": "dem",
+      "word": 10
+    },
+    {
+      "charBegin": 304,
+      "charEnd": 315,
+      "id": 60,
+      "sentence": 3,
+      "text": "Richtplatze",
+      "word": 11
+    },
+    {
+      "charBegin": 316,
+      "charEnd": 321,
+      "id": 61,
+      "sentence": 3,
+      "text": "schon",
+      "word": 12
+    },
+    {
+      "charBegin": 322,
+      "charEnd": 326,
+      "id": 62,
+      "sentence": 3,
+      "text": "ganz",
+      "word": 13
+    },
+    {
+      "charBegin": 327,
+      "charEnd": 331,
+      "id": 63,
+      "sentence": 3,
+      "text": "nahe",
+      "word": 14
+    },
+    {
+      "charBegin": 332,
+      "charEnd": 339,
+      "id": 64,
+      "sentence": 3,
+      "text": "gewesen",
+      "word": 15
+    },
+    {
+      "charBegin": 339,
+      "charEnd": 340,
+      "id": 65,
+      "sentence": 3,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 341,
+      "charEnd": 344,
+      "id": 66,
+      "sentence": 3,
+      "text": "als",
+      "word": 17
+    },
+    {
+      "charBegin": 345,
+      "charEnd": 350,
+      "id": 67,
+      "sentence": 3,
+      "text": "durch",
+      "word": 18
+    },
+    {
+      "charBegin": 351,
+      "charEnd": 354,
+      "id": 68,
+      "sentence": 3,
+      "text": "den",
+      "word": 19
+    },
+    {
+      "charBegin": 355,
+      "charEnd": 365,
+      "id": 69,
+      "sentence": 3,
+      "text": "krachenden",
+      "word": 20
+    },
+    {
+      "charBegin": 366,
+      "charEnd": 374,
+      "id": 70,
+      "sentence": 3,
+      "text": "Einsturz",
+      "word": 21
+    },
+    {
+      "charBegin": 375,
+      "charEnd": 378,
+      "id": 71,
+      "sentence": 3,
+      "text": "der",
+      "word": 22
+    },
+    {
+      "charBegin": 379,
+      "charEnd": 386,
+      "id": 72,
+      "sentence": 3,
+      "text": "Gebäude",
+      "word": 23
+    },
+    {
+      "charBegin": 387,
+      "charEnd": 396,
+      "id": 73,
+      "sentence": 3,
+      "text": "plötzlich",
+      "word": 24
+    },
+    {
+      "charBegin": 397,
+      "charEnd": 400,
+      "id": 74,
+      "sentence": 3,
+      "text": "der",
+      "word": 25
+    },
+    {
+      "charBegin": 401,
+      "charEnd": 406,
+      "id": 75,
+      "sentence": 3,
+      "text": "ganze",
+      "word": 26
+    },
+    {
+      "charBegin": 407,
+      "charEnd": 422,
+      "id": 76,
+      "sentence": 3,
+      "text": "Hinrichtungszug",
+      "word": 27
+    },
+    {
+      "charBegin": 423,
+      "charEnd": 443,
+      "id": 77,
+      "sentence": 3,
+      "text": "auseinandergesprengt",
+      "word": 28
+    },
+    {
+      "charBegin": 444,
+      "charEnd": 448,
+      "id": 78,
+      "sentence": 3,
+      "text": "ward",
+      "word": 29
+    },
+    {
+      "charBegin": 448,
+      "charEnd": 449,
+      "id": 79,
+      "sentence": 3,
+      "text": ".",
+      "word": 30
+    },
+    {
+      "charBegin": 450,
+      "charEnd": 454,
+      "id": 80,
+      "sentence": 4,
+      "text": "Ihre",
+      "word": 1
+    },
+    {
+      "charBegin": 455,
+      "charEnd": 461,
+      "id": 81,
+      "sentence": 4,
+      "text": "ersten",
+      "word": 2
+    },
+    {
+      "charBegin": 462,
+      "charEnd": 478,
+      "id": 82,
+      "sentence": 4,
+      "text": "entsetzensvollen",
+      "word": 3
+    },
+    {
+      "charBegin": 479,
+      "charEnd": 487,
+      "id": 83,
+      "sentence": 4,
+      "text": "Schritte",
+      "word": 4
+    },
+    {
+      "charBegin": 488,
+      "charEnd": 494,
+      "id": 84,
+      "sentence": 4,
+      "text": "trugen",
+      "word": 5
+    },
+    {
+      "charBegin": 495,
+      "charEnd": 498,
+      "id": 85,
+      "sentence": 4,
+      "text": "sie",
+      "word": 6
+    },
+    {
+      "charBegin": 499,
+      "charEnd": 506,
+      "id": 86,
+      "sentence": 4,
+      "text": "hierauf",
+      "word": 7
+    },
+    {
+      "charBegin": 507,
+      "charEnd": 510,
+      "id": 87,
+      "sentence": 4,
+      "text": "dem",
+      "word": 8
+    },
+    {
+      "charBegin": 511,
+      "charEnd": 519,
+      "id": 88,
+      "sentence": 4,
+      "text": "nächsten",
+      "word": 9
+    },
+    {
+      "charBegin": 520,
+      "charEnd": 524,
+      "id": 89,
+      "sentence": 4,
+      "text": "Tore",
+      "word": 10
+    },
+    {
+      "charBegin": 525,
+      "charEnd": 527,
+      "id": 90,
+      "sentence": 4,
+      "text": "zu",
+      "word": 11
+    },
+    {
+      "charBegin": 527,
+      "charEnd": 528,
+      "id": 91,
+      "sentence": 4,
+      "text": ";",
+      "word": 12
+    },
+    {
+      "charBegin": 529,
+      "charEnd": 533,
+      "id": 92,
+      "sentence": 5,
+      "text": "doch",
+      "word": 1
+    },
+    {
+      "charBegin": 534,
+      "charEnd": 537,
+      "id": 93,
+      "sentence": 5,
+      "text": "die",
+      "word": 2
+    },
+    {
+      "charBegin": 538,
+      "charEnd": 547,
+      "id": 94,
+      "sentence": 5,
+      "text": "Besinnung",
+      "word": 3
+    },
+    {
+      "charBegin": 548,
+      "charEnd": 554,
+      "id": 95,
+      "sentence": 5,
+      "text": "kehrte",
+      "word": 4
+    },
+    {
+      "charBegin": 555,
+      "charEnd": 558,
+      "id": 96,
+      "sentence": 5,
+      "text": "ihr",
+      "word": 5
+    },
+    {
+      "charBegin": 559,
+      "charEnd": 563,
+      "id": 97,
+      "sentence": 5,
+      "text": "bald",
+      "word": 6
+    },
+    {
+      "charBegin": 564,
+      "charEnd": 570,
+      "id": 98,
+      "sentence": 5,
+      "text": "wieder",
+      "word": 7
+    },
+    {
+      "charBegin": 570,
+      "charEnd": 571,
+      "id": 99,
+      "sentence": 5,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 572,
+      "charEnd": 575,
+      "id": 100,
+      "sentence": 5,
+      "text": "und",
+      "word": 9
+    },
+    {
+      "charBegin": 576,
+      "charEnd": 579,
+      "id": 101,
+      "sentence": 5,
+      "text": "sie",
+      "word": 10
+    },
+    {
+      "charBegin": 580,
+      "charEnd": 586,
+      "id": 102,
+      "sentence": 5,
+      "text": "wandte",
+      "word": 11
+    },
+    {
+      "charBegin": 587,
+      "charEnd": 591,
+      "id": 103,
+      "sentence": 5,
+      "text": "sich",
+      "word": 12
+    },
+    {
+      "charBegin": 591,
+      "charEnd": 592,
+      "id": 104,
+      "sentence": 5,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 593,
+      "charEnd": 595,
+      "id": 105,
+      "sentence": 5,
+      "text": "um",
+      "word": 14
+    },
+    {
+      "charBegin": 596,
+      "charEnd": 600,
+      "id": 106,
+      "sentence": 5,
+      "text": "nach",
+      "word": 15
+    },
+    {
+      "charBegin": 601,
+      "charEnd": 604,
+      "id": 107,
+      "sentence": 5,
+      "text": "dem",
+      "word": 16
+    },
+    {
+      "charBegin": 605,
+      "charEnd": 612,
+      "id": 108,
+      "sentence": 5,
+      "text": "Kloster",
+      "word": 17
+    },
+    {
+      "charBegin": 613,
+      "charEnd": 615,
+      "id": 109,
+      "sentence": 5,
+      "text": "zu",
+      "word": 18
+    },
+    {
+      "charBegin": 616,
+      "charEnd": 621,
+      "id": 110,
+      "sentence": 5,
+      "text": "eilen",
+      "word": 19
+    },
+    {
+      "charBegin": 621,
+      "charEnd": 622,
+      "id": 111,
+      "sentence": 5,
+      "text": ",",
+      "word": 20
+    },
+    {
+      "charBegin": 623,
+      "charEnd": 625,
+      "id": 112,
+      "sentence": 5,
+      "text": "wo",
+      "word": 21
+    },
+    {
+      "charBegin": 626,
+      "charEnd": 629,
+      "id": 113,
+      "sentence": 5,
+      "text": "ihr",
+      "word": 22
+    },
+    {
+      "charBegin": 630,
+      "charEnd": 637,
+      "id": 114,
+      "sentence": 5,
+      "text": "kleiner",
+      "word": 23
+    },
+    {
+      "charBegin": 637,
+      "charEnd": 638,
+      "id": 115,
+      "sentence": 5,
+      "text": ",",
+      "word": 24
+    },
+    {
+      "charBegin": 639,
+      "charEnd": 648,
+      "id": 116,
+      "sentence": 5,
+      "text": "hülfloser",
+      "word": 25
+    },
+    {
+      "charBegin": 649,
+      "charEnd": 654,
+      "id": 117,
+      "sentence": 5,
+      "text": "Knabe",
+      "word": 26
+    },
+    {
+      "charBegin": 655,
+      "charEnd": 670,
+      "id": 118,
+      "sentence": 5,
+      "text": "zurückgeblieben",
+      "word": 27
+    },
+    {
+      "charBegin": 671,
+      "charEnd": 674,
+      "id": 119,
+      "sentence": 5,
+      "text": "war",
+      "word": 28
+    },
+    {
+      "charBegin": 674,
+      "charEnd": 675,
+      "id": 120,
+      "sentence": 5,
+      "text": ".",
+      "word": 29
+    },
+    {
+      "charBegin": 676,
+      "charEnd": 679,
+      "id": 121,
+      "sentence": 6,
+      "text": "Sie",
+      "word": 1
+    },
+    {
+      "charBegin": 680,
+      "charEnd": 684,
+      "id": 122,
+      "sentence": 6,
+      "text": "fand",
+      "word": 2
+    },
+    {
+      "charBegin": 685,
+      "charEnd": 688,
+      "id": 123,
+      "sentence": 6,
+      "text": "das",
+      "word": 3
+    },
+    {
+      "charBegin": 689,
+      "charEnd": 694,
+      "id": 124,
+      "sentence": 6,
+      "text": "ganze",
+      "word": 4
+    },
+    {
+      "charBegin": 695,
+      "charEnd": 702,
+      "id": 125,
+      "sentence": 6,
+      "text": "Kloster",
+      "word": 5
+    },
+    {
+      "charBegin": 703,
+      "charEnd": 708,
+      "id": 126,
+      "sentence": 6,
+      "text": "schon",
+      "word": 6
+    },
+    {
+      "charBegin": 709,
+      "charEnd": 711,
+      "id": 127,
+      "sentence": 6,
+      "text": "in",
+      "word": 7
+    },
+    {
+      "charBegin": 712,
+      "charEnd": 719,
+      "id": 128,
+      "sentence": 6,
+      "text": "Flammen",
+      "word": 8
+    },
+    {
+      "charBegin": 719,
+      "charEnd": 720,
+      "id": 129,
+      "sentence": 6,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 721,
+      "charEnd": 724,
+      "id": 130,
+      "sentence": 6,
+      "text": "und",
+      "word": 10
+    },
+    {
+      "charBegin": 725,
+      "charEnd": 728,
+      "id": 131,
+      "sentence": 6,
+      "text": "die",
+      "word": 11
+    },
+    {
+      "charBegin": 729,
+      "charEnd": 737,
+      "id": 132,
+      "sentence": 6,
+      "text": "Äbtissin",
+      "word": 12
+    },
+    {
+      "charBegin": 737,
+      "charEnd": 738,
+      "id": 133,
+      "sentence": 6,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 739,
+      "charEnd": 742,
+      "id": 134,
+      "sentence": 6,
+      "text": "die",
+      "word": 14
+    },
+    {
+      "charBegin": 743,
+      "charEnd": 746,
+      "id": 135,
+      "sentence": 6,
+      "text": "ihr",
+      "word": 15
+    },
+    {
+      "charBegin": 747,
+      "charEnd": 749,
+      "id": 136,
+      "sentence": 6,
+      "text": "in",
+      "word": 16
+    },
+    {
+      "charBegin": 750,
+      "charEnd": 755,
+      "id": 137,
+      "sentence": 6,
+      "text": "jenen",
+      "word": 17
+    },
+    {
+      "charBegin": 756,
+      "charEnd": 768,
+      "id": 138,
+      "sentence": 6,
+      "text": "Augenblicken",
+      "word": 18
+    },
+    {
+      "charBegin": 768,
+      "charEnd": 769,
+      "id": 139,
+      "sentence": 6,
+      "text": ",",
+      "word": 19
+    },
+    {
+      "charBegin": 770,
+      "charEnd": 773,
+      "id": 140,
+      "sentence": 6,
+      "text": "die",
+      "word": 20
+    },
+    {
+      "charBegin": 774,
+      "charEnd": 778,
+      "id": 141,
+      "sentence": 6,
+      "text": "ihre",
+      "word": 21
+    },
+    {
+      "charBegin": 779,
+      "charEnd": 786,
+      "id": 142,
+      "sentence": 6,
+      "text": "letzten",
+      "word": 22
+    },
+    {
+      "charBegin": 787,
+      "charEnd": 791,
+      "id": 143,
+      "sentence": 6,
+      "text": "sein",
+      "word": 23
+    },
+    {
+      "charBegin": 792,
+      "charEnd": 799,
+      "id": 144,
+      "sentence": 6,
+      "text": "sollten",
+      "word": 24
+    },
+    {
+      "charBegin": 799,
+      "charEnd": 800,
+      "id": 145,
+      "sentence": 6,
+      "text": ",",
+      "word": 25
+    },
+    {
+      "charBegin": 801,
+      "charEnd": 806,
+      "id": 146,
+      "sentence": 6,
+      "text": "Sorge",
+      "word": 26
+    },
+    {
+      "charBegin": 807,
+      "charEnd": 810,
+      "id": 147,
+      "sentence": 6,
+      "text": "für",
+      "word": 27
+    },
+    {
+      "charBegin": 811,
+      "charEnd": 814,
+      "id": 148,
+      "sentence": 6,
+      "text": "den",
+      "word": 28
+    },
+    {
+      "charBegin": 815,
+      "charEnd": 823,
+      "id": 149,
+      "sentence": 6,
+      "text": "Säugling",
+      "word": 29
+    },
+    {
+      "charBegin": 824,
+      "charEnd": 832,
+      "id": 150,
+      "sentence": 6,
+      "text": "angelobt",
+      "word": 30
+    },
+    {
+      "charBegin": 833,
+      "charEnd": 838,
+      "id": 151,
+      "sentence": 6,
+      "text": "hatte",
+      "word": 31
+    },
+    {
+      "charBegin": 838,
+      "charEnd": 839,
+      "id": 152,
+      "sentence": 6,
+      "text": ",",
+      "word": 32
+    },
+    {
+      "charBegin": 840,
+      "charEnd": 846,
+      "id": 153,
+      "sentence": 6,
+      "text": "schrie",
+      "word": 33
+    },
+    {
+      "charBegin": 847,
+      "charEnd": 851,
+      "id": 154,
+      "sentence": 6,
+      "text": "eben",
+      "word": 34
+    },
+    {
+      "charBegin": 851,
+      "charEnd": 852,
+      "id": 155,
+      "sentence": 6,
+      "text": ",",
+      "word": 35
+    },
+    {
+      "charBegin": 853,
+      "charEnd": 856,
+      "id": 156,
+      "sentence": 6,
+      "text": "vor",
+      "word": 36
+    },
+    {
+      "charBegin": 857,
+      "charEnd": 860,
+      "id": 157,
+      "sentence": 6,
+      "text": "den",
+      "word": 37
+    },
+    {
+      "charBegin": 861,
+      "charEnd": 868,
+      "id": 158,
+      "sentence": 6,
+      "text": "Pforten",
+      "word": 38
+    },
+    {
+      "charBegin": 869,
+      "charEnd": 876,
+      "id": 159,
+      "sentence": 6,
+      "text": "stehend",
+      "word": 39
+    },
+    {
+      "charBegin": 876,
+      "charEnd": 877,
+      "id": 160,
+      "sentence": 6,
+      "text": ",",
+      "word": 40
+    },
+    {
+      "charBegin": 878,
+      "charEnd": 882,
+      "id": 161,
+      "sentence": 6,
+      "text": "nach",
+      "word": 41
+    },
+    {
+      "charBegin": 883,
+      "charEnd": 888,
+      "id": 162,
+      "sentence": 6,
+      "text": "Hülfe",
+      "word": 42
+    },
+    {
+      "charBegin": 888,
+      "charEnd": 889,
+      "id": 163,
+      "sentence": 6,
+      "text": ",",
+      "word": 43
+    },
+    {
+      "charBegin": 890,
+      "charEnd": 892,
+      "id": 164,
+      "sentence": 6,
+      "text": "um",
+      "word": 44
+    },
+    {
+      "charBegin": 893,
+      "charEnd": 896,
+      "id": 165,
+      "sentence": 6,
+      "text": "ihn",
+      "word": 45
+    },
+    {
+      "charBegin": 897,
+      "charEnd": 899,
+      "id": 166,
+      "sentence": 6,
+      "text": "zu",
+      "word": 46
+    },
+    {
+      "charBegin": 900,
+      "charEnd": 906,
+      "id": 167,
+      "sentence": 6,
+      "text": "retten",
+      "word": 47
+    },
+    {
+      "charBegin": 906,
+      "charEnd": 907,
+      "id": 168,
+      "sentence": 6,
+      "text": ".",
+      "word": 48
+    },
+    {
+      "charBegin": 908,
+      "charEnd": 915,
+      "id": 169,
+      "sentence": 7,
+      "text": "Josephe",
+      "word": 1
+    },
+    {
+      "charBegin": 916,
+      "charEnd": 923,
+      "id": 170,
+      "sentence": 7,
+      "text": "stürzte",
+      "word": 2
+    },
+    {
+      "charBegin": 924,
+      "charEnd": 928,
+      "id": 171,
+      "sentence": 7,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 928,
+      "charEnd": 929,
+      "id": 172,
+      "sentence": 7,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 930,
+      "charEnd": 943,
+      "id": 173,
+      "sentence": 7,
+      "text": "unerschrocken",
+      "word": 5
+    },
+    {
+      "charBegin": 944,
+      "charEnd": 949,
+      "id": 174,
+      "sentence": 7,
+      "text": "durch",
+      "word": 6
+    },
+    {
+      "charBegin": 950,
+      "charEnd": 953,
+      "id": 175,
+      "sentence": 7,
+      "text": "den",
+      "word": 7
+    },
+    {
+      "charBegin": 954,
+      "charEnd": 959,
+      "id": 176,
+      "sentence": 7,
+      "text": "Dampf",
+      "word": 8
+    },
+    {
+      "charBegin": 959,
+      "charEnd": 960,
+      "id": 177,
+      "sentence": 7,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 961,
+      "charEnd": 964,
+      "id": 178,
+      "sentence": 7,
+      "text": "der",
+      "word": 10
+    },
+    {
+      "charBegin": 965,
+      "charEnd": 968,
+      "id": 179,
+      "sentence": 7,
+      "text": "ihr",
+      "word": 11
+    },
+    {
+      "charBegin": 969,
+      "charEnd": 984,
+      "id": 180,
+      "sentence": 7,
+      "text": "entgegenqualmte",
+      "word": 12
+    },
+    {
+      "charBegin": 984,
+      "charEnd": 985,
+      "id": 181,
+      "sentence": 7,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 986,
+      "charEnd": 988,
+      "id": 182,
+      "sentence": 7,
+      "text": "in",
+      "word": 14
+    },
+    {
+      "charBegin": 989,
+      "charEnd": 992,
+      "id": 183,
+      "sentence": 7,
+      "text": "das",
+      "word": 15
+    },
+    {
+      "charBegin": 993,
+      "charEnd": 996,
+      "id": 184,
+      "sentence": 7,
+      "text": "von",
+      "word": 16
+    },
+    {
+      "charBegin": 997,
+      "charEnd": 1002,
+      "id": 185,
+      "sentence": 7,
+      "text": "allen",
+      "word": 17
+    },
+    {
+      "charBegin": 1003,
+      "charEnd": 1009,
+      "id": 186,
+      "sentence": 7,
+      "text": "Seiten",
+      "word": 18
+    },
+    {
+      "charBegin": 1010,
+      "charEnd": 1015,
+      "id": 187,
+      "sentence": 7,
+      "text": "schon",
+      "word": 19
+    },
+    {
+      "charBegin": 1016,
+      "charEnd": 1032,
+      "id": 188,
+      "sentence": 7,
+      "text": "zusammenfallende",
+      "word": 20
+    },
+    {
+      "charBegin": 1033,
+      "charEnd": 1040,
+      "id": 189,
+      "sentence": 7,
+      "text": "Gebäude",
+      "word": 21
+    },
+    {
+      "charBegin": 1040,
+      "charEnd": 1041,
+      "id": 190,
+      "sentence": 7,
+      "text": ",",
+      "word": 22
+    },
+    {
+      "charBegin": 1042,
+      "charEnd": 1045,
+      "id": 191,
+      "sentence": 7,
+      "text": "und",
+      "word": 23
+    },
+    {
+      "charBegin": 1046,
+      "charEnd": 1052,
+      "id": 192,
+      "sentence": 7,
+      "text": "gleich",
+      "word": 24
+    },
+    {
+      "charBegin": 1052,
+      "charEnd": 1053,
+      "id": 193,
+      "sentence": 7,
+      "text": ",",
+      "word": 25
+    },
+    {
+      "charBegin": 1054,
+      "charEnd": 1057,
+      "id": 194,
+      "sentence": 7,
+      "text": "als",
+      "word": 26
+    },
+    {
+      "charBegin": 1058,
+      "charEnd": 1060,
+      "id": 195,
+      "sentence": 7,
+      "text": "ob",
+      "word": 27
+    },
+    {
+      "charBegin": 1061,
+      "charEnd": 1065,
+      "id": 196,
+      "sentence": 7,
+      "text": "alle",
+      "word": 28
+    },
+    {
+      "charBegin": 1066,
+      "charEnd": 1071,
+      "id": 197,
+      "sentence": 7,
+      "text": "Engel",
+      "word": 29
+    },
+    {
+      "charBegin": 1072,
+      "charEnd": 1075,
+      "id": 198,
+      "sentence": 7,
+      "text": "des",
+      "word": 30
+    },
+    {
+      "charBegin": 1076,
+      "charEnd": 1083,
+      "id": 199,
+      "sentence": 7,
+      "text": "Himmels",
+      "word": 31
+    },
+    {
+      "charBegin": 1084,
+      "charEnd": 1087,
+      "id": 200,
+      "sentence": 7,
+      "text": "sie",
+      "word": 32
+    },
+    {
+      "charBegin": 1088,
+      "charEnd": 1099,
+      "id": 201,
+      "sentence": 7,
+      "text": "umschirmten",
+      "word": 33
+    },
+    {
+      "charBegin": 1099,
+      "charEnd": 1100,
+      "id": 202,
+      "sentence": 7,
+      "text": ",",
+      "word": 34
+    },
+    {
+      "charBegin": 1101,
+      "charEnd": 1105,
+      "id": 203,
+      "sentence": 7,
+      "text": "trat",
+      "word": 35
+    },
+    {
+      "charBegin": 1106,
+      "charEnd": 1109,
+      "id": 204,
+      "sentence": 7,
+      "text": "sie",
+      "word": 36
+    },
+    {
+      "charBegin": 1110,
+      "charEnd": 1113,
+      "id": 205,
+      "sentence": 7,
+      "text": "mit",
+      "word": 37
+    },
+    {
+      "charBegin": 1114,
+      "charEnd": 1117,
+      "id": 206,
+      "sentence": 7,
+      "text": "ihm",
+      "word": 38
+    },
+    {
+      "charBegin": 1118,
+      "charEnd": 1130,
+      "id": 207,
+      "sentence": 7,
+      "text": "unbeschädigt",
+      "word": 39
+    },
+    {
+      "charBegin": 1131,
+      "charEnd": 1137,
+      "id": 208,
+      "sentence": 7,
+      "text": "wieder",
+      "word": 40
+    },
+    {
+      "charBegin": 1138,
+      "charEnd": 1141,
+      "id": 209,
+      "sentence": 7,
+      "text": "aus",
+      "word": 41
+    },
+    {
+      "charBegin": 1142,
+      "charEnd": 1145,
+      "id": 210,
+      "sentence": 7,
+      "text": "dem",
+      "word": 42
+    },
+    {
+      "charBegin": 1146,
+      "charEnd": 1152,
+      "id": 211,
+      "sentence": 7,
+      "text": "Portal",
+      "word": 43
+    },
+    {
+      "charBegin": 1153,
+      "charEnd": 1159,
+      "id": 212,
+      "sentence": 7,
+      "text": "hervor",
+      "word": 44
+    },
+    {
+      "charBegin": 1159,
+      "charEnd": 1160,
+      "id": 213,
+      "sentence": 7,
+      "text": ".",
+      "word": 45
+    },
+    {
+      "charBegin": 1161,
+      "charEnd": 1164,
+      "id": 214,
+      "sentence": 8,
+      "text": "Sie",
+      "word": 1
+    },
+    {
+      "charBegin": 1165,
+      "charEnd": 1171,
+      "id": 215,
+      "sentence": 8,
+      "text": "wollte",
+      "word": 2
+    },
+    {
+      "charBegin": 1172,
+      "charEnd": 1175,
+      "id": 216,
+      "sentence": 8,
+      "text": "der",
+      "word": 3
+    },
+    {
+      "charBegin": 1176,
+      "charEnd": 1184,
+      "id": 217,
+      "sentence": 8,
+      "text": "Äbtissin",
+      "word": 4
+    },
+    {
+      "charBegin": 1184,
+      "charEnd": 1185,
+      "id": 218,
+      "sentence": 8,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 1186,
+      "charEnd": 1192,
+      "id": 219,
+      "sentence": 8,
+      "text": "welche",
+      "word": 6
+    },
+    {
+      "charBegin": 1193,
+      "charEnd": 1196,
+      "id": 220,
+      "sentence": 8,
+      "text": "die",
+      "word": 7
+    },
+    {
+      "charBegin": 1197,
+      "charEnd": 1202,
+      "id": 221,
+      "sentence": 8,
+      "text": "Hände",
+      "word": 8
+    },
+    {
+      "charBegin": 1203,
+      "charEnd": 1207,
+      "id": 222,
+      "sentence": 8,
+      "text": "über",
+      "word": 9
+    },
+    {
+      "charBegin": 1208,
+      "charEnd": 1211,
+      "id": 223,
+      "sentence": 8,
+      "text": "ihr",
+      "word": 10
+    },
+    {
+      "charBegin": 1212,
+      "charEnd": 1217,
+      "id": 224,
+      "sentence": 8,
+      "text": "Haupt",
+      "word": 11
+    },
+    {
+      "charBegin": 1218,
+      "charEnd": 1232,
+      "id": 225,
+      "sentence": 8,
+      "text": "zusammenschlug",
+      "word": 12
+    },
+    {
+      "charBegin": 1232,
+      "charEnd": 1233,
+      "id": 226,
+      "sentence": 8,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 1234,
+      "charEnd": 1238,
+      "id": 227,
+      "sentence": 8,
+      "text": "eben",
+      "word": 14
+    },
+    {
+      "charBegin": 1239,
+      "charEnd": 1241,
+      "id": 228,
+      "sentence": 8,
+      "text": "in",
+      "word": 15
+    },
+    {
+      "charBegin": 1242,
+      "charEnd": 1245,
+      "id": 229,
+      "sentence": 8,
+      "text": "die",
+      "word": 16
+    },
+    {
+      "charBegin": 1246,
+      "charEnd": 1250,
+      "id": 230,
+      "sentence": 8,
+      "text": "Arme",
+      "word": 17
+    },
+    {
+      "charBegin": 1251,
+      "charEnd": 1257,
+      "id": 231,
+      "sentence": 8,
+      "text": "sinken",
+      "word": 18
+    },
+    {
+      "charBegin": 1257,
+      "charEnd": 1258,
+      "id": 232,
+      "sentence": 8,
+      "text": ",",
+      "word": 19
+    },
+    {
+      "charBegin": 1259,
+      "charEnd": 1262,
+      "id": 233,
+      "sentence": 8,
+      "text": "als",
+      "word": 20
+    },
+    {
+      "charBegin": 1263,
+      "charEnd": 1268,
+      "id": 234,
+      "sentence": 8,
+      "text": "diese",
+      "word": 21
+    },
+    {
+      "charBegin": 1268,
+      "charEnd": 1269,
+      "id": 235,
+      "sentence": 8,
+      "text": ",",
+      "word": 22
+    },
+    {
+      "charBegin": 1270,
+      "charEnd": 1273,
+      "id": 236,
+      "sentence": 8,
+      "text": "mit",
+      "word": 23
+    },
+    {
+      "charBegin": 1274,
+      "charEnd": 1278,
+      "id": 237,
+      "sentence": 8,
+      "text": "fast",
+      "word": 24
+    },
+    {
+      "charBegin": 1279,
+      "charEnd": 1284,
+      "id": 238,
+      "sentence": 8,
+      "text": "allen",
+      "word": 25
+    },
+    {
+      "charBegin": 1285,
+      "charEnd": 1290,
+      "id": 239,
+      "sentence": 8,
+      "text": "ihren",
+      "word": 26
+    },
+    {
+      "charBegin": 1291,
+      "charEnd": 1304,
+      "id": 240,
+      "sentence": 8,
+      "text": "Klosterfrauen",
+      "word": 27
+    },
+    {
+      "charBegin": 1304,
+      "charEnd": 1305,
+      "id": 241,
+      "sentence": 8,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 1306,
+      "charEnd": 1309,
+      "id": 242,
+      "sentence": 8,
+      "text": "von",
+      "word": 29
+    },
+    {
+      "charBegin": 1310,
+      "charEnd": 1315,
+      "id": 243,
+      "sentence": 8,
+      "text": "einem",
+      "word": 30
+    },
+    {
+      "charBegin": 1316,
+      "charEnd": 1330,
+      "id": 244,
+      "sentence": 8,
+      "text": "herabfallenden",
+      "word": 31
+    },
+    {
+      "charBegin": 1331,
+      "charEnd": 1337,
+      "id": 245,
+      "sentence": 8,
+      "text": "Giebel",
+      "word": 32
+    },
+    {
+      "charBegin": 1338,
+      "charEnd": 1341,
+      "id": 246,
+      "sentence": 8,
+      "text": "des",
+      "word": 33
+    },
+    {
+      "charBegin": 1342,
+      "charEnd": 1348,
+      "id": 247,
+      "sentence": 8,
+      "text": "Hauses",
+      "word": 34
+    },
+    {
+      "charBegin": 1348,
+      "charEnd": 1349,
+      "id": 248,
+      "sentence": 8,
+      "text": ",",
+      "word": 35
+    },
+    {
+      "charBegin": 1350,
+      "charEnd": 1353,
+      "id": 249,
+      "sentence": 8,
+      "text": "auf",
+      "word": 36
+    },
+    {
+      "charBegin": 1354,
+      "charEnd": 1358,
+      "id": 250,
+      "sentence": 8,
+      "text": "eine",
+      "word": 37
+    },
+    {
+      "charBegin": 1359,
+      "charEnd": 1370,
+      "id": 251,
+      "sentence": 8,
+      "text": "schmähliche",
+      "word": 38
+    },
+    {
+      "charBegin": 1371,
+      "charEnd": 1374,
+      "id": 252,
+      "sentence": 8,
+      "text": "Art",
+      "word": 39
+    },
+    {
+      "charBegin": 1375,
+      "charEnd": 1385,
+      "id": 253,
+      "sentence": 8,
+      "text": "erschlagen",
+      "word": 40
+    },
+    {
+      "charBegin": 1386,
+      "charEnd": 1390,
+      "id": 254,
+      "sentence": 8,
+      "text": "ward",
+      "word": 41
+    },
+    {
+      "charBegin": 1390,
+      "charEnd": 1391,
+      "id": 255,
+      "sentence": 8,
+      "text": ".",
+      "word": 42
+    },
+    {
+      "charBegin": 1392,
+      "charEnd": 1399,
+      "id": 256,
+      "sentence": 9,
+      "text": "Josephe",
+      "word": 1
+    },
+    {
+      "charBegin": 1400,
+      "charEnd": 1405,
+      "id": 257,
+      "sentence": 9,
+      "text": "bebte",
+      "word": 2
+    },
+    {
+      "charBegin": 1406,
+      "charEnd": 1409,
+      "id": 258,
+      "sentence": 9,
+      "text": "bei",
+      "word": 3
+    },
+    {
+      "charBegin": 1410,
+      "charEnd": 1416,
+      "id": 259,
+      "sentence": 9,
+      "text": "diesem",
+      "word": 4
+    },
+    {
+      "charBegin": 1417,
+      "charEnd": 1430,
+      "id": 260,
+      "sentence": 9,
+      "text": "entsetzlichen",
+      "word": 5
+    },
+    {
+      "charBegin": 1431,
+      "charEnd": 1439,
+      "id": 261,
+      "sentence": 9,
+      "text": "Anblicke",
+      "word": 6
+    },
+    {
+      "charBegin": 1440,
+      "charEnd": 1446,
+      "id": 262,
+      "sentence": 9,
+      "text": "zurück",
+      "word": 7
+    },
+    {
+      "charBegin": 1446,
+      "charEnd": 1447,
+      "id": 263,
+      "sentence": 9,
+      "text": ";",
+      "word": 8
+    },
+    {
+      "charBegin": 1448,
+      "charEnd": 1451,
+      "id": 264,
+      "sentence": 10,
+      "text": "sie",
+      "word": 1
+    },
+    {
+      "charBegin": 1452,
+      "charEnd": 1459,
+      "id": 265,
+      "sentence": 10,
+      "text": "drückte",
+      "word": 2
+    },
+    {
+      "charBegin": 1460,
+      "charEnd": 1463,
+      "id": 266,
+      "sentence": 10,
+      "text": "der",
+      "word": 3
+    },
+    {
+      "charBegin": 1464,
+      "charEnd": 1472,
+      "id": 267,
+      "sentence": 10,
+      "text": "Äbtissin",
+      "word": 4
+    },
+    {
+      "charBegin": 1473,
+      "charEnd": 1481,
+      "id": 268,
+      "sentence": 10,
+      "text": "flüchtig",
+      "word": 5
+    },
+    {
+      "charBegin": 1482,
+      "charEnd": 1485,
+      "id": 269,
+      "sentence": 10,
+      "text": "die",
+      "word": 6
+    },
+    {
+      "charBegin": 1486,
+      "charEnd": 1491,
+      "id": 270,
+      "sentence": 10,
+      "text": "Augen",
+      "word": 7
+    },
+    {
+      "charBegin": 1492,
+      "charEnd": 1494,
+      "id": 271,
+      "sentence": 10,
+      "text": "zu",
+      "word": 8
+    },
+    {
+      "charBegin": 1494,
+      "charEnd": 1495,
+      "id": 272,
+      "sentence": 10,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 1496,
+      "charEnd": 1499,
+      "id": 273,
+      "sentence": 10,
+      "text": "und",
+      "word": 10
+    },
+    {
+      "charBegin": 1500,
+      "charEnd": 1504,
+      "id": 274,
+      "sentence": 10,
+      "text": "floh",
+      "word": 11
+    },
+    {
+      "charBegin": 1504,
+      "charEnd": 1505,
+      "id": 275,
+      "sentence": 10,
+      "text": ",",
+      "word": 12
+    },
+    {
+      "charBegin": 1506,
+      "charEnd": 1510,
+      "id": 276,
+      "sentence": 10,
+      "text": "ganz",
+      "word": 13
+    },
+    {
+      "charBegin": 1511,
+      "charEnd": 1514,
+      "id": 277,
+      "sentence": 10,
+      "text": "von",
+      "word": 14
+    },
+    {
+      "charBegin": 1515,
+      "charEnd": 1524,
+      "id": 278,
+      "sentence": 10,
+      "text": "Schrecken",
+      "word": 15
+    },
+    {
+      "charBegin": 1525,
+      "charEnd": 1532,
+      "id": 279,
+      "sentence": 10,
+      "text": "erfüllt",
+      "word": 16
+    },
+    {
+      "charBegin": 1532,
+      "charEnd": 1533,
+      "id": 280,
+      "sentence": 10,
+      "text": ",",
+      "word": 17
+    },
+    {
+      "charBegin": 1534,
+      "charEnd": 1537,
+      "id": 281,
+      "sentence": 10,
+      "text": "den",
+      "word": 18
+    },
+    {
+      "charBegin": 1538,
+      "charEnd": 1544,
+      "id": 282,
+      "sentence": 10,
+      "text": "teuern",
+      "word": 19
+    },
+    {
+      "charBegin": 1545,
+      "charEnd": 1551,
+      "id": 283,
+      "sentence": 10,
+      "text": "Knaben",
+      "word": 20
+    },
+    {
+      "charBegin": 1551,
+      "charEnd": 1552,
+      "id": 284,
+      "sentence": 10,
+      "text": ",",
+      "word": 21
+    },
+    {
+      "charBegin": 1553,
+      "charEnd": 1556,
+      "id": 285,
+      "sentence": 10,
+      "text": "den",
+      "word": 22
+    },
+    {
+      "charBegin": 1557,
+      "charEnd": 1560,
+      "id": 286,
+      "sentence": 10,
+      "text": "ihr",
+      "word": 23
+    },
+    {
+      "charBegin": 1561,
+      "charEnd": 1564,
+      "id": 287,
+      "sentence": 10,
+      "text": "der",
+      "word": 24
+    },
+    {
+      "charBegin": 1565,
+      "charEnd": 1571,
+      "id": 288,
+      "sentence": 10,
+      "text": "Himmel",
+      "word": 25
+    },
+    {
+      "charBegin": 1572,
+      "charEnd": 1578,
+      "id": 289,
+      "sentence": 10,
+      "text": "wieder",
+      "word": 26
+    },
+    {
+      "charBegin": 1579,
+      "charEnd": 1588,
+      "id": 290,
+      "sentence": 10,
+      "text": "geschenkt",
+      "word": 27
+    },
+    {
+      "charBegin": 1589,
+      "charEnd": 1594,
+      "id": 291,
+      "sentence": 10,
+      "text": "hatte",
+      "word": 28
+    },
+    {
+      "charBegin": 1594,
+      "charEnd": 1595,
+      "id": 292,
+      "sentence": 10,
+      "text": ",",
+      "word": 29
+    },
+    {
+      "charBegin": 1596,
+      "charEnd": 1599,
+      "id": 293,
+      "sentence": 10,
+      "text": "dem",
+      "word": 30
+    },
+    {
+      "charBegin": 1600,
+      "charEnd": 1609,
+      "id": 294,
+      "sentence": 10,
+      "text": "Verderben",
+      "word": 31
+    },
+    {
+      "charBegin": 1610,
+      "charEnd": 1612,
+      "id": 295,
+      "sentence": 10,
+      "text": "zu",
+      "word": 32
+    },
+    {
+      "charBegin": 1613,
+      "charEnd": 1622,
+      "id": 296,
+      "sentence": 10,
+      "text": "entreißen",
+      "word": 33
+    },
+    {
+      "charBegin": 1622,
+      "charEnd": 1623,
+      "id": 297,
+      "sentence": 10,
+      "text": ".",
+      "word": 34
+    }
+  ]
+}

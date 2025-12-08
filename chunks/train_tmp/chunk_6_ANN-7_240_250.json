@@ -1,0 +1,3253 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 48,
+            "end": 9
+          }
+        ],
+        "text": "Plötzlich sah er sich etwas in der Ferne bewegen",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 2,
+            "charBegin": 14,
+            "charEnd": 16,
+            "end": 3
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          2
+        ]
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 3,
+            "charBegin": 17,
+            "charEnd": 21,
+            "end": 4
+          },
+          {
+            "begin": 4,
+            "charBegin": 22,
+            "charEnd": 27,
+            "end": 5
+          }
+        ],
+        "text": [
+          "sich",
+          "etwas"
+        ],
+        "tokenIds": [
+          3,
+          4
+        ]
+      },
+      "hasNested": false,
+      "id": 121,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 10,
+            "charBegin": 50,
+            "charEnd": 64,
+            "end": 13
+          }
+        ],
+        "text": "es war Walther",
+        "tokenIds": [
+          10,
+          11,
+          12
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 10,
+            "charBegin": 50,
+            "charEnd": 52,
+            "end": 11
+          },
+          {
+            "begin": 12,
+            "charBegin": 57,
+            "charEnd": 64,
+            "end": 13
+          }
+        ],
+        "text": [
+          "es",
+          "Walther"
+        ],
+        "tokenIds": [
+          10,
+          12
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 122,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 14,
+            "charBegin": 66,
+            "charEnd": 98,
+            "end": 20
+          }
+        ],
+        "text": "der Moos von den Bäumen sammelte",
+        "tokenIds": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 14,
+            "charBegin": 66,
+            "charEnd": 69,
+            "end": 15
+          }
+        ],
+        "text": [
+          "der"
+        ],
+        "tokenIds": [
+          14
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 123,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 21,
+            "charBegin": 100,
+            "charEnd": 125,
+            "end": 27
+          }
+        ],
+        "text": "ohne zu wissen was er tat",
+        "tokenIds": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 25,
+            "charBegin": 119,
+            "charEnd": 121,
+            "end": 26
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          25
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 124,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 28,
+            "charBegin": 127,
+            "charEnd": 138,
+            "end": 31
+          }
+        ],
+        "text": "legte er an",
+        "tokenIds": [
+          28,
+          29,
+          30
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 29,
+            "charBegin": 133,
+            "charEnd": 135,
+            "end": 30
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          29
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 125,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 32,
+            "charBegin": 140,
+            "charEnd": 159,
+            "end": 36
+          }
+        ],
+        "text": "Walther sah sich um",
+        "tokenIds": [
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 32,
+            "charBegin": 140,
+            "charEnd": 147,
+            "end": 33
+          },
+          {
+            "begin": 34,
+            "charBegin": 152,
+            "charEnd": 156,
+            "end": 35
+          }
+        ],
+        "text": [
+          "Walther",
+          "sich"
+        ],
+        "tokenIds": [
+          32,
+          34
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 126,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 37,
+            "charBegin": 161,
+            "charEnd": 197,
+            "end": 43
+          }
+        ],
+        "text": "und drohte mit einer stummen Gebärde",
+        "tokenIds": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 127,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 44,
+            "charBegin": 199,
+            "charEnd": 228,
+            "end": 50
+          }
+        ],
+        "text": "aber indem flog der Bolzen ab",
+        "tokenIds": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 128,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 51,
+            "charBegin": 230,
+            "charEnd": 256,
+            "end": 55
+          }
+        ],
+        "text": "und Walther stürzte nieder",
+        "tokenIds": [
+          51,
+          52,
+          53,
+          54
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 52,
+            "charBegin": 234,
+            "charEnd": 241,
+            "end": 53
+          }
+        ],
+        "text": [
+          "Walther"
+        ],
+        "tokenIds": [
+          52
+        ]
+      },
+      "hasNested": false,
+      "id": 129,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 56,
+            "charBegin": 258,
+            "charEnd": 297,
+            "end": 62
+          }
+        ],
+        "text": "Eckbert fühlte sich leicht und beruhigt",
+        "tokenIds": [
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 56,
+            "charBegin": 258,
+            "charEnd": 265,
+            "end": 57
+          },
+          {
+            "begin": 58,
+            "charBegin": 273,
+            "charEnd": 277,
+            "end": 59
+          }
+        ],
+        "text": [
+          "Eckbert",
+          "sich"
+        ],
+        "tokenIds": [
+          56,
+          58
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 130,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 63,
+            "charBegin": 299,
+            "charEnd": 354,
+            "end": 73
+          }
+        ],
+        "text": "und doch trieb ihn ein Schauder nach seiner Burg zurück",
+        "tokenIds": [
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 66,
+            "charBegin": 314,
+            "charEnd": 317,
+            "end": 67
+          },
+          {
+            "begin": 70,
+            "charBegin": 336,
+            "charEnd": 342,
+            "end": 71
+          }
+        ],
+        "text": [
+          "ihn",
+          "seiner"
+        ],
+        "tokenIds": [
+          66,
+          70
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 131,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 74,
+            "charBegin": 356,
+            "charEnd": 391,
+            "end": 81
+          }
+        ],
+        "text": "er hatte einen großen Weg zu machen",
+        "tokenIds": [
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 74,
+            "charBegin": 356,
+            "charEnd": 358,
+            "end": 75
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          74
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 132,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 82,
+            "charBegin": 393,
+            "charEnd": 438,
+            "end": 91
+          }
+        ],
+        "text": "denn er war weit hinein in die Wälder verirrt",
+        "tokenIds": [
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 83,
+            "charBegin": 398,
+            "charEnd": 400,
+            "end": 84
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          83
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 133,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 92,
+            "charBegin": 440,
+            "charEnd": 452,
+            "end": 95
+          }
+        ],
+        "text": "Als er ankam",
+        "tokenIds": [
+          92,
+          93,
+          94
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 93,
+            "charBegin": 444,
+            "charEnd": 446,
+            "end": 94
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          93
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 134,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 96,
+            "charBegin": 454,
+            "charEnd": 480,
+            "end": 100
+          }
+        ],
+        "text": "war Bertha schon gestorben",
+        "tokenIds": [
+          96,
+          97,
+          98,
+          99
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 97,
+            "charBegin": 458,
+            "charEnd": 464,
+            "end": 98
+          }
+        ],
+        "text": [
+          "Bertha"
+        ],
+        "tokenIds": [
+          97
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 135,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 101,
+            "charBegin": 482,
+            "charEnd": 554,
+            "end": 115
+          }
+        ],
+        "text": "sie hatte vor ihrem Tode noch viel von Walther und der Alten gesprochen .",
+        "tokenIds": [
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 101,
+            "charBegin": 482,
+            "charEnd": 485,
+            "end": 102
+          },
+          {
+            "begin": 104,
+            "charBegin": 496,
+            "charEnd": 501,
+            "end": 105
+          }
+        ],
+        "text": [
+          "sie",
+          "ihrem"
+        ],
+        "tokenIds": [
+          101,
+          104
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 111,
+            "charBegin": 533,
+            "charEnd": 542,
+            "end": 113
+          },
+          {
+            "begin": 109,
+            "charBegin": 521,
+            "charEnd": 528,
+            "end": 110
+          }
+        ],
+        "text": [
+          "der",
+          "Alten",
+          "Walther"
+        ],
+        "tokenIds": [
+          109,
+          111,
+          112
+        ]
+      },
+      "hasNested": false,
+      "id": 136,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 115,
+            "charBegin": 555,
+            "charEnd": 614,
+            "end": 125
+          }
+        ],
+        "text": "Eckbert lebte nun eine lange Zeit in der größten Einsamkeit",
+        "tokenIds": [
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 115,
+            "charBegin": 555,
+            "charEnd": 562,
+            "end": 116
+          }
+        ],
+        "text": [
+          "Eckbert"
+        ],
+        "tokenIds": [
+          115
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 137,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 126,
+            "charBegin": 616,
+            "charEnd": 660,
+            "end": 133
+          }
+        ],
+        "text": "er war schon sonst immer schwermütig gewesen",
+        "tokenIds": [
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 126,
+            "charBegin": 616,
+            "charEnd": 618,
+            "end": 127
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          126
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 138,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 134,
+            "charBegin": 662,
+            "charEnd": 720,
+            "end": 142
+          }
+        ],
+        "text": "weil ihn die seltsame Geschichte seiner Gattin beunruhigte",
+        "tokenIds": [
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 135,
+            "charBegin": 667,
+            "charEnd": 670,
+            "end": 136
+          },
+          {
+            "begin": 139,
+            "charBegin": 695,
+            "charEnd": 701,
+            "end": 140
+          }
+        ],
+        "text": [
+          "ihn",
+          "seiner"
+        ],
+        "tokenIds": [
+          135,
+          139
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 139,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 143,
+            "charBegin": 722,
+            "charEnd": 763,
+            "end": 149
+          },
+          {
+            "begin": 154,
+            "charBegin": 790,
+            "charEnd": 801,
+            "end": 155
+          }
+        ],
+        "text": "und er irgendeinen unglücklichen Vorfall , befürchtete",
+        "tokenIds": [
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          154
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 144,
+            "charBegin": 726,
+            "charEnd": 728,
+            "end": 145
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          144
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 140,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 149,
+            "charBegin": 764,
+            "charEnd": 788,
+            "end": 153
+          }
+        ],
+        "text": "der sich ereignen könnte",
+        "tokenIds": [
+          149,
+          150,
+          151,
+          152
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 141,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 156,
+            "charBegin": 803,
+            "charEnd": 844,
+            "end": 164
+          }
+        ],
+        "text": "aber jetzt war er ganz mit sich zerfallen",
+        "tokenIds": [
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 159,
+            "charBegin": 818,
+            "charEnd": 820,
+            "end": 160
+          },
+          {
+            "begin": 162,
+            "charBegin": 830,
+            "charEnd": 834,
+            "end": 163
+          }
+        ],
+        "text": [
+          "er",
+          "sich"
+        ],
+        "tokenIds": [
+          159,
+          162
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 142,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 165,
+            "charBegin": 846,
+            "charEnd": 908,
+            "end": 174
+          }
+        ],
+        "text": "Die Ermordung seines Freundes stand ihm unaufhörlich vor Augen",
+        "tokenIds": [
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 167,
+            "charBegin": 860,
+            "charEnd": 866,
+            "end": 168
+          },
+          {
+            "begin": 170,
+            "charBegin": 882,
+            "charEnd": 885,
+            "end": 171
+          }
+        ],
+        "text": [
+          "seines",
+          "ihm"
+        ],
+        "tokenIds": [
+          167,
+          170
+        ]
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 168,
+            "charBegin": 867,
+            "charEnd": 875,
+            "end": 169
+          }
+        ],
+        "text": [
+          "Freundes"
+        ],
+        "tokenIds": [
+          168
+        ]
+      },
+      "hasNested": false,
+      "id": 143,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 175,
+            "charBegin": 910,
+            "charEnd": 948,
+            "end": 181
+          }
+        ],
+        "text": "er lebte unter ewigen innern Vorwürfen",
+        "tokenIds": [
+          175,
+          176,
+          177,
+          178,
+          179,
+          180
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 175,
+            "charBegin": 910,
+            "charEnd": 912,
+            "end": 176
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          175
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 144,
+      "isNested": false
+    }
+  ],
+  "documentName": "Der blonde Eckbert__240_250",
+  "originalText": "Plötzlich sah er sich etwas in der Ferne bewegen, es war Walther, der Moos von den Bäumen sammelte; ohne zu wissen was er tat, legte er an, Walther sah sich um, und drohte mit einer stummen Gebärde, aber indem flog der Bolzen ab, und Walther stürzte nieder.\nEckbert fühlte sich leicht und beruhigt, und doch trieb ihn ein Schauder nach seiner Burg zurück; er hatte einen großen Weg zu machen, denn er war weit hinein in die Wälder verirrt. Als er ankam, war Bertha schon gestorben; sie hatte vor ihrem Tode noch viel von Walther und der Alten gesprochen.\nEckbert lebte nun eine lange Zeit in der größten Einsamkeit; er war schon sonst immer schwermütig gewesen, weil ihn die seltsame Geschichte seiner Gattin beunruhigte, und er irgendeinen unglücklichen Vorfall, der sich ereignen könnte, befürchtete; aber jetzt war er ganz mit sich zerfallen. Die Ermordung seines Freundes stand ihm unaufhörlich vor Augen, er lebte unter ewigen innern Vorwürfen.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 99,
+      "end": 21,
+      "id": 0,
+      "text": "Plötzlich sah er sich etwas in der Ferne bewegen, es war Walther, der Moos von den Bäumen sammelte;",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokens": [
+        "Plötzlich",
+        "sah",
+        "er",
+        "sich",
+        "etwas",
+        "in",
+        "der",
+        "Ferne",
+        "bewegen",
+        ",",
+        "es",
+        "war",
+        "Walther",
+        ",",
+        "der",
+        "Moos",
+        "von",
+        "den",
+        "Bäumen",
+        "sammelte",
+        ";"
+      ]
+    },
+    {
+      "begin": 21,
+      "charBegin": 100,
+      "charEnd": 257,
+      "end": 56,
+      "id": 1,
+      "text": "ohne zu wissen was er tat, legte er an, Walther sah sich um, und drohte mit einer stummen Gebärde, aber indem flog der Bolzen ab, und Walther stürzte nieder.",
+      "tokenIds": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "tokens": [
+        "ohne",
+        "zu",
+        "wissen",
+        "was",
+        "er",
+        "tat",
+        ",",
+        "legte",
+        "er",
+        "an",
+        ",",
+        "Walther",
+        "sah",
+        "sich",
+        "um",
+        ",",
+        "und",
+        "drohte",
+        "mit",
+        "einer",
+        "stummen",
+        "Gebärde",
+        ",",
+        "aber",
+        "indem",
+        "flog",
+        "der",
+        "Bolzen",
+        "ab",
+        ",",
+        "und",
+        "Walther",
+        "stürzte",
+        "nieder",
+        "."
+      ]
+    },
+    {
+      "begin": 56,
+      "charBegin": 257,
+      "charEnd": 355,
+      "end": 74,
+      "id": 2,
+      "text": "\nEckbert fühlte sich leicht und beruhigt, und doch trieb ihn ein Schauder nach seiner Burg zurück;",
+      "tokenIds": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "tokens": [
+        "Eckbert",
+        "fühlte",
+        "sich",
+        "leicht",
+        "und",
+        "beruhigt",
+        ",",
+        "und",
+        "doch",
+        "trieb",
+        "ihn",
+        "ein",
+        "Schauder",
+        "nach",
+        "seiner",
+        "Burg",
+        "zurück",
+        ";"
+      ]
+    },
+    {
+      "begin": 74,
+      "charBegin": 356,
+      "charEnd": 439,
+      "end": 92,
+      "id": 3,
+      "text": "er hatte einen großen Weg zu machen, denn er war weit hinein in die Wälder verirrt.",
+      "tokenIds": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "tokens": [
+        "er",
+        "hatte",
+        "einen",
+        "großen",
+        "Weg",
+        "zu",
+        "machen",
+        ",",
+        "denn",
+        "er",
+        "war",
+        "weit",
+        "hinein",
+        "in",
+        "die",
+        "Wälder",
+        "verirrt",
+        "."
+      ]
+    },
+    {
+      "begin": 92,
+      "charBegin": 440,
+      "charEnd": 481,
+      "end": 101,
+      "id": 4,
+      "text": "Als er ankam, war Bertha schon gestorben;",
+      "tokenIds": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "tokens": [
+        "Als",
+        "er",
+        "ankam",
+        ",",
+        "war",
+        "Bertha",
+        "schon",
+        "gestorben",
+        ";"
+      ]
+    },
+    {
+      "begin": 101,
+      "charBegin": 482,
+      "charEnd": 554,
+      "end": 115,
+      "id": 5,
+      "text": "sie hatte vor ihrem Tode noch viel von Walther und der Alten gesprochen.",
+      "tokenIds": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114
+      ],
+      "tokens": [
+        "sie",
+        "hatte",
+        "vor",
+        "ihrem",
+        "Tode",
+        "noch",
+        "viel",
+        "von",
+        "Walther",
+        "und",
+        "der",
+        "Alten",
+        "gesprochen",
+        "."
+      ]
+    },
+    {
+      "begin": 115,
+      "charBegin": 555,
+      "charEnd": 615,
+      "end": 126,
+      "id": 6,
+      "text": "Eckbert lebte nun eine lange Zeit in der größten Einsamkeit;",
+      "tokenIds": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125
+      ],
+      "tokens": [
+        "Eckbert",
+        "lebte",
+        "nun",
+        "eine",
+        "lange",
+        "Zeit",
+        "in",
+        "der",
+        "größten",
+        "Einsamkeit",
+        ";"
+      ]
+    },
+    {
+      "begin": 126,
+      "charBegin": 616,
+      "charEnd": 802,
+      "end": 156,
+      "id": 7,
+      "text": "er war schon sonst immer schwermütig gewesen, weil ihn die seltsame Geschichte seiner Gattin beunruhigte, und er irgendeinen unglücklichen Vorfall, der sich ereignen könnte, befürchtete;",
+      "tokenIds": [
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "tokens": [
+        "er",
+        "war",
+        "schon",
+        "sonst",
+        "immer",
+        "schwermütig",
+        "gewesen",
+        ",",
+        "weil",
+        "ihn",
+        "die",
+        "seltsame",
+        "Geschichte",
+        "seiner",
+        "Gattin",
+        "beunruhigte",
+        ",",
+        "und",
+        "er",
+        "irgendeinen",
+        "unglücklichen",
+        "Vorfall",
+        ",",
+        "der",
+        "sich",
+        "ereignen",
+        "könnte",
+        ",",
+        "befürchtete",
+        ";"
+      ]
+    },
+    {
+      "begin": 156,
+      "charBegin": 803,
+      "charEnd": 845,
+      "end": 165,
+      "id": 8,
+      "text": "aber jetzt war er ganz mit sich zerfallen.",
+      "tokenIds": [
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164
+      ],
+      "tokens": [
+        "aber",
+        "jetzt",
+        "war",
+        "er",
+        "ganz",
+        "mit",
+        "sich",
+        "zerfallen",
+        "."
+      ]
+    },
+    {
+      "begin": 165,
+      "charBegin": 846,
+      "charEnd": 949,
+      "end": 182,
+      "id": 9,
+      "text": "Die Ermordung seines Freundes stand ihm unaufhörlich vor Augen, er lebte unter ewigen innern Vorwürfen.",
+      "tokenIds": [
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181
+      ],
+      "tokens": [
+        "Die",
+        "Ermordung",
+        "seines",
+        "Freundes",
+        "stand",
+        "ihm",
+        "unaufhörlich",
+        "vor",
+        "Augen",
+        ",",
+        "er",
+        "lebte",
+        "unter",
+        "ewigen",
+        "innern",
+        "Vorwürfen",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 9,
+      "id": 0,
+      "sentence": 1,
+      "text": "Plötzlich",
+      "word": 1
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 13,
+      "id": 1,
+      "sentence": 1,
+      "text": "sah",
+      "word": 2
+    },
+    {
+      "charBegin": 14,
+      "charEnd": 16,
+      "id": 2,
+      "sentence": 1,
+      "text": "er",
+      "word": 3
+    },
+    {
+      "charBegin": 17,
+      "charEnd": 21,
+      "id": 3,
+      "sentence": 1,
+      "text": "sich",
+      "word": 4
+    },
+    {
+      "charBegin": 22,
+      "charEnd": 27,
+      "id": 4,
+      "sentence": 1,
+      "text": "etwas",
+      "word": 5
+    },
+    {
+      "charBegin": 28,
+      "charEnd": 30,
+      "id": 5,
+      "sentence": 1,
+      "text": "in",
+      "word": 6
+    },
+    {
+      "charBegin": 31,
+      "charEnd": 34,
+      "id": 6,
+      "sentence": 1,
+      "text": "der",
+      "word": 7
+    },
+    {
+      "charBegin": 35,
+      "charEnd": 40,
+      "id": 7,
+      "sentence": 1,
+      "text": "Ferne",
+      "word": 8
+    },
+    {
+      "charBegin": 41,
+      "charEnd": 48,
+      "id": 8,
+      "sentence": 1,
+      "text": "bewegen",
+      "word": 9
+    },
+    {
+      "charBegin": 48,
+      "charEnd": 49,
+      "id": 9,
+      "sentence": 1,
+      "text": ",",
+      "word": 10
+    },
+    {
+      "charBegin": 50,
+      "charEnd": 52,
+      "id": 10,
+      "sentence": 1,
+      "text": "es",
+      "word": 11
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 56,
+      "id": 11,
+      "sentence": 1,
+      "text": "war",
+      "word": 12
+    },
+    {
+      "charBegin": 57,
+      "charEnd": 64,
+      "id": 12,
+      "sentence": 1,
+      "text": "Walther",
+      "word": 13
+    },
+    {
+      "charBegin": 64,
+      "charEnd": 65,
+      "id": 13,
+      "sentence": 1,
+      "text": ",",
+      "word": 14
+    },
+    {
+      "charBegin": 66,
+      "charEnd": 69,
+      "id": 14,
+      "sentence": 1,
+      "text": "der",
+      "word": 15
+    },
+    {
+      "charBegin": 70,
+      "charEnd": 74,
+      "id": 15,
+      "sentence": 1,
+      "text": "Moos",
+      "word": 16
+    },
+    {
+      "charBegin": 75,
+      "charEnd": 78,
+      "id": 16,
+      "sentence": 1,
+      "text": "von",
+      "word": 17
+    },
+    {
+      "charBegin": 79,
+      "charEnd": 82,
+      "id": 17,
+      "sentence": 1,
+      "text": "den",
+      "word": 18
+    },
+    {
+      "charBegin": 83,
+      "charEnd": 89,
+      "id": 18,
+      "sentence": 1,
+      "text": "Bäumen",
+      "word": 19
+    },
+    {
+      "charBegin": 90,
+      "charEnd": 98,
+      "id": 19,
+      "sentence": 1,
+      "text": "sammelte",
+      "word": 20
+    },
+    {
+      "charBegin": 98,
+      "charEnd": 99,
+      "id": 20,
+      "sentence": 1,
+      "text": ";",
+      "word": 21
+    },
+    {
+      "charBegin": 100,
+      "charEnd": 104,
+      "id": 21,
+      "sentence": 2,
+      "text": "ohne",
+      "word": 1
+    },
+    {
+      "charBegin": 105,
+      "charEnd": 107,
+      "id": 22,
+      "sentence": 2,
+      "text": "zu",
+      "word": 2
+    },
+    {
+      "charBegin": 108,
+      "charEnd": 114,
+      "id": 23,
+      "sentence": 2,
+      "text": "wissen",
+      "word": 3
+    },
+    {
+      "charBegin": 115,
+      "charEnd": 118,
+      "id": 24,
+      "sentence": 2,
+      "text": "was",
+      "word": 4
+    },
+    {
+      "charBegin": 119,
+      "charEnd": 121,
+      "id": 25,
+      "sentence": 2,
+      "text": "er",
+      "word": 5
+    },
+    {
+      "charBegin": 122,
+      "charEnd": 125,
+      "id": 26,
+      "sentence": 2,
+      "text": "tat",
+      "word": 6
+    },
+    {
+      "charBegin": 125,
+      "charEnd": 126,
+      "id": 27,
+      "sentence": 2,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 127,
+      "charEnd": 132,
+      "id": 28,
+      "sentence": 2,
+      "text": "legte",
+      "word": 8
+    },
+    {
+      "charBegin": 133,
+      "charEnd": 135,
+      "id": 29,
+      "sentence": 2,
+      "text": "er",
+      "word": 9
+    },
+    {
+      "charBegin": 136,
+      "charEnd": 138,
+      "id": 30,
+      "sentence": 2,
+      "text": "an",
+      "word": 10
+    },
+    {
+      "charBegin": 138,
+      "charEnd": 139,
+      "id": 31,
+      "sentence": 2,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 140,
+      "charEnd": 147,
+      "id": 32,
+      "sentence": 2,
+      "text": "Walther",
+      "word": 12
+    },
+    {
+      "charBegin": 148,
+      "charEnd": 151,
+      "id": 33,
+      "sentence": 2,
+      "text": "sah",
+      "word": 13
+    },
+    {
+      "charBegin": 152,
+      "charEnd": 156,
+      "id": 34,
+      "sentence": 2,
+      "text": "sich",
+      "word": 14
+    },
+    {
+      "charBegin": 157,
+      "charEnd": 159,
+      "id": 35,
+      "sentence": 2,
+      "text": "um",
+      "word": 15
+    },
+    {
+      "charBegin": 159,
+      "charEnd": 160,
+      "id": 36,
+      "sentence": 2,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 161,
+      "charEnd": 164,
+      "id": 37,
+      "sentence": 2,
+      "text": "und",
+      "word": 17
+    },
+    {
+      "charBegin": 165,
+      "charEnd": 171,
+      "id": 38,
+      "sentence": 2,
+      "text": "drohte",
+      "word": 18
+    },
+    {
+      "charBegin": 172,
+      "charEnd": 175,
+      "id": 39,
+      "sentence": 2,
+      "text": "mit",
+      "word": 19
+    },
+    {
+      "charBegin": 176,
+      "charEnd": 181,
+      "id": 40,
+      "sentence": 2,
+      "text": "einer",
+      "word": 20
+    },
+    {
+      "charBegin": 182,
+      "charEnd": 189,
+      "id": 41,
+      "sentence": 2,
+      "text": "stummen",
+      "word": 21
+    },
+    {
+      "charBegin": 190,
+      "charEnd": 197,
+      "id": 42,
+      "sentence": 2,
+      "text": "Gebärde",
+      "word": 22
+    },
+    {
+      "charBegin": 197,
+      "charEnd": 198,
+      "id": 43,
+      "sentence": 2,
+      "text": ",",
+      "word": 23
+    },
+    {
+      "charBegin": 199,
+      "charEnd": 203,
+      "id": 44,
+      "sentence": 2,
+      "text": "aber",
+      "word": 24
+    },
+    {
+      "charBegin": 204,
+      "charEnd": 209,
+      "id": 45,
+      "sentence": 2,
+      "text": "indem",
+      "word": 25
+    },
+    {
+      "charBegin": 210,
+      "charEnd": 214,
+      "id": 46,
+      "sentence": 2,
+      "text": "flog",
+      "word": 26
+    },
+    {
+      "charBegin": 215,
+      "charEnd": 218,
+      "id": 47,
+      "sentence": 2,
+      "text": "der",
+      "word": 27
+    },
+    {
+      "charBegin": 219,
+      "charEnd": 225,
+      "id": 48,
+      "sentence": 2,
+      "text": "Bolzen",
+      "word": 28
+    },
+    {
+      "charBegin": 226,
+      "charEnd": 228,
+      "id": 49,
+      "sentence": 2,
+      "text": "ab",
+      "word": 29
+    },
+    {
+      "charBegin": 228,
+      "charEnd": 229,
+      "id": 50,
+      "sentence": 2,
+      "text": ",",
+      "word": 30
+    },
+    {
+      "charBegin": 230,
+      "charEnd": 233,
+      "id": 51,
+      "sentence": 2,
+      "text": "und",
+      "word": 31
+    },
+    {
+      "charBegin": 234,
+      "charEnd": 241,
+      "id": 52,
+      "sentence": 2,
+      "text": "Walther",
+      "word": 32
+    },
+    {
+      "charBegin": 242,
+      "charEnd": 249,
+      "id": 53,
+      "sentence": 2,
+      "text": "stürzte",
+      "word": 33
+    },
+    {
+      "charBegin": 250,
+      "charEnd": 256,
+      "id": 54,
+      "sentence": 2,
+      "text": "nieder",
+      "word": 34
+    },
+    {
+      "charBegin": 256,
+      "charEnd": 257,
+      "id": 55,
+      "sentence": 2,
+      "text": ".",
+      "word": 35
+    },
+    {
+      "charBegin": 258,
+      "charEnd": 265,
+      "id": 56,
+      "sentence": 3,
+      "text": "Eckbert",
+      "word": 1
+    },
+    {
+      "charBegin": 266,
+      "charEnd": 272,
+      "id": 57,
+      "sentence": 3,
+      "text": "fühlte",
+      "word": 2
+    },
+    {
+      "charBegin": 273,
+      "charEnd": 277,
+      "id": 58,
+      "sentence": 3,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 278,
+      "charEnd": 284,
+      "id": 59,
+      "sentence": 3,
+      "text": "leicht",
+      "word": 4
+    },
+    {
+      "charBegin": 285,
+      "charEnd": 288,
+      "id": 60,
+      "sentence": 3,
+      "text": "und",
+      "word": 5
+    },
+    {
+      "charBegin": 289,
+      "charEnd": 297,
+      "id": 61,
+      "sentence": 3,
+      "text": "beruhigt",
+      "word": 6
+    },
+    {
+      "charBegin": 297,
+      "charEnd": 298,
+      "id": 62,
+      "sentence": 3,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 299,
+      "charEnd": 302,
+      "id": 63,
+      "sentence": 3,
+      "text": "und",
+      "word": 8
+    },
+    {
+      "charBegin": 303,
+      "charEnd": 307,
+      "id": 64,
+      "sentence": 3,
+      "text": "doch",
+      "word": 9
+    },
+    {
+      "charBegin": 308,
+      "charEnd": 313,
+      "id": 65,
+      "sentence": 3,
+      "text": "trieb",
+      "word": 10
+    },
+    {
+      "charBegin": 314,
+      "charEnd": 317,
+      "id": 66,
+      "sentence": 3,
+      "text": "ihn",
+      "word": 11
+    },
+    {
+      "charBegin": 318,
+      "charEnd": 321,
+      "id": 67,
+      "sentence": 3,
+      "text": "ein",
+      "word": 12
+    },
+    {
+      "charBegin": 322,
+      "charEnd": 330,
+      "id": 68,
+      "sentence": 3,
+      "text": "Schauder",
+      "word": 13
+    },
+    {
+      "charBegin": 331,
+      "charEnd": 335,
+      "id": 69,
+      "sentence": 3,
+      "text": "nach",
+      "word": 14
+    },
+    {
+      "charBegin": 336,
+      "charEnd": 342,
+      "id": 70,
+      "sentence": 3,
+      "text": "seiner",
+      "word": 15
+    },
+    {
+      "charBegin": 343,
+      "charEnd": 347,
+      "id": 71,
+      "sentence": 3,
+      "text": "Burg",
+      "word": 16
+    },
+    {
+      "charBegin": 348,
+      "charEnd": 354,
+      "id": 72,
+      "sentence": 3,
+      "text": "zurück",
+      "word": 17
+    },
+    {
+      "charBegin": 354,
+      "charEnd": 355,
+      "id": 73,
+      "sentence": 3,
+      "text": ";",
+      "word": 18
+    },
+    {
+      "charBegin": 356,
+      "charEnd": 358,
+      "id": 74,
+      "sentence": 4,
+      "text": "er",
+      "word": 1
+    },
+    {
+      "charBegin": 359,
+      "charEnd": 364,
+      "id": 75,
+      "sentence": 4,
+      "text": "hatte",
+      "word": 2
+    },
+    {
+      "charBegin": 365,
+      "charEnd": 370,
+      "id": 76,
+      "sentence": 4,
+      "text": "einen",
+      "word": 3
+    },
+    {
+      "charBegin": 371,
+      "charEnd": 377,
+      "id": 77,
+      "sentence": 4,
+      "text": "großen",
+      "word": 4
+    },
+    {
+      "charBegin": 378,
+      "charEnd": 381,
+      "id": 78,
+      "sentence": 4,
+      "text": "Weg",
+      "word": 5
+    },
+    {
+      "charBegin": 382,
+      "charEnd": 384,
+      "id": 79,
+      "sentence": 4,
+      "text": "zu",
+      "word": 6
+    },
+    {
+      "charBegin": 385,
+      "charEnd": 391,
+      "id": 80,
+      "sentence": 4,
+      "text": "machen",
+      "word": 7
+    },
+    {
+      "charBegin": 391,
+      "charEnd": 392,
+      "id": 81,
+      "sentence": 4,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 393,
+      "charEnd": 397,
+      "id": 82,
+      "sentence": 4,
+      "text": "denn",
+      "word": 9
+    },
+    {
+      "charBegin": 398,
+      "charEnd": 400,
+      "id": 83,
+      "sentence": 4,
+      "text": "er",
+      "word": 10
+    },
+    {
+      "charBegin": 401,
+      "charEnd": 404,
+      "id": 84,
+      "sentence": 4,
+      "text": "war",
+      "word": 11
+    },
+    {
+      "charBegin": 405,
+      "charEnd": 409,
+      "id": 85,
+      "sentence": 4,
+      "text": "weit",
+      "word": 12
+    },
+    {
+      "charBegin": 410,
+      "charEnd": 416,
+      "id": 86,
+      "sentence": 4,
+      "text": "hinein",
+      "word": 13
+    },
+    {
+      "charBegin": 417,
+      "charEnd": 419,
+      "id": 87,
+      "sentence": 4,
+      "text": "in",
+      "word": 14
+    },
+    {
+      "charBegin": 420,
+      "charEnd": 423,
+      "id": 88,
+      "sentence": 4,
+      "text": "die",
+      "word": 15
+    },
+    {
+      "charBegin": 424,
+      "charEnd": 430,
+      "id": 89,
+      "sentence": 4,
+      "text": "Wälder",
+      "word": 16
+    },
+    {
+      "charBegin": 431,
+      "charEnd": 438,
+      "id": 90,
+      "sentence": 4,
+      "text": "verirrt",
+      "word": 17
+    },
+    {
+      "charBegin": 438,
+      "charEnd": 439,
+      "id": 91,
+      "sentence": 4,
+      "text": ".",
+      "word": 18
+    },
+    {
+      "charBegin": 440,
+      "charEnd": 443,
+      "id": 92,
+      "sentence": 5,
+      "text": "Als",
+      "word": 1
+    },
+    {
+      "charBegin": 444,
+      "charEnd": 446,
+      "id": 93,
+      "sentence": 5,
+      "text": "er",
+      "word": 2
+    },
+    {
+      "charBegin": 447,
+      "charEnd": 452,
+      "id": 94,
+      "sentence": 5,
+      "text": "ankam",
+      "word": 3
+    },
+    {
+      "charBegin": 452,
+      "charEnd": 453,
+      "id": 95,
+      "sentence": 5,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 454,
+      "charEnd": 457,
+      "id": 96,
+      "sentence": 5,
+      "text": "war",
+      "word": 5
+    },
+    {
+      "charBegin": 458,
+      "charEnd": 464,
+      "id": 97,
+      "sentence": 5,
+      "text": "Bertha",
+      "word": 6
+    },
+    {
+      "charBegin": 465,
+      "charEnd": 470,
+      "id": 98,
+      "sentence": 5,
+      "text": "schon",
+      "word": 7
+    },
+    {
+      "charBegin": 471,
+      "charEnd": 480,
+      "id": 99,
+      "sentence": 5,
+      "text": "gestorben",
+      "word": 8
+    },
+    {
+      "charBegin": 480,
+      "charEnd": 481,
+      "id": 100,
+      "sentence": 5,
+      "text": ";",
+      "word": 9
+    },
+    {
+      "charBegin": 482,
+      "charEnd": 485,
+      "id": 101,
+      "sentence": 6,
+      "text": "sie",
+      "word": 1
+    },
+    {
+      "charBegin": 486,
+      "charEnd": 491,
+      "id": 102,
+      "sentence": 6,
+      "text": "hatte",
+      "word": 2
+    },
+    {
+      "charBegin": 492,
+      "charEnd": 495,
+      "id": 103,
+      "sentence": 6,
+      "text": "vor",
+      "word": 3
+    },
+    {
+      "charBegin": 496,
+      "charEnd": 501,
+      "id": 104,
+      "sentence": 6,
+      "text": "ihrem",
+      "word": 4
+    },
+    {
+      "charBegin": 502,
+      "charEnd": 506,
+      "id": 105,
+      "sentence": 6,
+      "text": "Tode",
+      "word": 5
+    },
+    {
+      "charBegin": 507,
+      "charEnd": 511,
+      "id": 106,
+      "sentence": 6,
+      "text": "noch",
+      "word": 6
+    },
+    {
+      "charBegin": 512,
+      "charEnd": 516,
+      "id": 107,
+      "sentence": 6,
+      "text": "viel",
+      "word": 7
+    },
+    {
+      "charBegin": 517,
+      "charEnd": 520,
+      "id": 108,
+      "sentence": 6,
+      "text": "von",
+      "word": 8
+    },
+    {
+      "charBegin": 521,
+      "charEnd": 528,
+      "id": 109,
+      "sentence": 6,
+      "text": "Walther",
+      "word": 9
+    },
+    {
+      "charBegin": 529,
+      "charEnd": 532,
+      "id": 110,
+      "sentence": 6,
+      "text": "und",
+      "word": 10
+    },
+    {
+      "charBegin": 533,
+      "charEnd": 536,
+      "id": 111,
+      "sentence": 6,
+      "text": "der",
+      "word": 11
+    },
+    {
+      "charBegin": 537,
+      "charEnd": 542,
+      "id": 112,
+      "sentence": 6,
+      "text": "Alten",
+      "word": 12
+    },
+    {
+      "charBegin": 543,
+      "charEnd": 553,
+      "id": 113,
+      "sentence": 6,
+      "text": "gesprochen",
+      "word": 13
+    },
+    {
+      "charBegin": 553,
+      "charEnd": 554,
+      "id": 114,
+      "sentence": 6,
+      "text": ".",
+      "word": 14
+    },
+    {
+      "charBegin": 555,
+      "charEnd": 562,
+      "id": 115,
+      "sentence": 7,
+      "text": "Eckbert",
+      "word": 1
+    },
+    {
+      "charBegin": 563,
+      "charEnd": 568,
+      "id": 116,
+      "sentence": 7,
+      "text": "lebte",
+      "word": 2
+    },
+    {
+      "charBegin": 569,
+      "charEnd": 572,
+      "id": 117,
+      "sentence": 7,
+      "text": "nun",
+      "word": 3
+    },
+    {
+      "charBegin": 573,
+      "charEnd": 577,
+      "id": 118,
+      "sentence": 7,
+      "text": "eine",
+      "word": 4
+    },
+    {
+      "charBegin": 578,
+      "charEnd": 583,
+      "id": 119,
+      "sentence": 7,
+      "text": "lange",
+      "word": 5
+    },
+    {
+      "charBegin": 584,
+      "charEnd": 588,
+      "id": 120,
+      "sentence": 7,
+      "text": "Zeit",
+      "word": 6
+    },
+    {
+      "charBegin": 589,
+      "charEnd": 591,
+      "id": 121,
+      "sentence": 7,
+      "text": "in",
+      "word": 7
+    },
+    {
+      "charBegin": 592,
+      "charEnd": 595,
+      "id": 122,
+      "sentence": 7,
+      "text": "der",
+      "word": 8
+    },
+    {
+      "charBegin": 596,
+      "charEnd": 603,
+      "id": 123,
+      "sentence": 7,
+      "text": "größten",
+      "word": 9
+    },
+    {
+      "charBegin": 604,
+      "charEnd": 614,
+      "id": 124,
+      "sentence": 7,
+      "text": "Einsamkeit",
+      "word": 10
+    },
+    {
+      "charBegin": 614,
+      "charEnd": 615,
+      "id": 125,
+      "sentence": 7,
+      "text": ";",
+      "word": 11
+    },
+    {
+      "charBegin": 616,
+      "charEnd": 618,
+      "id": 126,
+      "sentence": 8,
+      "text": "er",
+      "word": 1
+    },
+    {
+      "charBegin": 619,
+      "charEnd": 622,
+      "id": 127,
+      "sentence": 8,
+      "text": "war",
+      "word": 2
+    },
+    {
+      "charBegin": 623,
+      "charEnd": 628,
+      "id": 128,
+      "sentence": 8,
+      "text": "schon",
+      "word": 3
+    },
+    {
+      "charBegin": 629,
+      "charEnd": 634,
+      "id": 129,
+      "sentence": 8,
+      "text": "sonst",
+      "word": 4
+    },
+    {
+      "charBegin": 635,
+      "charEnd": 640,
+      "id": 130,
+      "sentence": 8,
+      "text": "immer",
+      "word": 5
+    },
+    {
+      "charBegin": 641,
+      "charEnd": 652,
+      "id": 131,
+      "sentence": 8,
+      "text": "schwermütig",
+      "word": 6
+    },
+    {
+      "charBegin": 653,
+      "charEnd": 660,
+      "id": 132,
+      "sentence": 8,
+      "text": "gewesen",
+      "word": 7
+    },
+    {
+      "charBegin": 660,
+      "charEnd": 661,
+      "id": 133,
+      "sentence": 8,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 662,
+      "charEnd": 666,
+      "id": 134,
+      "sentence": 8,
+      "text": "weil",
+      "word": 9
+    },
+    {
+      "charBegin": 667,
+      "charEnd": 670,
+      "id": 135,
+      "sentence": 8,
+      "text": "ihn",
+      "word": 10
+    },
+    {
+      "charBegin": 671,
+      "charEnd": 674,
+      "id": 136,
+      "sentence": 8,
+      "text": "die",
+      "word": 11
+    },
+    {
+      "charBegin": 675,
+      "charEnd": 683,
+      "id": 137,
+      "sentence": 8,
+      "text": "seltsame",
+      "word": 12
+    },
+    {
+      "charBegin": 684,
+      "charEnd": 694,
+      "id": 138,
+      "sentence": 8,
+      "text": "Geschichte",
+      "word": 13
+    },
+    {
+      "charBegin": 695,
+      "charEnd": 701,
+      "id": 139,
+      "sentence": 8,
+      "text": "seiner",
+      "word": 14
+    },
+    {
+      "charBegin": 702,
+      "charEnd": 708,
+      "id": 140,
+      "sentence": 8,
+      "text": "Gattin",
+      "word": 15
+    },
+    {
+      "charBegin": 709,
+      "charEnd": 720,
+      "id": 141,
+      "sentence": 8,
+      "text": "beunruhigte",
+      "word": 16
+    },
+    {
+      "charBegin": 720,
+      "charEnd": 721,
+      "id": 142,
+      "sentence": 8,
+      "text": ",",
+      "word": 17
+    },
+    {
+      "charBegin": 722,
+      "charEnd": 725,
+      "id": 143,
+      "sentence": 8,
+      "text": "und",
+      "word": 18
+    },
+    {
+      "charBegin": 726,
+      "charEnd": 728,
+      "id": 144,
+      "sentence": 8,
+      "text": "er",
+      "word": 19
+    },
+    {
+      "charBegin": 729,
+      "charEnd": 740,
+      "id": 145,
+      "sentence": 8,
+      "text": "irgendeinen",
+      "word": 20
+    },
+    {
+      "charBegin": 741,
+      "charEnd": 754,
+      "id": 146,
+      "sentence": 8,
+      "text": "unglücklichen",
+      "word": 21
+    },
+    {
+      "charBegin": 755,
+      "charEnd": 762,
+      "id": 147,
+      "sentence": 8,
+      "text": "Vorfall",
+      "word": 22
+    },
+    {
+      "charBegin": 762,
+      "charEnd": 763,
+      "id": 148,
+      "sentence": 8,
+      "text": ",",
+      "word": 23
+    },
+    {
+      "charBegin": 764,
+      "charEnd": 767,
+      "id": 149,
+      "sentence": 8,
+      "text": "der",
+      "word": 24
+    },
+    {
+      "charBegin": 768,
+      "charEnd": 772,
+      "id": 150,
+      "sentence": 8,
+      "text": "sich",
+      "word": 25
+    },
+    {
+      "charBegin": 773,
+      "charEnd": 781,
+      "id": 151,
+      "sentence": 8,
+      "text": "ereignen",
+      "word": 26
+    },
+    {
+      "charBegin": 782,
+      "charEnd": 788,
+      "id": 152,
+      "sentence": 8,
+      "text": "könnte",
+      "word": 27
+    },
+    {
+      "charBegin": 788,
+      "charEnd": 789,
+      "id": 153,
+      "sentence": 8,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 790,
+      "charEnd": 801,
+      "id": 154,
+      "sentence": 8,
+      "text": "befürchtete",
+      "word": 29
+    },
+    {
+      "charBegin": 801,
+      "charEnd": 802,
+      "id": 155,
+      "sentence": 8,
+      "text": ";",
+      "word": 30
+    },
+    {
+      "charBegin": 803,
+      "charEnd": 807,
+      "id": 156,
+      "sentence": 9,
+      "text": "aber",
+      "word": 1
+    },
+    {
+      "charBegin": 808,
+      "charEnd": 813,
+      "id": 157,
+      "sentence": 9,
+      "text": "jetzt",
+      "word": 2
+    },
+    {
+      "charBegin": 814,
+      "charEnd": 817,
+      "id": 158,
+      "sentence": 9,
+      "text": "war",
+      "word": 3
+    },
+    {
+      "charBegin": 818,
+      "charEnd": 820,
+      "id": 159,
+      "sentence": 9,
+      "text": "er",
+      "word": 4
+    },
+    {
+      "charBegin": 821,
+      "charEnd": 825,
+      "id": 160,
+      "sentence": 9,
+      "text": "ganz",
+      "word": 5
+    },
+    {
+      "charBegin": 826,
+      "charEnd": 829,
+      "id": 161,
+      "sentence": 9,
+      "text": "mit",
+      "word": 6
+    },
+    {
+      "charBegin": 830,
+      "charEnd": 834,
+      "id": 162,
+      "sentence": 9,
+      "text": "sich",
+      "word": 7
+    },
+    {
+      "charBegin": 835,
+      "charEnd": 844,
+      "id": 163,
+      "sentence": 9,
+      "text": "zerfallen",
+      "word": 8
+    },
+    {
+      "charBegin": 844,
+      "charEnd": 845,
+      "id": 164,
+      "sentence": 9,
+      "text": ".",
+      "word": 9
+    },
+    {
+      "charBegin": 846,
+      "charEnd": 849,
+      "id": 165,
+      "sentence": 10,
+      "text": "Die",
+      "word": 1
+    },
+    {
+      "charBegin": 850,
+      "charEnd": 859,
+      "id": 166,
+      "sentence": 10,
+      "text": "Ermordung",
+      "word": 2
+    },
+    {
+      "charBegin": 860,
+      "charEnd": 866,
+      "id": 167,
+      "sentence": 10,
+      "text": "seines",
+      "word": 3
+    },
+    {
+      "charBegin": 867,
+      "charEnd": 875,
+      "id": 168,
+      "sentence": 10,
+      "text": "Freundes",
+      "word": 4
+    },
+    {
+      "charBegin": 876,
+      "charEnd": 881,
+      "id": 169,
+      "sentence": 10,
+      "text": "stand",
+      "word": 5
+    },
+    {
+      "charBegin": 882,
+      "charEnd": 885,
+      "id": 170,
+      "sentence": 10,
+      "text": "ihm",
+      "word": 6
+    },
+    {
+      "charBegin": 886,
+      "charEnd": 898,
+      "id": 171,
+      "sentence": 10,
+      "text": "unaufhörlich",
+      "word": 7
+    },
+    {
+      "charBegin": 899,
+      "charEnd": 902,
+      "id": 172,
+      "sentence": 10,
+      "text": "vor",
+      "word": 8
+    },
+    {
+      "charBegin": 903,
+      "charEnd": 908,
+      "id": 173,
+      "sentence": 10,
+      "text": "Augen",
+      "word": 9
+    },
+    {
+      "charBegin": 908,
+      "charEnd": 909,
+      "id": 174,
+      "sentence": 10,
+      "text": ",",
+      "word": 10
+    },
+    {
+      "charBegin": 910,
+      "charEnd": 912,
+      "id": 175,
+      "sentence": 10,
+      "text": "er",
+      "word": 11
+    },
+    {
+      "charBegin": 913,
+      "charEnd": 918,
+      "id": 176,
+      "sentence": 10,
+      "text": "lebte",
+      "word": 12
+    },
+    {
+      "charBegin": 919,
+      "charEnd": 924,
+      "id": 177,
+      "sentence": 10,
+      "text": "unter",
+      "word": 13
+    },
+    {
+      "charBegin": 925,
+      "charEnd": 931,
+      "id": 178,
+      "sentence": 10,
+      "text": "ewigen",
+      "word": 14
+    },
+    {
+      "charBegin": 932,
+      "charEnd": 938,
+      "id": 179,
+      "sentence": 10,
+      "text": "innern",
+      "word": 15
+    },
+    {
+      "charBegin": 939,
+      "charEnd": 948,
+      "id": 180,
+      "sentence": 10,
+      "text": "Vorwürfen",
+      "word": 16
+    },
+    {
+      "charBegin": 948,
+      "charEnd": 949,
+      "id": 181,
+      "sentence": 10,
+      "text": ".",
+      "word": 17
+    }
+  ]
+}

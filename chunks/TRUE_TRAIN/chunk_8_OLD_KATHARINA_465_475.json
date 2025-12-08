@@ -1,0 +1,2006 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 6,
+            "charBegin": 16,
+            "charEnd": 41,
+            "end": 9
+          }
+        ],
+        "text": "sagte Brandis zweifelhaft",
+        "tokenIds": [
+          6,
+          7,
+          8
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 7,
+            "charBegin": 22,
+            "charEnd": 29,
+            "end": 8
+          }
+        ],
+        "text": [
+          "Brandis"
+        ],
+        "tokenIds": [
+          7
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 621,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 49,
+            "charBegin": 216,
+            "charEnd": 259,
+            "end": 56
+          }
+        ],
+        "text": "Der Förster schlug den bezeichneten Weg ein",
+        "tokenIds": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 50,
+            "charBegin": 220,
+            "charEnd": 227,
+            "end": 51
+          }
+        ],
+        "text": [
+          "Förster"
+        ],
+        "tokenIds": [
+          50
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 622,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 57,
+            "charBegin": 261,
+            "charEnd": 331,
+            "end": 67
+          }
+        ],
+        "text": "Friedrich hatte die ganze Zeit hindurch seine Stellung nicht verlassen",
+        "tokenIds": [
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 57,
+            "charBegin": 261,
+            "charEnd": 270,
+            "end": 58
+          },
+          {
+            "begin": 63,
+            "charBegin": 301,
+            "charEnd": 306,
+            "end": 64
+          }
+        ],
+        "text": [
+          "Friedrich",
+          "seine"
+        ],
+        "tokenIds": [
+          57,
+          63
+        ]
+      },
+      "hasNested": false,
+      "id": 623,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 68,
+            "charBegin": 333,
+            "charEnd": 386,
+            "end": 78
+          }
+        ],
+        "text": "halb liegend , den Arm um einen dürren Ast geschlungen",
+        "tokenIds": [
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 63,
+            "charBegin": 301,
+            "charEnd": 306,
+            "end": 64
+          }
+        ],
+        "text": [
+          "seine"
+        ],
+        "tokenIds": [
+          63
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 624,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 79,
+            "charBegin": 388,
+            "charEnd": 427,
+            "end": 85
+          }
+        ],
+        "text": "sah er dem Fortgehenden unverrückt nach",
+        "tokenIds": [
+          79,
+          80,
+          81,
+          82,
+          83,
+          84
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 80,
+            "charBegin": 392,
+            "charEnd": 394,
+            "end": 81
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          80
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 625,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 86,
+            "charBegin": 429,
+            "charEnd": 528,
+            "end": 101
+          }
+        ],
+        "text": "wie er durch den halbverwachsenen Steig glitt , mit den vorsichtigen weiten Schritten seines Metiers",
+        "tokenIds": [
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 87,
+            "charBegin": 433,
+            "charEnd": 435,
+            "end": 88
+          },
+          {
+            "begin": 99,
+            "charBegin": 514,
+            "charEnd": 520,
+            "end": 100
+          }
+        ],
+        "text": [
+          "er",
+          "seines"
+        ],
+        "tokenIds": [
+          87,
+          99
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 626,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 102,
+            "charBegin": 530,
+            "charEnd": 585,
+            "end": 111
+          }
+        ],
+        "text": "so geräuschlos wie ein Fuchs die Hühnerstiege erklimmt .",
+        "tokenIds": [
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 627,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 111,
+            "charBegin": 586,
+            "charEnd": 628,
+            "end": 120
+          }
+        ],
+        "text": "Hier sank ein Zweig hinter ihm , dort einer",
+        "tokenIds": [
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 628,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 121,
+            "charBegin": 630,
+            "charEnd": 677,
+            "end": 128
+          }
+        ],
+        "text": "die Umrisse seiner Gestalt schwanden immer mehr",
+        "tokenIds": [
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 123,
+            "charBegin": 642,
+            "charEnd": 648,
+            "end": 124
+          }
+        ],
+        "text": [
+          "seiner"
+        ],
+        "tokenIds": [
+          123
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 629,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 129,
+            "charBegin": 679,
+            "charEnd": 715,
+            "end": 136
+          }
+        ],
+        "text": "Da blitze es noch einmal durchs Laub",
+        "tokenIds": [
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 630,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__465_475",
+  "originalText": "»An der Buche?« sagte Brandis zweifelhaft, »nein, dort hinüber, nach dem Mastergrunde.« – »Ich sage Euch, an der Buche; des langen Heinrich Flintenriemen blieb noch am krummen Ast dort hängen; ich hab's ja gesehen!«\nDer Förster schlug den bezeichneten Weg ein. Friedrich hatte die ganze Zeit hindurch seine Stellung nicht verlassen, halb liegend, den Arm um einen dürren Ast geschlungen, sah er dem Fortgehenden unverrückt nach, wie er durch den halbverwachsenen Steig glitt, mit den vorsichtigen weiten Schritten seines Metiers, so geräuschlos wie ein Fuchs die Hühnerstiege erklimmt. Hier sank ein Zweig hinter ihm, dort einer; die Umrisse seiner Gestalt schwanden immer mehr. Da blitze es noch einmal durchs Laub.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 86,
+      "end": 20,
+      "id": 0,
+      "text": "»An der Buche?« sagte Brandis zweifelhaft, »nein, dort hinüber, nach dem Mastergrunde.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tokens": [
+        "»",
+        "An",
+        "der",
+        "Buche",
+        "?",
+        "«",
+        "sagte",
+        "Brandis",
+        "zweifelhaft",
+        ",",
+        "»",
+        "nein",
+        ",",
+        "dort",
+        "hinüber",
+        ",",
+        "nach",
+        "dem",
+        "Mastergrunde",
+        "."
+      ]
+    },
+    {
+      "begin": 20,
+      "charBegin": 86,
+      "charEnd": 87,
+      "end": 21,
+      "id": 1,
+      "text": "«",
+      "tokenIds": [
+        20
+      ],
+      "tokens": [
+        "«"
+      ]
+    },
+    {
+      "begin": 21,
+      "charBegin": 88,
+      "charEnd": 119,
+      "end": 31,
+      "id": 2,
+      "text": "– »Ich sage Euch, an der Buche;",
+      "tokenIds": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Ich",
+        "sage",
+        "Euch",
+        ",",
+        "an",
+        "der",
+        "Buche",
+        ";"
+      ]
+    },
+    {
+      "begin": 31,
+      "charBegin": 120,
+      "charEnd": 192,
+      "end": 43,
+      "id": 3,
+      "text": "des langen Heinrich Flintenriemen blieb noch am krummen Ast dort hängen;",
+      "tokenIds": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "tokens": [
+        "des",
+        "langen",
+        "Heinrich",
+        "Flintenriemen",
+        "blieb",
+        "noch",
+        "am",
+        "krummen",
+        "Ast",
+        "dort",
+        "hängen",
+        ";"
+      ]
+    },
+    {
+      "begin": 43,
+      "charBegin": 193,
+      "charEnd": 215,
+      "end": 49,
+      "id": 4,
+      "text": "ich hab's ja gesehen!«",
+      "tokenIds": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "tokens": [
+        "ich",
+        "hab's",
+        "ja",
+        "gesehen",
+        "!",
+        "«"
+      ]
+    },
+    {
+      "begin": 49,
+      "charBegin": 215,
+      "charEnd": 260,
+      "end": 57,
+      "id": 5,
+      "text": "\nDer Förster schlug den bezeichneten Weg ein.",
+      "tokenIds": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "tokens": [
+        "Der",
+        "Förster",
+        "schlug",
+        "den",
+        "bezeichneten",
+        "Weg",
+        "ein",
+        "."
+      ]
+    },
+    {
+      "begin": 57,
+      "charBegin": 261,
+      "charEnd": 585,
+      "end": 111,
+      "id": 6,
+      "text": "Friedrich hatte die ganze Zeit hindurch seine Stellung nicht verlassen, halb liegend, den Arm um einen dürren Ast geschlungen, sah er dem Fortgehenden unverrückt nach, wie er durch den halbverwachsenen Steig glitt, mit den vorsichtigen weiten Schritten seines Metiers, so geräuschlos wie ein Fuchs die Hühnerstiege erklimmt.",
+      "tokenIds": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "tokens": [
+        "Friedrich",
+        "hatte",
+        "die",
+        "ganze",
+        "Zeit",
+        "hindurch",
+        "seine",
+        "Stellung",
+        "nicht",
+        "verlassen",
+        ",",
+        "halb",
+        "liegend",
+        ",",
+        "den",
+        "Arm",
+        "um",
+        "einen",
+        "dürren",
+        "Ast",
+        "geschlungen",
+        ",",
+        "sah",
+        "er",
+        "dem",
+        "Fortgehenden",
+        "unverrückt",
+        "nach",
+        ",",
+        "wie",
+        "er",
+        "durch",
+        "den",
+        "halbverwachsenen",
+        "Steig",
+        "glitt",
+        ",",
+        "mit",
+        "den",
+        "vorsichtigen",
+        "weiten",
+        "Schritten",
+        "seines",
+        "Metiers",
+        ",",
+        "so",
+        "geräuschlos",
+        "wie",
+        "ein",
+        "Fuchs",
+        "die",
+        "Hühnerstiege",
+        "erklimmt",
+        "."
+      ]
+    },
+    {
+      "begin": 111,
+      "charBegin": 586,
+      "charEnd": 629,
+      "end": 121,
+      "id": 7,
+      "text": "Hier sank ein Zweig hinter ihm, dort einer;",
+      "tokenIds": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "tokens": [
+        "Hier",
+        "sank",
+        "ein",
+        "Zweig",
+        "hinter",
+        "ihm",
+        ",",
+        "dort",
+        "einer",
+        ";"
+      ]
+    },
+    {
+      "begin": 121,
+      "charBegin": 630,
+      "charEnd": 678,
+      "end": 129,
+      "id": 8,
+      "text": "die Umrisse seiner Gestalt schwanden immer mehr.",
+      "tokenIds": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128
+      ],
+      "tokens": [
+        "die",
+        "Umrisse",
+        "seiner",
+        "Gestalt",
+        "schwanden",
+        "immer",
+        "mehr",
+        "."
+      ]
+    },
+    {
+      "begin": 129,
+      "charBegin": 679,
+      "charEnd": 716,
+      "end": 137,
+      "id": 9,
+      "text": "Da blitze es noch einmal durchs Laub.",
+      "tokenIds": [
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "tokens": [
+        "Da",
+        "blitze",
+        "es",
+        "noch",
+        "einmal",
+        "durchs",
+        "Laub",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 1,
+      "id": 0,
+      "sentence": 1,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 1,
+      "charEnd": 3,
+      "id": 1,
+      "sentence": 1,
+      "text": "An",
+      "word": 2
+    },
+    {
+      "charBegin": 4,
+      "charEnd": 7,
+      "id": 2,
+      "sentence": 1,
+      "text": "der",
+      "word": 3
+    },
+    {
+      "charBegin": 8,
+      "charEnd": 13,
+      "id": 3,
+      "sentence": 1,
+      "text": "Buche",
+      "word": 4
+    },
+    {
+      "charBegin": 13,
+      "charEnd": 14,
+      "id": 4,
+      "sentence": 1,
+      "text": "?",
+      "word": 5
+    },
+    {
+      "charBegin": 14,
+      "charEnd": 15,
+      "id": 5,
+      "sentence": 1,
+      "text": "«",
+      "word": 6
+    },
+    {
+      "charBegin": 16,
+      "charEnd": 21,
+      "id": 6,
+      "sentence": 1,
+      "text": "sagte",
+      "word": 7
+    },
+    {
+      "charBegin": 22,
+      "charEnd": 29,
+      "id": 7,
+      "sentence": 1,
+      "text": "Brandis",
+      "word": 8
+    },
+    {
+      "charBegin": 30,
+      "charEnd": 41,
+      "id": 8,
+      "sentence": 1,
+      "text": "zweifelhaft",
+      "word": 9
+    },
+    {
+      "charBegin": 41,
+      "charEnd": 42,
+      "id": 9,
+      "sentence": 1,
+      "text": ",",
+      "word": 10
+    },
+    {
+      "charBegin": 43,
+      "charEnd": 44,
+      "id": 10,
+      "sentence": 1,
+      "text": "»",
+      "word": 11
+    },
+    {
+      "charBegin": 44,
+      "charEnd": 48,
+      "id": 11,
+      "sentence": 1,
+      "text": "nein",
+      "word": 12
+    },
+    {
+      "charBegin": 48,
+      "charEnd": 49,
+      "id": 12,
+      "sentence": 1,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 50,
+      "charEnd": 54,
+      "id": 13,
+      "sentence": 1,
+      "text": "dort",
+      "word": 14
+    },
+    {
+      "charBegin": 55,
+      "charEnd": 62,
+      "id": 14,
+      "sentence": 1,
+      "text": "hinüber",
+      "word": 15
+    },
+    {
+      "charBegin": 62,
+      "charEnd": 63,
+      "id": 15,
+      "sentence": 1,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 64,
+      "charEnd": 68,
+      "id": 16,
+      "sentence": 1,
+      "text": "nach",
+      "word": 17
+    },
+    {
+      "charBegin": 69,
+      "charEnd": 72,
+      "id": 17,
+      "sentence": 1,
+      "text": "dem",
+      "word": 18
+    },
+    {
+      "charBegin": 73,
+      "charEnd": 85,
+      "id": 18,
+      "sentence": 1,
+      "text": "Mastergrunde",
+      "word": 19
+    },
+    {
+      "charBegin": 85,
+      "charEnd": 86,
+      "id": 19,
+      "sentence": 1,
+      "text": ".",
+      "word": 20
+    },
+    {
+      "charBegin": 86,
+      "charEnd": 87,
+      "id": 20,
+      "sentence": 2,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 88,
+      "charEnd": 89,
+      "id": 21,
+      "sentence": 3,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 90,
+      "charEnd": 91,
+      "id": 22,
+      "sentence": 3,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 91,
+      "charEnd": 94,
+      "id": 23,
+      "sentence": 3,
+      "text": "Ich",
+      "word": 3
+    },
+    {
+      "charBegin": 95,
+      "charEnd": 99,
+      "id": 24,
+      "sentence": 3,
+      "text": "sage",
+      "word": 4
+    },
+    {
+      "charBegin": 100,
+      "charEnd": 104,
+      "id": 25,
+      "sentence": 3,
+      "text": "Euch",
+      "word": 5
+    },
+    {
+      "charBegin": 104,
+      "charEnd": 105,
+      "id": 26,
+      "sentence": 3,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 106,
+      "charEnd": 108,
+      "id": 27,
+      "sentence": 3,
+      "text": "an",
+      "word": 7
+    },
+    {
+      "charBegin": 109,
+      "charEnd": 112,
+      "id": 28,
+      "sentence": 3,
+      "text": "der",
+      "word": 8
+    },
+    {
+      "charBegin": 113,
+      "charEnd": 118,
+      "id": 29,
+      "sentence": 3,
+      "text": "Buche",
+      "word": 9
+    },
+    {
+      "charBegin": 118,
+      "charEnd": 119,
+      "id": 30,
+      "sentence": 3,
+      "text": ";",
+      "word": 10
+    },
+    {
+      "charBegin": 120,
+      "charEnd": 123,
+      "id": 31,
+      "sentence": 4,
+      "text": "des",
+      "word": 1
+    },
+    {
+      "charBegin": 124,
+      "charEnd": 130,
+      "id": 32,
+      "sentence": 4,
+      "text": "langen",
+      "word": 2
+    },
+    {
+      "charBegin": 131,
+      "charEnd": 139,
+      "id": 33,
+      "sentence": 4,
+      "text": "Heinrich",
+      "word": 3
+    },
+    {
+      "charBegin": 140,
+      "charEnd": 153,
+      "id": 34,
+      "sentence": 4,
+      "text": "Flintenriemen",
+      "word": 4
+    },
+    {
+      "charBegin": 154,
+      "charEnd": 159,
+      "id": 35,
+      "sentence": 4,
+      "text": "blieb",
+      "word": 5
+    },
+    {
+      "charBegin": 160,
+      "charEnd": 164,
+      "id": 36,
+      "sentence": 4,
+      "text": "noch",
+      "word": 6
+    },
+    {
+      "charBegin": 165,
+      "charEnd": 167,
+      "id": 37,
+      "sentence": 4,
+      "text": "am",
+      "word": 7
+    },
+    {
+      "charBegin": 168,
+      "charEnd": 175,
+      "id": 38,
+      "sentence": 4,
+      "text": "krummen",
+      "word": 8
+    },
+    {
+      "charBegin": 176,
+      "charEnd": 179,
+      "id": 39,
+      "sentence": 4,
+      "text": "Ast",
+      "word": 9
+    },
+    {
+      "charBegin": 180,
+      "charEnd": 184,
+      "id": 40,
+      "sentence": 4,
+      "text": "dort",
+      "word": 10
+    },
+    {
+      "charBegin": 185,
+      "charEnd": 191,
+      "id": 41,
+      "sentence": 4,
+      "text": "hängen",
+      "word": 11
+    },
+    {
+      "charBegin": 191,
+      "charEnd": 192,
+      "id": 42,
+      "sentence": 4,
+      "text": ";",
+      "word": 12
+    },
+    {
+      "charBegin": 193,
+      "charEnd": 196,
+      "id": 43,
+      "sentence": 5,
+      "text": "ich",
+      "word": 1
+    },
+    {
+      "charBegin": 197,
+      "charEnd": 202,
+      "id": 44,
+      "sentence": 5,
+      "text": "hab's",
+      "word": 2
+    },
+    {
+      "charBegin": 203,
+      "charEnd": 205,
+      "id": 45,
+      "sentence": 5,
+      "text": "ja",
+      "word": 3
+    },
+    {
+      "charBegin": 206,
+      "charEnd": 213,
+      "id": 46,
+      "sentence": 5,
+      "text": "gesehen",
+      "word": 4
+    },
+    {
+      "charBegin": 213,
+      "charEnd": 214,
+      "id": 47,
+      "sentence": 5,
+      "text": "!",
+      "word": 5
+    },
+    {
+      "charBegin": 214,
+      "charEnd": 215,
+      "id": 48,
+      "sentence": 5,
+      "text": "«",
+      "word": 6
+    },
+    {
+      "charBegin": 216,
+      "charEnd": 219,
+      "id": 49,
+      "sentence": 6,
+      "text": "Der",
+      "word": 1
+    },
+    {
+      "charBegin": 220,
+      "charEnd": 227,
+      "id": 50,
+      "sentence": 6,
+      "text": "Förster",
+      "word": 2
+    },
+    {
+      "charBegin": 228,
+      "charEnd": 234,
+      "id": 51,
+      "sentence": 6,
+      "text": "schlug",
+      "word": 3
+    },
+    {
+      "charBegin": 235,
+      "charEnd": 238,
+      "id": 52,
+      "sentence": 6,
+      "text": "den",
+      "word": 4
+    },
+    {
+      "charBegin": 239,
+      "charEnd": 251,
+      "id": 53,
+      "sentence": 6,
+      "text": "bezeichneten",
+      "word": 5
+    },
+    {
+      "charBegin": 252,
+      "charEnd": 255,
+      "id": 54,
+      "sentence": 6,
+      "text": "Weg",
+      "word": 6
+    },
+    {
+      "charBegin": 256,
+      "charEnd": 259,
+      "id": 55,
+      "sentence": 6,
+      "text": "ein",
+      "word": 7
+    },
+    {
+      "charBegin": 259,
+      "charEnd": 260,
+      "id": 56,
+      "sentence": 6,
+      "text": ".",
+      "word": 8
+    },
+    {
+      "charBegin": 261,
+      "charEnd": 270,
+      "id": 57,
+      "sentence": 7,
+      "text": "Friedrich",
+      "word": 1
+    },
+    {
+      "charBegin": 271,
+      "charEnd": 276,
+      "id": 58,
+      "sentence": 7,
+      "text": "hatte",
+      "word": 2
+    },
+    {
+      "charBegin": 277,
+      "charEnd": 280,
+      "id": 59,
+      "sentence": 7,
+      "text": "die",
+      "word": 3
+    },
+    {
+      "charBegin": 281,
+      "charEnd": 286,
+      "id": 60,
+      "sentence": 7,
+      "text": "ganze",
+      "word": 4
+    },
+    {
+      "charBegin": 287,
+      "charEnd": 291,
+      "id": 61,
+      "sentence": 7,
+      "text": "Zeit",
+      "word": 5
+    },
+    {
+      "charBegin": 292,
+      "charEnd": 300,
+      "id": 62,
+      "sentence": 7,
+      "text": "hindurch",
+      "word": 6
+    },
+    {
+      "charBegin": 301,
+      "charEnd": 306,
+      "id": 63,
+      "sentence": 7,
+      "text": "seine",
+      "word": 7
+    },
+    {
+      "charBegin": 307,
+      "charEnd": 315,
+      "id": 64,
+      "sentence": 7,
+      "text": "Stellung",
+      "word": 8
+    },
+    {
+      "charBegin": 316,
+      "charEnd": 321,
+      "id": 65,
+      "sentence": 7,
+      "text": "nicht",
+      "word": 9
+    },
+    {
+      "charBegin": 322,
+      "charEnd": 331,
+      "id": 66,
+      "sentence": 7,
+      "text": "verlassen",
+      "word": 10
+    },
+    {
+      "charBegin": 331,
+      "charEnd": 332,
+      "id": 67,
+      "sentence": 7,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 333,
+      "charEnd": 337,
+      "id": 68,
+      "sentence": 7,
+      "text": "halb",
+      "word": 12
+    },
+    {
+      "charBegin": 338,
+      "charEnd": 345,
+      "id": 69,
+      "sentence": 7,
+      "text": "liegend",
+      "word": 13
+    },
+    {
+      "charBegin": 345,
+      "charEnd": 346,
+      "id": 70,
+      "sentence": 7,
+      "text": ",",
+      "word": 14
+    },
+    {
+      "charBegin": 347,
+      "charEnd": 350,
+      "id": 71,
+      "sentence": 7,
+      "text": "den",
+      "word": 15
+    },
+    {
+      "charBegin": 351,
+      "charEnd": 354,
+      "id": 72,
+      "sentence": 7,
+      "text": "Arm",
+      "word": 16
+    },
+    {
+      "charBegin": 355,
+      "charEnd": 357,
+      "id": 73,
+      "sentence": 7,
+      "text": "um",
+      "word": 17
+    },
+    {
+      "charBegin": 358,
+      "charEnd": 363,
+      "id": 74,
+      "sentence": 7,
+      "text": "einen",
+      "word": 18
+    },
+    {
+      "charBegin": 364,
+      "charEnd": 370,
+      "id": 75,
+      "sentence": 7,
+      "text": "dürren",
+      "word": 19
+    },
+    {
+      "charBegin": 371,
+      "charEnd": 374,
+      "id": 76,
+      "sentence": 7,
+      "text": "Ast",
+      "word": 20
+    },
+    {
+      "charBegin": 375,
+      "charEnd": 386,
+      "id": 77,
+      "sentence": 7,
+      "text": "geschlungen",
+      "word": 21
+    },
+    {
+      "charBegin": 386,
+      "charEnd": 387,
+      "id": 78,
+      "sentence": 7,
+      "text": ",",
+      "word": 22
+    },
+    {
+      "charBegin": 388,
+      "charEnd": 391,
+      "id": 79,
+      "sentence": 7,
+      "text": "sah",
+      "word": 23
+    },
+    {
+      "charBegin": 392,
+      "charEnd": 394,
+      "id": 80,
+      "sentence": 7,
+      "text": "er",
+      "word": 24
+    },
+    {
+      "charBegin": 395,
+      "charEnd": 398,
+      "id": 81,
+      "sentence": 7,
+      "text": "dem",
+      "word": 25
+    },
+    {
+      "charBegin": 399,
+      "charEnd": 411,
+      "id": 82,
+      "sentence": 7,
+      "text": "Fortgehenden",
+      "word": 26
+    },
+    {
+      "charBegin": 412,
+      "charEnd": 422,
+      "id": 83,
+      "sentence": 7,
+      "text": "unverrückt",
+      "word": 27
+    },
+    {
+      "charBegin": 423,
+      "charEnd": 427,
+      "id": 84,
+      "sentence": 7,
+      "text": "nach",
+      "word": 28
+    },
+    {
+      "charBegin": 427,
+      "charEnd": 428,
+      "id": 85,
+      "sentence": 7,
+      "text": ",",
+      "word": 29
+    },
+    {
+      "charBegin": 429,
+      "charEnd": 432,
+      "id": 86,
+      "sentence": 7,
+      "text": "wie",
+      "word": 30
+    },
+    {
+      "charBegin": 433,
+      "charEnd": 435,
+      "id": 87,
+      "sentence": 7,
+      "text": "er",
+      "word": 31
+    },
+    {
+      "charBegin": 436,
+      "charEnd": 441,
+      "id": 88,
+      "sentence": 7,
+      "text": "durch",
+      "word": 32
+    },
+    {
+      "charBegin": 442,
+      "charEnd": 445,
+      "id": 89,
+      "sentence": 7,
+      "text": "den",
+      "word": 33
+    },
+    {
+      "charBegin": 446,
+      "charEnd": 462,
+      "id": 90,
+      "sentence": 7,
+      "text": "halbverwachsenen",
+      "word": 34
+    },
+    {
+      "charBegin": 463,
+      "charEnd": 468,
+      "id": 91,
+      "sentence": 7,
+      "text": "Steig",
+      "word": 35
+    },
+    {
+      "charBegin": 469,
+      "charEnd": 474,
+      "id": 92,
+      "sentence": 7,
+      "text": "glitt",
+      "word": 36
+    },
+    {
+      "charBegin": 474,
+      "charEnd": 475,
+      "id": 93,
+      "sentence": 7,
+      "text": ",",
+      "word": 37
+    },
+    {
+      "charBegin": 476,
+      "charEnd": 479,
+      "id": 94,
+      "sentence": 7,
+      "text": "mit",
+      "word": 38
+    },
+    {
+      "charBegin": 480,
+      "charEnd": 483,
+      "id": 95,
+      "sentence": 7,
+      "text": "den",
+      "word": 39
+    },
+    {
+      "charBegin": 484,
+      "charEnd": 496,
+      "id": 96,
+      "sentence": 7,
+      "text": "vorsichtigen",
+      "word": 40
+    },
+    {
+      "charBegin": 497,
+      "charEnd": 503,
+      "id": 97,
+      "sentence": 7,
+      "text": "weiten",
+      "word": 41
+    },
+    {
+      "charBegin": 504,
+      "charEnd": 513,
+      "id": 98,
+      "sentence": 7,
+      "text": "Schritten",
+      "word": 42
+    },
+    {
+      "charBegin": 514,
+      "charEnd": 520,
+      "id": 99,
+      "sentence": 7,
+      "text": "seines",
+      "word": 43
+    },
+    {
+      "charBegin": 521,
+      "charEnd": 528,
+      "id": 100,
+      "sentence": 7,
+      "text": "Metiers",
+      "word": 44
+    },
+    {
+      "charBegin": 528,
+      "charEnd": 529,
+      "id": 101,
+      "sentence": 7,
+      "text": ",",
+      "word": 45
+    },
+    {
+      "charBegin": 530,
+      "charEnd": 532,
+      "id": 102,
+      "sentence": 7,
+      "text": "so",
+      "word": 46
+    },
+    {
+      "charBegin": 533,
+      "charEnd": 544,
+      "id": 103,
+      "sentence": 7,
+      "text": "geräuschlos",
+      "word": 47
+    },
+    {
+      "charBegin": 545,
+      "charEnd": 548,
+      "id": 104,
+      "sentence": 7,
+      "text": "wie",
+      "word": 48
+    },
+    {
+      "charBegin": 549,
+      "charEnd": 552,
+      "id": 105,
+      "sentence": 7,
+      "text": "ein",
+      "word": 49
+    },
+    {
+      "charBegin": 553,
+      "charEnd": 558,
+      "id": 106,
+      "sentence": 7,
+      "text": "Fuchs",
+      "word": 50
+    },
+    {
+      "charBegin": 559,
+      "charEnd": 562,
+      "id": 107,
+      "sentence": 7,
+      "text": "die",
+      "word": 51
+    },
+    {
+      "charBegin": 563,
+      "charEnd": 575,
+      "id": 108,
+      "sentence": 7,
+      "text": "Hühnerstiege",
+      "word": 52
+    },
+    {
+      "charBegin": 576,
+      "charEnd": 584,
+      "id": 109,
+      "sentence": 7,
+      "text": "erklimmt",
+      "word": 53
+    },
+    {
+      "charBegin": 584,
+      "charEnd": 585,
+      "id": 110,
+      "sentence": 7,
+      "text": ".",
+      "word": 54
+    },
+    {
+      "charBegin": 586,
+      "charEnd": 590,
+      "id": 111,
+      "sentence": 8,
+      "text": "Hier",
+      "word": 1
+    },
+    {
+      "charBegin": 591,
+      "charEnd": 595,
+      "id": 112,
+      "sentence": 8,
+      "text": "sank",
+      "word": 2
+    },
+    {
+      "charBegin": 596,
+      "charEnd": 599,
+      "id": 113,
+      "sentence": 8,
+      "text": "ein",
+      "word": 3
+    },
+    {
+      "charBegin": 600,
+      "charEnd": 605,
+      "id": 114,
+      "sentence": 8,
+      "text": "Zweig",
+      "word": 4
+    },
+    {
+      "charBegin": 606,
+      "charEnd": 612,
+      "id": 115,
+      "sentence": 8,
+      "text": "hinter",
+      "word": 5
+    },
+    {
+      "charBegin": 613,
+      "charEnd": 616,
+      "id": 116,
+      "sentence": 8,
+      "text": "ihm",
+      "word": 6
+    },
+    {
+      "charBegin": 616,
+      "charEnd": 617,
+      "id": 117,
+      "sentence": 8,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 618,
+      "charEnd": 622,
+      "id": 118,
+      "sentence": 8,
+      "text": "dort",
+      "word": 8
+    },
+    {
+      "charBegin": 623,
+      "charEnd": 628,
+      "id": 119,
+      "sentence": 8,
+      "text": "einer",
+      "word": 9
+    },
+    {
+      "charBegin": 628,
+      "charEnd": 629,
+      "id": 120,
+      "sentence": 8,
+      "text": ";",
+      "word": 10
+    },
+    {
+      "charBegin": 630,
+      "charEnd": 633,
+      "id": 121,
+      "sentence": 9,
+      "text": "die",
+      "word": 1
+    },
+    {
+      "charBegin": 634,
+      "charEnd": 641,
+      "id": 122,
+      "sentence": 9,
+      "text": "Umrisse",
+      "word": 2
+    },
+    {
+      "charBegin": 642,
+      "charEnd": 648,
+      "id": 123,
+      "sentence": 9,
+      "text": "seiner",
+      "word": 3
+    },
+    {
+      "charBegin": 649,
+      "charEnd": 656,
+      "id": 124,
+      "sentence": 9,
+      "text": "Gestalt",
+      "word": 4
+    },
+    {
+      "charBegin": 657,
+      "charEnd": 666,
+      "id": 125,
+      "sentence": 9,
+      "text": "schwanden",
+      "word": 5
+    },
+    {
+      "charBegin": 667,
+      "charEnd": 672,
+      "id": 126,
+      "sentence": 9,
+      "text": "immer",
+      "word": 6
+    },
+    {
+      "charBegin": 673,
+      "charEnd": 677,
+      "id": 127,
+      "sentence": 9,
+      "text": "mehr",
+      "word": 7
+    },
+    {
+      "charBegin": 677,
+      "charEnd": 678,
+      "id": 128,
+      "sentence": 9,
+      "text": ".",
+      "word": 8
+    },
+    {
+      "charBegin": 679,
+      "charEnd": 681,
+      "id": 129,
+      "sentence": 10,
+      "text": "Da",
+      "word": 1
+    },
+    {
+      "charBegin": 682,
+      "charEnd": 688,
+      "id": 130,
+      "sentence": 10,
+      "text": "blitze",
+      "word": 2
+    },
+    {
+      "charBegin": 689,
+      "charEnd": 691,
+      "id": 131,
+      "sentence": 10,
+      "text": "es",
+      "word": 3
+    },
+    {
+      "charBegin": 692,
+      "charEnd": 696,
+      "id": 132,
+      "sentence": 10,
+      "text": "noch",
+      "word": 4
+    },
+    {
+      "charBegin": 697,
+      "charEnd": 703,
+      "id": 133,
+      "sentence": 10,
+      "text": "einmal",
+      "word": 5
+    },
+    {
+      "charBegin": 704,
+      "charEnd": 710,
+      "id": 134,
+      "sentence": 10,
+      "text": "durchs",
+      "word": 6
+    },
+    {
+      "charBegin": 711,
+      "charEnd": 715,
+      "id": 135,
+      "sentence": 10,
+      "text": "Laub",
+      "word": 7
+    },
+    {
+      "charBegin": 715,
+      "charEnd": 716,
+      "id": 136,
+      "sentence": 10,
+      "text": ".",
+      "word": 8
+    }
+  ]
+}

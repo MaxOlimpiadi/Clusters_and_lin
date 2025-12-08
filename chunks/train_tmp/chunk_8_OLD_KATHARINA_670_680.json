@@ -1,0 +1,688 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 10,
+            "charBegin": 31,
+            "charEnd": 52,
+            "end": 14
+          }
+        ],
+        "text": "sagte Friedrich dann ;",
+        "tokenIds": [
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 11,
+            "charBegin": 37,
+            "charEnd": 46,
+            "end": 12
+          }
+        ],
+        "text": [
+          "Friedrich"
+        ],
+        "tokenIds": [
+          11
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 844,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__670_680",
+  "originalText": "– »Ohm, wie kommt Ihr darauf?« sagte Friedrich dann; »Eur Gewissen ist nicht rein; Ihr habt mich belogen.« – »Ich? So?« – »Wo ist Eure Axt?« – »Meine Axt? Auf der Tenne.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 1,
+      "end": 1,
+      "id": 0,
+      "text": "–",
+      "tokenIds": [
+        0
+      ],
+      "tokens": [
+        "–"
+      ]
+    },
+    {
+      "begin": 1,
+      "charBegin": 2,
+      "charEnd": 52,
+      "end": 14,
+      "id": 1,
+      "text": "»Ohm, wie kommt Ihr darauf?« sagte Friedrich dann;",
+      "tokenIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tokens": [
+        "»",
+        "Ohm",
+        ",",
+        "wie",
+        "kommt",
+        "Ihr",
+        "darauf",
+        "?",
+        "«",
+        "sagte",
+        "Friedrich",
+        "dann",
+        ";"
+      ]
+    },
+    {
+      "begin": 14,
+      "charBegin": 53,
+      "charEnd": 82,
+      "end": 21,
+      "id": 2,
+      "text": "»Eur Gewissen ist nicht rein;",
+      "tokenIds": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokens": [
+        "»",
+        "Eur",
+        "Gewissen",
+        "ist",
+        "nicht",
+        "rein",
+        ";"
+      ]
+    },
+    {
+      "begin": 21,
+      "charBegin": 83,
+      "charEnd": 105,
+      "end": 26,
+      "id": 3,
+      "text": "Ihr habt mich belogen.",
+      "tokenIds": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "tokens": [
+        "Ihr",
+        "habt",
+        "mich",
+        "belogen",
+        "."
+      ]
+    },
+    {
+      "begin": 26,
+      "charBegin": 105,
+      "charEnd": 106,
+      "end": 27,
+      "id": 4,
+      "text": "«",
+      "tokenIds": [
+        26
+      ],
+      "tokens": [
+        "«"
+      ]
+    },
+    {
+      "begin": 27,
+      "charBegin": 107,
+      "charEnd": 108,
+      "end": 28,
+      "id": 5,
+      "text": "–",
+      "tokenIds": [
+        27
+      ],
+      "tokens": [
+        "–"
+      ]
+    },
+    {
+      "begin": 28,
+      "charBegin": 109,
+      "charEnd": 114,
+      "end": 31,
+      "id": 6,
+      "text": "»Ich?",
+      "tokenIds": [
+        28,
+        29,
+        30
+      ],
+      "tokens": [
+        "»",
+        "Ich",
+        "?"
+      ]
+    },
+    {
+      "begin": 31,
+      "charBegin": 115,
+      "charEnd": 142,
+      "end": 43,
+      "id": 7,
+      "text": "So?« – »Wo ist Eure Axt?« –",
+      "tokenIds": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "tokens": [
+        "So",
+        "?",
+        "«",
+        "–",
+        "»",
+        "Wo",
+        "ist",
+        "Eure",
+        "Axt",
+        "?",
+        "«",
+        "–"
+      ]
+    },
+    {
+      "begin": 43,
+      "charBegin": 143,
+      "charEnd": 154,
+      "end": 47,
+      "id": 8,
+      "text": "»Meine Axt?",
+      "tokenIds": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "tokens": [
+        "»",
+        "Meine",
+        "Axt",
+        "?"
+      ]
+    },
+    {
+      "begin": 47,
+      "charBegin": 155,
+      "charEnd": 169,
+      "end": 51,
+      "id": 9,
+      "text": "Auf der Tenne.",
+      "tokenIds": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "tokens": [
+        "Auf",
+        "der",
+        "Tenne",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 1,
+      "id": 0,
+      "sentence": 1,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 2,
+      "charEnd": 3,
+      "id": 1,
+      "sentence": 2,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 3,
+      "charEnd": 6,
+      "id": 2,
+      "sentence": 2,
+      "text": "Ohm",
+      "word": 2
+    },
+    {
+      "charBegin": 6,
+      "charEnd": 7,
+      "id": 3,
+      "sentence": 2,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 8,
+      "charEnd": 11,
+      "id": 4,
+      "sentence": 2,
+      "text": "wie",
+      "word": 4
+    },
+    {
+      "charBegin": 12,
+      "charEnd": 17,
+      "id": 5,
+      "sentence": 2,
+      "text": "kommt",
+      "word": 5
+    },
+    {
+      "charBegin": 18,
+      "charEnd": 21,
+      "id": 6,
+      "sentence": 2,
+      "text": "Ihr",
+      "word": 6
+    },
+    {
+      "charBegin": 22,
+      "charEnd": 28,
+      "id": 7,
+      "sentence": 2,
+      "text": "darauf",
+      "word": 7
+    },
+    {
+      "charBegin": 28,
+      "charEnd": 29,
+      "id": 8,
+      "sentence": 2,
+      "text": "?",
+      "word": 8
+    },
+    {
+      "charBegin": 29,
+      "charEnd": 30,
+      "id": 9,
+      "sentence": 2,
+      "text": "«",
+      "word": 9
+    },
+    {
+      "charBegin": 31,
+      "charEnd": 36,
+      "id": 10,
+      "sentence": 2,
+      "text": "sagte",
+      "word": 10
+    },
+    {
+      "charBegin": 37,
+      "charEnd": 46,
+      "id": 11,
+      "sentence": 2,
+      "text": "Friedrich",
+      "word": 11
+    },
+    {
+      "charBegin": 47,
+      "charEnd": 51,
+      "id": 12,
+      "sentence": 2,
+      "text": "dann",
+      "word": 12
+    },
+    {
+      "charBegin": 51,
+      "charEnd": 52,
+      "id": 13,
+      "sentence": 2,
+      "text": ";",
+      "word": 13
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 54,
+      "id": 14,
+      "sentence": 3,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 54,
+      "charEnd": 57,
+      "id": 15,
+      "sentence": 3,
+      "text": "Eur",
+      "word": 2
+    },
+    {
+      "charBegin": 58,
+      "charEnd": 66,
+      "id": 16,
+      "sentence": 3,
+      "text": "Gewissen",
+      "word": 3
+    },
+    {
+      "charBegin": 67,
+      "charEnd": 70,
+      "id": 17,
+      "sentence": 3,
+      "text": "ist",
+      "word": 4
+    },
+    {
+      "charBegin": 71,
+      "charEnd": 76,
+      "id": 18,
+      "sentence": 3,
+      "text": "nicht",
+      "word": 5
+    },
+    {
+      "charBegin": 77,
+      "charEnd": 81,
+      "id": 19,
+      "sentence": 3,
+      "text": "rein",
+      "word": 6
+    },
+    {
+      "charBegin": 81,
+      "charEnd": 82,
+      "id": 20,
+      "sentence": 3,
+      "text": ";",
+      "word": 7
+    },
+    {
+      "charBegin": 83,
+      "charEnd": 86,
+      "id": 21,
+      "sentence": 4,
+      "text": "Ihr",
+      "word": 1
+    },
+    {
+      "charBegin": 87,
+      "charEnd": 91,
+      "id": 22,
+      "sentence": 4,
+      "text": "habt",
+      "word": 2
+    },
+    {
+      "charBegin": 92,
+      "charEnd": 96,
+      "id": 23,
+      "sentence": 4,
+      "text": "mich",
+      "word": 3
+    },
+    {
+      "charBegin": 97,
+      "charEnd": 104,
+      "id": 24,
+      "sentence": 4,
+      "text": "belogen",
+      "word": 4
+    },
+    {
+      "charBegin": 104,
+      "charEnd": 105,
+      "id": 25,
+      "sentence": 4,
+      "text": ".",
+      "word": 5
+    },
+    {
+      "charBegin": 105,
+      "charEnd": 106,
+      "id": 26,
+      "sentence": 5,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 107,
+      "charEnd": 108,
+      "id": 27,
+      "sentence": 6,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 109,
+      "charEnd": 110,
+      "id": 28,
+      "sentence": 7,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 110,
+      "charEnd": 113,
+      "id": 29,
+      "sentence": 7,
+      "text": "Ich",
+      "word": 2
+    },
+    {
+      "charBegin": 113,
+      "charEnd": 114,
+      "id": 30,
+      "sentence": 7,
+      "text": "?",
+      "word": 3
+    },
+    {
+      "charBegin": 115,
+      "charEnd": 117,
+      "id": 31,
+      "sentence": 8,
+      "text": "So",
+      "word": 1
+    },
+    {
+      "charBegin": 117,
+      "charEnd": 118,
+      "id": 32,
+      "sentence": 8,
+      "text": "?",
+      "word": 2
+    },
+    {
+      "charBegin": 118,
+      "charEnd": 119,
+      "id": 33,
+      "sentence": 8,
+      "text": "«",
+      "word": 3
+    },
+    {
+      "charBegin": 120,
+      "charEnd": 121,
+      "id": 34,
+      "sentence": 8,
+      "text": "–",
+      "word": 4
+    },
+    {
+      "charBegin": 122,
+      "charEnd": 123,
+      "id": 35,
+      "sentence": 8,
+      "text": "»",
+      "word": 5
+    },
+    {
+      "charBegin": 123,
+      "charEnd": 125,
+      "id": 36,
+      "sentence": 8,
+      "text": "Wo",
+      "word": 6
+    },
+    {
+      "charBegin": 126,
+      "charEnd": 129,
+      "id": 37,
+      "sentence": 8,
+      "text": "ist",
+      "word": 7
+    },
+    {
+      "charBegin": 130,
+      "charEnd": 134,
+      "id": 38,
+      "sentence": 8,
+      "text": "Eure",
+      "word": 8
+    },
+    {
+      "charBegin": 135,
+      "charEnd": 138,
+      "id": 39,
+      "sentence": 8,
+      "text": "Axt",
+      "word": 9
+    },
+    {
+      "charBegin": 138,
+      "charEnd": 139,
+      "id": 40,
+      "sentence": 8,
+      "text": "?",
+      "word": 10
+    },
+    {
+      "charBegin": 139,
+      "charEnd": 140,
+      "id": 41,
+      "sentence": 8,
+      "text": "«",
+      "word": 11
+    },
+    {
+      "charBegin": 141,
+      "charEnd": 142,
+      "id": 42,
+      "sentence": 8,
+      "text": "–",
+      "word": 12
+    },
+    {
+      "charBegin": 143,
+      "charEnd": 144,
+      "id": 43,
+      "sentence": 9,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 144,
+      "charEnd": 149,
+      "id": 44,
+      "sentence": 9,
+      "text": "Meine",
+      "word": 2
+    },
+    {
+      "charBegin": 150,
+      "charEnd": 153,
+      "id": 45,
+      "sentence": 9,
+      "text": "Axt",
+      "word": 3
+    },
+    {
+      "charBegin": 153,
+      "charEnd": 154,
+      "id": 46,
+      "sentence": 9,
+      "text": "?",
+      "word": 4
+    },
+    {
+      "charBegin": 155,
+      "charEnd": 158,
+      "id": 47,
+      "sentence": 10,
+      "text": "Auf",
+      "word": 1
+    },
+    {
+      "charBegin": 159,
+      "charEnd": 162,
+      "id": 48,
+      "sentence": 10,
+      "text": "der",
+      "word": 2
+    },
+    {
+      "charBegin": 163,
+      "charEnd": 168,
+      "id": 49,
+      "sentence": 10,
+      "text": "Tenne",
+      "word": 3
+    },
+    {
+      "charBegin": 168,
+      "charEnd": 169,
+      "id": 50,
+      "sentence": 10,
+      "text": ".",
+      "word": 4
+    }
+  ]
+}

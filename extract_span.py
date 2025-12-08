@@ -27,7 +27,8 @@ def extract_decoded_span(file_path, span):
         print(f"Ошибка: {e}")
         
 
-data = json.load(open("Die Judenbuche.json"))
+with open("Krambambuli.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
 # for sent in data["sentences"]:
 #     print(f'{data["text"][sent[0]:sent[1]]} \n')
 

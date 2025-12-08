@@ -1,0 +1,1534 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 31,
+            "charBegin": 123,
+            "charEnd": 156,
+            "end": 36
+          }
+        ],
+        "text": "Sie hatten sich kaum niedergelegt",
+        "tokenIds": [
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 31,
+            "charBegin": 123,
+            "charEnd": 126,
+            "end": 32
+          },
+          {
+            "begin": 33,
+            "charBegin": 134,
+            "charEnd": 138,
+            "end": 34
+          },
+          {
+            "begin": 31,
+            "charBegin": 123,
+            "charEnd": 126,
+            "end": 32
+          },
+          {
+            "begin": 33,
+            "charBegin": 134,
+            "charEnd": 138,
+            "end": 34
+          },
+          {
+            "begin": 31,
+            "charBegin": 123,
+            "charEnd": 126,
+            "end": 32
+          },
+          {
+            "begin": 33,
+            "charBegin": 134,
+            "charEnd": 138,
+            "end": 34
+          }
+        ],
+        "text": [
+          "Sie",
+          "sich",
+          "Sie",
+          "sich",
+          "Sie",
+          "sich"
+        ],
+        "tokenIds": [
+          31,
+          31,
+          31,
+          33,
+          33,
+          33
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 141,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 37,
+            "charBegin": 158,
+            "charEnd": 226,
+            "end": 51
+          }
+        ],
+        "text": "so erhob sich eine Windsbraut , als ob sie das Haus mitnehmen wollte .",
+        "tokenIds": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 142,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 51,
+            "charBegin": 227,
+            "charEnd": 246,
+            "end": 54
+          }
+        ],
+        "text": "Die Bettstatt bebte",
+        "tokenIds": [
+          51,
+          52,
+          53
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 143,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 54,
+            "charBegin": 247,
+            "charEnd": 293,
+            "end": 63
+          }
+        ],
+        "text": "und im Schornstein rasselte es wie ein Kobold .",
+        "tokenIds": [
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 144,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__65_75",
+  "originalText": "er hat's doch versprochen.« – »Ach Gott, wenn der alles hielte, was er verspricht! Mach, mach voran, daß du fertig wirst.«\nSie hatten sich kaum niedergelegt, so erhob sich eine Windsbraut, als ob sie das Haus mitnehmen wollte. Die Bettstatt bebte und im Schornstein rasselte es wie ein Kobold. – »Mutter – es pocht draußen!« – »Still, Fritzchen, das ist das lockere Brett im Giebel, das der Wind jagt.« – »Nein, Mutter, an der Tür!« – »Sie schließt nicht; die Klinke ist zerbrochen. Gott, schlaf doch!",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 26,
+      "end": 5,
+      "id": 0,
+      "text": "er hat's doch versprochen.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokens": [
+        "er",
+        "hat's",
+        "doch",
+        "versprochen",
+        "."
+      ]
+    },
+    {
+      "begin": 5,
+      "charBegin": 26,
+      "charEnd": 82,
+      "end": 20,
+      "id": 1,
+      "text": "« – »Ach Gott, wenn der alles hielte, was er verspricht!",
+      "tokenIds": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tokens": [
+        "«",
+        "–",
+        "»",
+        "Ach",
+        "Gott",
+        ",",
+        "wenn",
+        "der",
+        "alles",
+        "hielte",
+        ",",
+        "was",
+        "er",
+        "verspricht",
+        "!"
+      ]
+    },
+    {
+      "begin": 20,
+      "charBegin": 83,
+      "charEnd": 123,
+      "end": 31,
+      "id": 2,
+      "text": "Mach, mach voran, daß du fertig wirst.«\n",
+      "tokenIds": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "tokens": [
+        "Mach",
+        ",",
+        "mach",
+        "voran",
+        ",",
+        "daß",
+        "du",
+        "fertig",
+        "wirst",
+        ".",
+        "«"
+      ]
+    },
+    {
+      "begin": 31,
+      "charBegin": 123,
+      "charEnd": 226,
+      "end": 51,
+      "id": 3,
+      "text": "Sie hatten sich kaum niedergelegt, so erhob sich eine Windsbraut, als ob sie das Haus mitnehmen wollte.",
+      "tokenIds": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "tokens": [
+        "Sie",
+        "hatten",
+        "sich",
+        "kaum",
+        "niedergelegt",
+        ",",
+        "so",
+        "erhob",
+        "sich",
+        "eine",
+        "Windsbraut",
+        ",",
+        "als",
+        "ob",
+        "sie",
+        "das",
+        "Haus",
+        "mitnehmen",
+        "wollte",
+        "."
+      ]
+    },
+    {
+      "begin": 51,
+      "charBegin": 227,
+      "charEnd": 293,
+      "end": 63,
+      "id": 4,
+      "text": "Die Bettstatt bebte und im Schornstein rasselte es wie ein Kobold.",
+      "tokenIds": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "tokens": [
+        "Die",
+        "Bettstatt",
+        "bebte",
+        "und",
+        "im",
+        "Schornstein",
+        "rasselte",
+        "es",
+        "wie",
+        "ein",
+        "Kobold",
+        "."
+      ]
+    },
+    {
+      "begin": 63,
+      "charBegin": 294,
+      "charEnd": 401,
+      "end": 91,
+      "id": 5,
+      "text": "– »Mutter – es pocht draußen!« – »Still, Fritzchen, das ist das lockere Brett im Giebel, das der Wind jagt.",
+      "tokenIds": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Mutter",
+        "–",
+        "es",
+        "pocht",
+        "draußen",
+        "!",
+        "«",
+        "–",
+        "»",
+        "Still",
+        ",",
+        "Fritzchen",
+        ",",
+        "das",
+        "ist",
+        "das",
+        "lockere",
+        "Brett",
+        "im",
+        "Giebel",
+        ",",
+        "das",
+        "der",
+        "Wind",
+        "jagt",
+        "."
+      ]
+    },
+    {
+      "begin": 91,
+      "charBegin": 401,
+      "charEnd": 431,
+      "end": 102,
+      "id": 6,
+      "text": "« – »Nein, Mutter, an der Tür!",
+      "tokenIds": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ],
+      "tokens": [
+        "«",
+        "–",
+        "»",
+        "Nein",
+        ",",
+        "Mutter",
+        ",",
+        "an",
+        "der",
+        "Tür",
+        "!"
+      ]
+    },
+    {
+      "begin": 102,
+      "charBegin": 431,
+      "charEnd": 455,
+      "end": 109,
+      "id": 7,
+      "text": "« – »Sie schließt nicht;",
+      "tokenIds": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "tokens": [
+        "«",
+        "–",
+        "»",
+        "Sie",
+        "schließt",
+        "nicht",
+        ";"
+      ]
+    },
+    {
+      "begin": 109,
+      "charBegin": 456,
+      "charEnd": 482,
+      "end": 114,
+      "id": 8,
+      "text": "die Klinke ist zerbrochen.",
+      "tokenIds": [
+        109,
+        110,
+        111,
+        112,
+        113
+      ],
+      "tokens": [
+        "die",
+        "Klinke",
+        "ist",
+        "zerbrochen",
+        "."
+      ]
+    },
+    {
+      "begin": 114,
+      "charBegin": 483,
+      "charEnd": 501,
+      "end": 119,
+      "id": 9,
+      "text": "Gott, schlaf doch!",
+      "tokenIds": [
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "tokens": [
+        "Gott",
+        ",",
+        "schlaf",
+        "doch",
+        "!"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 2,
+      "id": 0,
+      "sentence": 1,
+      "text": "er",
+      "word": 1
+    },
+    {
+      "charBegin": 3,
+      "charEnd": 8,
+      "id": 1,
+      "sentence": 1,
+      "text": "hat's",
+      "word": 2
+    },
+    {
+      "charBegin": 9,
+      "charEnd": 13,
+      "id": 2,
+      "sentence": 1,
+      "text": "doch",
+      "word": 3
+    },
+    {
+      "charBegin": 14,
+      "charEnd": 25,
+      "id": 3,
+      "sentence": 1,
+      "text": "versprochen",
+      "word": 4
+    },
+    {
+      "charBegin": 25,
+      "charEnd": 26,
+      "id": 4,
+      "sentence": 1,
+      "text": ".",
+      "word": 5
+    },
+    {
+      "charBegin": 26,
+      "charEnd": 27,
+      "id": 5,
+      "sentence": 2,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 28,
+      "charEnd": 29,
+      "id": 6,
+      "sentence": 2,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 30,
+      "charEnd": 31,
+      "id": 7,
+      "sentence": 2,
+      "text": "»",
+      "word": 3
+    },
+    {
+      "charBegin": 31,
+      "charEnd": 34,
+      "id": 8,
+      "sentence": 2,
+      "text": "Ach",
+      "word": 4
+    },
+    {
+      "charBegin": 35,
+      "charEnd": 39,
+      "id": 9,
+      "sentence": 2,
+      "text": "Gott",
+      "word": 5
+    },
+    {
+      "charBegin": 39,
+      "charEnd": 40,
+      "id": 10,
+      "sentence": 2,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 41,
+      "charEnd": 45,
+      "id": 11,
+      "sentence": 2,
+      "text": "wenn",
+      "word": 7
+    },
+    {
+      "charBegin": 46,
+      "charEnd": 49,
+      "id": 12,
+      "sentence": 2,
+      "text": "der",
+      "word": 8
+    },
+    {
+      "charBegin": 50,
+      "charEnd": 55,
+      "id": 13,
+      "sentence": 2,
+      "text": "alles",
+      "word": 9
+    },
+    {
+      "charBegin": 56,
+      "charEnd": 62,
+      "id": 14,
+      "sentence": 2,
+      "text": "hielte",
+      "word": 10
+    },
+    {
+      "charBegin": 62,
+      "charEnd": 63,
+      "id": 15,
+      "sentence": 2,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 64,
+      "charEnd": 67,
+      "id": 16,
+      "sentence": 2,
+      "text": "was",
+      "word": 12
+    },
+    {
+      "charBegin": 68,
+      "charEnd": 70,
+      "id": 17,
+      "sentence": 2,
+      "text": "er",
+      "word": 13
+    },
+    {
+      "charBegin": 71,
+      "charEnd": 81,
+      "id": 18,
+      "sentence": 2,
+      "text": "verspricht",
+      "word": 14
+    },
+    {
+      "charBegin": 81,
+      "charEnd": 82,
+      "id": 19,
+      "sentence": 2,
+      "text": "!",
+      "word": 15
+    },
+    {
+      "charBegin": 83,
+      "charEnd": 87,
+      "id": 20,
+      "sentence": 3,
+      "text": "Mach",
+      "word": 1
+    },
+    {
+      "charBegin": 87,
+      "charEnd": 88,
+      "id": 21,
+      "sentence": 3,
+      "text": ",",
+      "word": 2
+    },
+    {
+      "charBegin": 89,
+      "charEnd": 93,
+      "id": 22,
+      "sentence": 3,
+      "text": "mach",
+      "word": 3
+    },
+    {
+      "charBegin": 94,
+      "charEnd": 99,
+      "id": 23,
+      "sentence": 3,
+      "text": "voran",
+      "word": 4
+    },
+    {
+      "charBegin": 99,
+      "charEnd": 100,
+      "id": 24,
+      "sentence": 3,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 101,
+      "charEnd": 104,
+      "id": 25,
+      "sentence": 3,
+      "text": "daß",
+      "word": 6
+    },
+    {
+      "charBegin": 105,
+      "charEnd": 107,
+      "id": 26,
+      "sentence": 3,
+      "text": "du",
+      "word": 7
+    },
+    {
+      "charBegin": 108,
+      "charEnd": 114,
+      "id": 27,
+      "sentence": 3,
+      "text": "fertig",
+      "word": 8
+    },
+    {
+      "charBegin": 115,
+      "charEnd": 120,
+      "id": 28,
+      "sentence": 3,
+      "text": "wirst",
+      "word": 9
+    },
+    {
+      "charBegin": 120,
+      "charEnd": 121,
+      "id": 29,
+      "sentence": 3,
+      "text": ".",
+      "word": 10
+    },
+    {
+      "charBegin": 121,
+      "charEnd": 122,
+      "id": 30,
+      "sentence": 3,
+      "text": "«",
+      "word": 11
+    },
+    {
+      "charBegin": 123,
+      "charEnd": 126,
+      "id": 31,
+      "sentence": 4,
+      "text": "Sie",
+      "word": 1
+    },
+    {
+      "charBegin": 127,
+      "charEnd": 133,
+      "id": 32,
+      "sentence": 4,
+      "text": "hatten",
+      "word": 2
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 138,
+      "id": 33,
+      "sentence": 4,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 139,
+      "charEnd": 143,
+      "id": 34,
+      "sentence": 4,
+      "text": "kaum",
+      "word": 4
+    },
+    {
+      "charBegin": 144,
+      "charEnd": 156,
+      "id": 35,
+      "sentence": 4,
+      "text": "niedergelegt",
+      "word": 5
+    },
+    {
+      "charBegin": 156,
+      "charEnd": 157,
+      "id": 36,
+      "sentence": 4,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 158,
+      "charEnd": 160,
+      "id": 37,
+      "sentence": 4,
+      "text": "so",
+      "word": 7
+    },
+    {
+      "charBegin": 161,
+      "charEnd": 166,
+      "id": 38,
+      "sentence": 4,
+      "text": "erhob",
+      "word": 8
+    },
+    {
+      "charBegin": 167,
+      "charEnd": 171,
+      "id": 39,
+      "sentence": 4,
+      "text": "sich",
+      "word": 9
+    },
+    {
+      "charBegin": 172,
+      "charEnd": 176,
+      "id": 40,
+      "sentence": 4,
+      "text": "eine",
+      "word": 10
+    },
+    {
+      "charBegin": 177,
+      "charEnd": 187,
+      "id": 41,
+      "sentence": 4,
+      "text": "Windsbraut",
+      "word": 11
+    },
+    {
+      "charBegin": 187,
+      "charEnd": 188,
+      "id": 42,
+      "sentence": 4,
+      "text": ",",
+      "word": 12
+    },
+    {
+      "charBegin": 189,
+      "charEnd": 192,
+      "id": 43,
+      "sentence": 4,
+      "text": "als",
+      "word": 13
+    },
+    {
+      "charBegin": 193,
+      "charEnd": 195,
+      "id": 44,
+      "sentence": 4,
+      "text": "ob",
+      "word": 14
+    },
+    {
+      "charBegin": 196,
+      "charEnd": 199,
+      "id": 45,
+      "sentence": 4,
+      "text": "sie",
+      "word": 15
+    },
+    {
+      "charBegin": 200,
+      "charEnd": 203,
+      "id": 46,
+      "sentence": 4,
+      "text": "das",
+      "word": 16
+    },
+    {
+      "charBegin": 204,
+      "charEnd": 208,
+      "id": 47,
+      "sentence": 4,
+      "text": "Haus",
+      "word": 17
+    },
+    {
+      "charBegin": 209,
+      "charEnd": 218,
+      "id": 48,
+      "sentence": 4,
+      "text": "mitnehmen",
+      "word": 18
+    },
+    {
+      "charBegin": 219,
+      "charEnd": 225,
+      "id": 49,
+      "sentence": 4,
+      "text": "wollte",
+      "word": 19
+    },
+    {
+      "charBegin": 225,
+      "charEnd": 226,
+      "id": 50,
+      "sentence": 4,
+      "text": ".",
+      "word": 20
+    },
+    {
+      "charBegin": 227,
+      "charEnd": 230,
+      "id": 51,
+      "sentence": 5,
+      "text": "Die",
+      "word": 1
+    },
+    {
+      "charBegin": 231,
+      "charEnd": 240,
+      "id": 52,
+      "sentence": 5,
+      "text": "Bettstatt",
+      "word": 2
+    },
+    {
+      "charBegin": 241,
+      "charEnd": 246,
+      "id": 53,
+      "sentence": 5,
+      "text": "bebte",
+      "word": 3
+    },
+    {
+      "charBegin": 247,
+      "charEnd": 250,
+      "id": 54,
+      "sentence": 5,
+      "text": "und",
+      "word": 4
+    },
+    {
+      "charBegin": 251,
+      "charEnd": 253,
+      "id": 55,
+      "sentence": 5,
+      "text": "im",
+      "word": 5
+    },
+    {
+      "charBegin": 254,
+      "charEnd": 265,
+      "id": 56,
+      "sentence": 5,
+      "text": "Schornstein",
+      "word": 6
+    },
+    {
+      "charBegin": 266,
+      "charEnd": 274,
+      "id": 57,
+      "sentence": 5,
+      "text": "rasselte",
+      "word": 7
+    },
+    {
+      "charBegin": 275,
+      "charEnd": 277,
+      "id": 58,
+      "sentence": 5,
+      "text": "es",
+      "word": 8
+    },
+    {
+      "charBegin": 278,
+      "charEnd": 281,
+      "id": 59,
+      "sentence": 5,
+      "text": "wie",
+      "word": 9
+    },
+    {
+      "charBegin": 282,
+      "charEnd": 285,
+      "id": 60,
+      "sentence": 5,
+      "text": "ein",
+      "word": 10
+    },
+    {
+      "charBegin": 286,
+      "charEnd": 292,
+      "id": 61,
+      "sentence": 5,
+      "text": "Kobold",
+      "word": 11
+    },
+    {
+      "charBegin": 292,
+      "charEnd": 293,
+      "id": 62,
+      "sentence": 5,
+      "text": ".",
+      "word": 12
+    },
+    {
+      "charBegin": 294,
+      "charEnd": 295,
+      "id": 63,
+      "sentence": 6,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 296,
+      "charEnd": 297,
+      "id": 64,
+      "sentence": 6,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 297,
+      "charEnd": 303,
+      "id": 65,
+      "sentence": 6,
+      "text": "Mutter",
+      "word": 3
+    },
+    {
+      "charBegin": 304,
+      "charEnd": 305,
+      "id": 66,
+      "sentence": 6,
+      "text": "–",
+      "word": 4
+    },
+    {
+      "charBegin": 306,
+      "charEnd": 308,
+      "id": 67,
+      "sentence": 6,
+      "text": "es",
+      "word": 5
+    },
+    {
+      "charBegin": 309,
+      "charEnd": 314,
+      "id": 68,
+      "sentence": 6,
+      "text": "pocht",
+      "word": 6
+    },
+    {
+      "charBegin": 315,
+      "charEnd": 322,
+      "id": 69,
+      "sentence": 6,
+      "text": "draußen",
+      "word": 7
+    },
+    {
+      "charBegin": 322,
+      "charEnd": 323,
+      "id": 70,
+      "sentence": 6,
+      "text": "!",
+      "word": 8
+    },
+    {
+      "charBegin": 323,
+      "charEnd": 324,
+      "id": 71,
+      "sentence": 6,
+      "text": "«",
+      "word": 9
+    },
+    {
+      "charBegin": 325,
+      "charEnd": 326,
+      "id": 72,
+      "sentence": 6,
+      "text": "–",
+      "word": 10
+    },
+    {
+      "charBegin": 327,
+      "charEnd": 328,
+      "id": 73,
+      "sentence": 6,
+      "text": "»",
+      "word": 11
+    },
+    {
+      "charBegin": 328,
+      "charEnd": 333,
+      "id": 74,
+      "sentence": 6,
+      "text": "Still",
+      "word": 12
+    },
+    {
+      "charBegin": 333,
+      "charEnd": 334,
+      "id": 75,
+      "sentence": 6,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 335,
+      "charEnd": 344,
+      "id": 76,
+      "sentence": 6,
+      "text": "Fritzchen",
+      "word": 14
+    },
+    {
+      "charBegin": 344,
+      "charEnd": 345,
+      "id": 77,
+      "sentence": 6,
+      "text": ",",
+      "word": 15
+    },
+    {
+      "charBegin": 346,
+      "charEnd": 349,
+      "id": 78,
+      "sentence": 6,
+      "text": "das",
+      "word": 16
+    },
+    {
+      "charBegin": 350,
+      "charEnd": 353,
+      "id": 79,
+      "sentence": 6,
+      "text": "ist",
+      "word": 17
+    },
+    {
+      "charBegin": 354,
+      "charEnd": 357,
+      "id": 80,
+      "sentence": 6,
+      "text": "das",
+      "word": 18
+    },
+    {
+      "charBegin": 358,
+      "charEnd": 365,
+      "id": 81,
+      "sentence": 6,
+      "text": "lockere",
+      "word": 19
+    },
+    {
+      "charBegin": 366,
+      "charEnd": 371,
+      "id": 82,
+      "sentence": 6,
+      "text": "Brett",
+      "word": 20
+    },
+    {
+      "charBegin": 372,
+      "charEnd": 374,
+      "id": 83,
+      "sentence": 6,
+      "text": "im",
+      "word": 21
+    },
+    {
+      "charBegin": 375,
+      "charEnd": 381,
+      "id": 84,
+      "sentence": 6,
+      "text": "Giebel",
+      "word": 22
+    },
+    {
+      "charBegin": 381,
+      "charEnd": 382,
+      "id": 85,
+      "sentence": 6,
+      "text": ",",
+      "word": 23
+    },
+    {
+      "charBegin": 383,
+      "charEnd": 386,
+      "id": 86,
+      "sentence": 6,
+      "text": "das",
+      "word": 24
+    },
+    {
+      "charBegin": 387,
+      "charEnd": 390,
+      "id": 87,
+      "sentence": 6,
+      "text": "der",
+      "word": 25
+    },
+    {
+      "charBegin": 391,
+      "charEnd": 395,
+      "id": 88,
+      "sentence": 6,
+      "text": "Wind",
+      "word": 26
+    },
+    {
+      "charBegin": 396,
+      "charEnd": 400,
+      "id": 89,
+      "sentence": 6,
+      "text": "jagt",
+      "word": 27
+    },
+    {
+      "charBegin": 400,
+      "charEnd": 401,
+      "id": 90,
+      "sentence": 6,
+      "text": ".",
+      "word": 28
+    },
+    {
+      "charBegin": 401,
+      "charEnd": 402,
+      "id": 91,
+      "sentence": 7,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 403,
+      "charEnd": 404,
+      "id": 92,
+      "sentence": 7,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 405,
+      "charEnd": 406,
+      "id": 93,
+      "sentence": 7,
+      "text": "»",
+      "word": 3
+    },
+    {
+      "charBegin": 406,
+      "charEnd": 410,
+      "id": 94,
+      "sentence": 7,
+      "text": "Nein",
+      "word": 4
+    },
+    {
+      "charBegin": 410,
+      "charEnd": 411,
+      "id": 95,
+      "sentence": 7,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 412,
+      "charEnd": 418,
+      "id": 96,
+      "sentence": 7,
+      "text": "Mutter",
+      "word": 6
+    },
+    {
+      "charBegin": 418,
+      "charEnd": 419,
+      "id": 97,
+      "sentence": 7,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 420,
+      "charEnd": 422,
+      "id": 98,
+      "sentence": 7,
+      "text": "an",
+      "word": 8
+    },
+    {
+      "charBegin": 423,
+      "charEnd": 426,
+      "id": 99,
+      "sentence": 7,
+      "text": "der",
+      "word": 9
+    },
+    {
+      "charBegin": 427,
+      "charEnd": 430,
+      "id": 100,
+      "sentence": 7,
+      "text": "Tür",
+      "word": 10
+    },
+    {
+      "charBegin": 430,
+      "charEnd": 431,
+      "id": 101,
+      "sentence": 7,
+      "text": "!",
+      "word": 11
+    },
+    {
+      "charBegin": 431,
+      "charEnd": 432,
+      "id": 102,
+      "sentence": 8,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 433,
+      "charEnd": 434,
+      "id": 103,
+      "sentence": 8,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 435,
+      "charEnd": 436,
+      "id": 104,
+      "sentence": 8,
+      "text": "»",
+      "word": 3
+    },
+    {
+      "charBegin": 436,
+      "charEnd": 439,
+      "id": 105,
+      "sentence": 8,
+      "text": "Sie",
+      "word": 4
+    },
+    {
+      "charBegin": 440,
+      "charEnd": 448,
+      "id": 106,
+      "sentence": 8,
+      "text": "schließt",
+      "word": 5
+    },
+    {
+      "charBegin": 449,
+      "charEnd": 454,
+      "id": 107,
+      "sentence": 8,
+      "text": "nicht",
+      "word": 6
+    },
+    {
+      "charBegin": 454,
+      "charEnd": 455,
+      "id": 108,
+      "sentence": 8,
+      "text": ";",
+      "word": 7
+    },
+    {
+      "charBegin": 456,
+      "charEnd": 459,
+      "id": 109,
+      "sentence": 9,
+      "text": "die",
+      "word": 1
+    },
+    {
+      "charBegin": 460,
+      "charEnd": 466,
+      "id": 110,
+      "sentence": 9,
+      "text": "Klinke",
+      "word": 2
+    },
+    {
+      "charBegin": 467,
+      "charEnd": 470,
+      "id": 111,
+      "sentence": 9,
+      "text": "ist",
+      "word": 3
+    },
+    {
+      "charBegin": 471,
+      "charEnd": 481,
+      "id": 112,
+      "sentence": 9,
+      "text": "zerbrochen",
+      "word": 4
+    },
+    {
+      "charBegin": 481,
+      "charEnd": 482,
+      "id": 113,
+      "sentence": 9,
+      "text": ".",
+      "word": 5
+    },
+    {
+      "charBegin": 483,
+      "charEnd": 487,
+      "id": 114,
+      "sentence": 10,
+      "text": "Gott",
+      "word": 1
+    },
+    {
+      "charBegin": 487,
+      "charEnd": 488,
+      "id": 115,
+      "sentence": 10,
+      "text": ",",
+      "word": 2
+    },
+    {
+      "charBegin": 489,
+      "charEnd": 495,
+      "id": 116,
+      "sentence": 10,
+      "text": "schlaf",
+      "word": 3
+    },
+    {
+      "charBegin": 496,
+      "charEnd": 500,
+      "id": 117,
+      "sentence": 10,
+      "text": "doch",
+      "word": 4
+    },
+    {
+      "charBegin": 500,
+      "charEnd": 501,
+      "id": 118,
+      "sentence": 10,
+      "text": "!",
+      "word": 5
+    }
+  ]
+}

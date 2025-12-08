@@ -19,6 +19,8 @@ from sklearn.model_selection import train_test_split
 import glob
 import copy
 
+from transformers import MT5Tokenizer
+
 #combining annotation tags by authors (converting into a more convenient format)
 #--- full_annotations - the resulting data frame of updated format
 #--- output.json - file, where formated data is being saved
@@ -39,40 +41,140 @@ def combining_annotations_by_authors(data):
     return full_annotations
 
 
-#getting mention span associated with particular participation spans and character:
+#OLD VERSION OF THE FUNCTION! getting mention span associated with particular participation spans and character:
 #--it could be more than 1 mention span!
-def get_mention_spans(participation_spans, full_annotations, author, pers, min_overlap = 2):
+# def get_mention_spans(participation_spans, full_annotations, author, pers, min_overlap = 2):
+    
+#     result_spans = []
+        
+#     # Найдём минимальный старт и максимальный конец всех participation spans
+#     min_part_start = min(span[0] for span in participation_spans)
+#     max_part_end = max(span[1] for span in participation_spans) 
+
+#     for mention in full_annotations[author]["mentions"].get(pers, []):
+#         mention_spans = mention["spans"]
+
+#         # Если все mention_spans начинаются после конца participation_spans — прерываем цикл
+#         if all(start > max_part_end for (start, _) in mention_spans):
+#             break  # упорядочены — дальше пересечений не будет
+
+#         # Если все mention_spans заканчиваются до начала participation — пропускаем
+#         if all(end < min_part_start for (_, end) in mention_spans):
+#             continue
+
+#         for a, b in mention_spans: #a, b - пара чисел (т.е. спан). И так для каждого спана из mention_spans
+#             for c, d in participation_spans:
+#                 if b < c:
+#                     break  # так как упорядочены, дальше смысла проверять нет
+#                 overlap_start = max(a, c)
+#                 overlap_end = min(b, d)
+#                 if overlap_end - overlap_start >= min_overlap: #значит пересеклись
+#                     #result_spans.append([a, b]) - было так. Типа возвращали мэншэн целиком.
+#                     result_spans.append([overlap_start, overlap_end]) # возвращаем именно само пересечение, а не целиком мэншэн
+#                     break #чтобы избежать многократного добавления одного и того жe спана [a, b]
+    
+#     #++++++++++++++=19.11.2025 допускаем что mention участника мог быть не в самой фразе, а до неё:
+#     if not result_spans:    # значит перс в партисипейшен был, но его меншен во фразе не найден. Значит, берём первый ближайший меншен слева от фразы
+#         print(f'For {participation_spans} there is a mention of {pers} outside the corresponding phrase!')
+#         is_mention_outside = True
+        
+#     else:
+#         is_mention_outside = False                  
+    
+    
+#     return result_spans, is_mention_outside #if there is no intersection - returning an empty list.
+
+
+
+
+def get_mention_spans(participation_spans, full_annotations, author, pers, min_overlap=2):
+    """
+    participation_spans: list of [start, end] for текущего participation
+    full_annotations: полный json с аннотациями
+    author: 'gold' / 'author1' / ...
+    pers: имя персонажа (ключ в mentions)
+    min_overlap: минимальная длина пересечения, чтобы считать, что mention лежит внутри фразы
+    """
+    
     
     result_spans = []
-        
-    # Найдём минимальный старт и максимальный конец всех participation spans
-    min_part_start = min(span[0] for span in participation_spans)
-    max_part_end = max(span[1] for span in participation_spans) 
 
-    for mention in full_annotations[author]["mentions"].get(pers, []):
+    # safety
+    if not participation_spans:
+        return [], True
+
+    # общий диапазон фразы (participation)
+    min_part_start = min(span[0] for span in participation_spans)
+    max_part_end   = max(span[1] for span in participation_spans)
+
+    mentions = full_annotations[author]["mentions"].get(pers, [])
+
+    # кандидаты для "ближайшего слева" mention'а
+    nearest_left_mention_spans = None
+    nearest_left_dist = None  # расстояние от конца mention до начала participation
+
+    for mention in mentions:
         mention_spans = mention["spans"]
 
-        # Если все mention_spans начинаются после конца participation_spans — прерываем цикл
-        if all(start > max_part_end for (start, _) in mention_spans):
-            break  # упорядочены — дальше пересечений не будет
-
-        # Если все mention_spans заканчиваются до начала participation — пропускаем
+        # --- 1) кандидаты слева (для fallback) ---
+        # mention целиком слева от participation (все его спаны заканчиваются раньше начала фразы)
         if all(end < min_part_start for (_, end) in mention_spans):
+            # берём правый (максимальный по end) спан этого mention'а, чтобы измерить близость
+            rightmost_span = max(mention_spans, key=lambda s: s[1])
+            dist = min_part_start - rightmost_span[1]
+            if nearest_left_dist is None or dist < nearest_left_dist:
+                nearest_left_dist = dist
+                nearest_left_mention_spans = mention_spans  # сохраним все спаны этого mention'а
+            # этот mention гарантированно не пересекается, переходим к следующему
             continue
 
-        for a, b in mention_spans: #a, b - пара чисел (т.е. спан). И так для каждого спана из mention_spans
-            for c, d in participation_spans:
-                if b < c:
-                    break  # так как упорядочены, дальше смысла проверять нет
-                overlap_start = max(a, c)
-                overlap_end = min(b, d)
-                if overlap_end - overlap_start >= min_overlap: #значит пересеклись
-                    #result_spans.append([a, b]) - было так. Типа возвращали мэншэн целиком.
-                    result_spans.append([overlap_start, overlap_end]) # возвращаем именно само пересечение, а не целиком мэншэн
-                    break #чтобы избежать многократного добавления одного и того жe спана [a, b]
-                    
-    return result_spans #if there is no intersection - returning an empty list.
+        # --- 2) если mention целиком справа от participation, дальше можно прервать цикл ---
+        # (предполагаем, что mentions отсортированы по тексту)
+        if all(start > max_part_end for (start, _) in mention_spans):
+            break
 
+        # --- 3) поиск реального пересечения mention'а с participation ---
+        for a, b in mention_spans:         # спаны mention'а
+            for c, d in participation_spans:  # спаны participation
+                overlap_start = max(a, c)
+                overlap_end   = min(b, d)
+                if overlap_end - overlap_start >= min_overlap:
+                    # возвращаем именно пересечение, а не весь mention-спан
+                    result_spans.append([overlap_start, overlap_end])
+                    # break только из внутреннего цикла по participation_spans,
+                    # чтобы не добавлять одинаковый [a, b] многократно
+                    break
+
+    # --- постобработка / fallback ---
+    # если пересечений не нашли, допускаем, что mention мог быть вне спанов фразы
+    is_mention_outside = False
+
+    if not result_spans:
+        if nearest_left_mention_spans is not None:
+            # не нашли внутри фразы → используем ближайший слева mention
+            # и возвращаем ВСЕ его спаны
+            result_spans = nearest_left_mention_spans[:]  # shallow copy на всякий случай
+            is_mention_outside = True
+            # print(
+            #     f'For {participation_spans} mention of {pers} is outside phrase; '
+            #     f'using nearest left mention spans {nearest_left_mention_spans}'
+            # )
+        else:
+            # персонаж есть в participation, но ни одного mention'а его имени/местоимения
+            # в аннотациях (для данного author) не найдено
+            is_mention_outside = True
+            # print(
+            #     f'For {participation_spans} there is NO mention of {pers} '
+            #     f'in annotations for author "{author}"'
+            # )
+
+    return result_spans, is_mention_outside
+
+
+# def get_outside_mention(participation_spans, full_annotations, author, pers, min_overlap = 2):
+    
+    
+#     return result_spans
 
 
 
@@ -284,34 +386,65 @@ def get_mention_field(mention_spans, formated_full_annotations, category, char):
 #в cur_span_text - накопленный объединённый текст мэншенов,
 #в cur_span_token_ids - накопленные адишник тэгов меншенов
 # 12.08 добавил +1 к tokenEnd, т.к. это поле должно быть на 1 больще реального последнего айдишника, судя по json файлам Финна
-def get_formated_span(span, formated_full_annotations, cur_span_text, cur_span_token_ids):
-    span_start, span_end = span
-    #formated_spans = []
-    #tokenIds = []
-    #tokenTexts = []   
+def get_formated_span(span, formated_full_annotations):
+    span_start, span_end = span   
     tokenBegin, tokenEnd, tmpTokenIds, tmpTokenTexts = get_tokens_for_span(span_start, span_end, formated_full_annotations)
-    #formated_spans.append({"begin": tokenBegin, "charBegin": span_start, "charEnd": span_end, "end": tokenEnd})
-    #TODO: сортировать мб? лучше в конце наверно
-    cur_span_token_ids += tmpTokenIds
-    cur_span_text += tmpTokenTexts
-    #cur_span_text = ' '.join(tokenTexts) #пока решил в конце уже в самом джойнить
-    return {"begin": tokenBegin, "charBegin": span_start, "charEnd": span_end, "end": tokenEnd + 1}, cur_span_text, cur_span_token_ids
+    joined_span_text = ' '.join(tmpTokenTexts)
+    
+    span_obj = {
+        "begin": tokenBegin,
+        "charBegin": span_start,
+        "charEnd": span_end,
+        "end": tokenEnd + 1        
+    }
+     
+    return span_obj, joined_span_text, tmpTokenIds
 
 
 
 
-def get_category_feild_part(category, elem, full_annotations, formated_full_annotations, author = "gold"):
+def get_category_feild_part(category, elem, full_annotations, formated_full_annotations, author = "gold", special_outside_m = None):
     formated_spans = []
-    cur_span_token_ids = []
+    cur_span_token_ids = set()
     cur_span_text = []
+    elem_outside_mentions = 0
+    
+    seen_spans = set() # чисто для чека, чтобы дубли не добавлять
+    
     for char in elem[category]:
-        mention_spans = get_mention_spans(elem["spans"], full_annotations, author, char)
+        mention_spans, is_outside_mention = get_mention_spans(elem["spans"], full_annotations, author, char)
+        if is_outside_mention:
+            elem_outside_mentions += 1
+            # считаем спец-кейсы "crowd" и "background_character"
+            if special_outside_m is not None and char in special_outside_m:
+                special_outside_m[char] += 1
+                
+                
         for span in mention_spans:
-            tmp_span_object, cur_span_text, cur_span_token_ids = get_formated_span(span, formated_full_annotations, cur_span_text, cur_span_token_ids)
-            formated_spans.append(tmp_span_object)
+            span_obj, span_text, span_token_ids = get_formated_span(span, formated_full_annotations)
+            
+            # ключ: полностью определяет "одинаковость" спана
+            span_key = (
+                span_obj["charBegin"],
+                span_obj["charEnd"],
+                span_text,
+                tuple(span_token_ids)
+            )
+            
+            if span_key in seen_spans:
+                print(f'Duplicated span: {span_obj["charBegin"]}, {span_obj["charEnd"]}')
+                continue
+            
+            seen_spans.add(span_key)
+            formated_spans.append(span_obj)
+            cur_span_text.append(span_text)
+            cur_span_token_ids.update(span_token_ids)  # добавляем без дублей
+            
+            
     #сортировка нужна или не? Пока решил что нужна
-    cur_span_token_ids.sort()
-    return {"spans": formated_spans, "text": cur_span_text, "tokenIds": cur_span_token_ids}
+    token_ids_sorted = sorted(cur_span_token_ids)
+    
+    return {"spans": formated_spans, "text": cur_span_text, "tokenIds": token_ids_sorted}, elem_outside_mentions
             
 
 
@@ -376,40 +509,51 @@ def format_text(full_annotations, num_of_file, author = "gold"):
     mentions = full_annotations["gold"]["mentions"]
     participations = full_annotations["gold"]["participations"]    
     pid = 0 #здесь это НЕ НОМЕР PARTICIPATION OBJECT-A, а именно номер отдельного объекта в нашем формате!
+    outside_metions = 0
+    special_outside_m = {"crowd": 0, "background_character": 0} # для статистики outside m по этим двум персонажам
+    
     for elem in participations:
         #phrase_spans = elem["spans"]
         formated_mention = []
         phrase_field = get_phrase_field(elem, formated_full_annotations)
         
-        agentive_field = get_category_feild_part("agentive", elem, full_annotations, formated_full_annotations) 
-        low_agentive_field = get_category_feild_part("low_agentive", elem, full_annotations, formated_full_annotations) 
-        passive_field = get_category_feild_part("passive", elem, full_annotations, formated_full_annotations) 
+        agentive_field, tmp_outside_mentions = get_category_feild_part("agentive", elem, full_annotations, formated_full_annotations, special_outside_m = special_outside_m) 
+        outside_metions += tmp_outside_mentions
+        low_agentive_field, tmp_outside_mentions = get_category_feild_part("low_agentive", elem, full_annotations, formated_full_annotations, special_outside_m = special_outside_m) 
+        outside_metions += tmp_outside_mentions
+        passive_field, tmp_outside_mentions = get_category_feild_part("passive", elem, full_annotations, formated_full_annotations, special_outside_m = special_outside_m) 
+        outside_metions += tmp_outside_mentions
         
-        # for category in ["agentive", "low_agentive", "passive"]:
-        #     for char in elem[category]:
-        #         #получаем упоминание персоанажа в рамках действия:
-        #         mention_spans = get_mention_spans(elem["spans"], full_annotations, author, char)
-                
-        #         category_feild_part = get_mention_field(mention_spans, formated_full_annotations, category, char)
-                
-                
-                #mention_field_part = get_mention_field(mention_spans, formated_full_annotations, category, char)
-                #formated_mention.append(mention_field_part) # собираем мэншэны для каждого из персов в партисипэйшене
         formated_full_annotations["annotations"].append({"phrase": phrase_field, 
-                                                        #"mentions": formated_mention,
                                                         "agentive": agentive_field,
                                                         "low_agentive": low_agentive_field,
                                                         "passive": passive_field,
                                                         "hasNested": False, 
                                                         "id": pid,
                                                         "isNested": False})
-                                                        #"character": char,
-                                                        #"type": category })
+
         pid += 1
     
-    with open(f"formated_output_{num_of_file}.json", 'w', encoding='utf-8') as f:
+    
+    os.makedirs("formated_full_texts", exist_ok= True)
+    filename = os.path.join("formated_full_texts", f'formated_output_{num_of_file}.json')
+    with open(filename, 'w', encoding='utf-8') as f:
         json.dump(formated_full_annotations, f, ensure_ascii=False, indent=2)
             
+    #считаем фразы с пустыми участниками:
+    empty_phrases = get_phrases_with_no_participants(formated_full_annotations)
+    print(f'{formated_full_annotations["documentName"]}: {empty_phrases} empty phrases')
+    
+    #выводим статистику меншенов за границей партисипейшенов:
+    print(f'Cases with the mention outside of the participation spans: {outside_metions}')
+    
+
+    # наша новая статистика по crowd/bg
+    print(
+        "Special outside mentions:",
+        f'crowd={special_outside_m["crowd"]}, '
+        f'background_character={special_outside_m["background_character"]}'
+    )   
     
     return formated_full_annotations
             
@@ -534,11 +678,12 @@ def get_chunk_boundaries(chunk_data):
     return chunk_start_token, chunk_end_token, chunk_start_char, chunk_end_char
 
 
-def normalize_chunk(chunk_data):
+def normalize_chunk(chunk_data, cur_comp_outside_m, cur_partly_outside_m):
     # Определяем границы чанка в токенах и в символах:
     chunk_start_token, chunk_end_token, chunk_start_char, chunk_end_char = get_chunk_boundaries(chunk_data)
     
     first_chunk_sentence_id = chunk_data["sentences"][0]["id"] # для нормализации номера предложения ("sentence") в токенах
+    
     
     # if first_chunk_sentence_id == 100:
     #     print("Babka")
@@ -584,32 +729,110 @@ def normalize_chunk(chunk_data):
                 span["end"] -= chunk_start_token
                 span["charBegin"] -= chunk_start_char
                 span["charEnd"] -= chunk_start_char
+            
+            #заново пересобираем спаны и тексты, избавляясь от невалидных спанов:    
+            normalized_spans = ann["agentive"]["spans"]
+            old_texts = ann["agentive"]["text"]
+            true_spans = []
+            true_texts = []
+            for norm_span, text in zip(normalized_spans, old_texts):
+                if norm_span["charBegin"] < 0:
+                    if norm_span["charEnd"] < 0: # тогда спан полностью слева от чанка
+                        continue
+                    else:   #то есть если конец спана внутри чанка. Тогда пересечение делаем:
+                        norm_span["begin"] = 0 # обрезаем слева
+                        norm_span["charBegin"] = 0
+                        text = chunk_data["originalText"][norm_span["charBegin"]:norm_span["charEnd"]]
+                true_spans.append(norm_span)
+                true_texts.append(text)
+                
+            ann["agentive"]["spans"] = true_spans
+            ann["agentive"]["text"] = true_texts
             ann["agentive"]["tokenIds"] = [tid - chunk_start_token for tid in ann["agentive"]["tokenIds"]]
+            ann["agentive"]["tokenIds"] = [tid for tid in ann["agentive"]["tokenIds"] if tid >= 0]
+                         
+                        
+                
+                
+            
         if ann["low_agentive"]:
             for span in ann["low_agentive"]["spans"]:
                 span["begin"] -= chunk_start_token
                 span["end"] -= chunk_start_token
                 span["charBegin"] -= chunk_start_char
                 span["charEnd"] -= chunk_start_char
+    
+            #заново пересобираем спаны и тексты, избавляясь от невалидных спанов:    
+            normalized_spans = ann["low_agentive"]["spans"]
+            old_texts = ann["low_agentive"]["text"]
+            true_spans = []
+            true_texts = []
+            for norm_span, text in zip(normalized_spans, old_texts):
+                if norm_span["charBegin"] < 0:
+                    if norm_span["charEnd"] < 0: # тогда спан полностью слева от чанка
+                        continue
+                    else:   #то есть если конец спана внутри чанка. Тогда пересечение делаем:
+                        norm_span["begin"] = 0 # обрезаем слева
+                        norm_span["charBegin"] = 0
+                        text = chunk_data["originalText"][norm_span["charBegin"]:norm_span["charEnd"]]
+                true_spans.append(norm_span)
+                true_texts.append(text)
+                
+            ann["low_agentive"]["spans"] = true_spans
+            ann["low_agentive"]["text"] = true_texts
             ann["low_agentive"]["tokenIds"] = [tid - chunk_start_token for tid in ann["low_agentive"]["tokenIds"]]
+            ann["low_agentive"]["tokenIds"] = [tid for tid in ann["low_agentive"]["tokenIds"] if tid >= 0]
+        
+        
+        
+        
         if ann["passive"]:
             for span in ann["passive"]["spans"]:
                 span["begin"] -= chunk_start_token
                 span["end"] -= chunk_start_token
                 span["charBegin"] -= chunk_start_char
                 span["charEnd"] -= chunk_start_char
+            
+            #заново пересобираем спаны и тексты, избавляясь от невалидных спанов:    
+            normalized_spans = ann["passive"]["spans"]
+            old_texts = ann["passive"]["text"]
+            true_spans = []
+            true_texts = []
+            for norm_span, text in zip(normalized_spans, old_texts):
+                if norm_span["charBegin"] < 0:
+                    if norm_span["charEnd"] < 0: # тогда спан полностью слева от чанка
+                        #print(f'The outside mention was completely outside the chunk!')
+                        cur_comp_outside_m += 1
+                        continue
+                    else:   #то есть если конец спана внутри чанка. Тогда пересечение делаем:
+                        #print(f'The outside mention was partly outside the chunk!')
+                        cur_partly_outside_m += 1
+                        norm_span["begin"] = 0 # обрезаем слева
+                        norm_span["charBegin"] = 0
+                        text = chunk_data["originalText"][norm_span["charBegin"]:norm_span["charEnd"]]
+                true_spans.append(norm_span)
+                true_texts.append(text)
+                
+            ann["passive"]["spans"] = true_spans
+            ann["passive"]["text"] = true_texts
             ann["passive"]["tokenIds"] = [tid - chunk_start_token for tid in ann["passive"]["tokenIds"]]
+            ann["passive"]["tokenIds"] = [tid for tid in ann["passive"]["tokenIds"] if tid >= 0]
     
-    return chunk_data            
+    return chunk_data, cur_comp_outside_m, cur_partly_outside_m            
         
 
 
 def split_the_file(num_of_file):
     # === Настройки ===
-    INPUT_FILE = f"formated_output_{num_of_file}.json"  # путь к исходному файлу JSON
+    filename = f"formated_output_{num_of_file}.json"
+    INPUT_FILE = os.path.join("formated_full_texts", filename)  # путь к исходному файлу JSON
     OUTPUT_DIR = "chunks"                  # папка для сохранённых блоков
-    WINDOW_SIZE = 10                     # количество предложений в одном блоке
-    STRIDE = 5                           # шаг между блоками
+    # WINDOW_SIZE = 10                     # количество предложений в одном блоке
+    # STRIDE = 5 
+    WINDOW_SIZE = 6                     # количество предложений в одном блоке
+    STRIDE = 3                          # шаг между блоками
+    DOC_COMP_OUTSIDE_M = 0 # total of completely outside mentions
+    DOC_PARTLY_OUTSIDE_M = 0 # total of partly outside mentions 
 
     
     # === Загрузка данных ===
@@ -668,9 +891,13 @@ def split_the_file(num_of_file):
             "sentences": chunk_sentences,
             "tokens": chunk_tokens
         }
+        
+        if chunk_data["annotations"] == []: 
+            print(f"Empty chunk annotations! {chunk_data['documentName']}")
+            continue
     
         # Нормализуем наш чанк (чтобы все токены и предложения были с нуля для чанка):
-        normalized_chunk_data = normalize_chunk(copy.deepcopy(chunk_data))
+        normalized_chunk_data, DOC_COMP_OUTSIDE_M, DOC_PARTLY_OUTSIDE_M = normalize_chunk(copy.deepcopy(chunk_data), DOC_COMP_OUTSIDE_M, DOC_PARTLY_OUTSIDE_M)
         
         # Сразу проверяем на битые спаны/токены:
         ok, errs = validate_chunk(normalized_chunk_data)
@@ -680,7 +907,7 @@ def split_the_file(num_of_file):
                 print(e)        
     
     
-        filename = f"chunk_{num_of_file}_{i}_{min(i + WINDOW_SIZE, num_sentences)}.json"
+        filename = f"chunk_{num_of_file}_KRAMBAMBULI_{i}_{min(i + WINDOW_SIZE, num_sentences)}.json"
         with open(os.path.join(OUTPUT_DIR, filename), "w", encoding="utf-8") as out_f:
             json.dump(normalized_chunk_data, out_f, ensure_ascii=False, indent=2)
     
@@ -716,8 +943,11 @@ def split_the_file(num_of_file):
             "sentences": chunk_sentences
         }
         
+        if chunk_data["annotations"] == []: 
+            print(f"Empty chunk annotations! {chunk_data['documentName']}")
+        
         # Нормализуем наш чанк (чтобы все токены и предложения были с нуля для чанка):
-        normalized_chunk_data = normalize_chunk(copy.deepcopy(chunk_data))
+        normalized_chunk_data, DOC_COMP_OUTSIDE_M, DOC_PARTLY_OUTSIDE_M = normalize_chunk(copy.deepcopy(chunk_data), DOC_COMP_OUTSIDE_M, DOC_PARTLY_OUTSIDE_M)
         
         # Сразу проверяем на битые спаны/токены:
         ok, errs = validate_chunk(normalized_chunk_data)
@@ -726,11 +956,13 @@ def split_the_file(num_of_file):
             for e in errs:
                 print(e)
         
-        filename = f"chunk_{num_of_file}_{last_start}_end.json"
+        filename = f"chunk_{num_of_file}_KRAMBAMBULI_{last_start}_end.json"
         with open(os.path.join(OUTPUT_DIR, filename), "w", encoding="utf-8") as out_f:
             json.dump(normalized_chunk_data, out_f, ensure_ascii=False, indent=2)
     
     print(f"Разделение завершено. Файлы сохранены в папке '{OUTPUT_DIR}/'")
+    print(f'Общее количество outside меншенов полностью вне чанка: {DOC_COMP_OUTSIDE_M}')
+    print(f'Общее количество outside меншенов частично вне чанка: {DOC_PARTLY_OUTSIDE_M}')    
 
 
             
@@ -785,7 +1017,7 @@ def process_file(filepath, num_of_file):
 
 
 
-def deviding_files_into_train_dev_test(BASE_DIR  = 'chunks'):
+def deviding_files_into_train_dev_test(BASE_DIR  = 'chunks', test_dev_only = True):
     TRAIN_DIR = os.path.join(BASE_DIR, "train")
     DEV_DIR   = os.path.join(BASE_DIR, "dev")
     TEST_DIR  = os.path.join(BASE_DIR, "test")
@@ -794,6 +1026,9 @@ def deviding_files_into_train_dev_test(BASE_DIR  = 'chunks'):
     for folder in [TRAIN_DIR, DEV_DIR, TEST_DIR]:
         os.makedirs(folder, exist_ok=True)
     
+    # for folder in [DEV_DIR, TEST_DIR]:
+    #     os.makedirs(folder, exist_ok=True)
+    
     # Получаем список всех файлов в chunks (исключая подкаталоги)
     all_files = [f for f in os.listdir(BASE_DIR) if os.path.isfile(os.path.join(BASE_DIR, f))]
     
@@ -801,11 +1036,16 @@ def deviding_files_into_train_dev_test(BASE_DIR  = 'chunks'):
     random.seed(42)
     random.shuffle(all_files)
     
-    # Сначала делим на train (80%) и temp (20%)
-    train_files, temp_files = train_test_split(all_files, test_size=0.2, random_state=42)
-    
-    # Потом temp делим поровну на dev и test (10% + 10%)
-    dev_files, test_files = train_test_split(temp_files, test_size=0.5, random_state=42)
+    if test_dev_only:
+        train_files = []
+        dev_files, test_files = train_test_split(all_files, test_size=0.5, random_state=42)
+        
+    else:  
+        # Сначала делим на train (80%) и temp (20%)
+        train_files, temp_files = train_test_split(all_files, test_size=0.2, random_state=42)
+        
+        # Потом temp делим поровну на dev и test (10% + 10%)
+        dev_files, test_files = train_test_split(temp_files, test_size=0.5, random_state=42)
     
     # Функция перемещения файлов
     def move_files(file_list, target_dir):
@@ -826,18 +1066,103 @@ def deviding_files_into_train_dev_test(BASE_DIR  = 'chunks'):
     print(f"Всего после разбиения: {len(train_files) + len(dev_files) + len(test_files)}")
 
 
+#getting count of empty phrases (without any participants in agentive, low_agentive and passive)
+def get_phrases_with_no_participants(formated_full_annotations):
+    count = 0 
+    for elem in formated_full_annotations['annotations']:
+        if all(not elem[field]["spans"] for field in ("agentive", "low_agentive", "passive")):
+            count += 1
+            
+    return count
+
+
+
+
+def calc_avg_tokens_per_sent():
+    formated_texts_dir = 'formated_full_texts'
+    TOTAL_TOKENS = 0
+    TOTAL_SENTENCES = 0
+    tok = MT5Tokenizer.from_pretrained("google/mt5-xl")
+    for file_name in os.listdir(formated_texts_dir):
+        file_path = os.path.join(formated_texts_dir, file_name)
+        with open(file_path, 'r', encoding='UTF-8') as f:
+            data = json.load(f)
+            sentences = data["sentences"]
+            print(f'{data["documentName"]}: {len(sentences)} sentences')
+            TOTAL_SENTENCES += len(sentences)
+            #++++++считаем токены для предложений++++++++
+            for sent in sentences:  # твой список предложений
+                #lengths.append(len(tok.encode(sent["text"], add_special_tokens=False)))
+                token_ids = tok.encode(sent["text"], add_special_tokens=False)
+                TOTAL_TOKENS += len(token_ids)
+                # print(token_ids)
+                # print(tok.convert_ids_to_tokens(token_ids))
+    AVG_TOKENS_PER_SENT = TOTAL_TOKENS / TOTAL_SENTENCES
+    print(f'Avg tokens per sentences: {AVG_TOKENS_PER_SENT}')
+    
+
+def check_dev_test_chunks():
+    file_path = 'test-predicts.jsonlines'
+    TOTAL_COUNT = 0 #total count of missed phrases in predictions, located after last predicted phrase span
+    with open(file_path, 'r', encoding='UTF-8') as f:
+        for line in f:
+            data = json.loads(line)
+            gold_clusters = data["gold_clusters"]
+            predicted_clusters = data["predict_clusters"]
+            cur_count = 0
+            
+            if not predicted_clusters:
+                print(f'\nChunk {data["doc_key"]}: the clusters are empty!')
+                continue
+            
+            predicted_phrase_triplets = [
+                triplet 
+                for cluster in predicted_clusters
+                for triplet in cluster 
+                if triplet[2] == 1
+            ]
+            
+            gold_phrase_triplets = [
+                triplet 
+                for cluster in gold_clusters
+                for triplet in cluster 
+                if triplet[2] == 1
+            ]
+            
+            last_predicted_phrase_begin = predicted_phrase_triplets[-1][0]
+            last_predicted_phrase_end = predicted_phrase_triplets[-1][1]
+            print(f'\nCHUNK: {data["doc_key"]}')
+            print(f'Last predicted phrase: [{last_predicted_phrase_begin}, {last_predicted_phrase_end}]')
+            
+            for triplet in gold_phrase_triplets:
+                if triplet[0] > last_predicted_phrase_end:
+                    cur_count += 1 
+                    print(f'gold phrase missed: [{triplet[0]}, {triplet[1]}]')
+            
+            TOTAL_COUNT += cur_count
+    print(f'Total gold phrases missed after last phrase was predicted: {TOTAL_COUNT}')
+            
+            
+        
+            
+    
 
 def main():
-    delete_old_chunks() # удаляем старые файла вывода
-    num_of_file = 1
-    for filename in os.listdir(INPUT_FOLDER):
-        if filename.endswith(".json"):
-            filepath = os.path.join(INPUT_FOLDER, filename)
-            print(f"🔄 Обработка файла: {filename}")
-            process_file(filepath, num_of_file)
-            num_of_file += 1
+    # delete_old_chunks() # удаляем старые файла вывода
+    # num_of_file = 1
+    # for filename in os.listdir(INPUT_FOLDER):
+    #     if filename.endswith(".json"):
+    #         filepath = os.path.join(INPUT_FOLDER, filename)
+    #         print(f"🔄 Обработка файла: {filename}")
+    #         process_file(filepath, num_of_file)
+    #         num_of_file += 1
     
-    deviding_files_into_train_dev_test()
+    #deviding_files_into_train_dev_test()
+        
+    #calc_avg_tokens_per_sent()
+    
+    check_dev_test_chunks()
+    
 
 main()
 

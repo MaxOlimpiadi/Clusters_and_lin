@@ -1,0 +1,994 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 14,
+            "charBegin": 64,
+            "charEnd": 93,
+            "end": 18
+          }
+        ],
+        "text": "Der Amtsschreiber dachte nach",
+        "tokenIds": [
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 15,
+            "charBegin": 68,
+            "charEnd": 81,
+            "end": 16
+          }
+        ],
+        "text": [
+          "Amtsschreiber"
+        ],
+        "tokenIds": [
+          15
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1204,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 60,
+            "charBegin": 307,
+            "charEnd": 331,
+            "end": 64
+          }
+        ],
+        "text": "Dabei beruhigte man sich",
+        "tokenIds": [
+          60,
+          61,
+          62,
+          63
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1205,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 65,
+            "charBegin": 333,
+            "charEnd": 364,
+            "end": 70
+          }
+        ],
+        "text": "Friedrich war hin , verschwunden",
+        "tokenIds": [
+          65,
+          66,
+          67,
+          68,
+          69
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 65,
+            "charBegin": 333,
+            "charEnd": 342,
+            "end": 66
+          }
+        ],
+        "text": [
+          "Friedrich"
+        ],
+        "tokenIds": [
+          65
+        ]
+      },
+      "hasNested": false,
+      "id": 1206,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__930_940",
+  "originalText": "»und weshalb wäre der Esel von einem Burschen denn gelaufen?« – Der Amtsschreiber dachte nach. – »Nun, vielleicht der Holzfrevel wegen, mit denen wir ja gerade in Untersuchung waren. Heißt es nicht: der Böse läuft vor seinem eigenen Schatten? Mergels Gewissen war schmutzig genug auch ohne diesen Flecken.«\nDabei beruhigte man sich. Friedrich war hin, verschwunden und – Johannes",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 1,
+      "end": 1,
+      "id": 0,
+      "text": "»",
+      "tokenIds": [
+        0
+      ],
+      "tokens": [
+        "»"
+      ]
+    },
+    {
+      "begin": 1,
+      "charBegin": 1,
+      "charEnd": 60,
+      "end": 12,
+      "id": 1,
+      "text": "und weshalb wäre der Esel von einem Burschen denn gelaufen?",
+      "tokenIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokens": [
+        "und",
+        "weshalb",
+        "wäre",
+        "der",
+        "Esel",
+        "von",
+        "einem",
+        "Burschen",
+        "denn",
+        "gelaufen",
+        "?"
+      ]
+    },
+    {
+      "begin": 12,
+      "charBegin": 60,
+      "charEnd": 61,
+      "end": 13,
+      "id": 2,
+      "text": "«",
+      "tokenIds": [
+        12
+      ],
+      "tokens": [
+        "«"
+      ]
+    },
+    {
+      "begin": 13,
+      "charBegin": 62,
+      "charEnd": 63,
+      "end": 14,
+      "id": 3,
+      "text": "–",
+      "tokenIds": [
+        13
+      ],
+      "tokens": [
+        "–"
+      ]
+    },
+    {
+      "begin": 14,
+      "charBegin": 64,
+      "charEnd": 94,
+      "end": 19,
+      "id": 4,
+      "text": "Der Amtsschreiber dachte nach.",
+      "tokenIds": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tokens": [
+        "Der",
+        "Amtsschreiber",
+        "dachte",
+        "nach",
+        "."
+      ]
+    },
+    {
+      "begin": 19,
+      "charBegin": 95,
+      "charEnd": 96,
+      "end": 20,
+      "id": 5,
+      "text": "–",
+      "tokenIds": [
+        19
+      ],
+      "tokens": [
+        "–"
+      ]
+    },
+    {
+      "begin": 20,
+      "charBegin": 97,
+      "charEnd": 182,
+      "end": 37,
+      "id": 6,
+      "text": "»Nun, vielleicht der Holzfrevel wegen, mit denen wir ja gerade in Untersuchung waren.",
+      "tokenIds": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "tokens": [
+        "»",
+        "Nun",
+        ",",
+        "vielleicht",
+        "der",
+        "Holzfrevel",
+        "wegen",
+        ",",
+        "mit",
+        "denen",
+        "wir",
+        "ja",
+        "gerade",
+        "in",
+        "Untersuchung",
+        "waren",
+        "."
+      ]
+    },
+    {
+      "begin": 37,
+      "charBegin": 183,
+      "charEnd": 242,
+      "end": 49,
+      "id": 7,
+      "text": "Heißt es nicht: der Böse läuft vor seinem eigenen Schatten?",
+      "tokenIds": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "tokens": [
+        "Heißt",
+        "es",
+        "nicht",
+        ":",
+        "der",
+        "Böse",
+        "läuft",
+        "vor",
+        "seinem",
+        "eigenen",
+        "Schatten",
+        "?"
+      ]
+    },
+    {
+      "begin": 49,
+      "charBegin": 243,
+      "charEnd": 332,
+      "end": 65,
+      "id": 8,
+      "text": "Mergels Gewissen war schmutzig genug auch ohne diesen Flecken.«\nDabei beruhigte man sich.",
+      "tokenIds": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "tokens": [
+        "Mergels",
+        "Gewissen",
+        "war",
+        "schmutzig",
+        "genug",
+        "auch",
+        "ohne",
+        "diesen",
+        "Flecken",
+        ".",
+        "«",
+        "Dabei",
+        "beruhigte",
+        "man",
+        "sich",
+        "."
+      ]
+    },
+    {
+      "begin": 65,
+      "charBegin": 333,
+      "charEnd": 379,
+      "end": 73,
+      "id": 9,
+      "text": "Friedrich war hin, verschwunden und – Johannes",
+      "tokenIds": [
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "tokens": [
+        "Friedrich",
+        "war",
+        "hin",
+        ",",
+        "verschwunden",
+        "und",
+        "–",
+        "Johannes"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 1,
+      "id": 0,
+      "sentence": 1,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 1,
+      "charEnd": 4,
+      "id": 1,
+      "sentence": 2,
+      "text": "und",
+      "word": 1
+    },
+    {
+      "charBegin": 5,
+      "charEnd": 12,
+      "id": 2,
+      "sentence": 2,
+      "text": "weshalb",
+      "word": 2
+    },
+    {
+      "charBegin": 13,
+      "charEnd": 17,
+      "id": 3,
+      "sentence": 2,
+      "text": "wäre",
+      "word": 3
+    },
+    {
+      "charBegin": 18,
+      "charEnd": 21,
+      "id": 4,
+      "sentence": 2,
+      "text": "der",
+      "word": 4
+    },
+    {
+      "charBegin": 22,
+      "charEnd": 26,
+      "id": 5,
+      "sentence": 2,
+      "text": "Esel",
+      "word": 5
+    },
+    {
+      "charBegin": 27,
+      "charEnd": 30,
+      "id": 6,
+      "sentence": 2,
+      "text": "von",
+      "word": 6
+    },
+    {
+      "charBegin": 31,
+      "charEnd": 36,
+      "id": 7,
+      "sentence": 2,
+      "text": "einem",
+      "word": 7
+    },
+    {
+      "charBegin": 37,
+      "charEnd": 45,
+      "id": 8,
+      "sentence": 2,
+      "text": "Burschen",
+      "word": 8
+    },
+    {
+      "charBegin": 46,
+      "charEnd": 50,
+      "id": 9,
+      "sentence": 2,
+      "text": "denn",
+      "word": 9
+    },
+    {
+      "charBegin": 51,
+      "charEnd": 59,
+      "id": 10,
+      "sentence": 2,
+      "text": "gelaufen",
+      "word": 10
+    },
+    {
+      "charBegin": 59,
+      "charEnd": 60,
+      "id": 11,
+      "sentence": 2,
+      "text": "?",
+      "word": 11
+    },
+    {
+      "charBegin": 60,
+      "charEnd": 61,
+      "id": 12,
+      "sentence": 3,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 62,
+      "charEnd": 63,
+      "id": 13,
+      "sentence": 4,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 64,
+      "charEnd": 67,
+      "id": 14,
+      "sentence": 5,
+      "text": "Der",
+      "word": 1
+    },
+    {
+      "charBegin": 68,
+      "charEnd": 81,
+      "id": 15,
+      "sentence": 5,
+      "text": "Amtsschreiber",
+      "word": 2
+    },
+    {
+      "charBegin": 82,
+      "charEnd": 88,
+      "id": 16,
+      "sentence": 5,
+      "text": "dachte",
+      "word": 3
+    },
+    {
+      "charBegin": 89,
+      "charEnd": 93,
+      "id": 17,
+      "sentence": 5,
+      "text": "nach",
+      "word": 4
+    },
+    {
+      "charBegin": 93,
+      "charEnd": 94,
+      "id": 18,
+      "sentence": 5,
+      "text": ".",
+      "word": 5
+    },
+    {
+      "charBegin": 95,
+      "charEnd": 96,
+      "id": 19,
+      "sentence": 6,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 97,
+      "charEnd": 98,
+      "id": 20,
+      "sentence": 7,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 98,
+      "charEnd": 101,
+      "id": 21,
+      "sentence": 7,
+      "text": "Nun",
+      "word": 2
+    },
+    {
+      "charBegin": 101,
+      "charEnd": 102,
+      "id": 22,
+      "sentence": 7,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 103,
+      "charEnd": 113,
+      "id": 23,
+      "sentence": 7,
+      "text": "vielleicht",
+      "word": 4
+    },
+    {
+      "charBegin": 114,
+      "charEnd": 117,
+      "id": 24,
+      "sentence": 7,
+      "text": "der",
+      "word": 5
+    },
+    {
+      "charBegin": 118,
+      "charEnd": 128,
+      "id": 25,
+      "sentence": 7,
+      "text": "Holzfrevel",
+      "word": 6
+    },
+    {
+      "charBegin": 129,
+      "charEnd": 134,
+      "id": 26,
+      "sentence": 7,
+      "text": "wegen",
+      "word": 7
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 135,
+      "id": 27,
+      "sentence": 7,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 136,
+      "charEnd": 139,
+      "id": 28,
+      "sentence": 7,
+      "text": "mit",
+      "word": 9
+    },
+    {
+      "charBegin": 140,
+      "charEnd": 145,
+      "id": 29,
+      "sentence": 7,
+      "text": "denen",
+      "word": 10
+    },
+    {
+      "charBegin": 146,
+      "charEnd": 149,
+      "id": 30,
+      "sentence": 7,
+      "text": "wir",
+      "word": 11
+    },
+    {
+      "charBegin": 150,
+      "charEnd": 152,
+      "id": 31,
+      "sentence": 7,
+      "text": "ja",
+      "word": 12
+    },
+    {
+      "charBegin": 153,
+      "charEnd": 159,
+      "id": 32,
+      "sentence": 7,
+      "text": "gerade",
+      "word": 13
+    },
+    {
+      "charBegin": 160,
+      "charEnd": 162,
+      "id": 33,
+      "sentence": 7,
+      "text": "in",
+      "word": 14
+    },
+    {
+      "charBegin": 163,
+      "charEnd": 175,
+      "id": 34,
+      "sentence": 7,
+      "text": "Untersuchung",
+      "word": 15
+    },
+    {
+      "charBegin": 176,
+      "charEnd": 181,
+      "id": 35,
+      "sentence": 7,
+      "text": "waren",
+      "word": 16
+    },
+    {
+      "charBegin": 181,
+      "charEnd": 182,
+      "id": 36,
+      "sentence": 7,
+      "text": ".",
+      "word": 17
+    },
+    {
+      "charBegin": 183,
+      "charEnd": 188,
+      "id": 37,
+      "sentence": 8,
+      "text": "Heißt",
+      "word": 1
+    },
+    {
+      "charBegin": 189,
+      "charEnd": 191,
+      "id": 38,
+      "sentence": 8,
+      "text": "es",
+      "word": 2
+    },
+    {
+      "charBegin": 192,
+      "charEnd": 197,
+      "id": 39,
+      "sentence": 8,
+      "text": "nicht",
+      "word": 3
+    },
+    {
+      "charBegin": 197,
+      "charEnd": 198,
+      "id": 40,
+      "sentence": 8,
+      "text": ":",
+      "word": 4
+    },
+    {
+      "charBegin": 199,
+      "charEnd": 202,
+      "id": 41,
+      "sentence": 8,
+      "text": "der",
+      "word": 5
+    },
+    {
+      "charBegin": 203,
+      "charEnd": 207,
+      "id": 42,
+      "sentence": 8,
+      "text": "Böse",
+      "word": 6
+    },
+    {
+      "charBegin": 208,
+      "charEnd": 213,
+      "id": 43,
+      "sentence": 8,
+      "text": "läuft",
+      "word": 7
+    },
+    {
+      "charBegin": 214,
+      "charEnd": 217,
+      "id": 44,
+      "sentence": 8,
+      "text": "vor",
+      "word": 8
+    },
+    {
+      "charBegin": 218,
+      "charEnd": 224,
+      "id": 45,
+      "sentence": 8,
+      "text": "seinem",
+      "word": 9
+    },
+    {
+      "charBegin": 225,
+      "charEnd": 232,
+      "id": 46,
+      "sentence": 8,
+      "text": "eigenen",
+      "word": 10
+    },
+    {
+      "charBegin": 233,
+      "charEnd": 241,
+      "id": 47,
+      "sentence": 8,
+      "text": "Schatten",
+      "word": 11
+    },
+    {
+      "charBegin": 241,
+      "charEnd": 242,
+      "id": 48,
+      "sentence": 8,
+      "text": "?",
+      "word": 12
+    },
+    {
+      "charBegin": 243,
+      "charEnd": 250,
+      "id": 49,
+      "sentence": 9,
+      "text": "Mergels",
+      "word": 1
+    },
+    {
+      "charBegin": 251,
+      "charEnd": 259,
+      "id": 50,
+      "sentence": 9,
+      "text": "Gewissen",
+      "word": 2
+    },
+    {
+      "charBegin": 260,
+      "charEnd": 263,
+      "id": 51,
+      "sentence": 9,
+      "text": "war",
+      "word": 3
+    },
+    {
+      "charBegin": 264,
+      "charEnd": 273,
+      "id": 52,
+      "sentence": 9,
+      "text": "schmutzig",
+      "word": 4
+    },
+    {
+      "charBegin": 274,
+      "charEnd": 279,
+      "id": 53,
+      "sentence": 9,
+      "text": "genug",
+      "word": 5
+    },
+    {
+      "charBegin": 280,
+      "charEnd": 284,
+      "id": 54,
+      "sentence": 9,
+      "text": "auch",
+      "word": 6
+    },
+    {
+      "charBegin": 285,
+      "charEnd": 289,
+      "id": 55,
+      "sentence": 9,
+      "text": "ohne",
+      "word": 7
+    },
+    {
+      "charBegin": 290,
+      "charEnd": 296,
+      "id": 56,
+      "sentence": 9,
+      "text": "diesen",
+      "word": 8
+    },
+    {
+      "charBegin": 297,
+      "charEnd": 304,
+      "id": 57,
+      "sentence": 9,
+      "text": "Flecken",
+      "word": 9
+    },
+    {
+      "charBegin": 304,
+      "charEnd": 305,
+      "id": 58,
+      "sentence": 9,
+      "text": ".",
+      "word": 10
+    },
+    {
+      "charBegin": 305,
+      "charEnd": 306,
+      "id": 59,
+      "sentence": 9,
+      "text": "«",
+      "word": 11
+    },
+    {
+      "charBegin": 307,
+      "charEnd": 312,
+      "id": 60,
+      "sentence": 9,
+      "text": "Dabei",
+      "word": 12
+    },
+    {
+      "charBegin": 313,
+      "charEnd": 322,
+      "id": 61,
+      "sentence": 9,
+      "text": "beruhigte",
+      "word": 13
+    },
+    {
+      "charBegin": 323,
+      "charEnd": 326,
+      "id": 62,
+      "sentence": 9,
+      "text": "man",
+      "word": 14
+    },
+    {
+      "charBegin": 327,
+      "charEnd": 331,
+      "id": 63,
+      "sentence": 9,
+      "text": "sich",
+      "word": 15
+    },
+    {
+      "charBegin": 331,
+      "charEnd": 332,
+      "id": 64,
+      "sentence": 9,
+      "text": ".",
+      "word": 16
+    },
+    {
+      "charBegin": 333,
+      "charEnd": 342,
+      "id": 65,
+      "sentence": 10,
+      "text": "Friedrich",
+      "word": 1
+    },
+    {
+      "charBegin": 343,
+      "charEnd": 346,
+      "id": 66,
+      "sentence": 10,
+      "text": "war",
+      "word": 2
+    },
+    {
+      "charBegin": 347,
+      "charEnd": 350,
+      "id": 67,
+      "sentence": 10,
+      "text": "hin",
+      "word": 3
+    },
+    {
+      "charBegin": 350,
+      "charEnd": 351,
+      "id": 68,
+      "sentence": 10,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 352,
+      "charEnd": 364,
+      "id": 69,
+      "sentence": 10,
+      "text": "verschwunden",
+      "word": 5
+    },
+    {
+      "charBegin": 365,
+      "charEnd": 368,
+      "id": 70,
+      "sentence": 10,
+      "text": "und",
+      "word": 6
+    },
+    {
+      "charBegin": 369,
+      "charEnd": 370,
+      "id": 71,
+      "sentence": 10,
+      "text": "–",
+      "word": 7
+    },
+    {
+      "charBegin": 371,
+      "charEnd": 379,
+      "id": 72,
+      "sentence": 10,
+      "text": "Johannes",
+      "word": 8
+    }
+  ]
+}

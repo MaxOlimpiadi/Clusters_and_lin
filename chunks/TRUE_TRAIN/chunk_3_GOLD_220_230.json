@@ -1,0 +1,3673 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 58,
+            "end": 9
+          }
+        ],
+        "text": "Vielleicht saßen die Eltern mit dem Prokuristen beim Tisch",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 2,
+            "charBegin": 17,
+            "charEnd": 27,
+            "end": 4
+          },
+          {
+            "begin": 2,
+            "charBegin": 17,
+            "charEnd": 27,
+            "end": 4
+          },
+          {
+            "begin": 5,
+            "charBegin": 32,
+            "charEnd": 47,
+            "end": 7
+          }
+        ],
+        "text": [
+          "die Eltern",
+          "die Eltern",
+          "dem Prokuristen"
+        ],
+        "tokenIds": [
+          2,
+          2,
+          3,
+          3,
+          5,
+          6
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 336,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 9,
+            "charBegin": 59,
+            "charEnd": 73,
+            "end": 11
+          }
+        ],
+        "text": "und tuschelten",
+        "tokenIds": [
+          9,
+          10
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 2,
+            "charBegin": 17,
+            "charEnd": 27,
+            "end": 4
+          },
+          {
+            "begin": 2,
+            "charBegin": 17,
+            "charEnd": 27,
+            "end": 4
+          },
+          {
+            "begin": 5,
+            "charBegin": 32,
+            "charEnd": 47,
+            "end": 7
+          }
+        ],
+        "text": [
+          "die Eltern",
+          "die Eltern",
+          "dem Prokuristen"
+        ],
+        "tokenIds": [
+          2,
+          2,
+          3,
+          3,
+          5,
+          6
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 337,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 12,
+            "charBegin": 75,
+            "charEnd": 123,
+            "end": 20
+          }
+        ],
+        "text": "vielleicht lehnten alle an der Türe und horchten",
+        "tokenIds": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 14,
+            "charBegin": 94,
+            "charEnd": 98,
+            "end": 15
+          },
+          {
+            "begin": 14,
+            "charBegin": 94,
+            "charEnd": 98,
+            "end": 15
+          }
+        ],
+        "text": [
+          "alle",
+          "alle"
+        ],
+        "tokenIds": [
+          14,
+          14
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 338,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 21,
+            "charBegin": 126,
+            "charEnd": 178,
+            "end": 31
+          }
+        ],
+        "text": "Gregor schob sich langsam mit dem Sessel zur Tür hin",
+        "tokenIds": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 21,
+            "charBegin": 126,
+            "charEnd": 132,
+            "end": 22
+          },
+          {
+            "begin": 23,
+            "charBegin": 139,
+            "charEnd": 143,
+            "end": 24
+          }
+        ],
+        "text": [
+          "Gregor",
+          "sich"
+        ],
+        "tokenIds": [
+          21,
+          23
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 339,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 32,
+            "charBegin": 180,
+            "charEnd": 197,
+            "end": 36
+          }
+        ],
+        "text": "ließ ihn dort los",
+        "tokenIds": [
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 23,
+            "charBegin": 139,
+            "charEnd": 143,
+            "end": 24
+          }
+        ],
+        "text": [
+          "sich"
+        ],
+        "tokenIds": [
+          23
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 340,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 37,
+            "charBegin": 199,
+            "charEnd": 222,
+            "end": 42
+          }
+        ],
+        "text": "warf sich gegen die Tür",
+        "tokenIds": [
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 38,
+            "charBegin": 204,
+            "charEnd": 208,
+            "end": 39
+          }
+        ],
+        "text": [
+          "sich"
+        ],
+        "tokenIds": [
+          38
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 341,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 43,
+            "charBegin": 224,
+            "charEnd": 250,
+            "end": 48
+          }
+        ],
+        "text": "hielt sich an ihr aufrecht",
+        "tokenIds": [
+          43,
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 44,
+            "charBegin": 230,
+            "charEnd": 234,
+            "end": 45
+          }
+        ],
+        "text": [
+          "sich"
+        ],
+        "tokenIds": [
+          44
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 342,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 49,
+            "charBegin": 253,
+            "charEnd": 306,
+            "end": 57
+          }
+        ],
+        "text": "die Ballen seiner Beinchen hatten ein wenig Klebstoff",
+        "tokenIds": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 51,
+            "charBegin": 264,
+            "charEnd": 270,
+            "end": 52
+          }
+        ],
+        "text": [
+          "seiner"
+        ],
+        "tokenIds": [
+          51
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 343,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 58,
+            "charBegin": 309,
+            "charEnd": 374,
+            "end": 69
+          }
+        ],
+        "text": "und ruhte sich dort einen Augenblick lang von der Anstrengung aus",
+        "tokenIds": [
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 60,
+            "charBegin": 319,
+            "charEnd": 323,
+            "end": 61
+          }
+        ],
+        "text": [
+          "sich"
+        ],
+        "tokenIds": [
+          60
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 344,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 70,
+            "charBegin": 376,
+            "charEnd": 455,
+            "end": 85
+          }
+        ],
+        "text": "Dann aber machte er sich daran , mit dem Mund den Schlüssel im Schloß umzudrehen",
+        "tokenIds": [
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 73,
+            "charBegin": 393,
+            "charEnd": 395,
+            "end": 74
+          },
+          {
+            "begin": 74,
+            "charBegin": 396,
+            "charEnd": 400,
+            "end": 75
+          }
+        ],
+        "text": [
+          "er",
+          "sich"
+        ],
+        "tokenIds": [
+          73,
+          74
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 345,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 86,
+            "charBegin": 457,
+            "charEnd": 473,
+            "end": 89
+          }
+        ],
+        "text": "Es schien leider",
+        "tokenIds": [
+          86,
+          87,
+          88
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 346,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 90,
+            "charBegin": 475,
+            "charEnd": 512,
+            "end": 96
+          }
+        ],
+        "text": "daß er keine eigentlichen Zähne hatte",
+        "tokenIds": [
+          90,
+          91,
+          92,
+          93,
+          94,
+          95
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 91,
+            "charBegin": 479,
+            "charEnd": 481,
+            "end": 92
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          91
+        ]
+      },
+      "hasNested": false,
+      "id": 347,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 98,
+            "charBegin": 516,
+            "charEnd": 559,
+            "end": 105
+          }
+        ],
+        "text": "womit sollte er gleich den Schlüssel fassen",
+        "tokenIds": [
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 100,
+            "charBegin": 529,
+            "charEnd": 531,
+            "end": 101
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          100
+        ]
+      },
+      "hasNested": false,
+      "id": 348,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 107,
+            "charBegin": 563,
+            "charEnd": 610,
+            "end": 115
+          }
+        ],
+        "text": "aber dafür waren die Kiefer freilich sehr stark",
+        "tokenIds": [
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 100,
+            "charBegin": 529,
+            "charEnd": 531,
+            "end": 101
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          100
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 349,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 116,
+            "charBegin": 612,
+            "charEnd": 678,
+            "end": 127
+          }
+        ],
+        "text": "mit ihrer Hilfe brachte er auch wirklich den Schlüssel in Bewegung",
+        "tokenIds": [
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 120,
+            "charBegin": 636,
+            "charEnd": 638,
+            "end": 121
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          120
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 350,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 127,
+            "charBegin": 679,
+            "charEnd": 703,
+            "end": 131
+          }
+        ],
+        "text": "und achtete nicht darauf",
+        "tokenIds": [
+          127,
+          128,
+          129,
+          130
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 120,
+            "charBegin": 636,
+            "charEnd": 638,
+            "end": 121
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          120
+        ]
+      },
+      "hasNested": false,
+      "id": 351,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 132,
+            "charBegin": 705,
+            "charEnd": 755,
+            "end": 139
+          }
+        ],
+        "text": "daß er sich zweifellos irgendeinen Schaden zufügte",
+        "tokenIds": [
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 133,
+            "charBegin": 709,
+            "charEnd": 711,
+            "end": 134
+          },
+          {
+            "begin": 134,
+            "charBegin": 712,
+            "charEnd": 716,
+            "end": 135
+          }
+        ],
+        "text": [
+          "er",
+          "sich"
+        ],
+        "tokenIds": [
+          133,
+          134
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 352,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 140,
+            "charBegin": 757,
+            "charEnd": 806,
+            "end": 149
+          }
+        ],
+        "text": "denn eine braune Flüssigkeit kam ihm aus dem Mund",
+        "tokenIds": [
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 145,
+            "charBegin": 790,
+            "charEnd": 793,
+            "end": 146
+          }
+        ],
+        "text": [
+          "ihm"
+        ],
+        "tokenIds": [
+          145
+        ]
+      },
+      "hasNested": false,
+      "id": 353,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 150,
+            "charBegin": 808,
+            "charEnd": 857,
+            "end": 159
+          }
+        ],
+        "text": "floß über den Schlüssel und tropfte auf den Boden",
+        "tokenIds": [
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 145,
+            "charBegin": 790,
+            "charEnd": 793,
+            "end": 146
+          }
+        ],
+        "text": [
+          "ihm"
+        ],
+        "tokenIds": [
+          145
+        ]
+      },
+      "hasNested": false,
+      "id": 354,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 166,
+            "charBegin": 876,
+            "charEnd": 910,
+            "end": 171
+          }
+        ],
+        "text": "sagte der Prokurist im Nebenzimmer",
+        "tokenIds": [
+          166,
+          167,
+          168,
+          169,
+          170
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 14,
+            "charBegin": 94,
+            "charEnd": 98,
+            "end": 15
+          }
+        ],
+        "text": [
+          "alle"
+        ],
+        "tokenIds": [
+          14
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 355,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 180,
+            "charBegin": 941,
+            "charEnd": 983,
+            "end": 187
+          }
+        ],
+        "text": "Das war für Gregor eine große Aufmunterung",
+        "tokenIds": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 183,
+            "charBegin": 953,
+            "charEnd": 959,
+            "end": 184
+          }
+        ],
+        "text": [
+          "Gregor"
+        ],
+        "tokenIds": [
+          183
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 356,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 188,
+            "charBegin": 985,
+            "charEnd": 1051,
+            "end": 201
+          }
+        ],
+        "text": "aber alle hätten ihm zurufen sollen , auch der Vater und die Mutter",
+        "tokenIds": [
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 189,
+            "charBegin": 990,
+            "charEnd": 994,
+            "end": 190
+          },
+          {
+            "begin": 199,
+            "charBegin": 1041,
+            "charEnd": 1051,
+            "end": 201
+          },
+          {
+            "begin": 189,
+            "charBegin": 990,
+            "charEnd": 994,
+            "end": 190
+          },
+          {
+            "begin": 196,
+            "charBegin": 1027,
+            "charEnd": 1036,
+            "end": 198
+          },
+          {
+            "begin": 189,
+            "charBegin": 990,
+            "charEnd": 994,
+            "end": 190
+          }
+        ],
+        "text": [
+          "alle",
+          "die Mutter",
+          "alle",
+          "der Vater",
+          "alle"
+        ],
+        "tokenIds": [
+          189,
+          189,
+          189,
+          196,
+          197,
+          199,
+          200
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 357,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 208,
+            "charBegin": 1071,
+            "charEnd": 1094,
+            "end": 212
+          }
+        ],
+        "text": "hätten sie rufen sollen",
+        "tokenIds": [
+          208,
+          209,
+          210,
+          211
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 199,
+            "charBegin": 1041,
+            "charEnd": 1051,
+            "end": 201
+          },
+          {
+            "begin": 196,
+            "charBegin": 1027,
+            "charEnd": 1036,
+            "end": 198
+          },
+          {
+            "begin": 189,
+            "charBegin": 990,
+            "charEnd": 994,
+            "end": 190
+          }
+        ],
+        "text": [
+          "die Mutter",
+          "der Vater",
+          "alle"
+        ],
+        "tokenIds": [
+          189,
+          196,
+          197,
+          199,
+          200
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 358,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Verwandlung__220_230",
+  "originalText": "Vielleicht saßen die Eltern mit dem Prokuristen beim Tisch und tuschelten, vielleicht lehnten alle an der Türe und horchten.\n\nGregor schob sich langsam mit dem Sessel zur Tür hin, ließ ihn dort los, warf sich gegen die Tür, hielt sich an ihr aufrecht - die Ballen seiner Beinchen hatten ein wenig Klebstoff - und ruhte sich dort einen Augenblick lang von der Anstrengung aus. Dann aber machte er sich daran, mit dem Mund den Schlüssel im Schloß umzudrehen. Es schien leider, daß er keine eigentlichen Zähne hatte, - womit sollte er gleich den Schlüssel fassen? - aber dafür waren die Kiefer freilich sehr stark; mit ihrer Hilfe brachte er auch wirklich den Schlüssel in Bewegung und achtete nicht darauf, daß er sich zweifellos irgendeinen Schaden zufügte, denn eine braune Flüssigkeit kam ihm aus dem Mund, floß über den Schlüssel und tropfte auf den Boden. »Hören Sie nur,« sagte der Prokurist im Nebenzimmer, »er dreht den Schlüssel um.« Das war für Gregor eine große Aufmunterung; aber alle hätten ihm zurufen sollen, auch der Vater und die Mutter: »Frisch, Gregor,« hätten sie rufen sollen, »immer nur heran, fest an das Schloß heran!«",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 124,
+      "end": 21,
+      "id": 0,
+      "text": "Vielleicht saßen die Eltern mit dem Prokuristen beim Tisch und tuschelten, vielleicht lehnten alle an der Türe und horchten.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokens": [
+        "Vielleicht",
+        "saßen",
+        "die",
+        "Eltern",
+        "mit",
+        "dem",
+        "Prokuristen",
+        "beim",
+        "Tisch",
+        "und",
+        "tuschelten",
+        ",",
+        "vielleicht",
+        "lehnten",
+        "alle",
+        "an",
+        "der",
+        "Türe",
+        "und",
+        "horchten",
+        "."
+      ]
+    },
+    {
+      "begin": 21,
+      "charBegin": 124,
+      "charEnd": 375,
+      "end": 70,
+      "id": 1,
+      "text": "\n\nGregor schob sich langsam mit dem Sessel zur Tür hin, ließ ihn dort los, warf sich gegen die Tür, hielt sich an ihr aufrecht - die Ballen seiner Beinchen hatten ein wenig Klebstoff - und ruhte sich dort einen Augenblick lang von der Anstrengung aus.",
+      "tokenIds": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "tokens": [
+        "Gregor",
+        "schob",
+        "sich",
+        "langsam",
+        "mit",
+        "dem",
+        "Sessel",
+        "zur",
+        "Tür",
+        "hin",
+        ",",
+        "ließ",
+        "ihn",
+        "dort",
+        "los",
+        ",",
+        "warf",
+        "sich",
+        "gegen",
+        "die",
+        "Tür",
+        ",",
+        "hielt",
+        "sich",
+        "an",
+        "ihr",
+        "aufrecht",
+        "-",
+        "die",
+        "Ballen",
+        "seiner",
+        "Beinchen",
+        "hatten",
+        "ein",
+        "wenig",
+        "Klebstoff",
+        "-",
+        "und",
+        "ruhte",
+        "sich",
+        "dort",
+        "einen",
+        "Augenblick",
+        "lang",
+        "von",
+        "der",
+        "Anstrengung",
+        "aus",
+        "."
+      ]
+    },
+    {
+      "begin": 70,
+      "charBegin": 376,
+      "charEnd": 456,
+      "end": 86,
+      "id": 2,
+      "text": "Dann aber machte er sich daran, mit dem Mund den Schlüssel im Schloß umzudrehen.",
+      "tokenIds": [
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "tokens": [
+        "Dann",
+        "aber",
+        "machte",
+        "er",
+        "sich",
+        "daran",
+        ",",
+        "mit",
+        "dem",
+        "Mund",
+        "den",
+        "Schlüssel",
+        "im",
+        "Schloß",
+        "umzudrehen",
+        "."
+      ]
+    },
+    {
+      "begin": 86,
+      "charBegin": 457,
+      "charEnd": 560,
+      "end": 106,
+      "id": 3,
+      "text": "Es schien leider, daß er keine eigentlichen Zähne hatte, - womit sollte er gleich den Schlüssel fassen?",
+      "tokenIds": [
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105
+      ],
+      "tokens": [
+        "Es",
+        "schien",
+        "leider",
+        ",",
+        "daß",
+        "er",
+        "keine",
+        "eigentlichen",
+        "Zähne",
+        "hatte",
+        ",",
+        "-",
+        "womit",
+        "sollte",
+        "er",
+        "gleich",
+        "den",
+        "Schlüssel",
+        "fassen",
+        "?"
+      ]
+    },
+    {
+      "begin": 106,
+      "charBegin": 561,
+      "charEnd": 611,
+      "end": 116,
+      "id": 4,
+      "text": "- aber dafür waren die Kiefer freilich sehr stark;",
+      "tokenIds": [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "tokens": [
+        "-",
+        "aber",
+        "dafür",
+        "waren",
+        "die",
+        "Kiefer",
+        "freilich",
+        "sehr",
+        "stark",
+        ";"
+      ]
+    },
+    {
+      "begin": 116,
+      "charBegin": 612,
+      "charEnd": 858,
+      "end": 160,
+      "id": 5,
+      "text": "mit ihrer Hilfe brachte er auch wirklich den Schlüssel in Bewegung und achtete nicht darauf, daß er sich zweifellos irgendeinen Schaden zufügte, denn eine braune Flüssigkeit kam ihm aus dem Mund, floß über den Schlüssel und tropfte auf den Boden.",
+      "tokenIds": [
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159
+      ],
+      "tokens": [
+        "mit",
+        "ihrer",
+        "Hilfe",
+        "brachte",
+        "er",
+        "auch",
+        "wirklich",
+        "den",
+        "Schlüssel",
+        "in",
+        "Bewegung",
+        "und",
+        "achtete",
+        "nicht",
+        "darauf",
+        ",",
+        "daß",
+        "er",
+        "sich",
+        "zweifellos",
+        "irgendeinen",
+        "Schaden",
+        "zufügte",
+        ",",
+        "denn",
+        "eine",
+        "braune",
+        "Flüssigkeit",
+        "kam",
+        "ihm",
+        "aus",
+        "dem",
+        "Mund",
+        ",",
+        "floß",
+        "über",
+        "den",
+        "Schlüssel",
+        "und",
+        "tropfte",
+        "auf",
+        "den",
+        "Boden",
+        "."
+      ]
+    },
+    {
+      "begin": 160,
+      "charBegin": 859,
+      "charEnd": 940,
+      "end": 180,
+      "id": 6,
+      "text": "»Hören Sie nur,« sagte der Prokurist im Nebenzimmer, »er dreht den Schlüssel um.«",
+      "tokenIds": [
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179
+      ],
+      "tokens": [
+        "»",
+        "Hören",
+        "Sie",
+        "nur",
+        ",",
+        "«",
+        "sagte",
+        "der",
+        "Prokurist",
+        "im",
+        "Nebenzimmer",
+        ",",
+        "»",
+        "er",
+        "dreht",
+        "den",
+        "Schlüssel",
+        "um",
+        ".",
+        "«"
+      ]
+    },
+    {
+      "begin": 180,
+      "charBegin": 941,
+      "charEnd": 984,
+      "end": 188,
+      "id": 7,
+      "text": "Das war für Gregor eine große Aufmunterung;",
+      "tokenIds": [
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187
+      ],
+      "tokens": [
+        "Das",
+        "war",
+        "für",
+        "Gregor",
+        "eine",
+        "große",
+        "Aufmunterung",
+        ";"
+      ]
+    },
+    {
+      "begin": 188,
+      "charBegin": 985,
+      "charEnd": 1052,
+      "end": 202,
+      "id": 8,
+      "text": "aber alle hätten ihm zurufen sollen, auch der Vater und die Mutter:",
+      "tokenIds": [
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201
+      ],
+      "tokens": [
+        "aber",
+        "alle",
+        "hätten",
+        "ihm",
+        "zurufen",
+        "sollen",
+        ",",
+        "auch",
+        "der",
+        "Vater",
+        "und",
+        "die",
+        "Mutter",
+        ":"
+      ]
+    },
+    {
+      "begin": 202,
+      "charBegin": 1053,
+      "charEnd": 1140,
+      "end": 225,
+      "id": 9,
+      "text": "»Frisch, Gregor,« hätten sie rufen sollen, »immer nur heran, fest an das Schloß heran!«",
+      "tokenIds": [
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224
+      ],
+      "tokens": [
+        "»",
+        "Frisch",
+        ",",
+        "Gregor",
+        ",",
+        "«",
+        "hätten",
+        "sie",
+        "rufen",
+        "sollen",
+        ",",
+        "»",
+        "immer",
+        "nur",
+        "heran",
+        ",",
+        "fest",
+        "an",
+        "das",
+        "Schloß",
+        "heran",
+        "!",
+        "«"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 10,
+      "id": 0,
+      "sentence": 1,
+      "text": "Vielleicht",
+      "word": 1
+    },
+    {
+      "charBegin": 11,
+      "charEnd": 16,
+      "id": 1,
+      "sentence": 1,
+      "text": "saßen",
+      "word": 2
+    },
+    {
+      "charBegin": 17,
+      "charEnd": 20,
+      "id": 2,
+      "sentence": 1,
+      "text": "die",
+      "word": 3
+    },
+    {
+      "charBegin": 21,
+      "charEnd": 27,
+      "id": 3,
+      "sentence": 1,
+      "text": "Eltern",
+      "word": 4
+    },
+    {
+      "charBegin": 28,
+      "charEnd": 31,
+      "id": 4,
+      "sentence": 1,
+      "text": "mit",
+      "word": 5
+    },
+    {
+      "charBegin": 32,
+      "charEnd": 35,
+      "id": 5,
+      "sentence": 1,
+      "text": "dem",
+      "word": 6
+    },
+    {
+      "charBegin": 36,
+      "charEnd": 47,
+      "id": 6,
+      "sentence": 1,
+      "text": "Prokuristen",
+      "word": 7
+    },
+    {
+      "charBegin": 48,
+      "charEnd": 52,
+      "id": 7,
+      "sentence": 1,
+      "text": "beim",
+      "word": 8
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 58,
+      "id": 8,
+      "sentence": 1,
+      "text": "Tisch",
+      "word": 9
+    },
+    {
+      "charBegin": 59,
+      "charEnd": 62,
+      "id": 9,
+      "sentence": 1,
+      "text": "und",
+      "word": 10
+    },
+    {
+      "charBegin": 63,
+      "charEnd": 73,
+      "id": 10,
+      "sentence": 1,
+      "text": "tuschelten",
+      "word": 11
+    },
+    {
+      "charBegin": 73,
+      "charEnd": 74,
+      "id": 11,
+      "sentence": 1,
+      "text": ",",
+      "word": 12
+    },
+    {
+      "charBegin": 75,
+      "charEnd": 85,
+      "id": 12,
+      "sentence": 1,
+      "text": "vielleicht",
+      "word": 13
+    },
+    {
+      "charBegin": 86,
+      "charEnd": 93,
+      "id": 13,
+      "sentence": 1,
+      "text": "lehnten",
+      "word": 14
+    },
+    {
+      "charBegin": 94,
+      "charEnd": 98,
+      "id": 14,
+      "sentence": 1,
+      "text": "alle",
+      "word": 15
+    },
+    {
+      "charBegin": 99,
+      "charEnd": 101,
+      "id": 15,
+      "sentence": 1,
+      "text": "an",
+      "word": 16
+    },
+    {
+      "charBegin": 102,
+      "charEnd": 105,
+      "id": 16,
+      "sentence": 1,
+      "text": "der",
+      "word": 17
+    },
+    {
+      "charBegin": 106,
+      "charEnd": 110,
+      "id": 17,
+      "sentence": 1,
+      "text": "Türe",
+      "word": 18
+    },
+    {
+      "charBegin": 111,
+      "charEnd": 114,
+      "id": 18,
+      "sentence": 1,
+      "text": "und",
+      "word": 19
+    },
+    {
+      "charBegin": 115,
+      "charEnd": 123,
+      "id": 19,
+      "sentence": 1,
+      "text": "horchten",
+      "word": 20
+    },
+    {
+      "charBegin": 123,
+      "charEnd": 124,
+      "id": 20,
+      "sentence": 1,
+      "text": ".",
+      "word": 21
+    },
+    {
+      "charBegin": 126,
+      "charEnd": 132,
+      "id": 21,
+      "sentence": 2,
+      "text": "Gregor",
+      "word": 1
+    },
+    {
+      "charBegin": 133,
+      "charEnd": 138,
+      "id": 22,
+      "sentence": 2,
+      "text": "schob",
+      "word": 2
+    },
+    {
+      "charBegin": 139,
+      "charEnd": 143,
+      "id": 23,
+      "sentence": 2,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 144,
+      "charEnd": 151,
+      "id": 24,
+      "sentence": 2,
+      "text": "langsam",
+      "word": 4
+    },
+    {
+      "charBegin": 152,
+      "charEnd": 155,
+      "id": 25,
+      "sentence": 2,
+      "text": "mit",
+      "word": 5
+    },
+    {
+      "charBegin": 156,
+      "charEnd": 159,
+      "id": 26,
+      "sentence": 2,
+      "text": "dem",
+      "word": 6
+    },
+    {
+      "charBegin": 160,
+      "charEnd": 166,
+      "id": 27,
+      "sentence": 2,
+      "text": "Sessel",
+      "word": 7
+    },
+    {
+      "charBegin": 167,
+      "charEnd": 170,
+      "id": 28,
+      "sentence": 2,
+      "text": "zur",
+      "word": 8
+    },
+    {
+      "charBegin": 171,
+      "charEnd": 174,
+      "id": 29,
+      "sentence": 2,
+      "text": "Tür",
+      "word": 9
+    },
+    {
+      "charBegin": 175,
+      "charEnd": 178,
+      "id": 30,
+      "sentence": 2,
+      "text": "hin",
+      "word": 10
+    },
+    {
+      "charBegin": 178,
+      "charEnd": 179,
+      "id": 31,
+      "sentence": 2,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 180,
+      "charEnd": 184,
+      "id": 32,
+      "sentence": 2,
+      "text": "ließ",
+      "word": 12
+    },
+    {
+      "charBegin": 185,
+      "charEnd": 188,
+      "id": 33,
+      "sentence": 2,
+      "text": "ihn",
+      "word": 13
+    },
+    {
+      "charBegin": 189,
+      "charEnd": 193,
+      "id": 34,
+      "sentence": 2,
+      "text": "dort",
+      "word": 14
+    },
+    {
+      "charBegin": 194,
+      "charEnd": 197,
+      "id": 35,
+      "sentence": 2,
+      "text": "los",
+      "word": 15
+    },
+    {
+      "charBegin": 197,
+      "charEnd": 198,
+      "id": 36,
+      "sentence": 2,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 199,
+      "charEnd": 203,
+      "id": 37,
+      "sentence": 2,
+      "text": "warf",
+      "word": 17
+    },
+    {
+      "charBegin": 204,
+      "charEnd": 208,
+      "id": 38,
+      "sentence": 2,
+      "text": "sich",
+      "word": 18
+    },
+    {
+      "charBegin": 209,
+      "charEnd": 214,
+      "id": 39,
+      "sentence": 2,
+      "text": "gegen",
+      "word": 19
+    },
+    {
+      "charBegin": 215,
+      "charEnd": 218,
+      "id": 40,
+      "sentence": 2,
+      "text": "die",
+      "word": 20
+    },
+    {
+      "charBegin": 219,
+      "charEnd": 222,
+      "id": 41,
+      "sentence": 2,
+      "text": "Tür",
+      "word": 21
+    },
+    {
+      "charBegin": 222,
+      "charEnd": 223,
+      "id": 42,
+      "sentence": 2,
+      "text": ",",
+      "word": 22
+    },
+    {
+      "charBegin": 224,
+      "charEnd": 229,
+      "id": 43,
+      "sentence": 2,
+      "text": "hielt",
+      "word": 23
+    },
+    {
+      "charBegin": 230,
+      "charEnd": 234,
+      "id": 44,
+      "sentence": 2,
+      "text": "sich",
+      "word": 24
+    },
+    {
+      "charBegin": 235,
+      "charEnd": 237,
+      "id": 45,
+      "sentence": 2,
+      "text": "an",
+      "word": 25
+    },
+    {
+      "charBegin": 238,
+      "charEnd": 241,
+      "id": 46,
+      "sentence": 2,
+      "text": "ihr",
+      "word": 26
+    },
+    {
+      "charBegin": 242,
+      "charEnd": 250,
+      "id": 47,
+      "sentence": 2,
+      "text": "aufrecht",
+      "word": 27
+    },
+    {
+      "charBegin": 251,
+      "charEnd": 252,
+      "id": 48,
+      "sentence": 2,
+      "text": "-",
+      "word": 28
+    },
+    {
+      "charBegin": 253,
+      "charEnd": 256,
+      "id": 49,
+      "sentence": 2,
+      "text": "die",
+      "word": 29
+    },
+    {
+      "charBegin": 257,
+      "charEnd": 263,
+      "id": 50,
+      "sentence": 2,
+      "text": "Ballen",
+      "word": 30
+    },
+    {
+      "charBegin": 264,
+      "charEnd": 270,
+      "id": 51,
+      "sentence": 2,
+      "text": "seiner",
+      "word": 31
+    },
+    {
+      "charBegin": 271,
+      "charEnd": 279,
+      "id": 52,
+      "sentence": 2,
+      "text": "Beinchen",
+      "word": 32
+    },
+    {
+      "charBegin": 280,
+      "charEnd": 286,
+      "id": 53,
+      "sentence": 2,
+      "text": "hatten",
+      "word": 33
+    },
+    {
+      "charBegin": 287,
+      "charEnd": 290,
+      "id": 54,
+      "sentence": 2,
+      "text": "ein",
+      "word": 34
+    },
+    {
+      "charBegin": 291,
+      "charEnd": 296,
+      "id": 55,
+      "sentence": 2,
+      "text": "wenig",
+      "word": 35
+    },
+    {
+      "charBegin": 297,
+      "charEnd": 306,
+      "id": 56,
+      "sentence": 2,
+      "text": "Klebstoff",
+      "word": 36
+    },
+    {
+      "charBegin": 307,
+      "charEnd": 308,
+      "id": 57,
+      "sentence": 2,
+      "text": "-",
+      "word": 37
+    },
+    {
+      "charBegin": 309,
+      "charEnd": 312,
+      "id": 58,
+      "sentence": 2,
+      "text": "und",
+      "word": 38
+    },
+    {
+      "charBegin": 313,
+      "charEnd": 318,
+      "id": 59,
+      "sentence": 2,
+      "text": "ruhte",
+      "word": 39
+    },
+    {
+      "charBegin": 319,
+      "charEnd": 323,
+      "id": 60,
+      "sentence": 2,
+      "text": "sich",
+      "word": 40
+    },
+    {
+      "charBegin": 324,
+      "charEnd": 328,
+      "id": 61,
+      "sentence": 2,
+      "text": "dort",
+      "word": 41
+    },
+    {
+      "charBegin": 329,
+      "charEnd": 334,
+      "id": 62,
+      "sentence": 2,
+      "text": "einen",
+      "word": 42
+    },
+    {
+      "charBegin": 335,
+      "charEnd": 345,
+      "id": 63,
+      "sentence": 2,
+      "text": "Augenblick",
+      "word": 43
+    },
+    {
+      "charBegin": 346,
+      "charEnd": 350,
+      "id": 64,
+      "sentence": 2,
+      "text": "lang",
+      "word": 44
+    },
+    {
+      "charBegin": 351,
+      "charEnd": 354,
+      "id": 65,
+      "sentence": 2,
+      "text": "von",
+      "word": 45
+    },
+    {
+      "charBegin": 355,
+      "charEnd": 358,
+      "id": 66,
+      "sentence": 2,
+      "text": "der",
+      "word": 46
+    },
+    {
+      "charBegin": 359,
+      "charEnd": 370,
+      "id": 67,
+      "sentence": 2,
+      "text": "Anstrengung",
+      "word": 47
+    },
+    {
+      "charBegin": 371,
+      "charEnd": 374,
+      "id": 68,
+      "sentence": 2,
+      "text": "aus",
+      "word": 48
+    },
+    {
+      "charBegin": 374,
+      "charEnd": 375,
+      "id": 69,
+      "sentence": 2,
+      "text": ".",
+      "word": 49
+    },
+    {
+      "charBegin": 376,
+      "charEnd": 380,
+      "id": 70,
+      "sentence": 3,
+      "text": "Dann",
+      "word": 1
+    },
+    {
+      "charBegin": 381,
+      "charEnd": 385,
+      "id": 71,
+      "sentence": 3,
+      "text": "aber",
+      "word": 2
+    },
+    {
+      "charBegin": 386,
+      "charEnd": 392,
+      "id": 72,
+      "sentence": 3,
+      "text": "machte",
+      "word": 3
+    },
+    {
+      "charBegin": 393,
+      "charEnd": 395,
+      "id": 73,
+      "sentence": 3,
+      "text": "er",
+      "word": 4
+    },
+    {
+      "charBegin": 396,
+      "charEnd": 400,
+      "id": 74,
+      "sentence": 3,
+      "text": "sich",
+      "word": 5
+    },
+    {
+      "charBegin": 401,
+      "charEnd": 406,
+      "id": 75,
+      "sentence": 3,
+      "text": "daran",
+      "word": 6
+    },
+    {
+      "charBegin": 406,
+      "charEnd": 407,
+      "id": 76,
+      "sentence": 3,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 408,
+      "charEnd": 411,
+      "id": 77,
+      "sentence": 3,
+      "text": "mit",
+      "word": 8
+    },
+    {
+      "charBegin": 412,
+      "charEnd": 415,
+      "id": 78,
+      "sentence": 3,
+      "text": "dem",
+      "word": 9
+    },
+    {
+      "charBegin": 416,
+      "charEnd": 420,
+      "id": 79,
+      "sentence": 3,
+      "text": "Mund",
+      "word": 10
+    },
+    {
+      "charBegin": 421,
+      "charEnd": 424,
+      "id": 80,
+      "sentence": 3,
+      "text": "den",
+      "word": 11
+    },
+    {
+      "charBegin": 425,
+      "charEnd": 434,
+      "id": 81,
+      "sentence": 3,
+      "text": "Schlüssel",
+      "word": 12
+    },
+    {
+      "charBegin": 435,
+      "charEnd": 437,
+      "id": 82,
+      "sentence": 3,
+      "text": "im",
+      "word": 13
+    },
+    {
+      "charBegin": 438,
+      "charEnd": 444,
+      "id": 83,
+      "sentence": 3,
+      "text": "Schloß",
+      "word": 14
+    },
+    {
+      "charBegin": 445,
+      "charEnd": 455,
+      "id": 84,
+      "sentence": 3,
+      "text": "umzudrehen",
+      "word": 15
+    },
+    {
+      "charBegin": 455,
+      "charEnd": 456,
+      "id": 85,
+      "sentence": 3,
+      "text": ".",
+      "word": 16
+    },
+    {
+      "charBegin": 457,
+      "charEnd": 459,
+      "id": 86,
+      "sentence": 4,
+      "text": "Es",
+      "word": 1
+    },
+    {
+      "charBegin": 460,
+      "charEnd": 466,
+      "id": 87,
+      "sentence": 4,
+      "text": "schien",
+      "word": 2
+    },
+    {
+      "charBegin": 467,
+      "charEnd": 473,
+      "id": 88,
+      "sentence": 4,
+      "text": "leider",
+      "word": 3
+    },
+    {
+      "charBegin": 473,
+      "charEnd": 474,
+      "id": 89,
+      "sentence": 4,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 475,
+      "charEnd": 478,
+      "id": 90,
+      "sentence": 4,
+      "text": "daß",
+      "word": 5
+    },
+    {
+      "charBegin": 479,
+      "charEnd": 481,
+      "id": 91,
+      "sentence": 4,
+      "text": "er",
+      "word": 6
+    },
+    {
+      "charBegin": 482,
+      "charEnd": 487,
+      "id": 92,
+      "sentence": 4,
+      "text": "keine",
+      "word": 7
+    },
+    {
+      "charBegin": 488,
+      "charEnd": 500,
+      "id": 93,
+      "sentence": 4,
+      "text": "eigentlichen",
+      "word": 8
+    },
+    {
+      "charBegin": 501,
+      "charEnd": 506,
+      "id": 94,
+      "sentence": 4,
+      "text": "Zähne",
+      "word": 9
+    },
+    {
+      "charBegin": 507,
+      "charEnd": 512,
+      "id": 95,
+      "sentence": 4,
+      "text": "hatte",
+      "word": 10
+    },
+    {
+      "charBegin": 512,
+      "charEnd": 513,
+      "id": 96,
+      "sentence": 4,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 514,
+      "charEnd": 515,
+      "id": 97,
+      "sentence": 4,
+      "text": "-",
+      "word": 12
+    },
+    {
+      "charBegin": 516,
+      "charEnd": 521,
+      "id": 98,
+      "sentence": 4,
+      "text": "womit",
+      "word": 13
+    },
+    {
+      "charBegin": 522,
+      "charEnd": 528,
+      "id": 99,
+      "sentence": 4,
+      "text": "sollte",
+      "word": 14
+    },
+    {
+      "charBegin": 529,
+      "charEnd": 531,
+      "id": 100,
+      "sentence": 4,
+      "text": "er",
+      "word": 15
+    },
+    {
+      "charBegin": 532,
+      "charEnd": 538,
+      "id": 101,
+      "sentence": 4,
+      "text": "gleich",
+      "word": 16
+    },
+    {
+      "charBegin": 539,
+      "charEnd": 542,
+      "id": 102,
+      "sentence": 4,
+      "text": "den",
+      "word": 17
+    },
+    {
+      "charBegin": 543,
+      "charEnd": 552,
+      "id": 103,
+      "sentence": 4,
+      "text": "Schlüssel",
+      "word": 18
+    },
+    {
+      "charBegin": 553,
+      "charEnd": 559,
+      "id": 104,
+      "sentence": 4,
+      "text": "fassen",
+      "word": 19
+    },
+    {
+      "charBegin": 559,
+      "charEnd": 560,
+      "id": 105,
+      "sentence": 4,
+      "text": "?",
+      "word": 20
+    },
+    {
+      "charBegin": 561,
+      "charEnd": 562,
+      "id": 106,
+      "sentence": 5,
+      "text": "-",
+      "word": 1
+    },
+    {
+      "charBegin": 563,
+      "charEnd": 567,
+      "id": 107,
+      "sentence": 5,
+      "text": "aber",
+      "word": 2
+    },
+    {
+      "charBegin": 568,
+      "charEnd": 573,
+      "id": 108,
+      "sentence": 5,
+      "text": "dafür",
+      "word": 3
+    },
+    {
+      "charBegin": 574,
+      "charEnd": 579,
+      "id": 109,
+      "sentence": 5,
+      "text": "waren",
+      "word": 4
+    },
+    {
+      "charBegin": 580,
+      "charEnd": 583,
+      "id": 110,
+      "sentence": 5,
+      "text": "die",
+      "word": 5
+    },
+    {
+      "charBegin": 584,
+      "charEnd": 590,
+      "id": 111,
+      "sentence": 5,
+      "text": "Kiefer",
+      "word": 6
+    },
+    {
+      "charBegin": 591,
+      "charEnd": 599,
+      "id": 112,
+      "sentence": 5,
+      "text": "freilich",
+      "word": 7
+    },
+    {
+      "charBegin": 600,
+      "charEnd": 604,
+      "id": 113,
+      "sentence": 5,
+      "text": "sehr",
+      "word": 8
+    },
+    {
+      "charBegin": 605,
+      "charEnd": 610,
+      "id": 114,
+      "sentence": 5,
+      "text": "stark",
+      "word": 9
+    },
+    {
+      "charBegin": 610,
+      "charEnd": 611,
+      "id": 115,
+      "sentence": 5,
+      "text": ";",
+      "word": 10
+    },
+    {
+      "charBegin": 612,
+      "charEnd": 615,
+      "id": 116,
+      "sentence": 6,
+      "text": "mit",
+      "word": 1
+    },
+    {
+      "charBegin": 616,
+      "charEnd": 621,
+      "id": 117,
+      "sentence": 6,
+      "text": "ihrer",
+      "word": 2
+    },
+    {
+      "charBegin": 622,
+      "charEnd": 627,
+      "id": 118,
+      "sentence": 6,
+      "text": "Hilfe",
+      "word": 3
+    },
+    {
+      "charBegin": 628,
+      "charEnd": 635,
+      "id": 119,
+      "sentence": 6,
+      "text": "brachte",
+      "word": 4
+    },
+    {
+      "charBegin": 636,
+      "charEnd": 638,
+      "id": 120,
+      "sentence": 6,
+      "text": "er",
+      "word": 5
+    },
+    {
+      "charBegin": 639,
+      "charEnd": 643,
+      "id": 121,
+      "sentence": 6,
+      "text": "auch",
+      "word": 6
+    },
+    {
+      "charBegin": 644,
+      "charEnd": 652,
+      "id": 122,
+      "sentence": 6,
+      "text": "wirklich",
+      "word": 7
+    },
+    {
+      "charBegin": 653,
+      "charEnd": 656,
+      "id": 123,
+      "sentence": 6,
+      "text": "den",
+      "word": 8
+    },
+    {
+      "charBegin": 657,
+      "charEnd": 666,
+      "id": 124,
+      "sentence": 6,
+      "text": "Schlüssel",
+      "word": 9
+    },
+    {
+      "charBegin": 667,
+      "charEnd": 669,
+      "id": 125,
+      "sentence": 6,
+      "text": "in",
+      "word": 10
+    },
+    {
+      "charBegin": 670,
+      "charEnd": 678,
+      "id": 126,
+      "sentence": 6,
+      "text": "Bewegung",
+      "word": 11
+    },
+    {
+      "charBegin": 679,
+      "charEnd": 682,
+      "id": 127,
+      "sentence": 6,
+      "text": "und",
+      "word": 12
+    },
+    {
+      "charBegin": 683,
+      "charEnd": 690,
+      "id": 128,
+      "sentence": 6,
+      "text": "achtete",
+      "word": 13
+    },
+    {
+      "charBegin": 691,
+      "charEnd": 696,
+      "id": 129,
+      "sentence": 6,
+      "text": "nicht",
+      "word": 14
+    },
+    {
+      "charBegin": 697,
+      "charEnd": 703,
+      "id": 130,
+      "sentence": 6,
+      "text": "darauf",
+      "word": 15
+    },
+    {
+      "charBegin": 703,
+      "charEnd": 704,
+      "id": 131,
+      "sentence": 6,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 705,
+      "charEnd": 708,
+      "id": 132,
+      "sentence": 6,
+      "text": "daß",
+      "word": 17
+    },
+    {
+      "charBegin": 709,
+      "charEnd": 711,
+      "id": 133,
+      "sentence": 6,
+      "text": "er",
+      "word": 18
+    },
+    {
+      "charBegin": 712,
+      "charEnd": 716,
+      "id": 134,
+      "sentence": 6,
+      "text": "sich",
+      "word": 19
+    },
+    {
+      "charBegin": 717,
+      "charEnd": 727,
+      "id": 135,
+      "sentence": 6,
+      "text": "zweifellos",
+      "word": 20
+    },
+    {
+      "charBegin": 728,
+      "charEnd": 739,
+      "id": 136,
+      "sentence": 6,
+      "text": "irgendeinen",
+      "word": 21
+    },
+    {
+      "charBegin": 740,
+      "charEnd": 747,
+      "id": 137,
+      "sentence": 6,
+      "text": "Schaden",
+      "word": 22
+    },
+    {
+      "charBegin": 748,
+      "charEnd": 755,
+      "id": 138,
+      "sentence": 6,
+      "text": "zufügte",
+      "word": 23
+    },
+    {
+      "charBegin": 755,
+      "charEnd": 756,
+      "id": 139,
+      "sentence": 6,
+      "text": ",",
+      "word": 24
+    },
+    {
+      "charBegin": 757,
+      "charEnd": 761,
+      "id": 140,
+      "sentence": 6,
+      "text": "denn",
+      "word": 25
+    },
+    {
+      "charBegin": 762,
+      "charEnd": 766,
+      "id": 141,
+      "sentence": 6,
+      "text": "eine",
+      "word": 26
+    },
+    {
+      "charBegin": 767,
+      "charEnd": 773,
+      "id": 142,
+      "sentence": 6,
+      "text": "braune",
+      "word": 27
+    },
+    {
+      "charBegin": 774,
+      "charEnd": 785,
+      "id": 143,
+      "sentence": 6,
+      "text": "Flüssigkeit",
+      "word": 28
+    },
+    {
+      "charBegin": 786,
+      "charEnd": 789,
+      "id": 144,
+      "sentence": 6,
+      "text": "kam",
+      "word": 29
+    },
+    {
+      "charBegin": 790,
+      "charEnd": 793,
+      "id": 145,
+      "sentence": 6,
+      "text": "ihm",
+      "word": 30
+    },
+    {
+      "charBegin": 794,
+      "charEnd": 797,
+      "id": 146,
+      "sentence": 6,
+      "text": "aus",
+      "word": 31
+    },
+    {
+      "charBegin": 798,
+      "charEnd": 801,
+      "id": 147,
+      "sentence": 6,
+      "text": "dem",
+      "word": 32
+    },
+    {
+      "charBegin": 802,
+      "charEnd": 806,
+      "id": 148,
+      "sentence": 6,
+      "text": "Mund",
+      "word": 33
+    },
+    {
+      "charBegin": 806,
+      "charEnd": 807,
+      "id": 149,
+      "sentence": 6,
+      "text": ",",
+      "word": 34
+    },
+    {
+      "charBegin": 808,
+      "charEnd": 812,
+      "id": 150,
+      "sentence": 6,
+      "text": "floß",
+      "word": 35
+    },
+    {
+      "charBegin": 813,
+      "charEnd": 817,
+      "id": 151,
+      "sentence": 6,
+      "text": "über",
+      "word": 36
+    },
+    {
+      "charBegin": 818,
+      "charEnd": 821,
+      "id": 152,
+      "sentence": 6,
+      "text": "den",
+      "word": 37
+    },
+    {
+      "charBegin": 822,
+      "charEnd": 831,
+      "id": 153,
+      "sentence": 6,
+      "text": "Schlüssel",
+      "word": 38
+    },
+    {
+      "charBegin": 832,
+      "charEnd": 835,
+      "id": 154,
+      "sentence": 6,
+      "text": "und",
+      "word": 39
+    },
+    {
+      "charBegin": 836,
+      "charEnd": 843,
+      "id": 155,
+      "sentence": 6,
+      "text": "tropfte",
+      "word": 40
+    },
+    {
+      "charBegin": 844,
+      "charEnd": 847,
+      "id": 156,
+      "sentence": 6,
+      "text": "auf",
+      "word": 41
+    },
+    {
+      "charBegin": 848,
+      "charEnd": 851,
+      "id": 157,
+      "sentence": 6,
+      "text": "den",
+      "word": 42
+    },
+    {
+      "charBegin": 852,
+      "charEnd": 857,
+      "id": 158,
+      "sentence": 6,
+      "text": "Boden",
+      "word": 43
+    },
+    {
+      "charBegin": 857,
+      "charEnd": 858,
+      "id": 159,
+      "sentence": 6,
+      "text": ".",
+      "word": 44
+    },
+    {
+      "charBegin": 859,
+      "charEnd": 860,
+      "id": 160,
+      "sentence": 7,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 860,
+      "charEnd": 865,
+      "id": 161,
+      "sentence": 7,
+      "text": "Hören",
+      "word": 2
+    },
+    {
+      "charBegin": 866,
+      "charEnd": 869,
+      "id": 162,
+      "sentence": 7,
+      "text": "Sie",
+      "word": 3
+    },
+    {
+      "charBegin": 870,
+      "charEnd": 873,
+      "id": 163,
+      "sentence": 7,
+      "text": "nur",
+      "word": 4
+    },
+    {
+      "charBegin": 873,
+      "charEnd": 874,
+      "id": 164,
+      "sentence": 7,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 874,
+      "charEnd": 875,
+      "id": 165,
+      "sentence": 7,
+      "text": "«",
+      "word": 6
+    },
+    {
+      "charBegin": 876,
+      "charEnd": 881,
+      "id": 166,
+      "sentence": 7,
+      "text": "sagte",
+      "word": 7
+    },
+    {
+      "charBegin": 882,
+      "charEnd": 885,
+      "id": 167,
+      "sentence": 7,
+      "text": "der",
+      "word": 8
+    },
+    {
+      "charBegin": 886,
+      "charEnd": 895,
+      "id": 168,
+      "sentence": 7,
+      "text": "Prokurist",
+      "word": 9
+    },
+    {
+      "charBegin": 896,
+      "charEnd": 898,
+      "id": 169,
+      "sentence": 7,
+      "text": "im",
+      "word": 10
+    },
+    {
+      "charBegin": 899,
+      "charEnd": 910,
+      "id": 170,
+      "sentence": 7,
+      "text": "Nebenzimmer",
+      "word": 11
+    },
+    {
+      "charBegin": 910,
+      "charEnd": 911,
+      "id": 171,
+      "sentence": 7,
+      "text": ",",
+      "word": 12
+    },
+    {
+      "charBegin": 912,
+      "charEnd": 913,
+      "id": 172,
+      "sentence": 7,
+      "text": "»",
+      "word": 13
+    },
+    {
+      "charBegin": 913,
+      "charEnd": 915,
+      "id": 173,
+      "sentence": 7,
+      "text": "er",
+      "word": 14
+    },
+    {
+      "charBegin": 916,
+      "charEnd": 921,
+      "id": 174,
+      "sentence": 7,
+      "text": "dreht",
+      "word": 15
+    },
+    {
+      "charBegin": 922,
+      "charEnd": 925,
+      "id": 175,
+      "sentence": 7,
+      "text": "den",
+      "word": 16
+    },
+    {
+      "charBegin": 926,
+      "charEnd": 935,
+      "id": 176,
+      "sentence": 7,
+      "text": "Schlüssel",
+      "word": 17
+    },
+    {
+      "charBegin": 936,
+      "charEnd": 938,
+      "id": 177,
+      "sentence": 7,
+      "text": "um",
+      "word": 18
+    },
+    {
+      "charBegin": 938,
+      "charEnd": 939,
+      "id": 178,
+      "sentence": 7,
+      "text": ".",
+      "word": 19
+    },
+    {
+      "charBegin": 939,
+      "charEnd": 940,
+      "id": 179,
+      "sentence": 7,
+      "text": "«",
+      "word": 20
+    },
+    {
+      "charBegin": 941,
+      "charEnd": 944,
+      "id": 180,
+      "sentence": 8,
+      "text": "Das",
+      "word": 1
+    },
+    {
+      "charBegin": 945,
+      "charEnd": 948,
+      "id": 181,
+      "sentence": 8,
+      "text": "war",
+      "word": 2
+    },
+    {
+      "charBegin": 949,
+      "charEnd": 952,
+      "id": 182,
+      "sentence": 8,
+      "text": "für",
+      "word": 3
+    },
+    {
+      "charBegin": 953,
+      "charEnd": 959,
+      "id": 183,
+      "sentence": 8,
+      "text": "Gregor",
+      "word": 4
+    },
+    {
+      "charBegin": 960,
+      "charEnd": 964,
+      "id": 184,
+      "sentence": 8,
+      "text": "eine",
+      "word": 5
+    },
+    {
+      "charBegin": 965,
+      "charEnd": 970,
+      "id": 185,
+      "sentence": 8,
+      "text": "große",
+      "word": 6
+    },
+    {
+      "charBegin": 971,
+      "charEnd": 983,
+      "id": 186,
+      "sentence": 8,
+      "text": "Aufmunterung",
+      "word": 7
+    },
+    {
+      "charBegin": 983,
+      "charEnd": 984,
+      "id": 187,
+      "sentence": 8,
+      "text": ";",
+      "word": 8
+    },
+    {
+      "charBegin": 985,
+      "charEnd": 989,
+      "id": 188,
+      "sentence": 9,
+      "text": "aber",
+      "word": 1
+    },
+    {
+      "charBegin": 990,
+      "charEnd": 994,
+      "id": 189,
+      "sentence": 9,
+      "text": "alle",
+      "word": 2
+    },
+    {
+      "charBegin": 995,
+      "charEnd": 1001,
+      "id": 190,
+      "sentence": 9,
+      "text": "hätten",
+      "word": 3
+    },
+    {
+      "charBegin": 1002,
+      "charEnd": 1005,
+      "id": 191,
+      "sentence": 9,
+      "text": "ihm",
+      "word": 4
+    },
+    {
+      "charBegin": 1006,
+      "charEnd": 1013,
+      "id": 192,
+      "sentence": 9,
+      "text": "zurufen",
+      "word": 5
+    },
+    {
+      "charBegin": 1014,
+      "charEnd": 1020,
+      "id": 193,
+      "sentence": 9,
+      "text": "sollen",
+      "word": 6
+    },
+    {
+      "charBegin": 1020,
+      "charEnd": 1021,
+      "id": 194,
+      "sentence": 9,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 1022,
+      "charEnd": 1026,
+      "id": 195,
+      "sentence": 9,
+      "text": "auch",
+      "word": 8
+    },
+    {
+      "charBegin": 1027,
+      "charEnd": 1030,
+      "id": 196,
+      "sentence": 9,
+      "text": "der",
+      "word": 9
+    },
+    {
+      "charBegin": 1031,
+      "charEnd": 1036,
+      "id": 197,
+      "sentence": 9,
+      "text": "Vater",
+      "word": 10
+    },
+    {
+      "charBegin": 1037,
+      "charEnd": 1040,
+      "id": 198,
+      "sentence": 9,
+      "text": "und",
+      "word": 11
+    },
+    {
+      "charBegin": 1041,
+      "charEnd": 1044,
+      "id": 199,
+      "sentence": 9,
+      "text": "die",
+      "word": 12
+    },
+    {
+      "charBegin": 1045,
+      "charEnd": 1051,
+      "id": 200,
+      "sentence": 9,
+      "text": "Mutter",
+      "word": 13
+    },
+    {
+      "charBegin": 1051,
+      "charEnd": 1052,
+      "id": 201,
+      "sentence": 9,
+      "text": ":",
+      "word": 14
+    },
+    {
+      "charBegin": 1053,
+      "charEnd": 1054,
+      "id": 202,
+      "sentence": 10,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 1054,
+      "charEnd": 1060,
+      "id": 203,
+      "sentence": 10,
+      "text": "Frisch",
+      "word": 2
+    },
+    {
+      "charBegin": 1060,
+      "charEnd": 1061,
+      "id": 204,
+      "sentence": 10,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 1062,
+      "charEnd": 1068,
+      "id": 205,
+      "sentence": 10,
+      "text": "Gregor",
+      "word": 4
+    },
+    {
+      "charBegin": 1068,
+      "charEnd": 1069,
+      "id": 206,
+      "sentence": 10,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 1069,
+      "charEnd": 1070,
+      "id": 207,
+      "sentence": 10,
+      "text": "«",
+      "word": 6
+    },
+    {
+      "charBegin": 1071,
+      "charEnd": 1077,
+      "id": 208,
+      "sentence": 10,
+      "text": "hätten",
+      "word": 7
+    },
+    {
+      "charBegin": 1078,
+      "charEnd": 1081,
+      "id": 209,
+      "sentence": 10,
+      "text": "sie",
+      "word": 8
+    },
+    {
+      "charBegin": 1082,
+      "charEnd": 1087,
+      "id": 210,
+      "sentence": 10,
+      "text": "rufen",
+      "word": 9
+    },
+    {
+      "charBegin": 1088,
+      "charEnd": 1094,
+      "id": 211,
+      "sentence": 10,
+      "text": "sollen",
+      "word": 10
+    },
+    {
+      "charBegin": 1094,
+      "charEnd": 1095,
+      "id": 212,
+      "sentence": 10,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 1096,
+      "charEnd": 1097,
+      "id": 213,
+      "sentence": 10,
+      "text": "»",
+      "word": 12
+    },
+    {
+      "charBegin": 1097,
+      "charEnd": 1102,
+      "id": 214,
+      "sentence": 10,
+      "text": "immer",
+      "word": 13
+    },
+    {
+      "charBegin": 1103,
+      "charEnd": 1106,
+      "id": 215,
+      "sentence": 10,
+      "text": "nur",
+      "word": 14
+    },
+    {
+      "charBegin": 1107,
+      "charEnd": 1112,
+      "id": 216,
+      "sentence": 10,
+      "text": "heran",
+      "word": 15
+    },
+    {
+      "charBegin": 1112,
+      "charEnd": 1113,
+      "id": 217,
+      "sentence": 10,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 1114,
+      "charEnd": 1118,
+      "id": 218,
+      "sentence": 10,
+      "text": "fest",
+      "word": 17
+    },
+    {
+      "charBegin": 1119,
+      "charEnd": 1121,
+      "id": 219,
+      "sentence": 10,
+      "text": "an",
+      "word": 18
+    },
+    {
+      "charBegin": 1122,
+      "charEnd": 1125,
+      "id": 220,
+      "sentence": 10,
+      "text": "das",
+      "word": 19
+    },
+    {
+      "charBegin": 1126,
+      "charEnd": 1132,
+      "id": 221,
+      "sentence": 10,
+      "text": "Schloß",
+      "word": 20
+    },
+    {
+      "charBegin": 1133,
+      "charEnd": 1138,
+      "id": 222,
+      "sentence": 10,
+      "text": "heran",
+      "word": 21
+    },
+    {
+      "charBegin": 1138,
+      "charEnd": 1139,
+      "id": 223,
+      "sentence": 10,
+      "text": "!",
+      "word": 22
+    },
+    {
+      "charBegin": 1139,
+      "charEnd": 1140,
+      "id": 224,
+      "sentence": 10,
+      "text": "«",
+      "word": 23
+    }
+  ]
+}
