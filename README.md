@@ -18,4 +18,4 @@ The project focuses on converting human-annotated character-level information in
 
 ## Output Format
 
-The new JSON files follow a project-specific schema designed to support agentivity classification usind seq2seq models.
+The new JSON files follow a project-specific schema designed to support agentivity classification using seq2seq models.
