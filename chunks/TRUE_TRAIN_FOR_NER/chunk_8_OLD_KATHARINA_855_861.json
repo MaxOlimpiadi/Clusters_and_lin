@@ -1,0 +1,1338 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 27,
+            "end": 5
+          }
+        ],
+        "text": "Einige gingen in den Garten",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 6,
+            "end": 1
+          }
+        ],
+        "text": [
+          "Einige"
+        ],
+        "tokenIds": [
+          0
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1122,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 6,
+            "charBegin": 29,
+            "charEnd": 50,
+            "end": 10
+          }
+        ],
+        "text": "sahen hinter den Zaun",
+        "tokenIds": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1123,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 10,
+            "charBegin": 51,
+            "charEnd": 79,
+            "end": 15
+          }
+        ],
+        "text": "und in die Apfelbäume hinauf",
+        "tokenIds": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1124,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 16,
+            "charBegin": 81,
+            "charEnd": 103,
+            "end": 21
+          }
+        ],
+        "text": "er war nicht zu finden",
+        "tokenIds": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 16,
+            "charBegin": 81,
+            "charEnd": 83,
+            "end": 17
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          16
+        ]
+      },
+      "hasNested": false,
+      "id": 1125,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 27,
+            "charBegin": 120,
+            "charEnd": 167,
+            "end": 34
+          }
+        ],
+        "text": "sagte der Gutsherr mit sehr gemischten Gefühlen",
+        "tokenIds": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 29,
+            "charBegin": 130,
+            "charEnd": 138,
+            "end": 30
+          }
+        ],
+        "text": [
+          "Gutsherr"
+        ],
+        "tokenIds": [
+          29
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1126,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 35,
+            "charBegin": 169,
+            "charEnd": 219,
+            "end": 44
+          }
+        ],
+        "text": "der Anblick der alten Frau wirkte gewaltig auf ihn",
+        "tokenIds": [
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 43,
+            "charBegin": 216,
+            "charEnd": 219,
+            "end": 44
+          }
+        ],
+        "text": [
+          "ihn"
+        ],
+        "tokenIds": [
+          43
+        ]
+      },
+      "hasNested": false,
+      "id": 1127,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 55,
+            "charBegin": 261,
+            "charEnd": 286,
+            "end": 58
+          }
+        ],
+        "text": "Margreth antwortete nicht",
+        "tokenIds": [
+          55,
+          56,
+          57
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 55,
+            "charBegin": 261,
+            "charEnd": 269,
+            "end": 56
+          }
+        ],
+        "text": [
+          "Margreth"
+        ],
+        "tokenIds": [
+          55
+        ]
+      },
+      "hasNested": false,
+      "id": 1128,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 66,
+            "charBegin": 312,
+            "charEnd": 336,
+            "end": 69
+          }
+        ],
+        "text": "wiederholte der Gutsherr",
+        "tokenIds": [
+          66,
+          67,
+          68
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 68,
+            "charBegin": 328,
+            "charEnd": 336,
+            "end": 69
+          }
+        ],
+        "text": [
+          "Gutsherr"
+        ],
+        "tokenIds": [
+          68
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1129,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 70,
+            "charBegin": 338,
+            "charEnd": 359,
+            "end": 74
+          }
+        ],
+        "text": "und merkte jetzt erst",
+        "tokenIds": [
+          70,
+          71,
+          72,
+          73
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 68,
+            "charBegin": 328,
+            "charEnd": 336,
+            "end": 69
+          }
+        ],
+        "text": [
+          "Gutsherr"
+        ],
+        "tokenIds": [
+          68
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1130,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 75,
+            "charBegin": 361,
+            "charEnd": 386,
+            "end": 79
+          }
+        ],
+        "text": "daß der Schlüssel steckte",
+        "tokenIds": [
+          75,
+          76,
+          77,
+          78
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1131,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__855_861",
+  "originalText": "Einige gingen in den Garten, sahen hinter den Zaun und in die Apfelbäume hinauf; er war nicht zu finden. – »Entwischt!« sagte der Gutsherr mit sehr gemischten Gefühlen: der Anblick der alten Frau wirkte gewaltig auf ihn. »Gebt den Schlüssel zu jenem Koffer.« – Margreth antwortete nicht. – »Gebt den Schlüssel!« wiederholte der Gutsherr, und merkte jetzt erst, daß der Schlüssel steckte.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 80,
+      "end": 16,
+      "id": 0,
+      "text": "Einige gingen in den Garten, sahen hinter den Zaun und in die Apfelbäume hinauf;",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tokens": [
+        "Einige",
+        "gingen",
+        "in",
+        "den",
+        "Garten",
+        ",",
+        "sahen",
+        "hinter",
+        "den",
+        "Zaun",
+        "und",
+        "in",
+        "die",
+        "Apfelbäume",
+        "hinauf",
+        ";"
+      ]
+    },
+    {
+      "begin": 16,
+      "charBegin": 81,
+      "charEnd": 104,
+      "end": 22,
+      "id": 1,
+      "text": "er war nicht zu finden.",
+      "tokenIds": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokens": [
+        "er",
+        "war",
+        "nicht",
+        "zu",
+        "finden",
+        "."
+      ]
+    },
+    {
+      "begin": 22,
+      "charBegin": 105,
+      "charEnd": 168,
+      "end": 35,
+      "id": 2,
+      "text": "– »Entwischt!« sagte der Gutsherr mit sehr gemischten Gefühlen:",
+      "tokenIds": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Entwischt",
+        "!",
+        "«",
+        "sagte",
+        "der",
+        "Gutsherr",
+        "mit",
+        "sehr",
+        "gemischten",
+        "Gefühlen",
+        ":"
+      ]
+    },
+    {
+      "begin": 35,
+      "charBegin": 169,
+      "charEnd": 220,
+      "end": 45,
+      "id": 3,
+      "text": "der Anblick der alten Frau wirkte gewaltig auf ihn.",
+      "tokenIds": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "tokens": [
+        "der",
+        "Anblick",
+        "der",
+        "alten",
+        "Frau",
+        "wirkte",
+        "gewaltig",
+        "auf",
+        "ihn",
+        "."
+      ]
+    },
+    {
+      "begin": 45,
+      "charBegin": 221,
+      "charEnd": 287,
+      "end": 59,
+      "id": 4,
+      "text": "»Gebt den Schlüssel zu jenem Koffer.« – Margreth antwortete nicht.",
+      "tokenIds": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "tokens": [
+        "»",
+        "Gebt",
+        "den",
+        "Schlüssel",
+        "zu",
+        "jenem",
+        "Koffer",
+        ".",
+        "«",
+        "–",
+        "Margreth",
+        "antwortete",
+        "nicht",
+        "."
+      ]
+    },
+    {
+      "begin": 59,
+      "charBegin": 288,
+      "charEnd": 387,
+      "end": 80,
+      "id": 5,
+      "text": "– »Gebt den Schlüssel!« wiederholte der Gutsherr, und merkte jetzt erst, daß der Schlüssel steckte.",
+      "tokenIds": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Gebt",
+        "den",
+        "Schlüssel",
+        "!",
+        "«",
+        "wiederholte",
+        "der",
+        "Gutsherr",
+        ",",
+        "und",
+        "merkte",
+        "jetzt",
+        "erst",
+        ",",
+        "daß",
+        "der",
+        "Schlüssel",
+        "steckte",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 6,
+      "id": 0,
+      "sentence": 1,
+      "text": "Einige",
+      "word": 1
+    },
+    {
+      "charBegin": 7,
+      "charEnd": 13,
+      "id": 1,
+      "sentence": 1,
+      "text": "gingen",
+      "word": 2
+    },
+    {
+      "charBegin": 14,
+      "charEnd": 16,
+      "id": 2,
+      "sentence": 1,
+      "text": "in",
+      "word": 3
+    },
+    {
+      "charBegin": 17,
+      "charEnd": 20,
+      "id": 3,
+      "sentence": 1,
+      "text": "den",
+      "word": 4
+    },
+    {
+      "charBegin": 21,
+      "charEnd": 27,
+      "id": 4,
+      "sentence": 1,
+      "text": "Garten",
+      "word": 5
+    },
+    {
+      "charBegin": 27,
+      "charEnd": 28,
+      "id": 5,
+      "sentence": 1,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 29,
+      "charEnd": 34,
+      "id": 6,
+      "sentence": 1,
+      "text": "sahen",
+      "word": 7
+    },
+    {
+      "charBegin": 35,
+      "charEnd": 41,
+      "id": 7,
+      "sentence": 1,
+      "text": "hinter",
+      "word": 8
+    },
+    {
+      "charBegin": 42,
+      "charEnd": 45,
+      "id": 8,
+      "sentence": 1,
+      "text": "den",
+      "word": 9
+    },
+    {
+      "charBegin": 46,
+      "charEnd": 50,
+      "id": 9,
+      "sentence": 1,
+      "text": "Zaun",
+      "word": 10
+    },
+    {
+      "charBegin": 51,
+      "charEnd": 54,
+      "id": 10,
+      "sentence": 1,
+      "text": "und",
+      "word": 11
+    },
+    {
+      "charBegin": 55,
+      "charEnd": 57,
+      "id": 11,
+      "sentence": 1,
+      "text": "in",
+      "word": 12
+    },
+    {
+      "charBegin": 58,
+      "charEnd": 61,
+      "id": 12,
+      "sentence": 1,
+      "text": "die",
+      "word": 13
+    },
+    {
+      "charBegin": 62,
+      "charEnd": 72,
+      "id": 13,
+      "sentence": 1,
+      "text": "Apfelbäume",
+      "word": 14
+    },
+    {
+      "charBegin": 73,
+      "charEnd": 79,
+      "id": 14,
+      "sentence": 1,
+      "text": "hinauf",
+      "word": 15
+    },
+    {
+      "charBegin": 79,
+      "charEnd": 80,
+      "id": 15,
+      "sentence": 1,
+      "text": ";",
+      "word": 16
+    },
+    {
+      "charBegin": 81,
+      "charEnd": 83,
+      "id": 16,
+      "sentence": 2,
+      "text": "er",
+      "word": 1
+    },
+    {
+      "charBegin": 84,
+      "charEnd": 87,
+      "id": 17,
+      "sentence": 2,
+      "text": "war",
+      "word": 2
+    },
+    {
+      "charBegin": 88,
+      "charEnd": 93,
+      "id": 18,
+      "sentence": 2,
+      "text": "nicht",
+      "word": 3
+    },
+    {
+      "charBegin": 94,
+      "charEnd": 96,
+      "id": 19,
+      "sentence": 2,
+      "text": "zu",
+      "word": 4
+    },
+    {
+      "charBegin": 97,
+      "charEnd": 103,
+      "id": 20,
+      "sentence": 2,
+      "text": "finden",
+      "word": 5
+    },
+    {
+      "charBegin": 103,
+      "charEnd": 104,
+      "id": 21,
+      "sentence": 2,
+      "text": ".",
+      "word": 6
+    },
+    {
+      "charBegin": 105,
+      "charEnd": 106,
+      "id": 22,
+      "sentence": 3,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 107,
+      "charEnd": 108,
+      "id": 23,
+      "sentence": 3,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 108,
+      "charEnd": 117,
+      "id": 24,
+      "sentence": 3,
+      "text": "Entwischt",
+      "word": 3
+    },
+    {
+      "charBegin": 117,
+      "charEnd": 118,
+      "id": 25,
+      "sentence": 3,
+      "text": "!",
+      "word": 4
+    },
+    {
+      "charBegin": 118,
+      "charEnd": 119,
+      "id": 26,
+      "sentence": 3,
+      "text": "«",
+      "word": 5
+    },
+    {
+      "charBegin": 120,
+      "charEnd": 125,
+      "id": 27,
+      "sentence": 3,
+      "text": "sagte",
+      "word": 6
+    },
+    {
+      "charBegin": 126,
+      "charEnd": 129,
+      "id": 28,
+      "sentence": 3,
+      "text": "der",
+      "word": 7
+    },
+    {
+      "charBegin": 130,
+      "charEnd": 138,
+      "id": 29,
+      "sentence": 3,
+      "text": "Gutsherr",
+      "word": 8
+    },
+    {
+      "charBegin": 139,
+      "charEnd": 142,
+      "id": 30,
+      "sentence": 3,
+      "text": "mit",
+      "word": 9
+    },
+    {
+      "charBegin": 143,
+      "charEnd": 147,
+      "id": 31,
+      "sentence": 3,
+      "text": "sehr",
+      "word": 10
+    },
+    {
+      "charBegin": 148,
+      "charEnd": 158,
+      "id": 32,
+      "sentence": 3,
+      "text": "gemischten",
+      "word": 11
+    },
+    {
+      "charBegin": 159,
+      "charEnd": 167,
+      "id": 33,
+      "sentence": 3,
+      "text": "Gefühlen",
+      "word": 12
+    },
+    {
+      "charBegin": 167,
+      "charEnd": 168,
+      "id": 34,
+      "sentence": 3,
+      "text": ":",
+      "word": 13
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 172,
+      "id": 35,
+      "sentence": 4,
+      "text": "der",
+      "word": 1
+    },
+    {
+      "charBegin": 173,
+      "charEnd": 180,
+      "id": 36,
+      "sentence": 4,
+      "text": "Anblick",
+      "word": 2
+    },
+    {
+      "charBegin": 181,
+      "charEnd": 184,
+      "id": 37,
+      "sentence": 4,
+      "text": "der",
+      "word": 3
+    },
+    {
+      "charBegin": 185,
+      "charEnd": 190,
+      "id": 38,
+      "sentence": 4,
+      "text": "alten",
+      "word": 4
+    },
+    {
+      "charBegin": 191,
+      "charEnd": 195,
+      "id": 39,
+      "sentence": 4,
+      "text": "Frau",
+      "word": 5
+    },
+    {
+      "charBegin": 196,
+      "charEnd": 202,
+      "id": 40,
+      "sentence": 4,
+      "text": "wirkte",
+      "word": 6
+    },
+    {
+      "charBegin": 203,
+      "charEnd": 211,
+      "id": 41,
+      "sentence": 4,
+      "text": "gewaltig",
+      "word": 7
+    },
+    {
+      "charBegin": 212,
+      "charEnd": 215,
+      "id": 42,
+      "sentence": 4,
+      "text": "auf",
+      "word": 8
+    },
+    {
+      "charBegin": 216,
+      "charEnd": 219,
+      "id": 43,
+      "sentence": 4,
+      "text": "ihn",
+      "word": 9
+    },
+    {
+      "charBegin": 219,
+      "charEnd": 220,
+      "id": 44,
+      "sentence": 4,
+      "text": ".",
+      "word": 10
+    },
+    {
+      "charBegin": 221,
+      "charEnd": 222,
+      "id": 45,
+      "sentence": 5,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 222,
+      "charEnd": 226,
+      "id": 46,
+      "sentence": 5,
+      "text": "Gebt",
+      "word": 2
+    },
+    {
+      "charBegin": 227,
+      "charEnd": 230,
+      "id": 47,
+      "sentence": 5,
+      "text": "den",
+      "word": 3
+    },
+    {
+      "charBegin": 231,
+      "charEnd": 240,
+      "id": 48,
+      "sentence": 5,
+      "text": "Schlüssel",
+      "word": 4
+    },
+    {
+      "charBegin": 241,
+      "charEnd": 243,
+      "id": 49,
+      "sentence": 5,
+      "text": "zu",
+      "word": 5
+    },
+    {
+      "charBegin": 244,
+      "charEnd": 249,
+      "id": 50,
+      "sentence": 5,
+      "text": "jenem",
+      "word": 6
+    },
+    {
+      "charBegin": 250,
+      "charEnd": 256,
+      "id": 51,
+      "sentence": 5,
+      "text": "Koffer",
+      "word": 7
+    },
+    {
+      "charBegin": 256,
+      "charEnd": 257,
+      "id": 52,
+      "sentence": 5,
+      "text": ".",
+      "word": 8
+    },
+    {
+      "charBegin": 257,
+      "charEnd": 258,
+      "id": 53,
+      "sentence": 5,
+      "text": "«",
+      "word": 9
+    },
+    {
+      "charBegin": 259,
+      "charEnd": 260,
+      "id": 54,
+      "sentence": 5,
+      "text": "–",
+      "word": 10
+    },
+    {
+      "charBegin": 261,
+      "charEnd": 269,
+      "id": 55,
+      "sentence": 5,
+      "text": "Margreth",
+      "word": 11
+    },
+    {
+      "charBegin": 270,
+      "charEnd": 280,
+      "id": 56,
+      "sentence": 5,
+      "text": "antwortete",
+      "word": 12
+    },
+    {
+      "charBegin": 281,
+      "charEnd": 286,
+      "id": 57,
+      "sentence": 5,
+      "text": "nicht",
+      "word": 13
+    },
+    {
+      "charBegin": 286,
+      "charEnd": 287,
+      "id": 58,
+      "sentence": 5,
+      "text": ".",
+      "word": 14
+    },
+    {
+      "charBegin": 288,
+      "charEnd": 289,
+      "id": 59,
+      "sentence": 6,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 290,
+      "charEnd": 291,
+      "id": 60,
+      "sentence": 6,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 291,
+      "charEnd": 295,
+      "id": 61,
+      "sentence": 6,
+      "text": "Gebt",
+      "word": 3
+    },
+    {
+      "charBegin": 296,
+      "charEnd": 299,
+      "id": 62,
+      "sentence": 6,
+      "text": "den",
+      "word": 4
+    },
+    {
+      "charBegin": 300,
+      "charEnd": 309,
+      "id": 63,
+      "sentence": 6,
+      "text": "Schlüssel",
+      "word": 5
+    },
+    {
+      "charBegin": 309,
+      "charEnd": 310,
+      "id": 64,
+      "sentence": 6,
+      "text": "!",
+      "word": 6
+    },
+    {
+      "charBegin": 310,
+      "charEnd": 311,
+      "id": 65,
+      "sentence": 6,
+      "text": "«",
+      "word": 7
+    },
+    {
+      "charBegin": 312,
+      "charEnd": 323,
+      "id": 66,
+      "sentence": 6,
+      "text": "wiederholte",
+      "word": 8
+    },
+    {
+      "charBegin": 324,
+      "charEnd": 327,
+      "id": 67,
+      "sentence": 6,
+      "text": "der",
+      "word": 9
+    },
+    {
+      "charBegin": 328,
+      "charEnd": 336,
+      "id": 68,
+      "sentence": 6,
+      "text": "Gutsherr",
+      "word": 10
+    },
+    {
+      "charBegin": 336,
+      "charEnd": 337,
+      "id": 69,
+      "sentence": 6,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 338,
+      "charEnd": 341,
+      "id": 70,
+      "sentence": 6,
+      "text": "und",
+      "word": 12
+    },
+    {
+      "charBegin": 342,
+      "charEnd": 348,
+      "id": 71,
+      "sentence": 6,
+      "text": "merkte",
+      "word": 13
+    },
+    {
+      "charBegin": 349,
+      "charEnd": 354,
+      "id": 72,
+      "sentence": 6,
+      "text": "jetzt",
+      "word": 14
+    },
+    {
+      "charBegin": 355,
+      "charEnd": 359,
+      "id": 73,
+      "sentence": 6,
+      "text": "erst",
+      "word": 15
+    },
+    {
+      "charBegin": 359,
+      "charEnd": 360,
+      "id": 74,
+      "sentence": 6,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 361,
+      "charEnd": 364,
+      "id": 75,
+      "sentence": 6,
+      "text": "daß",
+      "word": 17
+    },
+    {
+      "charBegin": 365,
+      "charEnd": 368,
+      "id": 76,
+      "sentence": 6,
+      "text": "der",
+      "word": 18
+    },
+    {
+      "charBegin": 369,
+      "charEnd": 378,
+      "id": 77,
+      "sentence": 6,
+      "text": "Schlüssel",
+      "word": 19
+    },
+    {
+      "charBegin": 379,
+      "charEnd": 386,
+      "id": 78,
+      "sentence": 6,
+      "text": "steckte",
+      "word": 20
+    },
+    {
+      "charBegin": 386,
+      "charEnd": 387,
+      "id": 79,
+      "sentence": 6,
+      "text": ".",
+      "word": 21
+    }
+  ]
+}

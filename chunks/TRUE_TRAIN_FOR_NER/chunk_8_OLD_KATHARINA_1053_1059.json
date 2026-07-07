@@ -1,0 +1,1323 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 42,
+            "charBegin": 183,
+            "charEnd": 202,
+            "end": 45
+          }
+        ],
+        "text": "versetzte Johannes ;",
+        "tokenIds": [
+          42,
+          43,
+          44
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 43,
+            "charBegin": 193,
+            "charEnd": 201,
+            "end": 44
+          }
+        ],
+        "text": [
+          "Johannes"
+        ],
+        "tokenIds": [
+          43
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1350,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 49,
+            "charBegin": 210,
+            "charEnd": 236,
+            "end": 54
+          }
+        ],
+        "text": "er deutete auf seine Stirn",
+        "tokenIds": [
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 49,
+            "charBegin": 210,
+            "charEnd": 212,
+            "end": 50
+          },
+          {
+            "begin": 52,
+            "charBegin": 225,
+            "charEnd": 230,
+            "end": 53
+          }
+        ],
+        "text": [
+          "er",
+          "seine"
+        ],
+        "tokenIds": [
+          49,
+          52
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1351,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 82,
+            "charBegin": 343,
+            "charEnd": 358,
+            "end": 85
+          }
+        ],
+        "text": "sagte der Baron",
+        "tokenIds": [
+          82,
+          83,
+          84
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 84,
+            "charBegin": 353,
+            "charEnd": 358,
+            "end": 85
+          }
+        ],
+        "text": [
+          "Baron"
+        ],
+        "tokenIds": [
+          84
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1352,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__1053_1059",
+  "originalText": "»Da, Johannes, nun geh und komm bald wieder. Du mußt mir das alles noch ausführlicher erzählen; heute ging es etwas konfus durcheinander. Du bist wohl noch sehr müde?« – »Sehr müde,« versetzte Johannes; »und,« er deutete auf seine Stirn, »meine Gedanken sind zuweilen so kurios, ich kann nicht recht sagen, wie es so ist.« – »Ich weiß schon,« sagte der Baron, »von alter Zeit her. Jetzt geh. Hülsmeyers behalten dich wohl noch die Nacht über, morgen komm wieder.«\n",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 44,
+      "end": 12,
+      "id": 0,
+      "text": "»Da, Johannes, nun geh und komm bald wieder.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokens": [
+        "»",
+        "Da",
+        ",",
+        "Johannes",
+        ",",
+        "nun",
+        "geh",
+        "und",
+        "komm",
+        "bald",
+        "wieder",
+        "."
+      ]
+    },
+    {
+      "begin": 12,
+      "charBegin": 45,
+      "charEnd": 95,
+      "end": 21,
+      "id": 1,
+      "text": "Du mußt mir das alles noch ausführlicher erzählen;",
+      "tokenIds": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokens": [
+        "Du",
+        "mußt",
+        "mir",
+        "das",
+        "alles",
+        "noch",
+        "ausführlicher",
+        "erzählen",
+        ";"
+      ]
+    },
+    {
+      "begin": 21,
+      "charBegin": 96,
+      "charEnd": 137,
+      "end": 28,
+      "id": 2,
+      "text": "heute ging es etwas konfus durcheinander.",
+      "tokenIds": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "tokens": [
+        "heute",
+        "ging",
+        "es",
+        "etwas",
+        "konfus",
+        "durcheinander",
+        "."
+      ]
+    },
+    {
+      "begin": 28,
+      "charBegin": 138,
+      "charEnd": 380,
+      "end": 92,
+      "id": 3,
+      "text": "Du bist wohl noch sehr müde?« – »Sehr müde,« versetzte Johannes; »und,« er deutete auf seine Stirn, »meine Gedanken sind zuweilen so kurios, ich kann nicht recht sagen, wie es so ist.« – »Ich weiß schon,« sagte der Baron, »von alter Zeit her.",
+      "tokenIds": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "tokens": [
+        "Du",
+        "bist",
+        "wohl",
+        "noch",
+        "sehr",
+        "müde",
+        "?",
+        "«",
+        "–",
+        "»",
+        "Sehr",
+        "müde",
+        ",",
+        "«",
+        "versetzte",
+        "Johannes",
+        ";",
+        "»",
+        "und",
+        ",",
+        "«",
+        "er",
+        "deutete",
+        "auf",
+        "seine",
+        "Stirn",
+        ",",
+        "»",
+        "meine",
+        "Gedanken",
+        "sind",
+        "zuweilen",
+        "so",
+        "kurios",
+        ",",
+        "ich",
+        "kann",
+        "nicht",
+        "recht",
+        "sagen",
+        ",",
+        "wie",
+        "es",
+        "so",
+        "ist",
+        ".",
+        "«",
+        "–",
+        "»",
+        "Ich",
+        "weiß",
+        "schon",
+        ",",
+        "«",
+        "sagte",
+        "der",
+        "Baron",
+        ",",
+        "»",
+        "von",
+        "alter",
+        "Zeit",
+        "her",
+        "."
+      ]
+    },
+    {
+      "begin": 92,
+      "charBegin": 381,
+      "charEnd": 391,
+      "end": 95,
+      "id": 4,
+      "text": "Jetzt geh.",
+      "tokenIds": [
+        92,
+        93,
+        94
+      ],
+      "tokens": [
+        "Jetzt",
+        "geh",
+        "."
+      ]
+    },
+    {
+      "begin": 95,
+      "charBegin": 392,
+      "charEnd": 464,
+      "end": 109,
+      "id": 5,
+      "text": "Hülsmeyers behalten dich wohl noch die Nacht über, morgen komm wieder.«\n",
+      "tokenIds": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "tokens": [
+        "Hülsmeyers",
+        "behalten",
+        "dich",
+        "wohl",
+        "noch",
+        "die",
+        "Nacht",
+        "über",
+        ",",
+        "morgen",
+        "komm",
+        "wieder",
+        ".",
+        "«"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 1,
+      "id": 0,
+      "sentence": 1,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 1,
+      "charEnd": 3,
+      "id": 1,
+      "sentence": 1,
+      "text": "Da",
+      "word": 2
+    },
+    {
+      "charBegin": 3,
+      "charEnd": 4,
+      "id": 2,
+      "sentence": 1,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 5,
+      "charEnd": 13,
+      "id": 3,
+      "sentence": 1,
+      "text": "Johannes",
+      "word": 4
+    },
+    {
+      "charBegin": 13,
+      "charEnd": 14,
+      "id": 4,
+      "sentence": 1,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 15,
+      "charEnd": 18,
+      "id": 5,
+      "sentence": 1,
+      "text": "nun",
+      "word": 6
+    },
+    {
+      "charBegin": 19,
+      "charEnd": 22,
+      "id": 6,
+      "sentence": 1,
+      "text": "geh",
+      "word": 7
+    },
+    {
+      "charBegin": 23,
+      "charEnd": 26,
+      "id": 7,
+      "sentence": 1,
+      "text": "und",
+      "word": 8
+    },
+    {
+      "charBegin": 27,
+      "charEnd": 31,
+      "id": 8,
+      "sentence": 1,
+      "text": "komm",
+      "word": 9
+    },
+    {
+      "charBegin": 32,
+      "charEnd": 36,
+      "id": 9,
+      "sentence": 1,
+      "text": "bald",
+      "word": 10
+    },
+    {
+      "charBegin": 37,
+      "charEnd": 43,
+      "id": 10,
+      "sentence": 1,
+      "text": "wieder",
+      "word": 11
+    },
+    {
+      "charBegin": 43,
+      "charEnd": 44,
+      "id": 11,
+      "sentence": 1,
+      "text": ".",
+      "word": 12
+    },
+    {
+      "charBegin": 45,
+      "charEnd": 47,
+      "id": 12,
+      "sentence": 2,
+      "text": "Du",
+      "word": 1
+    },
+    {
+      "charBegin": 48,
+      "charEnd": 52,
+      "id": 13,
+      "sentence": 2,
+      "text": "mußt",
+      "word": 2
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 56,
+      "id": 14,
+      "sentence": 2,
+      "text": "mir",
+      "word": 3
+    },
+    {
+      "charBegin": 57,
+      "charEnd": 60,
+      "id": 15,
+      "sentence": 2,
+      "text": "das",
+      "word": 4
+    },
+    {
+      "charBegin": 61,
+      "charEnd": 66,
+      "id": 16,
+      "sentence": 2,
+      "text": "alles",
+      "word": 5
+    },
+    {
+      "charBegin": 67,
+      "charEnd": 71,
+      "id": 17,
+      "sentence": 2,
+      "text": "noch",
+      "word": 6
+    },
+    {
+      "charBegin": 72,
+      "charEnd": 85,
+      "id": 18,
+      "sentence": 2,
+      "text": "ausführlicher",
+      "word": 7
+    },
+    {
+      "charBegin": 86,
+      "charEnd": 94,
+      "id": 19,
+      "sentence": 2,
+      "text": "erzählen",
+      "word": 8
+    },
+    {
+      "charBegin": 94,
+      "charEnd": 95,
+      "id": 20,
+      "sentence": 2,
+      "text": ";",
+      "word": 9
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 101,
+      "id": 21,
+      "sentence": 3,
+      "text": "heute",
+      "word": 1
+    },
+    {
+      "charBegin": 102,
+      "charEnd": 106,
+      "id": 22,
+      "sentence": 3,
+      "text": "ging",
+      "word": 2
+    },
+    {
+      "charBegin": 107,
+      "charEnd": 109,
+      "id": 23,
+      "sentence": 3,
+      "text": "es",
+      "word": 3
+    },
+    {
+      "charBegin": 110,
+      "charEnd": 115,
+      "id": 24,
+      "sentence": 3,
+      "text": "etwas",
+      "word": 4
+    },
+    {
+      "charBegin": 116,
+      "charEnd": 122,
+      "id": 25,
+      "sentence": 3,
+      "text": "konfus",
+      "word": 5
+    },
+    {
+      "charBegin": 123,
+      "charEnd": 136,
+      "id": 26,
+      "sentence": 3,
+      "text": "durcheinander",
+      "word": 6
+    },
+    {
+      "charBegin": 136,
+      "charEnd": 137,
+      "id": 27,
+      "sentence": 3,
+      "text": ".",
+      "word": 7
+    },
+    {
+      "charBegin": 138,
+      "charEnd": 140,
+      "id": 28,
+      "sentence": 4,
+      "text": "Du",
+      "word": 1
+    },
+    {
+      "charBegin": 141,
+      "charEnd": 145,
+      "id": 29,
+      "sentence": 4,
+      "text": "bist",
+      "word": 2
+    },
+    {
+      "charBegin": 146,
+      "charEnd": 150,
+      "id": 30,
+      "sentence": 4,
+      "text": "wohl",
+      "word": 3
+    },
+    {
+      "charBegin": 151,
+      "charEnd": 155,
+      "id": 31,
+      "sentence": 4,
+      "text": "noch",
+      "word": 4
+    },
+    {
+      "charBegin": 156,
+      "charEnd": 160,
+      "id": 32,
+      "sentence": 4,
+      "text": "sehr",
+      "word": 5
+    },
+    {
+      "charBegin": 161,
+      "charEnd": 165,
+      "id": 33,
+      "sentence": 4,
+      "text": "müde",
+      "word": 6
+    },
+    {
+      "charBegin": 165,
+      "charEnd": 166,
+      "id": 34,
+      "sentence": 4,
+      "text": "?",
+      "word": 7
+    },
+    {
+      "charBegin": 166,
+      "charEnd": 167,
+      "id": 35,
+      "sentence": 4,
+      "text": "«",
+      "word": 8
+    },
+    {
+      "charBegin": 168,
+      "charEnd": 169,
+      "id": 36,
+      "sentence": 4,
+      "text": "–",
+      "word": 9
+    },
+    {
+      "charBegin": 170,
+      "charEnd": 171,
+      "id": 37,
+      "sentence": 4,
+      "text": "»",
+      "word": 10
+    },
+    {
+      "charBegin": 171,
+      "charEnd": 175,
+      "id": 38,
+      "sentence": 4,
+      "text": "Sehr",
+      "word": 11
+    },
+    {
+      "charBegin": 176,
+      "charEnd": 180,
+      "id": 39,
+      "sentence": 4,
+      "text": "müde",
+      "word": 12
+    },
+    {
+      "charBegin": 180,
+      "charEnd": 181,
+      "id": 40,
+      "sentence": 4,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 181,
+      "charEnd": 182,
+      "id": 41,
+      "sentence": 4,
+      "text": "«",
+      "word": 14
+    },
+    {
+      "charBegin": 183,
+      "charEnd": 192,
+      "id": 42,
+      "sentence": 4,
+      "text": "versetzte",
+      "word": 15
+    },
+    {
+      "charBegin": 193,
+      "charEnd": 201,
+      "id": 43,
+      "sentence": 4,
+      "text": "Johannes",
+      "word": 16
+    },
+    {
+      "charBegin": 201,
+      "charEnd": 202,
+      "id": 44,
+      "sentence": 4,
+      "text": ";",
+      "word": 17
+    },
+    {
+      "charBegin": 203,
+      "charEnd": 204,
+      "id": 45,
+      "sentence": 4,
+      "text": "»",
+      "word": 18
+    },
+    {
+      "charBegin": 204,
+      "charEnd": 207,
+      "id": 46,
+      "sentence": 4,
+      "text": "und",
+      "word": 19
+    },
+    {
+      "charBegin": 207,
+      "charEnd": 208,
+      "id": 47,
+      "sentence": 4,
+      "text": ",",
+      "word": 20
+    },
+    {
+      "charBegin": 208,
+      "charEnd": 209,
+      "id": 48,
+      "sentence": 4,
+      "text": "«",
+      "word": 21
+    },
+    {
+      "charBegin": 210,
+      "charEnd": 212,
+      "id": 49,
+      "sentence": 4,
+      "text": "er",
+      "word": 22
+    },
+    {
+      "charBegin": 213,
+      "charEnd": 220,
+      "id": 50,
+      "sentence": 4,
+      "text": "deutete",
+      "word": 23
+    },
+    {
+      "charBegin": 221,
+      "charEnd": 224,
+      "id": 51,
+      "sentence": 4,
+      "text": "auf",
+      "word": 24
+    },
+    {
+      "charBegin": 225,
+      "charEnd": 230,
+      "id": 52,
+      "sentence": 4,
+      "text": "seine",
+      "word": 25
+    },
+    {
+      "charBegin": 231,
+      "charEnd": 236,
+      "id": 53,
+      "sentence": 4,
+      "text": "Stirn",
+      "word": 26
+    },
+    {
+      "charBegin": 236,
+      "charEnd": 237,
+      "id": 54,
+      "sentence": 4,
+      "text": ",",
+      "word": 27
+    },
+    {
+      "charBegin": 238,
+      "charEnd": 239,
+      "id": 55,
+      "sentence": 4,
+      "text": "»",
+      "word": 28
+    },
+    {
+      "charBegin": 239,
+      "charEnd": 244,
+      "id": 56,
+      "sentence": 4,
+      "text": "meine",
+      "word": 29
+    },
+    {
+      "charBegin": 245,
+      "charEnd": 253,
+      "id": 57,
+      "sentence": 4,
+      "text": "Gedanken",
+      "word": 30
+    },
+    {
+      "charBegin": 254,
+      "charEnd": 258,
+      "id": 58,
+      "sentence": 4,
+      "text": "sind",
+      "word": 31
+    },
+    {
+      "charBegin": 259,
+      "charEnd": 267,
+      "id": 59,
+      "sentence": 4,
+      "text": "zuweilen",
+      "word": 32
+    },
+    {
+      "charBegin": 268,
+      "charEnd": 270,
+      "id": 60,
+      "sentence": 4,
+      "text": "so",
+      "word": 33
+    },
+    {
+      "charBegin": 271,
+      "charEnd": 277,
+      "id": 61,
+      "sentence": 4,
+      "text": "kurios",
+      "word": 34
+    },
+    {
+      "charBegin": 277,
+      "charEnd": 278,
+      "id": 62,
+      "sentence": 4,
+      "text": ",",
+      "word": 35
+    },
+    {
+      "charBegin": 279,
+      "charEnd": 282,
+      "id": 63,
+      "sentence": 4,
+      "text": "ich",
+      "word": 36
+    },
+    {
+      "charBegin": 283,
+      "charEnd": 287,
+      "id": 64,
+      "sentence": 4,
+      "text": "kann",
+      "word": 37
+    },
+    {
+      "charBegin": 288,
+      "charEnd": 293,
+      "id": 65,
+      "sentence": 4,
+      "text": "nicht",
+      "word": 38
+    },
+    {
+      "charBegin": 294,
+      "charEnd": 299,
+      "id": 66,
+      "sentence": 4,
+      "text": "recht",
+      "word": 39
+    },
+    {
+      "charBegin": 300,
+      "charEnd": 305,
+      "id": 67,
+      "sentence": 4,
+      "text": "sagen",
+      "word": 40
+    },
+    {
+      "charBegin": 305,
+      "charEnd": 306,
+      "id": 68,
+      "sentence": 4,
+      "text": ",",
+      "word": 41
+    },
+    {
+      "charBegin": 307,
+      "charEnd": 310,
+      "id": 69,
+      "sentence": 4,
+      "text": "wie",
+      "word": 42
+    },
+    {
+      "charBegin": 311,
+      "charEnd": 313,
+      "id": 70,
+      "sentence": 4,
+      "text": "es",
+      "word": 43
+    },
+    {
+      "charBegin": 314,
+      "charEnd": 316,
+      "id": 71,
+      "sentence": 4,
+      "text": "so",
+      "word": 44
+    },
+    {
+      "charBegin": 317,
+      "charEnd": 320,
+      "id": 72,
+      "sentence": 4,
+      "text": "ist",
+      "word": 45
+    },
+    {
+      "charBegin": 320,
+      "charEnd": 321,
+      "id": 73,
+      "sentence": 4,
+      "text": ".",
+      "word": 46
+    },
+    {
+      "charBegin": 321,
+      "charEnd": 322,
+      "id": 74,
+      "sentence": 4,
+      "text": "«",
+      "word": 47
+    },
+    {
+      "charBegin": 323,
+      "charEnd": 324,
+      "id": 75,
+      "sentence": 4,
+      "text": "–",
+      "word": 48
+    },
+    {
+      "charBegin": 325,
+      "charEnd": 326,
+      "id": 76,
+      "sentence": 4,
+      "text": "»",
+      "word": 49
+    },
+    {
+      "charBegin": 326,
+      "charEnd": 329,
+      "id": 77,
+      "sentence": 4,
+      "text": "Ich",
+      "word": 50
+    },
+    {
+      "charBegin": 330,
+      "charEnd": 334,
+      "id": 78,
+      "sentence": 4,
+      "text": "weiß",
+      "word": 51
+    },
+    {
+      "charBegin": 335,
+      "charEnd": 340,
+      "id": 79,
+      "sentence": 4,
+      "text": "schon",
+      "word": 52
+    },
+    {
+      "charBegin": 340,
+      "charEnd": 341,
+      "id": 80,
+      "sentence": 4,
+      "text": ",",
+      "word": 53
+    },
+    {
+      "charBegin": 341,
+      "charEnd": 342,
+      "id": 81,
+      "sentence": 4,
+      "text": "«",
+      "word": 54
+    },
+    {
+      "charBegin": 343,
+      "charEnd": 348,
+      "id": 82,
+      "sentence": 4,
+      "text": "sagte",
+      "word": 55
+    },
+    {
+      "charBegin": 349,
+      "charEnd": 352,
+      "id": 83,
+      "sentence": 4,
+      "text": "der",
+      "word": 56
+    },
+    {
+      "charBegin": 353,
+      "charEnd": 358,
+      "id": 84,
+      "sentence": 4,
+      "text": "Baron",
+      "word": 57
+    },
+    {
+      "charBegin": 358,
+      "charEnd": 359,
+      "id": 85,
+      "sentence": 4,
+      "text": ",",
+      "word": 58
+    },
+    {
+      "charBegin": 360,
+      "charEnd": 361,
+      "id": 86,
+      "sentence": 4,
+      "text": "»",
+      "word": 59
+    },
+    {
+      "charBegin": 361,
+      "charEnd": 364,
+      "id": 87,
+      "sentence": 4,
+      "text": "von",
+      "word": 60
+    },
+    {
+      "charBegin": 365,
+      "charEnd": 370,
+      "id": 88,
+      "sentence": 4,
+      "text": "alter",
+      "word": 61
+    },
+    {
+      "charBegin": 371,
+      "charEnd": 375,
+      "id": 89,
+      "sentence": 4,
+      "text": "Zeit",
+      "word": 62
+    },
+    {
+      "charBegin": 376,
+      "charEnd": 379,
+      "id": 90,
+      "sentence": 4,
+      "text": "her",
+      "word": 63
+    },
+    {
+      "charBegin": 379,
+      "charEnd": 380,
+      "id": 91,
+      "sentence": 4,
+      "text": ".",
+      "word": 64
+    },
+    {
+      "charBegin": 381,
+      "charEnd": 386,
+      "id": 92,
+      "sentence": 5,
+      "text": "Jetzt",
+      "word": 1
+    },
+    {
+      "charBegin": 387,
+      "charEnd": 390,
+      "id": 93,
+      "sentence": 5,
+      "text": "geh",
+      "word": 2
+    },
+    {
+      "charBegin": 390,
+      "charEnd": 391,
+      "id": 94,
+      "sentence": 5,
+      "text": ".",
+      "word": 3
+    },
+    {
+      "charBegin": 392,
+      "charEnd": 402,
+      "id": 95,
+      "sentence": 6,
+      "text": "Hülsmeyers",
+      "word": 1
+    },
+    {
+      "charBegin": 403,
+      "charEnd": 411,
+      "id": 96,
+      "sentence": 6,
+      "text": "behalten",
+      "word": 2
+    },
+    {
+      "charBegin": 412,
+      "charEnd": 416,
+      "id": 97,
+      "sentence": 6,
+      "text": "dich",
+      "word": 3
+    },
+    {
+      "charBegin": 417,
+      "charEnd": 421,
+      "id": 98,
+      "sentence": 6,
+      "text": "wohl",
+      "word": 4
+    },
+    {
+      "charBegin": 422,
+      "charEnd": 426,
+      "id": 99,
+      "sentence": 6,
+      "text": "noch",
+      "word": 5
+    },
+    {
+      "charBegin": 427,
+      "charEnd": 430,
+      "id": 100,
+      "sentence": 6,
+      "text": "die",
+      "word": 6
+    },
+    {
+      "charBegin": 431,
+      "charEnd": 436,
+      "id": 101,
+      "sentence": 6,
+      "text": "Nacht",
+      "word": 7
+    },
+    {
+      "charBegin": 437,
+      "charEnd": 441,
+      "id": 102,
+      "sentence": 6,
+      "text": "über",
+      "word": 8
+    },
+    {
+      "charBegin": 441,
+      "charEnd": 442,
+      "id": 103,
+      "sentence": 6,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 443,
+      "charEnd": 449,
+      "id": 104,
+      "sentence": 6,
+      "text": "morgen",
+      "word": 10
+    },
+    {
+      "charBegin": 450,
+      "charEnd": 454,
+      "id": 105,
+      "sentence": 6,
+      "text": "komm",
+      "word": 11
+    },
+    {
+      "charBegin": 455,
+      "charEnd": 461,
+      "id": 106,
+      "sentence": 6,
+      "text": "wieder",
+      "word": 12
+    },
+    {
+      "charBegin": 461,
+      "charEnd": 462,
+      "id": 107,
+      "sentence": 6,
+      "text": ".",
+      "word": 13
+    },
+    {
+      "charBegin": 462,
+      "charEnd": 463,
+      "id": 108,
+      "sentence": 6,
+      "text": "«",
+      "word": 14
+    }
+  ]
+}

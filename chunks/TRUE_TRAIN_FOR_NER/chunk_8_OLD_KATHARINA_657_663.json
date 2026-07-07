@@ -1,0 +1,1434 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 15,
+            "end": 4
+          }
+        ],
+        "text": "es war nicht da",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 834,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 5,
+            "charBegin": 17,
+            "charEnd": 48,
+            "end": 11
+          }
+        ],
+        "text": "Er warf die Augen suchend umher",
+        "tokenIds": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 5,
+            "charBegin": 17,
+            "charEnd": 19,
+            "end": 6
+          }
+        ],
+        "text": [
+          "Er"
+        ],
+        "tokenIds": [
+          5
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 835,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 11,
+            "charBegin": 49,
+            "charEnd": 66,
+            "end": 14
+          }
+        ],
+        "text": "und fuhr zusammen",
+        "tokenIds": [
+          11,
+          12,
+          13
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 836,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 15,
+            "charBegin": 68,
+            "charEnd": 114,
+            "end": 23
+          }
+        ],
+        "text": "in der Kammertür stand Simon , fast unbekleidet",
+        "tokenIds": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 19,
+            "charBegin": 91,
+            "charEnd": 96,
+            "end": 20
+          }
+        ],
+        "text": [
+          "Simon"
+        ],
+        "tokenIds": [
+          19
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 837,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 24,
+            "charBegin": 116,
+            "charEnd": 267,
+            "end": 47
+          }
+        ],
+        "text": "seine dürre Gestalt , sein ungekämmtes , wirres Haar und die vom Mondschein verursachte Blässe des Gesichts gaben ihm ein schauerlich verändertes Ansehen",
+        "tokenIds": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 24,
+            "charBegin": 116,
+            "charEnd": 121,
+            "end": 25
+          },
+          {
+            "begin": 28,
+            "charBegin": 137,
+            "charEnd": 141,
+            "end": 29
+          },
+          {
+            "begin": 42,
+            "charBegin": 228,
+            "charEnd": 231,
+            "end": 43
+          }
+        ],
+        "text": [
+          "seine",
+          "sein",
+          "ihm"
+        ],
+        "tokenIds": [
+          24,
+          28,
+          42
+        ]
+      },
+      "hasNested": false,
+      "id": 838,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 54,
+            "charBegin": 295,
+            "charEnd": 311,
+            "end": 56
+          }
+        ],
+        "text": "dachte Friedrich",
+        "tokenIds": [
+          54,
+          55
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 55,
+            "charBegin": 302,
+            "charEnd": 311,
+            "end": 56
+          }
+        ],
+        "text": [
+          "Friedrich"
+        ],
+        "tokenIds": [
+          55
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 839,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 57,
+            "charBegin": 313,
+            "charEnd": 342,
+            "end": 63
+          }
+        ],
+        "text": "und verhielt sich ganz still .",
+        "tokenIds": [
+          57,
+          58,
+          59,
+          60,
+          61,
+          62
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 59,
+            "charBegin": 326,
+            "charEnd": 330,
+            "end": 60
+          }
+        ],
+        "text": [
+          "sich"
+        ],
+        "tokenIds": [
+          59
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 840,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 70,
+            "charBegin": 365,
+            "charEnd": 384,
+            "end": 74
+          }
+        ],
+        "text": "flüsterte der Alte .",
+        "tokenIds": [
+          70,
+          71,
+          72,
+          73
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 72,
+            "charBegin": 379,
+            "charEnd": 383,
+            "end": 73
+          }
+        ],
+        "text": [
+          "Alte"
+        ],
+        "tokenIds": [
+          72
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 841,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__657_663",
+  "originalText": "es war nicht da. Er warf die Augen suchend umher und fuhr zusammen; in der Kammertür stand Simon, fast unbekleidet, seine dürre Gestalt, sein ungekämmtes, wirres Haar und die vom Mondschein verursachte Blässe des Gesichts gaben ihm ein schauerlich verändertes Ansehen. »Sollte er nachtwandeln?« dachte Friedrich, und verhielt sich ganz still. – »Friedrich, wohin?« flüsterte der Alte. – »Ohm, seid Ihr's? Ich will beichten gehen.« – »Das dacht' ich mir;",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 16,
+      "end": 5,
+      "id": 0,
+      "text": "es war nicht da.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "tokens": [
+        "es",
+        "war",
+        "nicht",
+        "da",
+        "."
+      ]
+    },
+    {
+      "begin": 5,
+      "charBegin": 17,
+      "charEnd": 67,
+      "end": 15,
+      "id": 1,
+      "text": "Er warf die Augen suchend umher und fuhr zusammen;",
+      "tokenIds": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokens": [
+        "Er",
+        "warf",
+        "die",
+        "Augen",
+        "suchend",
+        "umher",
+        "und",
+        "fuhr",
+        "zusammen",
+        ";"
+      ]
+    },
+    {
+      "begin": 15,
+      "charBegin": 68,
+      "charEnd": 268,
+      "end": 48,
+      "id": 2,
+      "text": "in der Kammertür stand Simon, fast unbekleidet, seine dürre Gestalt, sein ungekämmtes, wirres Haar und die vom Mondschein verursachte Blässe des Gesichts gaben ihm ein schauerlich verändertes Ansehen.",
+      "tokenIds": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "tokens": [
+        "in",
+        "der",
+        "Kammertür",
+        "stand",
+        "Simon",
+        ",",
+        "fast",
+        "unbekleidet",
+        ",",
+        "seine",
+        "dürre",
+        "Gestalt",
+        ",",
+        "sein",
+        "ungekämmtes",
+        ",",
+        "wirres",
+        "Haar",
+        "und",
+        "die",
+        "vom",
+        "Mondschein",
+        "verursachte",
+        "Blässe",
+        "des",
+        "Gesichts",
+        "gaben",
+        "ihm",
+        "ein",
+        "schauerlich",
+        "verändertes",
+        "Ansehen",
+        "."
+      ]
+    },
+    {
+      "begin": 48,
+      "charBegin": 269,
+      "charEnd": 384,
+      "end": 74,
+      "id": 3,
+      "text": "»Sollte er nachtwandeln?« dachte Friedrich, und verhielt sich ganz still. – »Friedrich, wohin?« flüsterte der Alte.",
+      "tokenIds": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "tokens": [
+        "»",
+        "Sollte",
+        "er",
+        "nachtwandeln",
+        "?",
+        "«",
+        "dachte",
+        "Friedrich",
+        ",",
+        "und",
+        "verhielt",
+        "sich",
+        "ganz",
+        "still",
+        ".",
+        "–",
+        "»",
+        "Friedrich",
+        ",",
+        "wohin",
+        "?",
+        "«",
+        "flüsterte",
+        "der",
+        "Alte",
+        "."
+      ]
+    },
+    {
+      "begin": 74,
+      "charBegin": 385,
+      "charEnd": 404,
+      "end": 81,
+      "id": 4,
+      "text": "– »Ohm, seid Ihr's?",
+      "tokenIds": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Ohm",
+        ",",
+        "seid",
+        "Ihr's",
+        "?"
+      ]
+    },
+    {
+      "begin": 81,
+      "charBegin": 405,
+      "charEnd": 453,
+      "end": 95,
+      "id": 5,
+      "text": "Ich will beichten gehen.« – »Das dacht' ich mir;",
+      "tokenIds": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "tokens": [
+        "Ich",
+        "will",
+        "beichten",
+        "gehen",
+        ".",
+        "«",
+        "–",
+        "»",
+        "Das",
+        "dacht",
+        "'",
+        "ich",
+        "mir",
+        ";"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 2,
+      "id": 0,
+      "sentence": 1,
+      "text": "es",
+      "word": 1
+    },
+    {
+      "charBegin": 3,
+      "charEnd": 6,
+      "id": 1,
+      "sentence": 1,
+      "text": "war",
+      "word": 2
+    },
+    {
+      "charBegin": 7,
+      "charEnd": 12,
+      "id": 2,
+      "sentence": 1,
+      "text": "nicht",
+      "word": 3
+    },
+    {
+      "charBegin": 13,
+      "charEnd": 15,
+      "id": 3,
+      "sentence": 1,
+      "text": "da",
+      "word": 4
+    },
+    {
+      "charBegin": 15,
+      "charEnd": 16,
+      "id": 4,
+      "sentence": 1,
+      "text": ".",
+      "word": 5
+    },
+    {
+      "charBegin": 17,
+      "charEnd": 19,
+      "id": 5,
+      "sentence": 2,
+      "text": "Er",
+      "word": 1
+    },
+    {
+      "charBegin": 20,
+      "charEnd": 24,
+      "id": 6,
+      "sentence": 2,
+      "text": "warf",
+      "word": 2
+    },
+    {
+      "charBegin": 25,
+      "charEnd": 28,
+      "id": 7,
+      "sentence": 2,
+      "text": "die",
+      "word": 3
+    },
+    {
+      "charBegin": 29,
+      "charEnd": 34,
+      "id": 8,
+      "sentence": 2,
+      "text": "Augen",
+      "word": 4
+    },
+    {
+      "charBegin": 35,
+      "charEnd": 42,
+      "id": 9,
+      "sentence": 2,
+      "text": "suchend",
+      "word": 5
+    },
+    {
+      "charBegin": 43,
+      "charEnd": 48,
+      "id": 10,
+      "sentence": 2,
+      "text": "umher",
+      "word": 6
+    },
+    {
+      "charBegin": 49,
+      "charEnd": 52,
+      "id": 11,
+      "sentence": 2,
+      "text": "und",
+      "word": 7
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 57,
+      "id": 12,
+      "sentence": 2,
+      "text": "fuhr",
+      "word": 8
+    },
+    {
+      "charBegin": 58,
+      "charEnd": 66,
+      "id": 13,
+      "sentence": 2,
+      "text": "zusammen",
+      "word": 9
+    },
+    {
+      "charBegin": 66,
+      "charEnd": 67,
+      "id": 14,
+      "sentence": 2,
+      "text": ";",
+      "word": 10
+    },
+    {
+      "charBegin": 68,
+      "charEnd": 70,
+      "id": 15,
+      "sentence": 3,
+      "text": "in",
+      "word": 1
+    },
+    {
+      "charBegin": 71,
+      "charEnd": 74,
+      "id": 16,
+      "sentence": 3,
+      "text": "der",
+      "word": 2
+    },
+    {
+      "charBegin": 75,
+      "charEnd": 84,
+      "id": 17,
+      "sentence": 3,
+      "text": "Kammertür",
+      "word": 3
+    },
+    {
+      "charBegin": 85,
+      "charEnd": 90,
+      "id": 18,
+      "sentence": 3,
+      "text": "stand",
+      "word": 4
+    },
+    {
+      "charBegin": 91,
+      "charEnd": 96,
+      "id": 19,
+      "sentence": 3,
+      "text": "Simon",
+      "word": 5
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 97,
+      "id": 20,
+      "sentence": 3,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 98,
+      "charEnd": 102,
+      "id": 21,
+      "sentence": 3,
+      "text": "fast",
+      "word": 7
+    },
+    {
+      "charBegin": 103,
+      "charEnd": 114,
+      "id": 22,
+      "sentence": 3,
+      "text": "unbekleidet",
+      "word": 8
+    },
+    {
+      "charBegin": 114,
+      "charEnd": 115,
+      "id": 23,
+      "sentence": 3,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 116,
+      "charEnd": 121,
+      "id": 24,
+      "sentence": 3,
+      "text": "seine",
+      "word": 10
+    },
+    {
+      "charBegin": 122,
+      "charEnd": 127,
+      "id": 25,
+      "sentence": 3,
+      "text": "dürre",
+      "word": 11
+    },
+    {
+      "charBegin": 128,
+      "charEnd": 135,
+      "id": 26,
+      "sentence": 3,
+      "text": "Gestalt",
+      "word": 12
+    },
+    {
+      "charBegin": 135,
+      "charEnd": 136,
+      "id": 27,
+      "sentence": 3,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 137,
+      "charEnd": 141,
+      "id": 28,
+      "sentence": 3,
+      "text": "sein",
+      "word": 14
+    },
+    {
+      "charBegin": 142,
+      "charEnd": 153,
+      "id": 29,
+      "sentence": 3,
+      "text": "ungekämmtes",
+      "word": 15
+    },
+    {
+      "charBegin": 153,
+      "charEnd": 154,
+      "id": 30,
+      "sentence": 3,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 155,
+      "charEnd": 161,
+      "id": 31,
+      "sentence": 3,
+      "text": "wirres",
+      "word": 17
+    },
+    {
+      "charBegin": 162,
+      "charEnd": 166,
+      "id": 32,
+      "sentence": 3,
+      "text": "Haar",
+      "word": 18
+    },
+    {
+      "charBegin": 167,
+      "charEnd": 170,
+      "id": 33,
+      "sentence": 3,
+      "text": "und",
+      "word": 19
+    },
+    {
+      "charBegin": 171,
+      "charEnd": 174,
+      "id": 34,
+      "sentence": 3,
+      "text": "die",
+      "word": 20
+    },
+    {
+      "charBegin": 175,
+      "charEnd": 178,
+      "id": 35,
+      "sentence": 3,
+      "text": "vom",
+      "word": 21
+    },
+    {
+      "charBegin": 179,
+      "charEnd": 189,
+      "id": 36,
+      "sentence": 3,
+      "text": "Mondschein",
+      "word": 22
+    },
+    {
+      "charBegin": 190,
+      "charEnd": 201,
+      "id": 37,
+      "sentence": 3,
+      "text": "verursachte",
+      "word": 23
+    },
+    {
+      "charBegin": 202,
+      "charEnd": 208,
+      "id": 38,
+      "sentence": 3,
+      "text": "Blässe",
+      "word": 24
+    },
+    {
+      "charBegin": 209,
+      "charEnd": 212,
+      "id": 39,
+      "sentence": 3,
+      "text": "des",
+      "word": 25
+    },
+    {
+      "charBegin": 213,
+      "charEnd": 221,
+      "id": 40,
+      "sentence": 3,
+      "text": "Gesichts",
+      "word": 26
+    },
+    {
+      "charBegin": 222,
+      "charEnd": 227,
+      "id": 41,
+      "sentence": 3,
+      "text": "gaben",
+      "word": 27
+    },
+    {
+      "charBegin": 228,
+      "charEnd": 231,
+      "id": 42,
+      "sentence": 3,
+      "text": "ihm",
+      "word": 28
+    },
+    {
+      "charBegin": 232,
+      "charEnd": 235,
+      "id": 43,
+      "sentence": 3,
+      "text": "ein",
+      "word": 29
+    },
+    {
+      "charBegin": 236,
+      "charEnd": 247,
+      "id": 44,
+      "sentence": 3,
+      "text": "schauerlich",
+      "word": 30
+    },
+    {
+      "charBegin": 248,
+      "charEnd": 259,
+      "id": 45,
+      "sentence": 3,
+      "text": "verändertes",
+      "word": 31
+    },
+    {
+      "charBegin": 260,
+      "charEnd": 267,
+      "id": 46,
+      "sentence": 3,
+      "text": "Ansehen",
+      "word": 32
+    },
+    {
+      "charBegin": 267,
+      "charEnd": 268,
+      "id": 47,
+      "sentence": 3,
+      "text": ".",
+      "word": 33
+    },
+    {
+      "charBegin": 269,
+      "charEnd": 270,
+      "id": 48,
+      "sentence": 4,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 270,
+      "charEnd": 276,
+      "id": 49,
+      "sentence": 4,
+      "text": "Sollte",
+      "word": 2
+    },
+    {
+      "charBegin": 277,
+      "charEnd": 279,
+      "id": 50,
+      "sentence": 4,
+      "text": "er",
+      "word": 3
+    },
+    {
+      "charBegin": 280,
+      "charEnd": 292,
+      "id": 51,
+      "sentence": 4,
+      "text": "nachtwandeln",
+      "word": 4
+    },
+    {
+      "charBegin": 292,
+      "charEnd": 293,
+      "id": 52,
+      "sentence": 4,
+      "text": "?",
+      "word": 5
+    },
+    {
+      "charBegin": 293,
+      "charEnd": 294,
+      "id": 53,
+      "sentence": 4,
+      "text": "«",
+      "word": 6
+    },
+    {
+      "charBegin": 295,
+      "charEnd": 301,
+      "id": 54,
+      "sentence": 4,
+      "text": "dachte",
+      "word": 7
+    },
+    {
+      "charBegin": 302,
+      "charEnd": 311,
+      "id": 55,
+      "sentence": 4,
+      "text": "Friedrich",
+      "word": 8
+    },
+    {
+      "charBegin": 311,
+      "charEnd": 312,
+      "id": 56,
+      "sentence": 4,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 313,
+      "charEnd": 316,
+      "id": 57,
+      "sentence": 4,
+      "text": "und",
+      "word": 10
+    },
+    {
+      "charBegin": 317,
+      "charEnd": 325,
+      "id": 58,
+      "sentence": 4,
+      "text": "verhielt",
+      "word": 11
+    },
+    {
+      "charBegin": 326,
+      "charEnd": 330,
+      "id": 59,
+      "sentence": 4,
+      "text": "sich",
+      "word": 12
+    },
+    {
+      "charBegin": 331,
+      "charEnd": 335,
+      "id": 60,
+      "sentence": 4,
+      "text": "ganz",
+      "word": 13
+    },
+    {
+      "charBegin": 336,
+      "charEnd": 341,
+      "id": 61,
+      "sentence": 4,
+      "text": "still",
+      "word": 14
+    },
+    {
+      "charBegin": 341,
+      "charEnd": 342,
+      "id": 62,
+      "sentence": 4,
+      "text": ".",
+      "word": 15
+    },
+    {
+      "charBegin": 343,
+      "charEnd": 344,
+      "id": 63,
+      "sentence": 4,
+      "text": "–",
+      "word": 16
+    },
+    {
+      "charBegin": 345,
+      "charEnd": 346,
+      "id": 64,
+      "sentence": 4,
+      "text": "»",
+      "word": 17
+    },
+    {
+      "charBegin": 346,
+      "charEnd": 355,
+      "id": 65,
+      "sentence": 4,
+      "text": "Friedrich",
+      "word": 18
+    },
+    {
+      "charBegin": 355,
+      "charEnd": 356,
+      "id": 66,
+      "sentence": 4,
+      "text": ",",
+      "word": 19
+    },
+    {
+      "charBegin": 357,
+      "charEnd": 362,
+      "id": 67,
+      "sentence": 4,
+      "text": "wohin",
+      "word": 20
+    },
+    {
+      "charBegin": 362,
+      "charEnd": 363,
+      "id": 68,
+      "sentence": 4,
+      "text": "?",
+      "word": 21
+    },
+    {
+      "charBegin": 363,
+      "charEnd": 364,
+      "id": 69,
+      "sentence": 4,
+      "text": "«",
+      "word": 22
+    },
+    {
+      "charBegin": 365,
+      "charEnd": 374,
+      "id": 70,
+      "sentence": 4,
+      "text": "flüsterte",
+      "word": 23
+    },
+    {
+      "charBegin": 375,
+      "charEnd": 378,
+      "id": 71,
+      "sentence": 4,
+      "text": "der",
+      "word": 24
+    },
+    {
+      "charBegin": 379,
+      "charEnd": 383,
+      "id": 72,
+      "sentence": 4,
+      "text": "Alte",
+      "word": 25
+    },
+    {
+      "charBegin": 383,
+      "charEnd": 384,
+      "id": 73,
+      "sentence": 4,
+      "text": ".",
+      "word": 26
+    },
+    {
+      "charBegin": 385,
+      "charEnd": 386,
+      "id": 74,
+      "sentence": 5,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 387,
+      "charEnd": 388,
+      "id": 75,
+      "sentence": 5,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 388,
+      "charEnd": 391,
+      "id": 76,
+      "sentence": 5,
+      "text": "Ohm",
+      "word": 3
+    },
+    {
+      "charBegin": 391,
+      "charEnd": 392,
+      "id": 77,
+      "sentence": 5,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 393,
+      "charEnd": 397,
+      "id": 78,
+      "sentence": 5,
+      "text": "seid",
+      "word": 5
+    },
+    {
+      "charBegin": 398,
+      "charEnd": 403,
+      "id": 79,
+      "sentence": 5,
+      "text": "Ihr's",
+      "word": 6
+    },
+    {
+      "charBegin": 403,
+      "charEnd": 404,
+      "id": 80,
+      "sentence": 5,
+      "text": "?",
+      "word": 7
+    },
+    {
+      "charBegin": 405,
+      "charEnd": 408,
+      "id": 81,
+      "sentence": 6,
+      "text": "Ich",
+      "word": 1
+    },
+    {
+      "charBegin": 409,
+      "charEnd": 413,
+      "id": 82,
+      "sentence": 6,
+      "text": "will",
+      "word": 2
+    },
+    {
+      "charBegin": 414,
+      "charEnd": 422,
+      "id": 83,
+      "sentence": 6,
+      "text": "beichten",
+      "word": 3
+    },
+    {
+      "charBegin": 423,
+      "charEnd": 428,
+      "id": 84,
+      "sentence": 6,
+      "text": "gehen",
+      "word": 4
+    },
+    {
+      "charBegin": 428,
+      "charEnd": 429,
+      "id": 85,
+      "sentence": 6,
+      "text": ".",
+      "word": 5
+    },
+    {
+      "charBegin": 429,
+      "charEnd": 430,
+      "id": 86,
+      "sentence": 6,
+      "text": "«",
+      "word": 6
+    },
+    {
+      "charBegin": 431,
+      "charEnd": 432,
+      "id": 87,
+      "sentence": 6,
+      "text": "–",
+      "word": 7
+    },
+    {
+      "charBegin": 433,
+      "charEnd": 434,
+      "id": 88,
+      "sentence": 6,
+      "text": "»",
+      "word": 8
+    },
+    {
+      "charBegin": 434,
+      "charEnd": 437,
+      "id": 89,
+      "sentence": 6,
+      "text": "Das",
+      "word": 9
+    },
+    {
+      "charBegin": 438,
+      "charEnd": 443,
+      "id": 90,
+      "sentence": 6,
+      "text": "dacht",
+      "word": 10
+    },
+    {
+      "charBegin": 443,
+      "charEnd": 444,
+      "id": 91,
+      "sentence": 6,
+      "text": "'",
+      "word": 11
+    },
+    {
+      "charBegin": 445,
+      "charEnd": 448,
+      "id": 92,
+      "sentence": 6,
+      "text": "ich",
+      "word": 12
+    },
+    {
+      "charBegin": 449,
+      "charEnd": 452,
+      "id": 93,
+      "sentence": 6,
+      "text": "mir",
+      "word": 13
+    },
+    {
+      "charBegin": 452,
+      "charEnd": 453,
+      "id": 94,
+      "sentence": 6,
+      "text": ";",
+      "word": 14
+    }
+  ]
+}

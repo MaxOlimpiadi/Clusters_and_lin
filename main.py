@@ -178,7 +178,7 @@ def get_mention_spans(participation_spans, full_annotations, author, pers, min_o
 
 
 
-def get_spans_with_tags(full_annotations, author='gold'):
+def get_spans_with_tags(full_annotations, author='katharina_g'):
     raw_phrase_spans = []
     raw_pers_spans = []
     phrase_group_id = 1  # Один ID на одну активность
@@ -232,7 +232,7 @@ def get_spans_with_tags(full_annotations, author='gold'):
 
 
 
-def get_insertions(spans_with_tags, full_annotations, author="gold"):
+def get_insertions(spans_with_tags, full_annotations, author="katharina_g"):
     insertions = []
     for start, end, tag, id_num in spans_with_tags:
         insertions.append((start, f"<{tag} id=\"{id_num}\">"))
@@ -403,13 +403,15 @@ def get_formated_span(span, formated_full_annotations):
 
 
 
-def get_category_feild_part(category, elem, full_annotations, formated_full_annotations, author = "gold", special_outside_m = None):
+def get_category_feild_part(category, elem, full_annotations, formated_full_annotations, author = "katharina_g", special_outside_m = None, seen_spans = None):
     formated_spans = []
     cur_span_token_ids = set()
     cur_span_text = []
     elem_outside_mentions = 0
     
-    seen_spans = set() # чисто для чека, чтобы дубли не добавлять
+    if seen_spans is None:
+        seen_spans = set() # если нифига не передали, типа страховка.
+    
     
     for char in elem[category]:
         mention_spans, is_outside_mention = get_mention_spans(elem["spans"], full_annotations, author, char)
@@ -432,7 +434,7 @@ def get_category_feild_part(category, elem, full_annotations, formated_full_anno
             )
             
             if span_key in seen_spans:
-                print(f'Duplicated span: {span_obj["charBegin"]}, {span_obj["charEnd"]}')
+                print(f'Duplicated span: {span_obj["charBegin"]}, {span_obj["charEnd"]}, participation: {elem["spans"]}, type: {category}')
                 continue
             
             seen_spans.add(span_key)
@@ -450,7 +452,7 @@ def get_category_feild_part(category, elem, full_annotations, formated_full_anno
 
 
 
-def format_text(full_annotations, num_of_file, author = "gold"):
+def format_text(full_annotations, num_of_file, author = "katharina_g"):
     #formated_full_annotations = full_annotations
     tokens_spans = full_annotations["tokens"]   #заранее сохраним токены
     sentences_spans = full_annotations["sentences"]
@@ -506,22 +508,29 @@ def format_text(full_annotations, num_of_file, author = "gold"):
     
     
     #+++++++++++++++++++++++++++++Теперь аннотации сами+++++++++++++++++++++++++++++++++++++++++++
-    mentions = full_annotations["gold"]["mentions"]
-    participations = full_annotations["gold"]["participations"]    
+    mentions = full_annotations["katharina_g"]["mentions"]
+    participations = full_annotations["katharina_g"]["participations"]    
     pid = 0 #здесь это НЕ НОМЕР PARTICIPATION OBJECT-A, а именно номер отдельного объекта в нашем формате!
     outside_metions = 0
     special_outside_m = {"crowd": 0, "background_character": 0} # для статистики outside m по этим двум персонажам
+    
+    #заряжаем словарик (по категориям) уже виденных ранее спанов, чтобы дублей в рамках одного спана и одной категории избегать, как в рамках однолй фразы, так и вообще 
+    global_seen_span_category = {
+        "agentive": set(),
+        "low_agentive": set(),
+        "passive": set()
+    }
     
     for elem in participations:
         #phrase_spans = elem["spans"]
         formated_mention = []
         phrase_field = get_phrase_field(elem, formated_full_annotations)
         
-        agentive_field, tmp_outside_mentions = get_category_feild_part("agentive", elem, full_annotations, formated_full_annotations, special_outside_m = special_outside_m) 
+        agentive_field, tmp_outside_mentions = get_category_feild_part("agentive", elem, full_annotations, formated_full_annotations, special_outside_m = special_outside_m, seen_spans = global_seen_span_category["agentive"]) 
         outside_metions += tmp_outside_mentions
-        low_agentive_field, tmp_outside_mentions = get_category_feild_part("low_agentive", elem, full_annotations, formated_full_annotations, special_outside_m = special_outside_m) 
+        low_agentive_field, tmp_outside_mentions = get_category_feild_part("low_agentive", elem, full_annotations, formated_full_annotations, special_outside_m = special_outside_m, seen_spans = global_seen_span_category["low_agentive"]) 
         outside_metions += tmp_outside_mentions
-        passive_field, tmp_outside_mentions = get_category_feild_part("passive", elem, full_annotations, formated_full_annotations, special_outside_m = special_outside_m) 
+        passive_field, tmp_outside_mentions = get_category_feild_part("passive", elem, full_annotations, formated_full_annotations, special_outside_m = special_outside_m, seen_spans = global_seen_span_category["passive"]) 
         outside_metions += tmp_outside_mentions
         
         formated_full_annotations["annotations"].append({"phrase": phrase_field, 
@@ -907,7 +916,7 @@ def split_the_file(num_of_file):
                 print(e)        
     
     
-        filename = f"chunk_{num_of_file}_KRAMBAMBULI_{i}_{min(i + WINDOW_SIZE, num_sentences)}.json"
+        filename = f"chunk_{num_of_file + 7}_OLD_KATHARINA_{i}_{min(i + WINDOW_SIZE, num_sentences)}.json"
         with open(os.path.join(OUTPUT_DIR, filename), "w", encoding="utf-8") as out_f:
             json.dump(normalized_chunk_data, out_f, ensure_ascii=False, indent=2)
     
@@ -956,7 +965,7 @@ def split_the_file(num_of_file):
             for e in errs:
                 print(e)
         
-        filename = f"chunk_{num_of_file}_KRAMBAMBULI_{last_start}_end.json"
+        filename = f"chunk_{num_of_file + 7}_OLD_KATHARINA_{last_start}_end.json"
         with open(os.path.join(OUTPUT_DIR, filename), "w", encoding="utf-8") as out_f:
             json.dump(normalized_chunk_data, out_f, ensure_ascii=False, indent=2)
     
@@ -1102,7 +1111,7 @@ def calc_avg_tokens_per_sent():
     
 
 def check_dev_test_chunks():
-    file_path = 'test-predicts.jsonlines'
+    file_path = 'dev-predicts.jsonlines'
     TOTAL_COUNT = 0 #total count of missed phrases in predictions, located after last predicted phrase span
     with open(file_path, 'r', encoding='UTF-8') as f:
         for line in f:
@@ -1148,20 +1157,20 @@ def check_dev_test_chunks():
     
 
 def main():
-    # delete_old_chunks() # удаляем старые файла вывода
-    # num_of_file = 1
-    # for filename in os.listdir(INPUT_FOLDER):
-    #     if filename.endswith(".json"):
-    #         filepath = os.path.join(INPUT_FOLDER, filename)
-    #         print(f"🔄 Обработка файла: {filename}")
-    #         process_file(filepath, num_of_file)
-    #         num_of_file += 1
+    delete_old_chunks() # удаляем старые файла вывода
+    num_of_file = 1
+    for filename in os.listdir(INPUT_FOLDER):
+        if filename.endswith(".json"):
+            filepath = os.path.join(INPUT_FOLDER, filename)
+            print(f"🔄 Обработка файла: {filename}")
+            process_file(filepath, num_of_file)
+            num_of_file += 1
     
     #deviding_files_into_train_dev_test()
         
     #calc_avg_tokens_per_sent()
     
-    check_dev_test_chunks()
+    #check_dev_test_chunks()
     
 
 main()

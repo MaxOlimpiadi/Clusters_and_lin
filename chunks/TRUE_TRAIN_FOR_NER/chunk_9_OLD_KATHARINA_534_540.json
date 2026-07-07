@@ -1,0 +1,875 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 9,
+            "charBegin": 27,
+            "charEnd": 39,
+            "end": 11
+          }
+        ],
+        "text": "Gabriel ging",
+        "tokenIds": [
+          9,
+          10
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 9,
+            "charBegin": 27,
+            "charEnd": 34,
+            "end": 10
+          }
+        ],
+        "text": [
+          "Gabriel"
+        ],
+        "tokenIds": [
+          9
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 863,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 13,
+            "charBegin": 45,
+            "charEnd": 95,
+            "end": 20
+          }
+        ],
+        "text": "Am nächsten Tage machte Gabriel keinen Spaziergang",
+        "tokenIds": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 17,
+            "charBegin": 69,
+            "charEnd": 76,
+            "end": 18
+          }
+        ],
+        "text": [
+          "Gabriel"
+        ],
+        "tokenIds": [
+          17
+        ]
+      },
+      "hasNested": false,
+      "id": 864,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 21,
+            "charBegin": 97,
+            "charEnd": 143,
+            "end": 29
+          }
+        ],
+        "text": "Magdalene fand ihn so blaß und elend aussehend",
+        "tokenIds": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 21,
+            "charBegin": 97,
+            "charEnd": 106,
+            "end": 22
+          }
+        ],
+        "text": [
+          "Magdalene"
+        ],
+        "tokenIds": [
+          21
+        ]
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 23,
+            "charBegin": 112,
+            "charEnd": 115,
+            "end": 24
+          }
+        ],
+        "text": [
+          "ihn"
+        ],
+        "tokenIds": [
+          23
+        ]
+      },
+      "hasNested": false,
+      "id": 865,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 30,
+            "charBegin": 145,
+            "charEnd": 197,
+            "end": 39
+          }
+        ],
+        "text": "daß sie ihn gerne nach seinem Befinden gefragt hätte",
+        "tokenIds": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 31,
+            "charBegin": 149,
+            "charEnd": 152,
+            "end": 32
+          },
+          {
+            "begin": 32,
+            "charBegin": 153,
+            "charEnd": 156,
+            "end": 33
+          },
+          {
+            "begin": 35,
+            "charBegin": 168,
+            "charEnd": 174,
+            "end": 36
+          }
+        ],
+        "text": [
+          "sie",
+          "ihn",
+          "seinem"
+        ],
+        "tokenIds": [
+          31,
+          32,
+          35
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 866,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 40,
+            "charBegin": 199,
+            "charEnd": 257,
+            "end": 50
+          }
+        ],
+        "text": "wenn sie nicht gefürchtet hätte , keine Antwort zu bekommen",
+        "tokenIds": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 41,
+            "charBegin": 204,
+            "charEnd": 207,
+            "end": 42
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          41
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 867,
+      "isNested": false
+    }
+  ],
+  "documentName": "Ein Schwächling__534_540",
+  "originalText": "«\n\n»Ja – aber gehen sie.«\n\nGabriel ging.\n\n*\n\nAm nächsten Tage machte Gabriel keinen Spaziergang. Magdalene fand ihn so blaß und elend aussehend, daß sie ihn gerne nach seinem Befinden gefragt hätte, wenn sie nicht gefürchtet hätte, keine Antwort zu bekommen.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 3,
+      "end": 1,
+      "id": 0,
+      "text": "«\n\n",
+      "tokenIds": [
+        0
+      ],
+      "tokens": [
+        "«"
+      ]
+    },
+    {
+      "begin": 1,
+      "charBegin": 3,
+      "charEnd": 24,
+      "end": 8,
+      "id": 1,
+      "text": "»Ja – aber gehen sie.",
+      "tokenIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tokens": [
+        "»",
+        "Ja",
+        "–",
+        "aber",
+        "gehen",
+        "sie",
+        "."
+      ]
+    },
+    {
+      "begin": 8,
+      "charBegin": 24,
+      "charEnd": 25,
+      "end": 9,
+      "id": 2,
+      "text": "«",
+      "tokenIds": [
+        8
+      ],
+      "tokens": [
+        "«"
+      ]
+    },
+    {
+      "begin": 9,
+      "charBegin": 25,
+      "charEnd": 43,
+      "end": 13,
+      "id": 3,
+      "text": "\n\nGabriel ging.\n\n*",
+      "tokenIds": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokens": [
+        "Gabriel",
+        "ging",
+        ".",
+        "*"
+      ]
+    },
+    {
+      "begin": 13,
+      "charBegin": 45,
+      "charEnd": 96,
+      "end": 21,
+      "id": 4,
+      "text": "Am nächsten Tage machte Gabriel keinen Spaziergang.",
+      "tokenIds": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokens": [
+        "Am",
+        "nächsten",
+        "Tage",
+        "machte",
+        "Gabriel",
+        "keinen",
+        "Spaziergang",
+        "."
+      ]
+    },
+    {
+      "begin": 21,
+      "charBegin": 97,
+      "charEnd": 258,
+      "end": 51,
+      "id": 5,
+      "text": "Magdalene fand ihn so blaß und elend aussehend, daß sie ihn gerne nach seinem Befinden gefragt hätte, wenn sie nicht gefürchtet hätte, keine Antwort zu bekommen.",
+      "tokenIds": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "tokens": [
+        "Magdalene",
+        "fand",
+        "ihn",
+        "so",
+        "blaß",
+        "und",
+        "elend",
+        "aussehend",
+        ",",
+        "daß",
+        "sie",
+        "ihn",
+        "gerne",
+        "nach",
+        "seinem",
+        "Befinden",
+        "gefragt",
+        "hätte",
+        ",",
+        "wenn",
+        "sie",
+        "nicht",
+        "gefürchtet",
+        "hätte",
+        ",",
+        "keine",
+        "Antwort",
+        "zu",
+        "bekommen",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 1,
+      "id": 0,
+      "sentence": 1,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 3,
+      "charEnd": 4,
+      "id": 1,
+      "sentence": 2,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 4,
+      "charEnd": 6,
+      "id": 2,
+      "sentence": 2,
+      "text": "Ja",
+      "word": 2
+    },
+    {
+      "charBegin": 7,
+      "charEnd": 8,
+      "id": 3,
+      "sentence": 2,
+      "text": "–",
+      "word": 3
+    },
+    {
+      "charBegin": 9,
+      "charEnd": 13,
+      "id": 4,
+      "sentence": 2,
+      "text": "aber",
+      "word": 4
+    },
+    {
+      "charBegin": 14,
+      "charEnd": 19,
+      "id": 5,
+      "sentence": 2,
+      "text": "gehen",
+      "word": 5
+    },
+    {
+      "charBegin": 20,
+      "charEnd": 23,
+      "id": 6,
+      "sentence": 2,
+      "text": "sie",
+      "word": 6
+    },
+    {
+      "charBegin": 23,
+      "charEnd": 24,
+      "id": 7,
+      "sentence": 2,
+      "text": ".",
+      "word": 7
+    },
+    {
+      "charBegin": 24,
+      "charEnd": 25,
+      "id": 8,
+      "sentence": 3,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 27,
+      "charEnd": 34,
+      "id": 9,
+      "sentence": 4,
+      "text": "Gabriel",
+      "word": 1
+    },
+    {
+      "charBegin": 35,
+      "charEnd": 39,
+      "id": 10,
+      "sentence": 4,
+      "text": "ging",
+      "word": 2
+    },
+    {
+      "charBegin": 39,
+      "charEnd": 40,
+      "id": 11,
+      "sentence": 4,
+      "text": ".",
+      "word": 3
+    },
+    {
+      "charBegin": 42,
+      "charEnd": 43,
+      "id": 12,
+      "sentence": 4,
+      "text": "*",
+      "word": 4
+    },
+    {
+      "charBegin": 45,
+      "charEnd": 47,
+      "id": 13,
+      "sentence": 5,
+      "text": "Am",
+      "word": 1
+    },
+    {
+      "charBegin": 48,
+      "charEnd": 56,
+      "id": 14,
+      "sentence": 5,
+      "text": "nächsten",
+      "word": 2
+    },
+    {
+      "charBegin": 57,
+      "charEnd": 61,
+      "id": 15,
+      "sentence": 5,
+      "text": "Tage",
+      "word": 3
+    },
+    {
+      "charBegin": 62,
+      "charEnd": 68,
+      "id": 16,
+      "sentence": 5,
+      "text": "machte",
+      "word": 4
+    },
+    {
+      "charBegin": 69,
+      "charEnd": 76,
+      "id": 17,
+      "sentence": 5,
+      "text": "Gabriel",
+      "word": 5
+    },
+    {
+      "charBegin": 77,
+      "charEnd": 83,
+      "id": 18,
+      "sentence": 5,
+      "text": "keinen",
+      "word": 6
+    },
+    {
+      "charBegin": 84,
+      "charEnd": 95,
+      "id": 19,
+      "sentence": 5,
+      "text": "Spaziergang",
+      "word": 7
+    },
+    {
+      "charBegin": 95,
+      "charEnd": 96,
+      "id": 20,
+      "sentence": 5,
+      "text": ".",
+      "word": 8
+    },
+    {
+      "charBegin": 97,
+      "charEnd": 106,
+      "id": 21,
+      "sentence": 6,
+      "text": "Magdalene",
+      "word": 1
+    },
+    {
+      "charBegin": 107,
+      "charEnd": 111,
+      "id": 22,
+      "sentence": 6,
+      "text": "fand",
+      "word": 2
+    },
+    {
+      "charBegin": 112,
+      "charEnd": 115,
+      "id": 23,
+      "sentence": 6,
+      "text": "ihn",
+      "word": 3
+    },
+    {
+      "charBegin": 116,
+      "charEnd": 118,
+      "id": 24,
+      "sentence": 6,
+      "text": "so",
+      "word": 4
+    },
+    {
+      "charBegin": 119,
+      "charEnd": 123,
+      "id": 25,
+      "sentence": 6,
+      "text": "blaß",
+      "word": 5
+    },
+    {
+      "charBegin": 124,
+      "charEnd": 127,
+      "id": 26,
+      "sentence": 6,
+      "text": "und",
+      "word": 6
+    },
+    {
+      "charBegin": 128,
+      "charEnd": 133,
+      "id": 27,
+      "sentence": 6,
+      "text": "elend",
+      "word": 7
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 143,
+      "id": 28,
+      "sentence": 6,
+      "text": "aussehend",
+      "word": 8
+    },
+    {
+      "charBegin": 143,
+      "charEnd": 144,
+      "id": 29,
+      "sentence": 6,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 145,
+      "charEnd": 148,
+      "id": 30,
+      "sentence": 6,
+      "text": "daß",
+      "word": 10
+    },
+    {
+      "charBegin": 149,
+      "charEnd": 152,
+      "id": 31,
+      "sentence": 6,
+      "text": "sie",
+      "word": 11
+    },
+    {
+      "charBegin": 153,
+      "charEnd": 156,
+      "id": 32,
+      "sentence": 6,
+      "text": "ihn",
+      "word": 12
+    },
+    {
+      "charBegin": 157,
+      "charEnd": 162,
+      "id": 33,
+      "sentence": 6,
+      "text": "gerne",
+      "word": 13
+    },
+    {
+      "charBegin": 163,
+      "charEnd": 167,
+      "id": 34,
+      "sentence": 6,
+      "text": "nach",
+      "word": 14
+    },
+    {
+      "charBegin": 168,
+      "charEnd": 174,
+      "id": 35,
+      "sentence": 6,
+      "text": "seinem",
+      "word": 15
+    },
+    {
+      "charBegin": 175,
+      "charEnd": 183,
+      "id": 36,
+      "sentence": 6,
+      "text": "Befinden",
+      "word": 16
+    },
+    {
+      "charBegin": 184,
+      "charEnd": 191,
+      "id": 37,
+      "sentence": 6,
+      "text": "gefragt",
+      "word": 17
+    },
+    {
+      "charBegin": 192,
+      "charEnd": 197,
+      "id": 38,
+      "sentence": 6,
+      "text": "hätte",
+      "word": 18
+    },
+    {
+      "charBegin": 197,
+      "charEnd": 198,
+      "id": 39,
+      "sentence": 6,
+      "text": ",",
+      "word": 19
+    },
+    {
+      "charBegin": 199,
+      "charEnd": 203,
+      "id": 40,
+      "sentence": 6,
+      "text": "wenn",
+      "word": 20
+    },
+    {
+      "charBegin": 204,
+      "charEnd": 207,
+      "id": 41,
+      "sentence": 6,
+      "text": "sie",
+      "word": 21
+    },
+    {
+      "charBegin": 208,
+      "charEnd": 213,
+      "id": 42,
+      "sentence": 6,
+      "text": "nicht",
+      "word": 22
+    },
+    {
+      "charBegin": 214,
+      "charEnd": 224,
+      "id": 43,
+      "sentence": 6,
+      "text": "gefürchtet",
+      "word": 23
+    },
+    {
+      "charBegin": 225,
+      "charEnd": 230,
+      "id": 44,
+      "sentence": 6,
+      "text": "hätte",
+      "word": 24
+    },
+    {
+      "charBegin": 230,
+      "charEnd": 231,
+      "id": 45,
+      "sentence": 6,
+      "text": ",",
+      "word": 25
+    },
+    {
+      "charBegin": 232,
+      "charEnd": 237,
+      "id": 46,
+      "sentence": 6,
+      "text": "keine",
+      "word": 26
+    },
+    {
+      "charBegin": 238,
+      "charEnd": 245,
+      "id": 47,
+      "sentence": 6,
+      "text": "Antwort",
+      "word": 27
+    },
+    {
+      "charBegin": 246,
+      "charEnd": 248,
+      "id": 48,
+      "sentence": 6,
+      "text": "zu",
+      "word": 28
+    },
+    {
+      "charBegin": 249,
+      "charEnd": 257,
+      "id": 49,
+      "sentence": 6,
+      "text": "bekommen",
+      "word": 29
+    },
+    {
+      "charBegin": 257,
+      "charEnd": 258,
+      "id": 50,
+      "sentence": 6,
+      "text": ".",
+      "word": 30
+    }
+  ]
+}

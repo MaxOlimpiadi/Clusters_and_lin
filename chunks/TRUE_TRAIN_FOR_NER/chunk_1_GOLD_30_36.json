@@ -1,0 +1,3409 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 79,
+            "end": 11
+          }
+        ],
+        "text": "Er mochte wohl eine Viertelstunde in der tiefsten Bewußtlosigkeit gelegen haben",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 2,
+            "end": 1
+          }
+        ],
+        "text": [
+          "Er"
+        ],
+        "tokenIds": [
+          0
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 96,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 12,
+            "charBegin": 81,
+            "charEnd": 111,
+            "end": 17
+          }
+        ],
+        "text": "als er endlich wieder erwachte",
+        "tokenIds": [
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 13,
+            "charBegin": 85,
+            "charEnd": 87,
+            "end": 14
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          13
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 97,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 18,
+            "charBegin": 113,
+            "charEnd": 187,
+            "end": 33
+          }
+        ],
+        "text": "und sich , mit nach der Stadt gekehrtem Rücken , halb auf dem Erdboden erhob",
+        "tokenIds": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 19,
+            "charBegin": 117,
+            "charEnd": 121,
+            "end": 20
+          }
+        ],
+        "text": [
+          "sich"
+        ],
+        "tokenIds": [
+          19
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 98,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 34,
+            "charBegin": 189,
+            "charEnd": 221,
+            "end": 40
+          }
+        ],
+        "text": "Er befühlte sich Stirn und Brust",
+        "tokenIds": [
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 34,
+            "charBegin": 189,
+            "charEnd": 191,
+            "end": 35
+          },
+          {
+            "begin": 36,
+            "charBegin": 201,
+            "charEnd": 205,
+            "end": 37
+          }
+        ],
+        "text": [
+          "Er",
+          "sich"
+        ],
+        "tokenIds": [
+          34,
+          36
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 99,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 41,
+            "charBegin": 223,
+            "charEnd": 274,
+            "end": 50
+          }
+        ],
+        "text": "unwissend , was er aus seinem Zustande machen sollte",
+        "tokenIds": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 44,
+            "charBegin": 238,
+            "charEnd": 240,
+            "end": 45
+          },
+          {
+            "begin": 46,
+            "charBegin": 245,
+            "charEnd": 251,
+            "end": 47
+          }
+        ],
+        "text": [
+          "er",
+          "seinem"
+        ],
+        "tokenIds": [
+          44,
+          46
+        ]
+      },
+      "hasNested": false,
+      "id": 100,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 51,
+            "charBegin": 276,
+            "charEnd": 319,
+            "end": 57
+          }
+        ],
+        "text": "und ein unsägliches Wonnegefühl ergriff ihn",
+        "tokenIds": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 56,
+            "charBegin": 316,
+            "charEnd": 319,
+            "end": 57
+          }
+        ],
+        "text": [
+          "ihn"
+        ],
+        "tokenIds": [
+          56
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 101,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 58,
+            "charBegin": 321,
+            "charEnd": 388,
+            "end": 70
+          }
+        ],
+        "text": "als ein Westwind , vom Meere her , sein wiederkehrendes Leben anwehte",
+        "tokenIds": [
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 66,
+            "charBegin": 354,
+            "charEnd": 358,
+            "end": 67
+          }
+        ],
+        "text": [
+          "sein"
+        ],
+        "tokenIds": [
+          66
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 102,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 71,
+            "charBegin": 390,
+            "charEnd": 478,
+            "end": 86
+          }
+        ],
+        "text": "und sein Auge sich nach allen Richtungen über die blühende Gegend von St. Jago hinwandte",
+        "tokenIds": [
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 72,
+            "charBegin": 394,
+            "charEnd": 398,
+            "end": 73
+          },
+          {
+            "begin": 74,
+            "charBegin": 404,
+            "charEnd": 408,
+            "end": 75
+          }
+        ],
+        "text": [
+          "sein",
+          "sich"
+        ],
+        "tokenIds": [
+          72,
+          74
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 103,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 87,
+            "charBegin": 480,
+            "charEnd": 513,
+            "end": 91
+          },
+          {
+            "begin": 98,
+            "charBegin": 548,
+            "charEnd": 568,
+            "end": 101
+          }
+        ],
+        "text": "Nur die verstörten Menschenhaufen beklemmten sein Herz",
+        "tokenIds": [
+          87,
+          88,
+          89,
+          90,
+          98,
+          99,
+          100
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 99,
+            "charBegin": 559,
+            "charEnd": 563,
+            "end": 100
+          },
+          {
+            "begin": 88,
+            "charBegin": 484,
+            "charEnd": 513,
+            "end": 91
+          }
+        ],
+        "text": [
+          "sein",
+          "die verstörten Menschenhaufen"
+        ],
+        "tokenIds": [
+          88,
+          89,
+          90,
+          99
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 104,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 92,
+            "charBegin": 515,
+            "charEnd": 546,
+            "end": 97
+          }
+        ],
+        "text": "die sich überall blicken ließen",
+        "tokenIds": [
+          92,
+          93,
+          94,
+          95,
+          96
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 92,
+            "charBegin": 515,
+            "charEnd": 518,
+            "end": 93
+          },
+          {
+            "begin": 93,
+            "charBegin": 519,
+            "charEnd": 523,
+            "end": 94
+          }
+        ],
+        "text": [
+          "die",
+          "sich"
+        ],
+        "tokenIds": [
+          92,
+          93
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 105,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 102,
+            "charBegin": 570,
+            "charEnd": 586,
+            "end": 105
+          }
+        ],
+        "text": "er begriff nicht",
+        "tokenIds": [
+          102,
+          103,
+          104
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 102,
+            "charBegin": 570,
+            "charEnd": 572,
+            "end": 103
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          102
+        ]
+      },
+      "hasNested": false,
+      "id": 106,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 106,
+            "charBegin": 588,
+            "charEnd": 631,
+            "end": 113
+          }
+        ],
+        "text": "was ihn und sie hierhergeführt haben konnte",
+        "tokenIds": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 107,
+            "charBegin": 592,
+            "charEnd": 595,
+            "end": 108
+          },
+          {
+            "begin": 109,
+            "charBegin": 600,
+            "charEnd": 603,
+            "end": 110
+          }
+        ],
+        "text": [
+          "ihn",
+          "sie"
+        ],
+        "tokenIds": [
+          107,
+          109
+        ]
+      },
+      "hasNested": false,
+      "id": 107,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 114,
+            "charBegin": 633,
+            "charEnd": 641,
+            "end": 116
+          },
+          {
+            "begin": 130,
+            "charBegin": 705,
+            "charEnd": 752,
+            "end": 136
+          }
+        ],
+        "text": "und erst erinnerte er sich des schrecklichen Augenblicks",
+        "tokenIds": [
+          114,
+          115,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 131,
+            "charBegin": 715,
+            "charEnd": 717,
+            "end": 132
+          },
+          {
+            "begin": 132,
+            "charBegin": 718,
+            "charEnd": 722,
+            "end": 133
+          }
+        ],
+        "text": [
+          "er",
+          "sich"
+        ],
+        "tokenIds": [
+          131,
+          132
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 108,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 117,
+            "charBegin": 643,
+            "charEnd": 662,
+            "end": 121
+          }
+        ],
+        "text": "da er sich umkehrte",
+        "tokenIds": [
+          117,
+          118,
+          119,
+          120
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 118,
+            "charBegin": 646,
+            "charEnd": 648,
+            "end": 119
+          },
+          {
+            "begin": 119,
+            "charBegin": 649,
+            "charEnd": 653,
+            "end": 120
+          }
+        ],
+        "text": [
+          "er",
+          "sich"
+        ],
+        "tokenIds": [
+          118,
+          119
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 109,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 122,
+            "charBegin": 664,
+            "charEnd": 703,
+            "end": 129
+          }
+        ],
+        "text": "und die Stadt hinter sich versunken sah",
+        "tokenIds": [
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 126,
+            "charBegin": 685,
+            "charEnd": 689,
+            "end": 127
+          }
+        ],
+        "text": [
+          "sich"
+        ],
+        "tokenIds": [
+          126
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 110,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 137,
+            "charBegin": 754,
+            "charEnd": 773,
+            "end": 141
+          }
+        ],
+        "text": "den er erlebt hatte",
+        "tokenIds": [
+          137,
+          138,
+          139,
+          140
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 138,
+            "charBegin": 758,
+            "charEnd": 760,
+            "end": 139
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          138
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 111,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 142,
+            "charBegin": 775,
+            "charEnd": 797,
+            "end": 147
+          },
+          {
+            "begin": 155,
+            "charBegin": 835,
+            "charEnd": 880,
+            "end": 162
+          }
+        ],
+        "text": "Er senkte sich so tief Gott für seine wunderbare Errettung zu danken",
+        "tokenIds": [
+          142,
+          143,
+          144,
+          145,
+          146,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 142,
+            "charBegin": 775,
+            "charEnd": 777,
+            "end": 143
+          },
+          {
+            "begin": 144,
+            "charBegin": 785,
+            "charEnd": 789,
+            "end": 145
+          },
+          {
+            "begin": 157,
+            "charBegin": 844,
+            "charEnd": 849,
+            "end": 158
+          }
+        ],
+        "text": [
+          "Er",
+          "sich",
+          "seine"
+        ],
+        "tokenIds": [
+          142,
+          144,
+          157
+        ]
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 155,
+            "charBegin": 835,
+            "charEnd": 839,
+            "end": 156
+          }
+        ],
+        "text": [
+          "Gott"
+        ],
+        "tokenIds": [
+          155
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 112,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 148,
+            "charBegin": 799,
+            "charEnd": 833,
+            "end": 154
+          }
+        ],
+        "text": "daß seine Stirn den Boden berührte",
+        "tokenIds": [
+          148,
+          149,
+          150,
+          151,
+          152,
+          153
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 149,
+            "charBegin": 803,
+            "charEnd": 808,
+            "end": 150
+          }
+        ],
+        "text": [
+          "seine"
+        ],
+        "tokenIds": [
+          149
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 113,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 163,
+            "charBegin": 882,
+            "charEnd": 892,
+            "end": 165
+          },
+          {
+            "begin": 186,
+            "charBegin": 1011,
+            "charEnd": 1029,
+            "end": 190
+          }
+        ],
+        "text": "und gleich weinte er vor Lust",
+        "tokenIds": [
+          163,
+          164,
+          186,
+          187,
+          188,
+          189
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 187,
+            "charBegin": 1018,
+            "charEnd": 1020,
+            "end": 188
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          187
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 114,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 166,
+            "charBegin": 894,
+            "charEnd": 931,
+            "end": 172
+          },
+          {
+            "begin": 180,
+            "charBegin": 973,
+            "charEnd": 1009,
+            "end": 185
+          }
+        ],
+        "text": "als ob der eine entsetzliche Eindruck alle früheren daraus verdrängt hätte",
+        "tokenIds": [
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          180,
+          181,
+          182,
+          183,
+          184
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 157,
+            "charBegin": 844,
+            "charEnd": 849,
+            "end": 158
+          }
+        ],
+        "text": [
+          "seine"
+        ],
+        "tokenIds": [
+          157
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 115,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 173,
+            "charBegin": 933,
+            "charEnd": 971,
+            "end": 179
+          }
+        ],
+        "text": "der sich seinem Gemüt eingeprägt hatte",
+        "tokenIds": [
+          173,
+          174,
+          175,
+          176,
+          177,
+          178
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 175,
+            "charBegin": 942,
+            "charEnd": 948,
+            "end": 176
+          }
+        ],
+        "text": [
+          "seinem"
+        ],
+        "tokenIds": [
+          175
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 116,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 191,
+            "charBegin": 1031,
+            "charEnd": 1105,
+            "end": 204
+          }
+        ],
+        "text": "daß er sich des lieblichen Lebens , voll bunter Erscheinungen , noch erfreue",
+        "tokenIds": [
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 192,
+            "charBegin": 1035,
+            "charEnd": 1037,
+            "end": 193
+          },
+          {
+            "begin": 193,
+            "charBegin": 1038,
+            "charEnd": 1042,
+            "end": 194
+          }
+        ],
+        "text": [
+          "er",
+          "sich"
+        ],
+        "tokenIds": [
+          192,
+          193
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 117,
+      "isNested": false
+    }
+  ],
+  "documentName": "Das Erdbeben in Chili__30_36",
+  "originalText": "Er mochte wohl eine Viertelstunde in der tiefsten Bewußtlosigkeit gelegen haben, als er endlich wieder erwachte, und sich, mit nach der Stadt gekehrtem Rücken, halb auf dem Erdboden erhob. Er befühlte sich Stirn und Brust, unwissend, was er aus seinem Zustande machen sollte, und ein unsägliches Wonnegefühl ergriff ihn, als ein Westwind, vom Meere her, sein wiederkehrendes Leben anwehte, und sein Auge sich nach allen Richtungen über die blühende Gegend von St. Jago hinwandte. Nur die verstörten Menschenhaufen, die sich überall blicken ließen, beklemmten sein Herz; er begriff nicht, was ihn und sie hierhergeführt haben konnte, und erst, da er sich umkehrte, und die Stadt hinter sich versunken sah, erinnerte er sich des schrecklichen Augenblicks, den er erlebt hatte. Er senkte sich so tief, daß seine Stirn den Boden berührte, Gott für seine wunderbare Errettung zu danken; und gleich, als ob der eine entsetzliche Eindruck, der sich seinem Gemüt eingeprägt hatte, alle früheren daraus verdrängt hätte, weinte er vor Lust, daß er sich des lieblichen Lebens, voll bunter Erscheinungen, noch erfreue.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 188,
+      "end": 34,
+      "id": 0,
+      "text": "Er mochte wohl eine Viertelstunde in der tiefsten Bewußtlosigkeit gelegen haben, als er endlich wieder erwachte, und sich, mit nach der Stadt gekehrtem Rücken, halb auf dem Erdboden erhob.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "tokens": [
+        "Er",
+        "mochte",
+        "wohl",
+        "eine",
+        "Viertelstunde",
+        "in",
+        "der",
+        "tiefsten",
+        "Bewußtlosigkeit",
+        "gelegen",
+        "haben",
+        ",",
+        "als",
+        "er",
+        "endlich",
+        "wieder",
+        "erwachte",
+        ",",
+        "und",
+        "sich",
+        ",",
+        "mit",
+        "nach",
+        "der",
+        "Stadt",
+        "gekehrtem",
+        "Rücken",
+        ",",
+        "halb",
+        "auf",
+        "dem",
+        "Erdboden",
+        "erhob",
+        "."
+      ]
+    },
+    {
+      "begin": 34,
+      "charBegin": 189,
+      "charEnd": 479,
+      "end": 87,
+      "id": 1,
+      "text": "Er befühlte sich Stirn und Brust, unwissend, was er aus seinem Zustande machen sollte, und ein unsägliches Wonnegefühl ergriff ihn, als ein Westwind, vom Meere her, sein wiederkehrendes Leben anwehte, und sein Auge sich nach allen Richtungen über die blühende Gegend von St. Jago hinwandte.",
+      "tokenIds": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ],
+      "tokens": [
+        "Er",
+        "befühlte",
+        "sich",
+        "Stirn",
+        "und",
+        "Brust",
+        ",",
+        "unwissend",
+        ",",
+        "was",
+        "er",
+        "aus",
+        "seinem",
+        "Zustande",
+        "machen",
+        "sollte",
+        ",",
+        "und",
+        "ein",
+        "unsägliches",
+        "Wonnegefühl",
+        "ergriff",
+        "ihn",
+        ",",
+        "als",
+        "ein",
+        "Westwind",
+        ",",
+        "vom",
+        "Meere",
+        "her",
+        ",",
+        "sein",
+        "wiederkehrendes",
+        "Leben",
+        "anwehte",
+        ",",
+        "und",
+        "sein",
+        "Auge",
+        "sich",
+        "nach",
+        "allen",
+        "Richtungen",
+        "über",
+        "die",
+        "blühende",
+        "Gegend",
+        "von",
+        "St.",
+        "Jago",
+        "hinwandte",
+        "."
+      ]
+    },
+    {
+      "begin": 87,
+      "charBegin": 480,
+      "charEnd": 569,
+      "end": 102,
+      "id": 2,
+      "text": "Nur die verstörten Menschenhaufen, die sich überall blicken ließen, beklemmten sein Herz;",
+      "tokenIds": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ],
+      "tokens": [
+        "Nur",
+        "die",
+        "verstörten",
+        "Menschenhaufen",
+        ",",
+        "die",
+        "sich",
+        "überall",
+        "blicken",
+        "ließen",
+        ",",
+        "beklemmten",
+        "sein",
+        "Herz",
+        ";"
+      ]
+    },
+    {
+      "begin": 102,
+      "charBegin": 570,
+      "charEnd": 774,
+      "end": 142,
+      "id": 3,
+      "text": "er begriff nicht, was ihn und sie hierhergeführt haben konnte, und erst, da er sich umkehrte, und die Stadt hinter sich versunken sah, erinnerte er sich des schrecklichen Augenblicks, den er erlebt hatte.",
+      "tokenIds": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141
+      ],
+      "tokens": [
+        "er",
+        "begriff",
+        "nicht",
+        ",",
+        "was",
+        "ihn",
+        "und",
+        "sie",
+        "hierhergeführt",
+        "haben",
+        "konnte",
+        ",",
+        "und",
+        "erst",
+        ",",
+        "da",
+        "er",
+        "sich",
+        "umkehrte",
+        ",",
+        "und",
+        "die",
+        "Stadt",
+        "hinter",
+        "sich",
+        "versunken",
+        "sah",
+        ",",
+        "erinnerte",
+        "er",
+        "sich",
+        "des",
+        "schrecklichen",
+        "Augenblicks",
+        ",",
+        "den",
+        "er",
+        "erlebt",
+        "hatte",
+        "."
+      ]
+    },
+    {
+      "begin": 142,
+      "charBegin": 775,
+      "charEnd": 881,
+      "end": 163,
+      "id": 4,
+      "text": "Er senkte sich so tief, daß seine Stirn den Boden berührte, Gott für seine wunderbare Errettung zu danken;",
+      "tokenIds": [
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162
+      ],
+      "tokens": [
+        "Er",
+        "senkte",
+        "sich",
+        "so",
+        "tief",
+        ",",
+        "daß",
+        "seine",
+        "Stirn",
+        "den",
+        "Boden",
+        "berührte",
+        ",",
+        "Gott",
+        "für",
+        "seine",
+        "wunderbare",
+        "Errettung",
+        "zu",
+        "danken",
+        ";"
+      ]
+    },
+    {
+      "begin": 163,
+      "charBegin": 882,
+      "charEnd": 1106,
+      "end": 205,
+      "id": 5,
+      "text": "und gleich, als ob der eine entsetzliche Eindruck, der sich seinem Gemüt eingeprägt hatte, alle früheren daraus verdrängt hätte, weinte er vor Lust, daß er sich des lieblichen Lebens, voll bunter Erscheinungen, noch erfreue.",
+      "tokenIds": [
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "tokens": [
+        "und",
+        "gleich",
+        ",",
+        "als",
+        "ob",
+        "der",
+        "eine",
+        "entsetzliche",
+        "Eindruck",
+        ",",
+        "der",
+        "sich",
+        "seinem",
+        "Gemüt",
+        "eingeprägt",
+        "hatte",
+        ",",
+        "alle",
+        "früheren",
+        "daraus",
+        "verdrängt",
+        "hätte",
+        ",",
+        "weinte",
+        "er",
+        "vor",
+        "Lust",
+        ",",
+        "daß",
+        "er",
+        "sich",
+        "des",
+        "lieblichen",
+        "Lebens",
+        ",",
+        "voll",
+        "bunter",
+        "Erscheinungen",
+        ",",
+        "noch",
+        "erfreue",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 2,
+      "id": 0,
+      "sentence": 1,
+      "text": "Er",
+      "word": 1
+    },
+    {
+      "charBegin": 3,
+      "charEnd": 9,
+      "id": 1,
+      "sentence": 1,
+      "text": "mochte",
+      "word": 2
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 14,
+      "id": 2,
+      "sentence": 1,
+      "text": "wohl",
+      "word": 3
+    },
+    {
+      "charBegin": 15,
+      "charEnd": 19,
+      "id": 3,
+      "sentence": 1,
+      "text": "eine",
+      "word": 4
+    },
+    {
+      "charBegin": 20,
+      "charEnd": 33,
+      "id": 4,
+      "sentence": 1,
+      "text": "Viertelstunde",
+      "word": 5
+    },
+    {
+      "charBegin": 34,
+      "charEnd": 36,
+      "id": 5,
+      "sentence": 1,
+      "text": "in",
+      "word": 6
+    },
+    {
+      "charBegin": 37,
+      "charEnd": 40,
+      "id": 6,
+      "sentence": 1,
+      "text": "der",
+      "word": 7
+    },
+    {
+      "charBegin": 41,
+      "charEnd": 49,
+      "id": 7,
+      "sentence": 1,
+      "text": "tiefsten",
+      "word": 8
+    },
+    {
+      "charBegin": 50,
+      "charEnd": 65,
+      "id": 8,
+      "sentence": 1,
+      "text": "Bewußtlosigkeit",
+      "word": 9
+    },
+    {
+      "charBegin": 66,
+      "charEnd": 73,
+      "id": 9,
+      "sentence": 1,
+      "text": "gelegen",
+      "word": 10
+    },
+    {
+      "charBegin": 74,
+      "charEnd": 79,
+      "id": 10,
+      "sentence": 1,
+      "text": "haben",
+      "word": 11
+    },
+    {
+      "charBegin": 79,
+      "charEnd": 80,
+      "id": 11,
+      "sentence": 1,
+      "text": ",",
+      "word": 12
+    },
+    {
+      "charBegin": 81,
+      "charEnd": 84,
+      "id": 12,
+      "sentence": 1,
+      "text": "als",
+      "word": 13
+    },
+    {
+      "charBegin": 85,
+      "charEnd": 87,
+      "id": 13,
+      "sentence": 1,
+      "text": "er",
+      "word": 14
+    },
+    {
+      "charBegin": 88,
+      "charEnd": 95,
+      "id": 14,
+      "sentence": 1,
+      "text": "endlich",
+      "word": 15
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 102,
+      "id": 15,
+      "sentence": 1,
+      "text": "wieder",
+      "word": 16
+    },
+    {
+      "charBegin": 103,
+      "charEnd": 111,
+      "id": 16,
+      "sentence": 1,
+      "text": "erwachte",
+      "word": 17
+    },
+    {
+      "charBegin": 111,
+      "charEnd": 112,
+      "id": 17,
+      "sentence": 1,
+      "text": ",",
+      "word": 18
+    },
+    {
+      "charBegin": 113,
+      "charEnd": 116,
+      "id": 18,
+      "sentence": 1,
+      "text": "und",
+      "word": 19
+    },
+    {
+      "charBegin": 117,
+      "charEnd": 121,
+      "id": 19,
+      "sentence": 1,
+      "text": "sich",
+      "word": 20
+    },
+    {
+      "charBegin": 121,
+      "charEnd": 122,
+      "id": 20,
+      "sentence": 1,
+      "text": ",",
+      "word": 21
+    },
+    {
+      "charBegin": 123,
+      "charEnd": 126,
+      "id": 21,
+      "sentence": 1,
+      "text": "mit",
+      "word": 22
+    },
+    {
+      "charBegin": 127,
+      "charEnd": 131,
+      "id": 22,
+      "sentence": 1,
+      "text": "nach",
+      "word": 23
+    },
+    {
+      "charBegin": 132,
+      "charEnd": 135,
+      "id": 23,
+      "sentence": 1,
+      "text": "der",
+      "word": 24
+    },
+    {
+      "charBegin": 136,
+      "charEnd": 141,
+      "id": 24,
+      "sentence": 1,
+      "text": "Stadt",
+      "word": 25
+    },
+    {
+      "charBegin": 142,
+      "charEnd": 151,
+      "id": 25,
+      "sentence": 1,
+      "text": "gekehrtem",
+      "word": 26
+    },
+    {
+      "charBegin": 152,
+      "charEnd": 158,
+      "id": 26,
+      "sentence": 1,
+      "text": "Rücken",
+      "word": 27
+    },
+    {
+      "charBegin": 158,
+      "charEnd": 159,
+      "id": 27,
+      "sentence": 1,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 160,
+      "charEnd": 164,
+      "id": 28,
+      "sentence": 1,
+      "text": "halb",
+      "word": 29
+    },
+    {
+      "charBegin": 165,
+      "charEnd": 168,
+      "id": 29,
+      "sentence": 1,
+      "text": "auf",
+      "word": 30
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 172,
+      "id": 30,
+      "sentence": 1,
+      "text": "dem",
+      "word": 31
+    },
+    {
+      "charBegin": 173,
+      "charEnd": 181,
+      "id": 31,
+      "sentence": 1,
+      "text": "Erdboden",
+      "word": 32
+    },
+    {
+      "charBegin": 182,
+      "charEnd": 187,
+      "id": 32,
+      "sentence": 1,
+      "text": "erhob",
+      "word": 33
+    },
+    {
+      "charBegin": 187,
+      "charEnd": 188,
+      "id": 33,
+      "sentence": 1,
+      "text": ".",
+      "word": 34
+    },
+    {
+      "charBegin": 189,
+      "charEnd": 191,
+      "id": 34,
+      "sentence": 2,
+      "text": "Er",
+      "word": 1
+    },
+    {
+      "charBegin": 192,
+      "charEnd": 200,
+      "id": 35,
+      "sentence": 2,
+      "text": "befühlte",
+      "word": 2
+    },
+    {
+      "charBegin": 201,
+      "charEnd": 205,
+      "id": 36,
+      "sentence": 2,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 206,
+      "charEnd": 211,
+      "id": 37,
+      "sentence": 2,
+      "text": "Stirn",
+      "word": 4
+    },
+    {
+      "charBegin": 212,
+      "charEnd": 215,
+      "id": 38,
+      "sentence": 2,
+      "text": "und",
+      "word": 5
+    },
+    {
+      "charBegin": 216,
+      "charEnd": 221,
+      "id": 39,
+      "sentence": 2,
+      "text": "Brust",
+      "word": 6
+    },
+    {
+      "charBegin": 221,
+      "charEnd": 222,
+      "id": 40,
+      "sentence": 2,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 223,
+      "charEnd": 232,
+      "id": 41,
+      "sentence": 2,
+      "text": "unwissend",
+      "word": 8
+    },
+    {
+      "charBegin": 232,
+      "charEnd": 233,
+      "id": 42,
+      "sentence": 2,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 234,
+      "charEnd": 237,
+      "id": 43,
+      "sentence": 2,
+      "text": "was",
+      "word": 10
+    },
+    {
+      "charBegin": 238,
+      "charEnd": 240,
+      "id": 44,
+      "sentence": 2,
+      "text": "er",
+      "word": 11
+    },
+    {
+      "charBegin": 241,
+      "charEnd": 244,
+      "id": 45,
+      "sentence": 2,
+      "text": "aus",
+      "word": 12
+    },
+    {
+      "charBegin": 245,
+      "charEnd": 251,
+      "id": 46,
+      "sentence": 2,
+      "text": "seinem",
+      "word": 13
+    },
+    {
+      "charBegin": 252,
+      "charEnd": 260,
+      "id": 47,
+      "sentence": 2,
+      "text": "Zustande",
+      "word": 14
+    },
+    {
+      "charBegin": 261,
+      "charEnd": 267,
+      "id": 48,
+      "sentence": 2,
+      "text": "machen",
+      "word": 15
+    },
+    {
+      "charBegin": 268,
+      "charEnd": 274,
+      "id": 49,
+      "sentence": 2,
+      "text": "sollte",
+      "word": 16
+    },
+    {
+      "charBegin": 274,
+      "charEnd": 275,
+      "id": 50,
+      "sentence": 2,
+      "text": ",",
+      "word": 17
+    },
+    {
+      "charBegin": 276,
+      "charEnd": 279,
+      "id": 51,
+      "sentence": 2,
+      "text": "und",
+      "word": 18
+    },
+    {
+      "charBegin": 280,
+      "charEnd": 283,
+      "id": 52,
+      "sentence": 2,
+      "text": "ein",
+      "word": 19
+    },
+    {
+      "charBegin": 284,
+      "charEnd": 295,
+      "id": 53,
+      "sentence": 2,
+      "text": "unsägliches",
+      "word": 20
+    },
+    {
+      "charBegin": 296,
+      "charEnd": 307,
+      "id": 54,
+      "sentence": 2,
+      "text": "Wonnegefühl",
+      "word": 21
+    },
+    {
+      "charBegin": 308,
+      "charEnd": 315,
+      "id": 55,
+      "sentence": 2,
+      "text": "ergriff",
+      "word": 22
+    },
+    {
+      "charBegin": 316,
+      "charEnd": 319,
+      "id": 56,
+      "sentence": 2,
+      "text": "ihn",
+      "word": 23
+    },
+    {
+      "charBegin": 319,
+      "charEnd": 320,
+      "id": 57,
+      "sentence": 2,
+      "text": ",",
+      "word": 24
+    },
+    {
+      "charBegin": 321,
+      "charEnd": 324,
+      "id": 58,
+      "sentence": 2,
+      "text": "als",
+      "word": 25
+    },
+    {
+      "charBegin": 325,
+      "charEnd": 328,
+      "id": 59,
+      "sentence": 2,
+      "text": "ein",
+      "word": 26
+    },
+    {
+      "charBegin": 329,
+      "charEnd": 337,
+      "id": 60,
+      "sentence": 2,
+      "text": "Westwind",
+      "word": 27
+    },
+    {
+      "charBegin": 337,
+      "charEnd": 338,
+      "id": 61,
+      "sentence": 2,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 339,
+      "charEnd": 342,
+      "id": 62,
+      "sentence": 2,
+      "text": "vom",
+      "word": 29
+    },
+    {
+      "charBegin": 343,
+      "charEnd": 348,
+      "id": 63,
+      "sentence": 2,
+      "text": "Meere",
+      "word": 30
+    },
+    {
+      "charBegin": 349,
+      "charEnd": 352,
+      "id": 64,
+      "sentence": 2,
+      "text": "her",
+      "word": 31
+    },
+    {
+      "charBegin": 352,
+      "charEnd": 353,
+      "id": 65,
+      "sentence": 2,
+      "text": ",",
+      "word": 32
+    },
+    {
+      "charBegin": 354,
+      "charEnd": 358,
+      "id": 66,
+      "sentence": 2,
+      "text": "sein",
+      "word": 33
+    },
+    {
+      "charBegin": 359,
+      "charEnd": 374,
+      "id": 67,
+      "sentence": 2,
+      "text": "wiederkehrendes",
+      "word": 34
+    },
+    {
+      "charBegin": 375,
+      "charEnd": 380,
+      "id": 68,
+      "sentence": 2,
+      "text": "Leben",
+      "word": 35
+    },
+    {
+      "charBegin": 381,
+      "charEnd": 388,
+      "id": 69,
+      "sentence": 2,
+      "text": "anwehte",
+      "word": 36
+    },
+    {
+      "charBegin": 388,
+      "charEnd": 389,
+      "id": 70,
+      "sentence": 2,
+      "text": ",",
+      "word": 37
+    },
+    {
+      "charBegin": 390,
+      "charEnd": 393,
+      "id": 71,
+      "sentence": 2,
+      "text": "und",
+      "word": 38
+    },
+    {
+      "charBegin": 394,
+      "charEnd": 398,
+      "id": 72,
+      "sentence": 2,
+      "text": "sein",
+      "word": 39
+    },
+    {
+      "charBegin": 399,
+      "charEnd": 403,
+      "id": 73,
+      "sentence": 2,
+      "text": "Auge",
+      "word": 40
+    },
+    {
+      "charBegin": 404,
+      "charEnd": 408,
+      "id": 74,
+      "sentence": 2,
+      "text": "sich",
+      "word": 41
+    },
+    {
+      "charBegin": 409,
+      "charEnd": 413,
+      "id": 75,
+      "sentence": 2,
+      "text": "nach",
+      "word": 42
+    },
+    {
+      "charBegin": 414,
+      "charEnd": 419,
+      "id": 76,
+      "sentence": 2,
+      "text": "allen",
+      "word": 43
+    },
+    {
+      "charBegin": 420,
+      "charEnd": 430,
+      "id": 77,
+      "sentence": 2,
+      "text": "Richtungen",
+      "word": 44
+    },
+    {
+      "charBegin": 431,
+      "charEnd": 435,
+      "id": 78,
+      "sentence": 2,
+      "text": "über",
+      "word": 45
+    },
+    {
+      "charBegin": 436,
+      "charEnd": 439,
+      "id": 79,
+      "sentence": 2,
+      "text": "die",
+      "word": 46
+    },
+    {
+      "charBegin": 440,
+      "charEnd": 448,
+      "id": 80,
+      "sentence": 2,
+      "text": "blühende",
+      "word": 47
+    },
+    {
+      "charBegin": 449,
+      "charEnd": 455,
+      "id": 81,
+      "sentence": 2,
+      "text": "Gegend",
+      "word": 48
+    },
+    {
+      "charBegin": 456,
+      "charEnd": 459,
+      "id": 82,
+      "sentence": 2,
+      "text": "von",
+      "word": 49
+    },
+    {
+      "charBegin": 460,
+      "charEnd": 463,
+      "id": 83,
+      "sentence": 2,
+      "text": "St.",
+      "word": 50
+    },
+    {
+      "charBegin": 464,
+      "charEnd": 468,
+      "id": 84,
+      "sentence": 2,
+      "text": "Jago",
+      "word": 51
+    },
+    {
+      "charBegin": 469,
+      "charEnd": 478,
+      "id": 85,
+      "sentence": 2,
+      "text": "hinwandte",
+      "word": 52
+    },
+    {
+      "charBegin": 478,
+      "charEnd": 479,
+      "id": 86,
+      "sentence": 2,
+      "text": ".",
+      "word": 53
+    },
+    {
+      "charBegin": 480,
+      "charEnd": 483,
+      "id": 87,
+      "sentence": 3,
+      "text": "Nur",
+      "word": 1
+    },
+    {
+      "charBegin": 484,
+      "charEnd": 487,
+      "id": 88,
+      "sentence": 3,
+      "text": "die",
+      "word": 2
+    },
+    {
+      "charBegin": 488,
+      "charEnd": 498,
+      "id": 89,
+      "sentence": 3,
+      "text": "verstörten",
+      "word": 3
+    },
+    {
+      "charBegin": 499,
+      "charEnd": 513,
+      "id": 90,
+      "sentence": 3,
+      "text": "Menschenhaufen",
+      "word": 4
+    },
+    {
+      "charBegin": 513,
+      "charEnd": 514,
+      "id": 91,
+      "sentence": 3,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 515,
+      "charEnd": 518,
+      "id": 92,
+      "sentence": 3,
+      "text": "die",
+      "word": 6
+    },
+    {
+      "charBegin": 519,
+      "charEnd": 523,
+      "id": 93,
+      "sentence": 3,
+      "text": "sich",
+      "word": 7
+    },
+    {
+      "charBegin": 524,
+      "charEnd": 531,
+      "id": 94,
+      "sentence": 3,
+      "text": "überall",
+      "word": 8
+    },
+    {
+      "charBegin": 532,
+      "charEnd": 539,
+      "id": 95,
+      "sentence": 3,
+      "text": "blicken",
+      "word": 9
+    },
+    {
+      "charBegin": 540,
+      "charEnd": 546,
+      "id": 96,
+      "sentence": 3,
+      "text": "ließen",
+      "word": 10
+    },
+    {
+      "charBegin": 546,
+      "charEnd": 547,
+      "id": 97,
+      "sentence": 3,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 548,
+      "charEnd": 558,
+      "id": 98,
+      "sentence": 3,
+      "text": "beklemmten",
+      "word": 12
+    },
+    {
+      "charBegin": 559,
+      "charEnd": 563,
+      "id": 99,
+      "sentence": 3,
+      "text": "sein",
+      "word": 13
+    },
+    {
+      "charBegin": 564,
+      "charEnd": 568,
+      "id": 100,
+      "sentence": 3,
+      "text": "Herz",
+      "word": 14
+    },
+    {
+      "charBegin": 568,
+      "charEnd": 569,
+      "id": 101,
+      "sentence": 3,
+      "text": ";",
+      "word": 15
+    },
+    {
+      "charBegin": 570,
+      "charEnd": 572,
+      "id": 102,
+      "sentence": 4,
+      "text": "er",
+      "word": 1
+    },
+    {
+      "charBegin": 573,
+      "charEnd": 580,
+      "id": 103,
+      "sentence": 4,
+      "text": "begriff",
+      "word": 2
+    },
+    {
+      "charBegin": 581,
+      "charEnd": 586,
+      "id": 104,
+      "sentence": 4,
+      "text": "nicht",
+      "word": 3
+    },
+    {
+      "charBegin": 586,
+      "charEnd": 587,
+      "id": 105,
+      "sentence": 4,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 588,
+      "charEnd": 591,
+      "id": 106,
+      "sentence": 4,
+      "text": "was",
+      "word": 5
+    },
+    {
+      "charBegin": 592,
+      "charEnd": 595,
+      "id": 107,
+      "sentence": 4,
+      "text": "ihn",
+      "word": 6
+    },
+    {
+      "charBegin": 596,
+      "charEnd": 599,
+      "id": 108,
+      "sentence": 4,
+      "text": "und",
+      "word": 7
+    },
+    {
+      "charBegin": 600,
+      "charEnd": 603,
+      "id": 109,
+      "sentence": 4,
+      "text": "sie",
+      "word": 8
+    },
+    {
+      "charBegin": 604,
+      "charEnd": 618,
+      "id": 110,
+      "sentence": 4,
+      "text": "hierhergeführt",
+      "word": 9
+    },
+    {
+      "charBegin": 619,
+      "charEnd": 624,
+      "id": 111,
+      "sentence": 4,
+      "text": "haben",
+      "word": 10
+    },
+    {
+      "charBegin": 625,
+      "charEnd": 631,
+      "id": 112,
+      "sentence": 4,
+      "text": "konnte",
+      "word": 11
+    },
+    {
+      "charBegin": 631,
+      "charEnd": 632,
+      "id": 113,
+      "sentence": 4,
+      "text": ",",
+      "word": 12
+    },
+    {
+      "charBegin": 633,
+      "charEnd": 636,
+      "id": 114,
+      "sentence": 4,
+      "text": "und",
+      "word": 13
+    },
+    {
+      "charBegin": 637,
+      "charEnd": 641,
+      "id": 115,
+      "sentence": 4,
+      "text": "erst",
+      "word": 14
+    },
+    {
+      "charBegin": 641,
+      "charEnd": 642,
+      "id": 116,
+      "sentence": 4,
+      "text": ",",
+      "word": 15
+    },
+    {
+      "charBegin": 643,
+      "charEnd": 645,
+      "id": 117,
+      "sentence": 4,
+      "text": "da",
+      "word": 16
+    },
+    {
+      "charBegin": 646,
+      "charEnd": 648,
+      "id": 118,
+      "sentence": 4,
+      "text": "er",
+      "word": 17
+    },
+    {
+      "charBegin": 649,
+      "charEnd": 653,
+      "id": 119,
+      "sentence": 4,
+      "text": "sich",
+      "word": 18
+    },
+    {
+      "charBegin": 654,
+      "charEnd": 662,
+      "id": 120,
+      "sentence": 4,
+      "text": "umkehrte",
+      "word": 19
+    },
+    {
+      "charBegin": 662,
+      "charEnd": 663,
+      "id": 121,
+      "sentence": 4,
+      "text": ",",
+      "word": 20
+    },
+    {
+      "charBegin": 664,
+      "charEnd": 667,
+      "id": 122,
+      "sentence": 4,
+      "text": "und",
+      "word": 21
+    },
+    {
+      "charBegin": 668,
+      "charEnd": 671,
+      "id": 123,
+      "sentence": 4,
+      "text": "die",
+      "word": 22
+    },
+    {
+      "charBegin": 672,
+      "charEnd": 677,
+      "id": 124,
+      "sentence": 4,
+      "text": "Stadt",
+      "word": 23
+    },
+    {
+      "charBegin": 678,
+      "charEnd": 684,
+      "id": 125,
+      "sentence": 4,
+      "text": "hinter",
+      "word": 24
+    },
+    {
+      "charBegin": 685,
+      "charEnd": 689,
+      "id": 126,
+      "sentence": 4,
+      "text": "sich",
+      "word": 25
+    },
+    {
+      "charBegin": 690,
+      "charEnd": 699,
+      "id": 127,
+      "sentence": 4,
+      "text": "versunken",
+      "word": 26
+    },
+    {
+      "charBegin": 700,
+      "charEnd": 703,
+      "id": 128,
+      "sentence": 4,
+      "text": "sah",
+      "word": 27
+    },
+    {
+      "charBegin": 703,
+      "charEnd": 704,
+      "id": 129,
+      "sentence": 4,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 705,
+      "charEnd": 714,
+      "id": 130,
+      "sentence": 4,
+      "text": "erinnerte",
+      "word": 29
+    },
+    {
+      "charBegin": 715,
+      "charEnd": 717,
+      "id": 131,
+      "sentence": 4,
+      "text": "er",
+      "word": 30
+    },
+    {
+      "charBegin": 718,
+      "charEnd": 722,
+      "id": 132,
+      "sentence": 4,
+      "text": "sich",
+      "word": 31
+    },
+    {
+      "charBegin": 723,
+      "charEnd": 726,
+      "id": 133,
+      "sentence": 4,
+      "text": "des",
+      "word": 32
+    },
+    {
+      "charBegin": 727,
+      "charEnd": 740,
+      "id": 134,
+      "sentence": 4,
+      "text": "schrecklichen",
+      "word": 33
+    },
+    {
+      "charBegin": 741,
+      "charEnd": 752,
+      "id": 135,
+      "sentence": 4,
+      "text": "Augenblicks",
+      "word": 34
+    },
+    {
+      "charBegin": 752,
+      "charEnd": 753,
+      "id": 136,
+      "sentence": 4,
+      "text": ",",
+      "word": 35
+    },
+    {
+      "charBegin": 754,
+      "charEnd": 757,
+      "id": 137,
+      "sentence": 4,
+      "text": "den",
+      "word": 36
+    },
+    {
+      "charBegin": 758,
+      "charEnd": 760,
+      "id": 138,
+      "sentence": 4,
+      "text": "er",
+      "word": 37
+    },
+    {
+      "charBegin": 761,
+      "charEnd": 767,
+      "id": 139,
+      "sentence": 4,
+      "text": "erlebt",
+      "word": 38
+    },
+    {
+      "charBegin": 768,
+      "charEnd": 773,
+      "id": 140,
+      "sentence": 4,
+      "text": "hatte",
+      "word": 39
+    },
+    {
+      "charBegin": 773,
+      "charEnd": 774,
+      "id": 141,
+      "sentence": 4,
+      "text": ".",
+      "word": 40
+    },
+    {
+      "charBegin": 775,
+      "charEnd": 777,
+      "id": 142,
+      "sentence": 5,
+      "text": "Er",
+      "word": 1
+    },
+    {
+      "charBegin": 778,
+      "charEnd": 784,
+      "id": 143,
+      "sentence": 5,
+      "text": "senkte",
+      "word": 2
+    },
+    {
+      "charBegin": 785,
+      "charEnd": 789,
+      "id": 144,
+      "sentence": 5,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 790,
+      "charEnd": 792,
+      "id": 145,
+      "sentence": 5,
+      "text": "so",
+      "word": 4
+    },
+    {
+      "charBegin": 793,
+      "charEnd": 797,
+      "id": 146,
+      "sentence": 5,
+      "text": "tief",
+      "word": 5
+    },
+    {
+      "charBegin": 797,
+      "charEnd": 798,
+      "id": 147,
+      "sentence": 5,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 799,
+      "charEnd": 802,
+      "id": 148,
+      "sentence": 5,
+      "text": "daß",
+      "word": 7
+    },
+    {
+      "charBegin": 803,
+      "charEnd": 808,
+      "id": 149,
+      "sentence": 5,
+      "text": "seine",
+      "word": 8
+    },
+    {
+      "charBegin": 809,
+      "charEnd": 814,
+      "id": 150,
+      "sentence": 5,
+      "text": "Stirn",
+      "word": 9
+    },
+    {
+      "charBegin": 815,
+      "charEnd": 818,
+      "id": 151,
+      "sentence": 5,
+      "text": "den",
+      "word": 10
+    },
+    {
+      "charBegin": 819,
+      "charEnd": 824,
+      "id": 152,
+      "sentence": 5,
+      "text": "Boden",
+      "word": 11
+    },
+    {
+      "charBegin": 825,
+      "charEnd": 833,
+      "id": 153,
+      "sentence": 5,
+      "text": "berührte",
+      "word": 12
+    },
+    {
+      "charBegin": 833,
+      "charEnd": 834,
+      "id": 154,
+      "sentence": 5,
+      "text": ",",
+      "word": 13
+    },
+    {
+      "charBegin": 835,
+      "charEnd": 839,
+      "id": 155,
+      "sentence": 5,
+      "text": "Gott",
+      "word": 14
+    },
+    {
+      "charBegin": 840,
+      "charEnd": 843,
+      "id": 156,
+      "sentence": 5,
+      "text": "für",
+      "word": 15
+    },
+    {
+      "charBegin": 844,
+      "charEnd": 849,
+      "id": 157,
+      "sentence": 5,
+      "text": "seine",
+      "word": 16
+    },
+    {
+      "charBegin": 850,
+      "charEnd": 860,
+      "id": 158,
+      "sentence": 5,
+      "text": "wunderbare",
+      "word": 17
+    },
+    {
+      "charBegin": 861,
+      "charEnd": 870,
+      "id": 159,
+      "sentence": 5,
+      "text": "Errettung",
+      "word": 18
+    },
+    {
+      "charBegin": 871,
+      "charEnd": 873,
+      "id": 160,
+      "sentence": 5,
+      "text": "zu",
+      "word": 19
+    },
+    {
+      "charBegin": 874,
+      "charEnd": 880,
+      "id": 161,
+      "sentence": 5,
+      "text": "danken",
+      "word": 20
+    },
+    {
+      "charBegin": 880,
+      "charEnd": 881,
+      "id": 162,
+      "sentence": 5,
+      "text": ";",
+      "word": 21
+    },
+    {
+      "charBegin": 882,
+      "charEnd": 885,
+      "id": 163,
+      "sentence": 6,
+      "text": "und",
+      "word": 1
+    },
+    {
+      "charBegin": 886,
+      "charEnd": 892,
+      "id": 164,
+      "sentence": 6,
+      "text": "gleich",
+      "word": 2
+    },
+    {
+      "charBegin": 892,
+      "charEnd": 893,
+      "id": 165,
+      "sentence": 6,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 894,
+      "charEnd": 897,
+      "id": 166,
+      "sentence": 6,
+      "text": "als",
+      "word": 4
+    },
+    {
+      "charBegin": 898,
+      "charEnd": 900,
+      "id": 167,
+      "sentence": 6,
+      "text": "ob",
+      "word": 5
+    },
+    {
+      "charBegin": 901,
+      "charEnd": 904,
+      "id": 168,
+      "sentence": 6,
+      "text": "der",
+      "word": 6
+    },
+    {
+      "charBegin": 905,
+      "charEnd": 909,
+      "id": 169,
+      "sentence": 6,
+      "text": "eine",
+      "word": 7
+    },
+    {
+      "charBegin": 910,
+      "charEnd": 922,
+      "id": 170,
+      "sentence": 6,
+      "text": "entsetzliche",
+      "word": 8
+    },
+    {
+      "charBegin": 923,
+      "charEnd": 931,
+      "id": 171,
+      "sentence": 6,
+      "text": "Eindruck",
+      "word": 9
+    },
+    {
+      "charBegin": 931,
+      "charEnd": 932,
+      "id": 172,
+      "sentence": 6,
+      "text": ",",
+      "word": 10
+    },
+    {
+      "charBegin": 933,
+      "charEnd": 936,
+      "id": 173,
+      "sentence": 6,
+      "text": "der",
+      "word": 11
+    },
+    {
+      "charBegin": 937,
+      "charEnd": 941,
+      "id": 174,
+      "sentence": 6,
+      "text": "sich",
+      "word": 12
+    },
+    {
+      "charBegin": 942,
+      "charEnd": 948,
+      "id": 175,
+      "sentence": 6,
+      "text": "seinem",
+      "word": 13
+    },
+    {
+      "charBegin": 949,
+      "charEnd": 954,
+      "id": 176,
+      "sentence": 6,
+      "text": "Gemüt",
+      "word": 14
+    },
+    {
+      "charBegin": 955,
+      "charEnd": 965,
+      "id": 177,
+      "sentence": 6,
+      "text": "eingeprägt",
+      "word": 15
+    },
+    {
+      "charBegin": 966,
+      "charEnd": 971,
+      "id": 178,
+      "sentence": 6,
+      "text": "hatte",
+      "word": 16
+    },
+    {
+      "charBegin": 971,
+      "charEnd": 972,
+      "id": 179,
+      "sentence": 6,
+      "text": ",",
+      "word": 17
+    },
+    {
+      "charBegin": 973,
+      "charEnd": 977,
+      "id": 180,
+      "sentence": 6,
+      "text": "alle",
+      "word": 18
+    },
+    {
+      "charBegin": 978,
+      "charEnd": 986,
+      "id": 181,
+      "sentence": 6,
+      "text": "früheren",
+      "word": 19
+    },
+    {
+      "charBegin": 987,
+      "charEnd": 993,
+      "id": 182,
+      "sentence": 6,
+      "text": "daraus",
+      "word": 20
+    },
+    {
+      "charBegin": 994,
+      "charEnd": 1003,
+      "id": 183,
+      "sentence": 6,
+      "text": "verdrängt",
+      "word": 21
+    },
+    {
+      "charBegin": 1004,
+      "charEnd": 1009,
+      "id": 184,
+      "sentence": 6,
+      "text": "hätte",
+      "word": 22
+    },
+    {
+      "charBegin": 1009,
+      "charEnd": 1010,
+      "id": 185,
+      "sentence": 6,
+      "text": ",",
+      "word": 23
+    },
+    {
+      "charBegin": 1011,
+      "charEnd": 1017,
+      "id": 186,
+      "sentence": 6,
+      "text": "weinte",
+      "word": 24
+    },
+    {
+      "charBegin": 1018,
+      "charEnd": 1020,
+      "id": 187,
+      "sentence": 6,
+      "text": "er",
+      "word": 25
+    },
+    {
+      "charBegin": 1021,
+      "charEnd": 1024,
+      "id": 188,
+      "sentence": 6,
+      "text": "vor",
+      "word": 26
+    },
+    {
+      "charBegin": 1025,
+      "charEnd": 1029,
+      "id": 189,
+      "sentence": 6,
+      "text": "Lust",
+      "word": 27
+    },
+    {
+      "charBegin": 1029,
+      "charEnd": 1030,
+      "id": 190,
+      "sentence": 6,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 1031,
+      "charEnd": 1034,
+      "id": 191,
+      "sentence": 6,
+      "text": "daß",
+      "word": 29
+    },
+    {
+      "charBegin": 1035,
+      "charEnd": 1037,
+      "id": 192,
+      "sentence": 6,
+      "text": "er",
+      "word": 30
+    },
+    {
+      "charBegin": 1038,
+      "charEnd": 1042,
+      "id": 193,
+      "sentence": 6,
+      "text": "sich",
+      "word": 31
+    },
+    {
+      "charBegin": 1043,
+      "charEnd": 1046,
+      "id": 194,
+      "sentence": 6,
+      "text": "des",
+      "word": 32
+    },
+    {
+      "charBegin": 1047,
+      "charEnd": 1057,
+      "id": 195,
+      "sentence": 6,
+      "text": "lieblichen",
+      "word": 33
+    },
+    {
+      "charBegin": 1058,
+      "charEnd": 1064,
+      "id": 196,
+      "sentence": 6,
+      "text": "Lebens",
+      "word": 34
+    },
+    {
+      "charBegin": 1064,
+      "charEnd": 1065,
+      "id": 197,
+      "sentence": 6,
+      "text": ",",
+      "word": 35
+    },
+    {
+      "charBegin": 1066,
+      "charEnd": 1070,
+      "id": 198,
+      "sentence": 6,
+      "text": "voll",
+      "word": 36
+    },
+    {
+      "charBegin": 1071,
+      "charEnd": 1077,
+      "id": 199,
+      "sentence": 6,
+      "text": "bunter",
+      "word": 37
+    },
+    {
+      "charBegin": 1078,
+      "charEnd": 1091,
+      "id": 200,
+      "sentence": 6,
+      "text": "Erscheinungen",
+      "word": 38
+    },
+    {
+      "charBegin": 1091,
+      "charEnd": 1092,
+      "id": 201,
+      "sentence": 6,
+      "text": ",",
+      "word": 39
+    },
+    {
+      "charBegin": 1093,
+      "charEnd": 1097,
+      "id": 202,
+      "sentence": 6,
+      "text": "noch",
+      "word": 40
+    },
+    {
+      "charBegin": 1098,
+      "charEnd": 1105,
+      "id": 203,
+      "sentence": 6,
+      "text": "erfreue",
+      "word": 41
+    },
+    {
+      "charBegin": 1105,
+      "charEnd": 1106,
+      "id": 204,
+      "sentence": 6,
+      "text": ".",
+      "word": 42
+    }
+  ]
+}

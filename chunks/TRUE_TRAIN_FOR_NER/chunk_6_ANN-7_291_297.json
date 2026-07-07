@@ -1,0 +1,1039 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 7,
+            "charBegin": 28,
+            "charEnd": 52,
+            "end": 12
+          }
+        ],
+        "text": "schrie sie ihm entgegen .",
+        "tokenIds": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 8,
+            "charBegin": 35,
+            "charEnd": 38,
+            "end": 9
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          8
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 9,
+            "charBegin": 39,
+            "charEnd": 42,
+            "end": 10
+          }
+        ],
+        "text": [
+          "ihm"
+        ],
+        "tokenIds": [
+          9
+        ]
+      },
+      "hasNested": false,
+      "id": 253,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 39,
+            "charBegin": 166,
+            "charEnd": 199,
+            "end": 45
+          }
+        ],
+        "text": "sagte Eckbert stille vor sich hin",
+        "tokenIds": [
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 40,
+            "charBegin": 172,
+            "charEnd": 179,
+            "end": 41
+          },
+          {
+            "begin": 43,
+            "charBegin": 191,
+            "charEnd": 195,
+            "end": 44
+          }
+        ],
+        "text": [
+          "Eckbert",
+          "sich"
+        ],
+        "tokenIds": [
+          40,
+          43
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 254,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 67,
+            "charBegin": 311,
+            "charEnd": 333,
+            "end": 72
+          }
+        ],
+        "text": "Eckbert fiel zu Boden .",
+        "tokenIds": [
+          67,
+          68,
+          69,
+          70,
+          71
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 67,
+            "charBegin": 311,
+            "charEnd": 318,
+            "end": 68
+          }
+        ],
+        "text": [
+          "Eckbert"
+        ],
+        "tokenIds": [
+          67
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 255,
+      "isNested": false
+    }
+  ],
+  "documentName": "Der blonde Eckbert__291_297",
+  "originalText": "Meine Perlen? Meinen Hund?« schrie sie ihm entgegen. »Siehe, das Unrecht bestraft sich selbst: Niemand als ich war dein Freund Walther, dein Hugo.«\n»Gott im Himmel!« sagte Eckbert stille vor sich hin – »in welcher entsetzlichen Einsamkeit hab ich dann mein Leben hingebracht!«\n»Und Bertha war deine Schwester.«\nEckbert fiel zu Boden.\n»Warum verließ sie mich tückisch?",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 13,
+      "end": 3,
+      "id": 0,
+      "text": "Meine Perlen?",
+      "tokenIds": [
+        0,
+        1,
+        2
+      ],
+      "tokens": [
+        "Meine",
+        "Perlen",
+        "?"
+      ]
+    },
+    {
+      "begin": 3,
+      "charBegin": 14,
+      "charEnd": 52,
+      "end": 12,
+      "id": 1,
+      "text": "Meinen Hund?« schrie sie ihm entgegen.",
+      "tokenIds": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tokens": [
+        "Meinen",
+        "Hund",
+        "?",
+        "«",
+        "schrie",
+        "sie",
+        "ihm",
+        "entgegen",
+        "."
+      ]
+    },
+    {
+      "begin": 12,
+      "charBegin": 53,
+      "charEnd": 94,
+      "end": 21,
+      "id": 2,
+      "text": "»Siehe, das Unrecht bestraft sich selbst:",
+      "tokenIds": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokens": [
+        "»",
+        "Siehe",
+        ",",
+        "das",
+        "Unrecht",
+        "bestraft",
+        "sich",
+        "selbst",
+        ":"
+      ]
+    },
+    {
+      "begin": 21,
+      "charBegin": 95,
+      "charEnd": 146,
+      "end": 32,
+      "id": 3,
+      "text": "Niemand als ich war dein Freund Walther, dein Hugo.",
+      "tokenIds": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tokens": [
+        "Niemand",
+        "als",
+        "ich",
+        "war",
+        "dein",
+        "Freund",
+        "Walther",
+        ",",
+        "dein",
+        "Hugo",
+        "."
+      ]
+    },
+    {
+      "begin": 32,
+      "charBegin": 146,
+      "charEnd": 309,
+      "end": 66,
+      "id": 4,
+      "text": "«\n»Gott im Himmel!« sagte Eckbert stille vor sich hin – »in welcher entsetzlichen Einsamkeit hab ich dann mein Leben hingebracht!«\n»Und Bertha war deine Schwester.",
+      "tokenIds": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "tokens": [
+        "«",
+        "»",
+        "Gott",
+        "im",
+        "Himmel",
+        "!",
+        "«",
+        "sagte",
+        "Eckbert",
+        "stille",
+        "vor",
+        "sich",
+        "hin",
+        "–",
+        "»",
+        "in",
+        "welcher",
+        "entsetzlichen",
+        "Einsamkeit",
+        "hab",
+        "ich",
+        "dann",
+        "mein",
+        "Leben",
+        "hingebracht",
+        "!",
+        "«",
+        "»",
+        "Und",
+        "Bertha",
+        "war",
+        "deine",
+        "Schwester",
+        "."
+      ]
+    },
+    {
+      "begin": 66,
+      "charBegin": 309,
+      "charEnd": 367,
+      "end": 79,
+      "id": 5,
+      "text": "«\nEckbert fiel zu Boden.\n»Warum verließ sie mich tückisch?",
+      "tokenIds": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "tokens": [
+        "«",
+        "Eckbert",
+        "fiel",
+        "zu",
+        "Boden",
+        ".",
+        "»",
+        "Warum",
+        "verließ",
+        "sie",
+        "mich",
+        "tückisch",
+        "?"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 5,
+      "id": 0,
+      "sentence": 1,
+      "text": "Meine",
+      "word": 1
+    },
+    {
+      "charBegin": 6,
+      "charEnd": 12,
+      "id": 1,
+      "sentence": 1,
+      "text": "Perlen",
+      "word": 2
+    },
+    {
+      "charBegin": 12,
+      "charEnd": 13,
+      "id": 2,
+      "sentence": 1,
+      "text": "?",
+      "word": 3
+    },
+    {
+      "charBegin": 14,
+      "charEnd": 20,
+      "id": 3,
+      "sentence": 2,
+      "text": "Meinen",
+      "word": 1
+    },
+    {
+      "charBegin": 21,
+      "charEnd": 25,
+      "id": 4,
+      "sentence": 2,
+      "text": "Hund",
+      "word": 2
+    },
+    {
+      "charBegin": 25,
+      "charEnd": 26,
+      "id": 5,
+      "sentence": 2,
+      "text": "?",
+      "word": 3
+    },
+    {
+      "charBegin": 26,
+      "charEnd": 27,
+      "id": 6,
+      "sentence": 2,
+      "text": "«",
+      "word": 4
+    },
+    {
+      "charBegin": 28,
+      "charEnd": 34,
+      "id": 7,
+      "sentence": 2,
+      "text": "schrie",
+      "word": 5
+    },
+    {
+      "charBegin": 35,
+      "charEnd": 38,
+      "id": 8,
+      "sentence": 2,
+      "text": "sie",
+      "word": 6
+    },
+    {
+      "charBegin": 39,
+      "charEnd": 42,
+      "id": 9,
+      "sentence": 2,
+      "text": "ihm",
+      "word": 7
+    },
+    {
+      "charBegin": 43,
+      "charEnd": 51,
+      "id": 10,
+      "sentence": 2,
+      "text": "entgegen",
+      "word": 8
+    },
+    {
+      "charBegin": 51,
+      "charEnd": 52,
+      "id": 11,
+      "sentence": 2,
+      "text": ".",
+      "word": 9
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 54,
+      "id": 12,
+      "sentence": 3,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 54,
+      "charEnd": 59,
+      "id": 13,
+      "sentence": 3,
+      "text": "Siehe",
+      "word": 2
+    },
+    {
+      "charBegin": 59,
+      "charEnd": 60,
+      "id": 14,
+      "sentence": 3,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 61,
+      "charEnd": 64,
+      "id": 15,
+      "sentence": 3,
+      "text": "das",
+      "word": 4
+    },
+    {
+      "charBegin": 65,
+      "charEnd": 72,
+      "id": 16,
+      "sentence": 3,
+      "text": "Unrecht",
+      "word": 5
+    },
+    {
+      "charBegin": 73,
+      "charEnd": 81,
+      "id": 17,
+      "sentence": 3,
+      "text": "bestraft",
+      "word": 6
+    },
+    {
+      "charBegin": 82,
+      "charEnd": 86,
+      "id": 18,
+      "sentence": 3,
+      "text": "sich",
+      "word": 7
+    },
+    {
+      "charBegin": 87,
+      "charEnd": 93,
+      "id": 19,
+      "sentence": 3,
+      "text": "selbst",
+      "word": 8
+    },
+    {
+      "charBegin": 93,
+      "charEnd": 94,
+      "id": 20,
+      "sentence": 3,
+      "text": ":",
+      "word": 9
+    },
+    {
+      "charBegin": 95,
+      "charEnd": 102,
+      "id": 21,
+      "sentence": 4,
+      "text": "Niemand",
+      "word": 1
+    },
+    {
+      "charBegin": 103,
+      "charEnd": 106,
+      "id": 22,
+      "sentence": 4,
+      "text": "als",
+      "word": 2
+    },
+    {
+      "charBegin": 107,
+      "charEnd": 110,
+      "id": 23,
+      "sentence": 4,
+      "text": "ich",
+      "word": 3
+    },
+    {
+      "charBegin": 111,
+      "charEnd": 114,
+      "id": 24,
+      "sentence": 4,
+      "text": "war",
+      "word": 4
+    },
+    {
+      "charBegin": 115,
+      "charEnd": 119,
+      "id": 25,
+      "sentence": 4,
+      "text": "dein",
+      "word": 5
+    },
+    {
+      "charBegin": 120,
+      "charEnd": 126,
+      "id": 26,
+      "sentence": 4,
+      "text": "Freund",
+      "word": 6
+    },
+    {
+      "charBegin": 127,
+      "charEnd": 134,
+      "id": 27,
+      "sentence": 4,
+      "text": "Walther",
+      "word": 7
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 135,
+      "id": 28,
+      "sentence": 4,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 136,
+      "charEnd": 140,
+      "id": 29,
+      "sentence": 4,
+      "text": "dein",
+      "word": 9
+    },
+    {
+      "charBegin": 141,
+      "charEnd": 145,
+      "id": 30,
+      "sentence": 4,
+      "text": "Hugo",
+      "word": 10
+    },
+    {
+      "charBegin": 145,
+      "charEnd": 146,
+      "id": 31,
+      "sentence": 4,
+      "text": ".",
+      "word": 11
+    },
+    {
+      "charBegin": 146,
+      "charEnd": 147,
+      "id": 32,
+      "sentence": 5,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 148,
+      "charEnd": 149,
+      "id": 33,
+      "sentence": 5,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 149,
+      "charEnd": 153,
+      "id": 34,
+      "sentence": 5,
+      "text": "Gott",
+      "word": 3
+    },
+    {
+      "charBegin": 154,
+      "charEnd": 156,
+      "id": 35,
+      "sentence": 5,
+      "text": "im",
+      "word": 4
+    },
+    {
+      "charBegin": 157,
+      "charEnd": 163,
+      "id": 36,
+      "sentence": 5,
+      "text": "Himmel",
+      "word": 5
+    },
+    {
+      "charBegin": 163,
+      "charEnd": 164,
+      "id": 37,
+      "sentence": 5,
+      "text": "!",
+      "word": 6
+    },
+    {
+      "charBegin": 164,
+      "charEnd": 165,
+      "id": 38,
+      "sentence": 5,
+      "text": "«",
+      "word": 7
+    },
+    {
+      "charBegin": 166,
+      "charEnd": 171,
+      "id": 39,
+      "sentence": 5,
+      "text": "sagte",
+      "word": 8
+    },
+    {
+      "charBegin": 172,
+      "charEnd": 179,
+      "id": 40,
+      "sentence": 5,
+      "text": "Eckbert",
+      "word": 9
+    },
+    {
+      "charBegin": 180,
+      "charEnd": 186,
+      "id": 41,
+      "sentence": 5,
+      "text": "stille",
+      "word": 10
+    },
+    {
+      "charBegin": 187,
+      "charEnd": 190,
+      "id": 42,
+      "sentence": 5,
+      "text": "vor",
+      "word": 11
+    },
+    {
+      "charBegin": 191,
+      "charEnd": 195,
+      "id": 43,
+      "sentence": 5,
+      "text": "sich",
+      "word": 12
+    },
+    {
+      "charBegin": 196,
+      "charEnd": 199,
+      "id": 44,
+      "sentence": 5,
+      "text": "hin",
+      "word": 13
+    },
+    {
+      "charBegin": 200,
+      "charEnd": 201,
+      "id": 45,
+      "sentence": 5,
+      "text": "–",
+      "word": 14
+    },
+    {
+      "charBegin": 202,
+      "charEnd": 203,
+      "id": 46,
+      "sentence": 5,
+      "text": "»",
+      "word": 15
+    },
+    {
+      "charBegin": 203,
+      "charEnd": 205,
+      "id": 47,
+      "sentence": 5,
+      "text": "in",
+      "word": 16
+    },
+    {
+      "charBegin": 206,
+      "charEnd": 213,
+      "id": 48,
+      "sentence": 5,
+      "text": "welcher",
+      "word": 17
+    },
+    {
+      "charBegin": 214,
+      "charEnd": 227,
+      "id": 49,
+      "sentence": 5,
+      "text": "entsetzlichen",
+      "word": 18
+    },
+    {
+      "charBegin": 228,
+      "charEnd": 238,
+      "id": 50,
+      "sentence": 5,
+      "text": "Einsamkeit",
+      "word": 19
+    },
+    {
+      "charBegin": 239,
+      "charEnd": 242,
+      "id": 51,
+      "sentence": 5,
+      "text": "hab",
+      "word": 20
+    },
+    {
+      "charBegin": 243,
+      "charEnd": 246,
+      "id": 52,
+      "sentence": 5,
+      "text": "ich",
+      "word": 21
+    },
+    {
+      "charBegin": 247,
+      "charEnd": 251,
+      "id": 53,
+      "sentence": 5,
+      "text": "dann",
+      "word": 22
+    },
+    {
+      "charBegin": 252,
+      "charEnd": 256,
+      "id": 54,
+      "sentence": 5,
+      "text": "mein",
+      "word": 23
+    },
+    {
+      "charBegin": 257,
+      "charEnd": 262,
+      "id": 55,
+      "sentence": 5,
+      "text": "Leben",
+      "word": 24
+    },
+    {
+      "charBegin": 263,
+      "charEnd": 274,
+      "id": 56,
+      "sentence": 5,
+      "text": "hingebracht",
+      "word": 25
+    },
+    {
+      "charBegin": 274,
+      "charEnd": 275,
+      "id": 57,
+      "sentence": 5,
+      "text": "!",
+      "word": 26
+    },
+    {
+      "charBegin": 275,
+      "charEnd": 276,
+      "id": 58,
+      "sentence": 5,
+      "text": "«",
+      "word": 27
+    },
+    {
+      "charBegin": 277,
+      "charEnd": 278,
+      "id": 59,
+      "sentence": 5,
+      "text": "»",
+      "word": 28
+    },
+    {
+      "charBegin": 278,
+      "charEnd": 281,
+      "id": 60,
+      "sentence": 5,
+      "text": "Und",
+      "word": 29
+    },
+    {
+      "charBegin": 282,
+      "charEnd": 288,
+      "id": 61,
+      "sentence": 5,
+      "text": "Bertha",
+      "word": 30
+    },
+    {
+      "charBegin": 289,
+      "charEnd": 292,
+      "id": 62,
+      "sentence": 5,
+      "text": "war",
+      "word": 31
+    },
+    {
+      "charBegin": 293,
+      "charEnd": 298,
+      "id": 63,
+      "sentence": 5,
+      "text": "deine",
+      "word": 32
+    },
+    {
+      "charBegin": 299,
+      "charEnd": 308,
+      "id": 64,
+      "sentence": 5,
+      "text": "Schwester",
+      "word": 33
+    },
+    {
+      "charBegin": 308,
+      "charEnd": 309,
+      "id": 65,
+      "sentence": 5,
+      "text": ".",
+      "word": 34
+    },
+    {
+      "charBegin": 309,
+      "charEnd": 310,
+      "id": 66,
+      "sentence": 6,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 311,
+      "charEnd": 318,
+      "id": 67,
+      "sentence": 6,
+      "text": "Eckbert",
+      "word": 2
+    },
+    {
+      "charBegin": 319,
+      "charEnd": 323,
+      "id": 68,
+      "sentence": 6,
+      "text": "fiel",
+      "word": 3
+    },
+    {
+      "charBegin": 324,
+      "charEnd": 326,
+      "id": 69,
+      "sentence": 6,
+      "text": "zu",
+      "word": 4
+    },
+    {
+      "charBegin": 327,
+      "charEnd": 332,
+      "id": 70,
+      "sentence": 6,
+      "text": "Boden",
+      "word": 5
+    },
+    {
+      "charBegin": 332,
+      "charEnd": 333,
+      "id": 71,
+      "sentence": 6,
+      "text": ".",
+      "word": 6
+    },
+    {
+      "charBegin": 334,
+      "charEnd": 335,
+      "id": 72,
+      "sentence": 6,
+      "text": "»",
+      "word": 7
+    },
+    {
+      "charBegin": 335,
+      "charEnd": 340,
+      "id": 73,
+      "sentence": 6,
+      "text": "Warum",
+      "word": 8
+    },
+    {
+      "charBegin": 341,
+      "charEnd": 348,
+      "id": 74,
+      "sentence": 6,
+      "text": "verließ",
+      "word": 9
+    },
+    {
+      "charBegin": 349,
+      "charEnd": 352,
+      "id": 75,
+      "sentence": 6,
+      "text": "sie",
+      "word": 10
+    },
+    {
+      "charBegin": 353,
+      "charEnd": 357,
+      "id": 76,
+      "sentence": 6,
+      "text": "mich",
+      "word": 11
+    },
+    {
+      "charBegin": 358,
+      "charEnd": 366,
+      "id": 77,
+      "sentence": 6,
+      "text": "tückisch",
+      "word": 12
+    },
+    {
+      "charBegin": 366,
+      "charEnd": 367,
+      "id": 78,
+      "sentence": 6,
+      "text": "?",
+      "word": 13
+    }
+  ]
+}

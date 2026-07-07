@@ -1,0 +1,612 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 7,
+            "charBegin": 25,
+            "charEnd": 55,
+            "end": 12
+          }
+        ],
+        "text": "Simon schien dies zu überhören",
+        "tokenIds": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 7,
+            "charBegin": 25,
+            "charEnd": 30,
+            "end": 8
+          }
+        ],
+        "text": [
+          "Simon"
+        ],
+        "tokenIds": [
+          7
+        ]
+      },
+      "hasNested": false,
+      "id": 268,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 13,
+            "charBegin": 57,
+            "charEnd": 91,
+            "end": 20
+          }
+        ],
+        "text": "er reckte den Hals zur Türe hinaus",
+        "tokenIds": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 13,
+            "charBegin": 57,
+            "charEnd": 59,
+            "end": 14
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          13
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 269,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__183_189",
+  "originalText": "aber wie meinst du das?«\nSimon schien dies zu überhören; er reckte den Hals zur Türe hinaus. »Ei, da kommt der Gesell! Vaterssohn! er schlenkert gerade so mit den Armen wie dein seliger Mann.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 25,
+      "end": 7,
+      "id": 0,
+      "text": "aber wie meinst du das?«\n",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tokens": [
+        "aber",
+        "wie",
+        "meinst",
+        "du",
+        "das",
+        "?",
+        "«"
+      ]
+    },
+    {
+      "begin": 7,
+      "charBegin": 25,
+      "charEnd": 56,
+      "end": 13,
+      "id": 1,
+      "text": "Simon schien dies zu überhören;",
+      "tokenIds": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokens": [
+        "Simon",
+        "schien",
+        "dies",
+        "zu",
+        "überhören",
+        ";"
+      ]
+    },
+    {
+      "begin": 13,
+      "charBegin": 57,
+      "charEnd": 92,
+      "end": 21,
+      "id": 2,
+      "text": "er reckte den Hals zur Türe hinaus.",
+      "tokenIds": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "tokens": [
+        "er",
+        "reckte",
+        "den",
+        "Hals",
+        "zur",
+        "Türe",
+        "hinaus",
+        "."
+      ]
+    },
+    {
+      "begin": 21,
+      "charBegin": 93,
+      "charEnd": 118,
+      "end": 29,
+      "id": 3,
+      "text": "»Ei, da kommt der Gesell!",
+      "tokenIds": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "tokens": [
+        "»",
+        "Ei",
+        ",",
+        "da",
+        "kommt",
+        "der",
+        "Gesell",
+        "!"
+      ]
+    },
+    {
+      "begin": 29,
+      "charBegin": 119,
+      "charEnd": 130,
+      "end": 31,
+      "id": 4,
+      "text": "Vaterssohn!",
+      "tokenIds": [
+        29,
+        30
+      ],
+      "tokens": [
+        "Vaterssohn",
+        "!"
+      ]
+    },
+    {
+      "begin": 31,
+      "charBegin": 131,
+      "charEnd": 191,
+      "end": 43,
+      "id": 5,
+      "text": "er schlenkert gerade so mit den Armen wie dein seliger Mann.",
+      "tokenIds": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "tokens": [
+        "er",
+        "schlenkert",
+        "gerade",
+        "so",
+        "mit",
+        "den",
+        "Armen",
+        "wie",
+        "dein",
+        "seliger",
+        "Mann",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 4,
+      "id": 0,
+      "sentence": 1,
+      "text": "aber",
+      "word": 1
+    },
+    {
+      "charBegin": 5,
+      "charEnd": 8,
+      "id": 1,
+      "sentence": 1,
+      "text": "wie",
+      "word": 2
+    },
+    {
+      "charBegin": 9,
+      "charEnd": 15,
+      "id": 2,
+      "sentence": 1,
+      "text": "meinst",
+      "word": 3
+    },
+    {
+      "charBegin": 16,
+      "charEnd": 18,
+      "id": 3,
+      "sentence": 1,
+      "text": "du",
+      "word": 4
+    },
+    {
+      "charBegin": 19,
+      "charEnd": 22,
+      "id": 4,
+      "sentence": 1,
+      "text": "das",
+      "word": 5
+    },
+    {
+      "charBegin": 22,
+      "charEnd": 23,
+      "id": 5,
+      "sentence": 1,
+      "text": "?",
+      "word": 6
+    },
+    {
+      "charBegin": 23,
+      "charEnd": 24,
+      "id": 6,
+      "sentence": 1,
+      "text": "«",
+      "word": 7
+    },
+    {
+      "charBegin": 25,
+      "charEnd": 30,
+      "id": 7,
+      "sentence": 2,
+      "text": "Simon",
+      "word": 1
+    },
+    {
+      "charBegin": 31,
+      "charEnd": 37,
+      "id": 8,
+      "sentence": 2,
+      "text": "schien",
+      "word": 2
+    },
+    {
+      "charBegin": 38,
+      "charEnd": 42,
+      "id": 9,
+      "sentence": 2,
+      "text": "dies",
+      "word": 3
+    },
+    {
+      "charBegin": 43,
+      "charEnd": 45,
+      "id": 10,
+      "sentence": 2,
+      "text": "zu",
+      "word": 4
+    },
+    {
+      "charBegin": 46,
+      "charEnd": 55,
+      "id": 11,
+      "sentence": 2,
+      "text": "überhören",
+      "word": 5
+    },
+    {
+      "charBegin": 55,
+      "charEnd": 56,
+      "id": 12,
+      "sentence": 2,
+      "text": ";",
+      "word": 6
+    },
+    {
+      "charBegin": 57,
+      "charEnd": 59,
+      "id": 13,
+      "sentence": 3,
+      "text": "er",
+      "word": 1
+    },
+    {
+      "charBegin": 60,
+      "charEnd": 66,
+      "id": 14,
+      "sentence": 3,
+      "text": "reckte",
+      "word": 2
+    },
+    {
+      "charBegin": 67,
+      "charEnd": 70,
+      "id": 15,
+      "sentence": 3,
+      "text": "den",
+      "word": 3
+    },
+    {
+      "charBegin": 71,
+      "charEnd": 75,
+      "id": 16,
+      "sentence": 3,
+      "text": "Hals",
+      "word": 4
+    },
+    {
+      "charBegin": 76,
+      "charEnd": 79,
+      "id": 17,
+      "sentence": 3,
+      "text": "zur",
+      "word": 5
+    },
+    {
+      "charBegin": 80,
+      "charEnd": 84,
+      "id": 18,
+      "sentence": 3,
+      "text": "Türe",
+      "word": 6
+    },
+    {
+      "charBegin": 85,
+      "charEnd": 91,
+      "id": 19,
+      "sentence": 3,
+      "text": "hinaus",
+      "word": 7
+    },
+    {
+      "charBegin": 91,
+      "charEnd": 92,
+      "id": 20,
+      "sentence": 3,
+      "text": ".",
+      "word": 8
+    },
+    {
+      "charBegin": 93,
+      "charEnd": 94,
+      "id": 21,
+      "sentence": 4,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 94,
+      "charEnd": 96,
+      "id": 22,
+      "sentence": 4,
+      "text": "Ei",
+      "word": 2
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 97,
+      "id": 23,
+      "sentence": 4,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 98,
+      "charEnd": 100,
+      "id": 24,
+      "sentence": 4,
+      "text": "da",
+      "word": 4
+    },
+    {
+      "charBegin": 101,
+      "charEnd": 106,
+      "id": 25,
+      "sentence": 4,
+      "text": "kommt",
+      "word": 5
+    },
+    {
+      "charBegin": 107,
+      "charEnd": 110,
+      "id": 26,
+      "sentence": 4,
+      "text": "der",
+      "word": 6
+    },
+    {
+      "charBegin": 111,
+      "charEnd": 117,
+      "id": 27,
+      "sentence": 4,
+      "text": "Gesell",
+      "word": 7
+    },
+    {
+      "charBegin": 117,
+      "charEnd": 118,
+      "id": 28,
+      "sentence": 4,
+      "text": "!",
+      "word": 8
+    },
+    {
+      "charBegin": 119,
+      "charEnd": 129,
+      "id": 29,
+      "sentence": 5,
+      "text": "Vaterssohn",
+      "word": 1
+    },
+    {
+      "charBegin": 129,
+      "charEnd": 130,
+      "id": 30,
+      "sentence": 5,
+      "text": "!",
+      "word": 2
+    },
+    {
+      "charBegin": 131,
+      "charEnd": 133,
+      "id": 31,
+      "sentence": 6,
+      "text": "er",
+      "word": 1
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 144,
+      "id": 32,
+      "sentence": 6,
+      "text": "schlenkert",
+      "word": 2
+    },
+    {
+      "charBegin": 145,
+      "charEnd": 151,
+      "id": 33,
+      "sentence": 6,
+      "text": "gerade",
+      "word": 3
+    },
+    {
+      "charBegin": 152,
+      "charEnd": 154,
+      "id": 34,
+      "sentence": 6,
+      "text": "so",
+      "word": 4
+    },
+    {
+      "charBegin": 155,
+      "charEnd": 158,
+      "id": 35,
+      "sentence": 6,
+      "text": "mit",
+      "word": 5
+    },
+    {
+      "charBegin": 159,
+      "charEnd": 162,
+      "id": 36,
+      "sentence": 6,
+      "text": "den",
+      "word": 6
+    },
+    {
+      "charBegin": 163,
+      "charEnd": 168,
+      "id": 37,
+      "sentence": 6,
+      "text": "Armen",
+      "word": 7
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 172,
+      "id": 38,
+      "sentence": 6,
+      "text": "wie",
+      "word": 8
+    },
+    {
+      "charBegin": 173,
+      "charEnd": 177,
+      "id": 39,
+      "sentence": 6,
+      "text": "dein",
+      "word": 9
+    },
+    {
+      "charBegin": 178,
+      "charEnd": 185,
+      "id": 40,
+      "sentence": 6,
+      "text": "seliger",
+      "word": 10
+    },
+    {
+      "charBegin": 186,
+      "charEnd": 190,
+      "id": 41,
+      "sentence": 6,
+      "text": "Mann",
+      "word": 11
+    },
+    {
+      "charBegin": 190,
+      "charEnd": 191,
+      "id": 42,
+      "sentence": 6,
+      "text": ".",
+      "word": 12
+    }
+  ]
+}

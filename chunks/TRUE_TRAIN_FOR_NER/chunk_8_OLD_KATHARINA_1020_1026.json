@@ -1,0 +1,1842 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 93,
+            "charBegin": 489,
+            "charEnd": 541,
+            "end": 101
+          }
+        ],
+        "text": "Johannes schien noch vor der Erinnerung zu schaudern",
+        "tokenIds": [
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 93,
+            "charBegin": 489,
+            "charEnd": 497,
+            "end": 94
+          }
+        ],
+        "text": [
+          "Johannes"
+        ],
+        "tokenIds": [
+          93
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1325,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 102,
+            "charBegin": 543,
+            "charEnd": 627,
+            "end": 116
+          }
+        ],
+        "text": "und der Gutsherr dachte an seinen seligen Kapp und dessen Abenteuer am Heerser Hange",
+        "tokenIds": [
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 104,
+            "charBegin": 551,
+            "charEnd": 559,
+            "end": 105
+          },
+          {
+            "begin": 107,
+            "charBegin": 570,
+            "charEnd": 576,
+            "end": 108
+          }
+        ],
+        "text": [
+          "Gutsherr",
+          "seinen"
+        ],
+        "tokenIds": [
+          104,
+          107
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1326,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 122,
+            "charBegin": 644,
+            "charEnd": 653,
+            "end": 124
+          }
+        ],
+        "text": "lachte er",
+        "tokenIds": [
+          122,
+          123
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 123,
+            "charBegin": 651,
+            "charEnd": 653,
+            "end": 124
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          123
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1327,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 138,
+            "charBegin": 701,
+            "charEnd": 779,
+            "end": 152
+          }
+        ],
+        "text": "Johannes erzählte nun , wie sie glücklich durch P. und über die Grenze gekommen",
+        "tokenIds": [
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 138,
+            "charBegin": 701,
+            "charEnd": 709,
+            "end": 139
+          },
+          {
+            "begin": 143,
+            "charBegin": 728,
+            "charEnd": 731,
+            "end": 144
+          }
+        ],
+        "text": [
+          "Johannes",
+          "sie"
+        ],
+        "tokenIds": [
+          138,
+          143
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 1328,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__1020_1026",
+  "originalText": "da war es noch dunkel und wir versteckten uns hinter das große Kreuz am Kirchhofe, bis es etwas heller würde, weil wir uns vor den Steinbrüchen am Zellerfelde fürchteten; und wie wir eine Weile gesessen hatten, hörten wir mit einem Male über uns schnauben und stampfen und sahen lange Feuerstrahlen in der Luft gerade über dem Heerser Kirchturm. Wir sprangen auf und liefen, was wir konnten in Gottes Namen gerade aus, und wie es dämmerte, waren wir wirklich auf dem rechten Wege nach P.«\nJohannes schien noch vor der Erinnerung zu schaudern, und der Gutsherr dachte an seinen seligen Kapp und dessen Abenteuer am Heerser Hange. – »Sonderbar!« lachte er, »so nah wart ihr einander! Aber fahr fort.« – Johannes erzählte nun, wie sie glücklich durch P. und über die Grenze gekommen.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 170,
+      "end": 32,
+      "id": 0,
+      "text": "da war es noch dunkel und wir versteckten uns hinter das große Kreuz am Kirchhofe, bis es etwas heller würde, weil wir uns vor den Steinbrüchen am Zellerfelde fürchteten;",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tokens": [
+        "da",
+        "war",
+        "es",
+        "noch",
+        "dunkel",
+        "und",
+        "wir",
+        "versteckten",
+        "uns",
+        "hinter",
+        "das",
+        "große",
+        "Kreuz",
+        "am",
+        "Kirchhofe",
+        ",",
+        "bis",
+        "es",
+        "etwas",
+        "heller",
+        "würde",
+        ",",
+        "weil",
+        "wir",
+        "uns",
+        "vor",
+        "den",
+        "Steinbrüchen",
+        "am",
+        "Zellerfelde",
+        "fürchteten",
+        ";"
+      ]
+    },
+    {
+      "begin": 32,
+      "charBegin": 171,
+      "charEnd": 345,
+      "end": 63,
+      "id": 1,
+      "text": "und wie wir eine Weile gesessen hatten, hörten wir mit einem Male über uns schnauben und stampfen und sahen lange Feuerstrahlen in der Luft gerade über dem Heerser Kirchturm.",
+      "tokenIds": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "tokens": [
+        "und",
+        "wie",
+        "wir",
+        "eine",
+        "Weile",
+        "gesessen",
+        "hatten",
+        ",",
+        "hörten",
+        "wir",
+        "mit",
+        "einem",
+        "Male",
+        "über",
+        "uns",
+        "schnauben",
+        "und",
+        "stampfen",
+        "und",
+        "sahen",
+        "lange",
+        "Feuerstrahlen",
+        "in",
+        "der",
+        "Luft",
+        "gerade",
+        "über",
+        "dem",
+        "Heerser",
+        "Kirchturm",
+        "."
+      ]
+    },
+    {
+      "begin": 63,
+      "charBegin": 346,
+      "charEnd": 628,
+      "end": 117,
+      "id": 2,
+      "text": "Wir sprangen auf und liefen, was wir konnten in Gottes Namen gerade aus, und wie es dämmerte, waren wir wirklich auf dem rechten Wege nach P.«\nJohannes schien noch vor der Erinnerung zu schaudern, und der Gutsherr dachte an seinen seligen Kapp und dessen Abenteuer am Heerser Hange.",
+      "tokenIds": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "tokens": [
+        "Wir",
+        "sprangen",
+        "auf",
+        "und",
+        "liefen",
+        ",",
+        "was",
+        "wir",
+        "konnten",
+        "in",
+        "Gottes",
+        "Namen",
+        "gerade",
+        "aus",
+        ",",
+        "und",
+        "wie",
+        "es",
+        "dämmerte",
+        ",",
+        "waren",
+        "wir",
+        "wirklich",
+        "auf",
+        "dem",
+        "rechten",
+        "Wege",
+        "nach",
+        "P.",
+        "«",
+        "Johannes",
+        "schien",
+        "noch",
+        "vor",
+        "der",
+        "Erinnerung",
+        "zu",
+        "schaudern",
+        ",",
+        "und",
+        "der",
+        "Gutsherr",
+        "dachte",
+        "an",
+        "seinen",
+        "seligen",
+        "Kapp",
+        "und",
+        "dessen",
+        "Abenteuer",
+        "am",
+        "Heerser",
+        "Hange",
+        "."
+      ]
+    },
+    {
+      "begin": 117,
+      "charBegin": 629,
+      "charEnd": 681,
+      "end": 132,
+      "id": 3,
+      "text": "– »Sonderbar!« lachte er, »so nah wart ihr einander!",
+      "tokenIds": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Sonderbar",
+        "!",
+        "«",
+        "lachte",
+        "er",
+        ",",
+        "»",
+        "so",
+        "nah",
+        "wart",
+        "ihr",
+        "einander",
+        "!"
+      ]
+    },
+    {
+      "begin": 132,
+      "charBegin": 682,
+      "charEnd": 700,
+      "end": 138,
+      "id": 4,
+      "text": "Aber fahr fort.« –",
+      "tokenIds": [
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "tokens": [
+        "Aber",
+        "fahr",
+        "fort",
+        ".",
+        "«",
+        "–"
+      ]
+    },
+    {
+      "begin": 138,
+      "charBegin": 701,
+      "charEnd": 780,
+      "end": 153,
+      "id": 5,
+      "text": "Johannes erzählte nun, wie sie glücklich durch P. und über die Grenze gekommen.",
+      "tokenIds": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ],
+      "tokens": [
+        "Johannes",
+        "erzählte",
+        "nun",
+        ",",
+        "wie",
+        "sie",
+        "glücklich",
+        "durch",
+        "P.",
+        "und",
+        "über",
+        "die",
+        "Grenze",
+        "gekommen",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 2,
+      "id": 0,
+      "sentence": 1,
+      "text": "da",
+      "word": 1
+    },
+    {
+      "charBegin": 3,
+      "charEnd": 6,
+      "id": 1,
+      "sentence": 1,
+      "text": "war",
+      "word": 2
+    },
+    {
+      "charBegin": 7,
+      "charEnd": 9,
+      "id": 2,
+      "sentence": 1,
+      "text": "es",
+      "word": 3
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 14,
+      "id": 3,
+      "sentence": 1,
+      "text": "noch",
+      "word": 4
+    },
+    {
+      "charBegin": 15,
+      "charEnd": 21,
+      "id": 4,
+      "sentence": 1,
+      "text": "dunkel",
+      "word": 5
+    },
+    {
+      "charBegin": 22,
+      "charEnd": 25,
+      "id": 5,
+      "sentence": 1,
+      "text": "und",
+      "word": 6
+    },
+    {
+      "charBegin": 26,
+      "charEnd": 29,
+      "id": 6,
+      "sentence": 1,
+      "text": "wir",
+      "word": 7
+    },
+    {
+      "charBegin": 30,
+      "charEnd": 41,
+      "id": 7,
+      "sentence": 1,
+      "text": "versteckten",
+      "word": 8
+    },
+    {
+      "charBegin": 42,
+      "charEnd": 45,
+      "id": 8,
+      "sentence": 1,
+      "text": "uns",
+      "word": 9
+    },
+    {
+      "charBegin": 46,
+      "charEnd": 52,
+      "id": 9,
+      "sentence": 1,
+      "text": "hinter",
+      "word": 10
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 56,
+      "id": 10,
+      "sentence": 1,
+      "text": "das",
+      "word": 11
+    },
+    {
+      "charBegin": 57,
+      "charEnd": 62,
+      "id": 11,
+      "sentence": 1,
+      "text": "große",
+      "word": 12
+    },
+    {
+      "charBegin": 63,
+      "charEnd": 68,
+      "id": 12,
+      "sentence": 1,
+      "text": "Kreuz",
+      "word": 13
+    },
+    {
+      "charBegin": 69,
+      "charEnd": 71,
+      "id": 13,
+      "sentence": 1,
+      "text": "am",
+      "word": 14
+    },
+    {
+      "charBegin": 72,
+      "charEnd": 81,
+      "id": 14,
+      "sentence": 1,
+      "text": "Kirchhofe",
+      "word": 15
+    },
+    {
+      "charBegin": 81,
+      "charEnd": 82,
+      "id": 15,
+      "sentence": 1,
+      "text": ",",
+      "word": 16
+    },
+    {
+      "charBegin": 83,
+      "charEnd": 86,
+      "id": 16,
+      "sentence": 1,
+      "text": "bis",
+      "word": 17
+    },
+    {
+      "charBegin": 87,
+      "charEnd": 89,
+      "id": 17,
+      "sentence": 1,
+      "text": "es",
+      "word": 18
+    },
+    {
+      "charBegin": 90,
+      "charEnd": 95,
+      "id": 18,
+      "sentence": 1,
+      "text": "etwas",
+      "word": 19
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 102,
+      "id": 19,
+      "sentence": 1,
+      "text": "heller",
+      "word": 20
+    },
+    {
+      "charBegin": 103,
+      "charEnd": 108,
+      "id": 20,
+      "sentence": 1,
+      "text": "würde",
+      "word": 21
+    },
+    {
+      "charBegin": 108,
+      "charEnd": 109,
+      "id": 21,
+      "sentence": 1,
+      "text": ",",
+      "word": 22
+    },
+    {
+      "charBegin": 110,
+      "charEnd": 114,
+      "id": 22,
+      "sentence": 1,
+      "text": "weil",
+      "word": 23
+    },
+    {
+      "charBegin": 115,
+      "charEnd": 118,
+      "id": 23,
+      "sentence": 1,
+      "text": "wir",
+      "word": 24
+    },
+    {
+      "charBegin": 119,
+      "charEnd": 122,
+      "id": 24,
+      "sentence": 1,
+      "text": "uns",
+      "word": 25
+    },
+    {
+      "charBegin": 123,
+      "charEnd": 126,
+      "id": 25,
+      "sentence": 1,
+      "text": "vor",
+      "word": 26
+    },
+    {
+      "charBegin": 127,
+      "charEnd": 130,
+      "id": 26,
+      "sentence": 1,
+      "text": "den",
+      "word": 27
+    },
+    {
+      "charBegin": 131,
+      "charEnd": 143,
+      "id": 27,
+      "sentence": 1,
+      "text": "Steinbrüchen",
+      "word": 28
+    },
+    {
+      "charBegin": 144,
+      "charEnd": 146,
+      "id": 28,
+      "sentence": 1,
+      "text": "am",
+      "word": 29
+    },
+    {
+      "charBegin": 147,
+      "charEnd": 158,
+      "id": 29,
+      "sentence": 1,
+      "text": "Zellerfelde",
+      "word": 30
+    },
+    {
+      "charBegin": 159,
+      "charEnd": 169,
+      "id": 30,
+      "sentence": 1,
+      "text": "fürchteten",
+      "word": 31
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 170,
+      "id": 31,
+      "sentence": 1,
+      "text": ";",
+      "word": 32
+    },
+    {
+      "charBegin": 171,
+      "charEnd": 174,
+      "id": 32,
+      "sentence": 2,
+      "text": "und",
+      "word": 1
+    },
+    {
+      "charBegin": 175,
+      "charEnd": 178,
+      "id": 33,
+      "sentence": 2,
+      "text": "wie",
+      "word": 2
+    },
+    {
+      "charBegin": 179,
+      "charEnd": 182,
+      "id": 34,
+      "sentence": 2,
+      "text": "wir",
+      "word": 3
+    },
+    {
+      "charBegin": 183,
+      "charEnd": 187,
+      "id": 35,
+      "sentence": 2,
+      "text": "eine",
+      "word": 4
+    },
+    {
+      "charBegin": 188,
+      "charEnd": 193,
+      "id": 36,
+      "sentence": 2,
+      "text": "Weile",
+      "word": 5
+    },
+    {
+      "charBegin": 194,
+      "charEnd": 202,
+      "id": 37,
+      "sentence": 2,
+      "text": "gesessen",
+      "word": 6
+    },
+    {
+      "charBegin": 203,
+      "charEnd": 209,
+      "id": 38,
+      "sentence": 2,
+      "text": "hatten",
+      "word": 7
+    },
+    {
+      "charBegin": 209,
+      "charEnd": 210,
+      "id": 39,
+      "sentence": 2,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 211,
+      "charEnd": 217,
+      "id": 40,
+      "sentence": 2,
+      "text": "hörten",
+      "word": 9
+    },
+    {
+      "charBegin": 218,
+      "charEnd": 221,
+      "id": 41,
+      "sentence": 2,
+      "text": "wir",
+      "word": 10
+    },
+    {
+      "charBegin": 222,
+      "charEnd": 225,
+      "id": 42,
+      "sentence": 2,
+      "text": "mit",
+      "word": 11
+    },
+    {
+      "charBegin": 226,
+      "charEnd": 231,
+      "id": 43,
+      "sentence": 2,
+      "text": "einem",
+      "word": 12
+    },
+    {
+      "charBegin": 232,
+      "charEnd": 236,
+      "id": 44,
+      "sentence": 2,
+      "text": "Male",
+      "word": 13
+    },
+    {
+      "charBegin": 237,
+      "charEnd": 241,
+      "id": 45,
+      "sentence": 2,
+      "text": "über",
+      "word": 14
+    },
+    {
+      "charBegin": 242,
+      "charEnd": 245,
+      "id": 46,
+      "sentence": 2,
+      "text": "uns",
+      "word": 15
+    },
+    {
+      "charBegin": 246,
+      "charEnd": 255,
+      "id": 47,
+      "sentence": 2,
+      "text": "schnauben",
+      "word": 16
+    },
+    {
+      "charBegin": 256,
+      "charEnd": 259,
+      "id": 48,
+      "sentence": 2,
+      "text": "und",
+      "word": 17
+    },
+    {
+      "charBegin": 260,
+      "charEnd": 268,
+      "id": 49,
+      "sentence": 2,
+      "text": "stampfen",
+      "word": 18
+    },
+    {
+      "charBegin": 269,
+      "charEnd": 272,
+      "id": 50,
+      "sentence": 2,
+      "text": "und",
+      "word": 19
+    },
+    {
+      "charBegin": 273,
+      "charEnd": 278,
+      "id": 51,
+      "sentence": 2,
+      "text": "sahen",
+      "word": 20
+    },
+    {
+      "charBegin": 279,
+      "charEnd": 284,
+      "id": 52,
+      "sentence": 2,
+      "text": "lange",
+      "word": 21
+    },
+    {
+      "charBegin": 285,
+      "charEnd": 298,
+      "id": 53,
+      "sentence": 2,
+      "text": "Feuerstrahlen",
+      "word": 22
+    },
+    {
+      "charBegin": 299,
+      "charEnd": 301,
+      "id": 54,
+      "sentence": 2,
+      "text": "in",
+      "word": 23
+    },
+    {
+      "charBegin": 302,
+      "charEnd": 305,
+      "id": 55,
+      "sentence": 2,
+      "text": "der",
+      "word": 24
+    },
+    {
+      "charBegin": 306,
+      "charEnd": 310,
+      "id": 56,
+      "sentence": 2,
+      "text": "Luft",
+      "word": 25
+    },
+    {
+      "charBegin": 311,
+      "charEnd": 317,
+      "id": 57,
+      "sentence": 2,
+      "text": "gerade",
+      "word": 26
+    },
+    {
+      "charBegin": 318,
+      "charEnd": 322,
+      "id": 58,
+      "sentence": 2,
+      "text": "über",
+      "word": 27
+    },
+    {
+      "charBegin": 323,
+      "charEnd": 326,
+      "id": 59,
+      "sentence": 2,
+      "text": "dem",
+      "word": 28
+    },
+    {
+      "charBegin": 327,
+      "charEnd": 334,
+      "id": 60,
+      "sentence": 2,
+      "text": "Heerser",
+      "word": 29
+    },
+    {
+      "charBegin": 335,
+      "charEnd": 344,
+      "id": 61,
+      "sentence": 2,
+      "text": "Kirchturm",
+      "word": 30
+    },
+    {
+      "charBegin": 344,
+      "charEnd": 345,
+      "id": 62,
+      "sentence": 2,
+      "text": ".",
+      "word": 31
+    },
+    {
+      "charBegin": 346,
+      "charEnd": 349,
+      "id": 63,
+      "sentence": 3,
+      "text": "Wir",
+      "word": 1
+    },
+    {
+      "charBegin": 350,
+      "charEnd": 358,
+      "id": 64,
+      "sentence": 3,
+      "text": "sprangen",
+      "word": 2
+    },
+    {
+      "charBegin": 359,
+      "charEnd": 362,
+      "id": 65,
+      "sentence": 3,
+      "text": "auf",
+      "word": 3
+    },
+    {
+      "charBegin": 363,
+      "charEnd": 366,
+      "id": 66,
+      "sentence": 3,
+      "text": "und",
+      "word": 4
+    },
+    {
+      "charBegin": 367,
+      "charEnd": 373,
+      "id": 67,
+      "sentence": 3,
+      "text": "liefen",
+      "word": 5
+    },
+    {
+      "charBegin": 373,
+      "charEnd": 374,
+      "id": 68,
+      "sentence": 3,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 375,
+      "charEnd": 378,
+      "id": 69,
+      "sentence": 3,
+      "text": "was",
+      "word": 7
+    },
+    {
+      "charBegin": 379,
+      "charEnd": 382,
+      "id": 70,
+      "sentence": 3,
+      "text": "wir",
+      "word": 8
+    },
+    {
+      "charBegin": 383,
+      "charEnd": 390,
+      "id": 71,
+      "sentence": 3,
+      "text": "konnten",
+      "word": 9
+    },
+    {
+      "charBegin": 391,
+      "charEnd": 393,
+      "id": 72,
+      "sentence": 3,
+      "text": "in",
+      "word": 10
+    },
+    {
+      "charBegin": 394,
+      "charEnd": 400,
+      "id": 73,
+      "sentence": 3,
+      "text": "Gottes",
+      "word": 11
+    },
+    {
+      "charBegin": 401,
+      "charEnd": 406,
+      "id": 74,
+      "sentence": 3,
+      "text": "Namen",
+      "word": 12
+    },
+    {
+      "charBegin": 407,
+      "charEnd": 413,
+      "id": 75,
+      "sentence": 3,
+      "text": "gerade",
+      "word": 13
+    },
+    {
+      "charBegin": 414,
+      "charEnd": 417,
+      "id": 76,
+      "sentence": 3,
+      "text": "aus",
+      "word": 14
+    },
+    {
+      "charBegin": 417,
+      "charEnd": 418,
+      "id": 77,
+      "sentence": 3,
+      "text": ",",
+      "word": 15
+    },
+    {
+      "charBegin": 419,
+      "charEnd": 422,
+      "id": 78,
+      "sentence": 3,
+      "text": "und",
+      "word": 16
+    },
+    {
+      "charBegin": 423,
+      "charEnd": 426,
+      "id": 79,
+      "sentence": 3,
+      "text": "wie",
+      "word": 17
+    },
+    {
+      "charBegin": 427,
+      "charEnd": 429,
+      "id": 80,
+      "sentence": 3,
+      "text": "es",
+      "word": 18
+    },
+    {
+      "charBegin": 430,
+      "charEnd": 438,
+      "id": 81,
+      "sentence": 3,
+      "text": "dämmerte",
+      "word": 19
+    },
+    {
+      "charBegin": 438,
+      "charEnd": 439,
+      "id": 82,
+      "sentence": 3,
+      "text": ",",
+      "word": 20
+    },
+    {
+      "charBegin": 440,
+      "charEnd": 445,
+      "id": 83,
+      "sentence": 3,
+      "text": "waren",
+      "word": 21
+    },
+    {
+      "charBegin": 446,
+      "charEnd": 449,
+      "id": 84,
+      "sentence": 3,
+      "text": "wir",
+      "word": 22
+    },
+    {
+      "charBegin": 450,
+      "charEnd": 458,
+      "id": 85,
+      "sentence": 3,
+      "text": "wirklich",
+      "word": 23
+    },
+    {
+      "charBegin": 459,
+      "charEnd": 462,
+      "id": 86,
+      "sentence": 3,
+      "text": "auf",
+      "word": 24
+    },
+    {
+      "charBegin": 463,
+      "charEnd": 466,
+      "id": 87,
+      "sentence": 3,
+      "text": "dem",
+      "word": 25
+    },
+    {
+      "charBegin": 467,
+      "charEnd": 474,
+      "id": 88,
+      "sentence": 3,
+      "text": "rechten",
+      "word": 26
+    },
+    {
+      "charBegin": 475,
+      "charEnd": 479,
+      "id": 89,
+      "sentence": 3,
+      "text": "Wege",
+      "word": 27
+    },
+    {
+      "charBegin": 480,
+      "charEnd": 484,
+      "id": 90,
+      "sentence": 3,
+      "text": "nach",
+      "word": 28
+    },
+    {
+      "charBegin": 485,
+      "charEnd": 487,
+      "id": 91,
+      "sentence": 3,
+      "text": "P.",
+      "word": 29
+    },
+    {
+      "charBegin": 487,
+      "charEnd": 488,
+      "id": 92,
+      "sentence": 3,
+      "text": "«",
+      "word": 30
+    },
+    {
+      "charBegin": 489,
+      "charEnd": 497,
+      "id": 93,
+      "sentence": 3,
+      "text": "Johannes",
+      "word": 31
+    },
+    {
+      "charBegin": 498,
+      "charEnd": 504,
+      "id": 94,
+      "sentence": 3,
+      "text": "schien",
+      "word": 32
+    },
+    {
+      "charBegin": 505,
+      "charEnd": 509,
+      "id": 95,
+      "sentence": 3,
+      "text": "noch",
+      "word": 33
+    },
+    {
+      "charBegin": 510,
+      "charEnd": 513,
+      "id": 96,
+      "sentence": 3,
+      "text": "vor",
+      "word": 34
+    },
+    {
+      "charBegin": 514,
+      "charEnd": 517,
+      "id": 97,
+      "sentence": 3,
+      "text": "der",
+      "word": 35
+    },
+    {
+      "charBegin": 518,
+      "charEnd": 528,
+      "id": 98,
+      "sentence": 3,
+      "text": "Erinnerung",
+      "word": 36
+    },
+    {
+      "charBegin": 529,
+      "charEnd": 531,
+      "id": 99,
+      "sentence": 3,
+      "text": "zu",
+      "word": 37
+    },
+    {
+      "charBegin": 532,
+      "charEnd": 541,
+      "id": 100,
+      "sentence": 3,
+      "text": "schaudern",
+      "word": 38
+    },
+    {
+      "charBegin": 541,
+      "charEnd": 542,
+      "id": 101,
+      "sentence": 3,
+      "text": ",",
+      "word": 39
+    },
+    {
+      "charBegin": 543,
+      "charEnd": 546,
+      "id": 102,
+      "sentence": 3,
+      "text": "und",
+      "word": 40
+    },
+    {
+      "charBegin": 547,
+      "charEnd": 550,
+      "id": 103,
+      "sentence": 3,
+      "text": "der",
+      "word": 41
+    },
+    {
+      "charBegin": 551,
+      "charEnd": 559,
+      "id": 104,
+      "sentence": 3,
+      "text": "Gutsherr",
+      "word": 42
+    },
+    {
+      "charBegin": 560,
+      "charEnd": 566,
+      "id": 105,
+      "sentence": 3,
+      "text": "dachte",
+      "word": 43
+    },
+    {
+      "charBegin": 567,
+      "charEnd": 569,
+      "id": 106,
+      "sentence": 3,
+      "text": "an",
+      "word": 44
+    },
+    {
+      "charBegin": 570,
+      "charEnd": 576,
+      "id": 107,
+      "sentence": 3,
+      "text": "seinen",
+      "word": 45
+    },
+    {
+      "charBegin": 577,
+      "charEnd": 584,
+      "id": 108,
+      "sentence": 3,
+      "text": "seligen",
+      "word": 46
+    },
+    {
+      "charBegin": 585,
+      "charEnd": 589,
+      "id": 109,
+      "sentence": 3,
+      "text": "Kapp",
+      "word": 47
+    },
+    {
+      "charBegin": 590,
+      "charEnd": 593,
+      "id": 110,
+      "sentence": 3,
+      "text": "und",
+      "word": 48
+    },
+    {
+      "charBegin": 594,
+      "charEnd": 600,
+      "id": 111,
+      "sentence": 3,
+      "text": "dessen",
+      "word": 49
+    },
+    {
+      "charBegin": 601,
+      "charEnd": 610,
+      "id": 112,
+      "sentence": 3,
+      "text": "Abenteuer",
+      "word": 50
+    },
+    {
+      "charBegin": 611,
+      "charEnd": 613,
+      "id": 113,
+      "sentence": 3,
+      "text": "am",
+      "word": 51
+    },
+    {
+      "charBegin": 614,
+      "charEnd": 621,
+      "id": 114,
+      "sentence": 3,
+      "text": "Heerser",
+      "word": 52
+    },
+    {
+      "charBegin": 622,
+      "charEnd": 627,
+      "id": 115,
+      "sentence": 3,
+      "text": "Hange",
+      "word": 53
+    },
+    {
+      "charBegin": 627,
+      "charEnd": 628,
+      "id": 116,
+      "sentence": 3,
+      "text": ".",
+      "word": 54
+    },
+    {
+      "charBegin": 629,
+      "charEnd": 630,
+      "id": 117,
+      "sentence": 4,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 631,
+      "charEnd": 632,
+      "id": 118,
+      "sentence": 4,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 632,
+      "charEnd": 641,
+      "id": 119,
+      "sentence": 4,
+      "text": "Sonderbar",
+      "word": 3
+    },
+    {
+      "charBegin": 641,
+      "charEnd": 642,
+      "id": 120,
+      "sentence": 4,
+      "text": "!",
+      "word": 4
+    },
+    {
+      "charBegin": 642,
+      "charEnd": 643,
+      "id": 121,
+      "sentence": 4,
+      "text": "«",
+      "word": 5
+    },
+    {
+      "charBegin": 644,
+      "charEnd": 650,
+      "id": 122,
+      "sentence": 4,
+      "text": "lachte",
+      "word": 6
+    },
+    {
+      "charBegin": 651,
+      "charEnd": 653,
+      "id": 123,
+      "sentence": 4,
+      "text": "er",
+      "word": 7
+    },
+    {
+      "charBegin": 653,
+      "charEnd": 654,
+      "id": 124,
+      "sentence": 4,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 655,
+      "charEnd": 656,
+      "id": 125,
+      "sentence": 4,
+      "text": "»",
+      "word": 9
+    },
+    {
+      "charBegin": 656,
+      "charEnd": 658,
+      "id": 126,
+      "sentence": 4,
+      "text": "so",
+      "word": 10
+    },
+    {
+      "charBegin": 659,
+      "charEnd": 662,
+      "id": 127,
+      "sentence": 4,
+      "text": "nah",
+      "word": 11
+    },
+    {
+      "charBegin": 663,
+      "charEnd": 667,
+      "id": 128,
+      "sentence": 4,
+      "text": "wart",
+      "word": 12
+    },
+    {
+      "charBegin": 668,
+      "charEnd": 671,
+      "id": 129,
+      "sentence": 4,
+      "text": "ihr",
+      "word": 13
+    },
+    {
+      "charBegin": 672,
+      "charEnd": 680,
+      "id": 130,
+      "sentence": 4,
+      "text": "einander",
+      "word": 14
+    },
+    {
+      "charBegin": 680,
+      "charEnd": 681,
+      "id": 131,
+      "sentence": 4,
+      "text": "!",
+      "word": 15
+    },
+    {
+      "charBegin": 682,
+      "charEnd": 686,
+      "id": 132,
+      "sentence": 5,
+      "text": "Aber",
+      "word": 1
+    },
+    {
+      "charBegin": 687,
+      "charEnd": 691,
+      "id": 133,
+      "sentence": 5,
+      "text": "fahr",
+      "word": 2
+    },
+    {
+      "charBegin": 692,
+      "charEnd": 696,
+      "id": 134,
+      "sentence": 5,
+      "text": "fort",
+      "word": 3
+    },
+    {
+      "charBegin": 696,
+      "charEnd": 697,
+      "id": 135,
+      "sentence": 5,
+      "text": ".",
+      "word": 4
+    },
+    {
+      "charBegin": 697,
+      "charEnd": 698,
+      "id": 136,
+      "sentence": 5,
+      "text": "«",
+      "word": 5
+    },
+    {
+      "charBegin": 699,
+      "charEnd": 700,
+      "id": 137,
+      "sentence": 5,
+      "text": "–",
+      "word": 6
+    },
+    {
+      "charBegin": 701,
+      "charEnd": 709,
+      "id": 138,
+      "sentence": 6,
+      "text": "Johannes",
+      "word": 1
+    },
+    {
+      "charBegin": 710,
+      "charEnd": 718,
+      "id": 139,
+      "sentence": 6,
+      "text": "erzählte",
+      "word": 2
+    },
+    {
+      "charBegin": 719,
+      "charEnd": 722,
+      "id": 140,
+      "sentence": 6,
+      "text": "nun",
+      "word": 3
+    },
+    {
+      "charBegin": 722,
+      "charEnd": 723,
+      "id": 141,
+      "sentence": 6,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 724,
+      "charEnd": 727,
+      "id": 142,
+      "sentence": 6,
+      "text": "wie",
+      "word": 5
+    },
+    {
+      "charBegin": 728,
+      "charEnd": 731,
+      "id": 143,
+      "sentence": 6,
+      "text": "sie",
+      "word": 6
+    },
+    {
+      "charBegin": 732,
+      "charEnd": 741,
+      "id": 144,
+      "sentence": 6,
+      "text": "glücklich",
+      "word": 7
+    },
+    {
+      "charBegin": 742,
+      "charEnd": 747,
+      "id": 145,
+      "sentence": 6,
+      "text": "durch",
+      "word": 8
+    },
+    {
+      "charBegin": 748,
+      "charEnd": 750,
+      "id": 146,
+      "sentence": 6,
+      "text": "P.",
+      "word": 9
+    },
+    {
+      "charBegin": 751,
+      "charEnd": 754,
+      "id": 147,
+      "sentence": 6,
+      "text": "und",
+      "word": 10
+    },
+    {
+      "charBegin": 755,
+      "charEnd": 759,
+      "id": 148,
+      "sentence": 6,
+      "text": "über",
+      "word": 11
+    },
+    {
+      "charBegin": 760,
+      "charEnd": 763,
+      "id": 149,
+      "sentence": 6,
+      "text": "die",
+      "word": 12
+    },
+    {
+      "charBegin": 764,
+      "charEnd": 770,
+      "id": 150,
+      "sentence": 6,
+      "text": "Grenze",
+      "word": 13
+    },
+    {
+      "charBegin": 771,
+      "charEnd": 779,
+      "id": 151,
+      "sentence": 6,
+      "text": "gekommen",
+      "word": 14
+    },
+    {
+      "charBegin": 779,
+      "charEnd": 780,
+      "id": 152,
+      "sentence": 6,
+      "text": ".",
+      "word": 15
+    }
+  ]
+}

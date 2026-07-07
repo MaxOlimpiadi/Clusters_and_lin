@@ -1,0 +1,777 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 0,
+            "charBegin": 0,
+            "charEnd": 51,
+            "end": 8
+          }
+        ],
+        "text": "Indessen kamen sie der düstern Schlucht immer näher",
+        "tokenIds": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 2,
+            "charBegin": 15,
+            "charEnd": 18,
+            "end": 3
+          }
+        ],
+        "text": [
+          "sie"
+        ],
+        "tokenIds": [
+          2
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 321,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 18,
+            "charBegin": 86,
+            "charEnd": 106,
+            "end": 23
+          }
+        ],
+        "text": "hob Simon wieder an .",
+        "tokenIds": [
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 19,
+            "charBegin": 90,
+            "charEnd": 95,
+            "end": 20
+          }
+        ],
+        "text": [
+          "Simon"
+        ],
+        "tokenIds": [
+          19
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 322,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 44,
+            "charBegin": 174,
+            "charEnd": 242,
+            "end": 54
+          }
+        ],
+        "text": "Der Knabe lachte halb verlegen mit einem durchtriebenen Seitenblick .",
+        "tokenIds": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 45,
+            "charBegin": 178,
+            "charEnd": 183,
+            "end": 46
+          }
+        ],
+        "text": [
+          "Knabe"
+        ],
+        "tokenIds": [
+          45
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 323,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__228_234",
+  "originalText": "Indessen kamen sie der düstern Schlucht immer näher. »Betet die Mutter noch so viel?« hob Simon wieder an. – »Ja, jeden Abend zwei Rosenkränze.« – »So? Und du betest mit?« – Der Knabe lachte halb verlegen mit einem durchtriebenen Seitenblick.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 52,
+      "end": 9,
+      "id": 0,
+      "text": "Indessen kamen sie der düstern Schlucht immer näher.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tokens": [
+        "Indessen",
+        "kamen",
+        "sie",
+        "der",
+        "düstern",
+        "Schlucht",
+        "immer",
+        "näher",
+        "."
+      ]
+    },
+    {
+      "begin": 9,
+      "charBegin": 53,
+      "charEnd": 106,
+      "end": 23,
+      "id": 1,
+      "text": "»Betet die Mutter noch so viel?« hob Simon wieder an.",
+      "tokenIds": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "tokens": [
+        "»",
+        "Betet",
+        "die",
+        "Mutter",
+        "noch",
+        "so",
+        "viel",
+        "?",
+        "«",
+        "hob",
+        "Simon",
+        "wieder",
+        "an",
+        "."
+      ]
+    },
+    {
+      "begin": 23,
+      "charBegin": 107,
+      "charEnd": 143,
+      "end": 32,
+      "id": 2,
+      "text": "– »Ja, jeden Abend zwei Rosenkränze.",
+      "tokenIds": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Ja",
+        ",",
+        "jeden",
+        "Abend",
+        "zwei",
+        "Rosenkränze",
+        "."
+      ]
+    },
+    {
+      "begin": 32,
+      "charBegin": 143,
+      "charEnd": 151,
+      "end": 37,
+      "id": 3,
+      "text": "« – »So?",
+      "tokenIds": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "tokens": [
+        "«",
+        "–",
+        "»",
+        "So",
+        "?"
+      ]
+    },
+    {
+      "begin": 37,
+      "charBegin": 152,
+      "charEnd": 170,
+      "end": 42,
+      "id": 4,
+      "text": "Und du betest mit?",
+      "tokenIds": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "tokens": [
+        "Und",
+        "du",
+        "betest",
+        "mit",
+        "?"
+      ]
+    },
+    {
+      "begin": 42,
+      "charBegin": 170,
+      "charEnd": 242,
+      "end": 54,
+      "id": 5,
+      "text": "« – Der Knabe lachte halb verlegen mit einem durchtriebenen Seitenblick.",
+      "tokenIds": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "tokens": [
+        "«",
+        "–",
+        "Der",
+        "Knabe",
+        "lachte",
+        "halb",
+        "verlegen",
+        "mit",
+        "einem",
+        "durchtriebenen",
+        "Seitenblick",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 8,
+      "id": 0,
+      "sentence": 1,
+      "text": "Indessen",
+      "word": 1
+    },
+    {
+      "charBegin": 9,
+      "charEnd": 14,
+      "id": 1,
+      "sentence": 1,
+      "text": "kamen",
+      "word": 2
+    },
+    {
+      "charBegin": 15,
+      "charEnd": 18,
+      "id": 2,
+      "sentence": 1,
+      "text": "sie",
+      "word": 3
+    },
+    {
+      "charBegin": 19,
+      "charEnd": 22,
+      "id": 3,
+      "sentence": 1,
+      "text": "der",
+      "word": 4
+    },
+    {
+      "charBegin": 23,
+      "charEnd": 30,
+      "id": 4,
+      "sentence": 1,
+      "text": "düstern",
+      "word": 5
+    },
+    {
+      "charBegin": 31,
+      "charEnd": 39,
+      "id": 5,
+      "sentence": 1,
+      "text": "Schlucht",
+      "word": 6
+    },
+    {
+      "charBegin": 40,
+      "charEnd": 45,
+      "id": 6,
+      "sentence": 1,
+      "text": "immer",
+      "word": 7
+    },
+    {
+      "charBegin": 46,
+      "charEnd": 51,
+      "id": 7,
+      "sentence": 1,
+      "text": "näher",
+      "word": 8
+    },
+    {
+      "charBegin": 51,
+      "charEnd": 52,
+      "id": 8,
+      "sentence": 1,
+      "text": ".",
+      "word": 9
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 54,
+      "id": 9,
+      "sentence": 2,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 54,
+      "charEnd": 59,
+      "id": 10,
+      "sentence": 2,
+      "text": "Betet",
+      "word": 2
+    },
+    {
+      "charBegin": 60,
+      "charEnd": 63,
+      "id": 11,
+      "sentence": 2,
+      "text": "die",
+      "word": 3
+    },
+    {
+      "charBegin": 64,
+      "charEnd": 70,
+      "id": 12,
+      "sentence": 2,
+      "text": "Mutter",
+      "word": 4
+    },
+    {
+      "charBegin": 71,
+      "charEnd": 75,
+      "id": 13,
+      "sentence": 2,
+      "text": "noch",
+      "word": 5
+    },
+    {
+      "charBegin": 76,
+      "charEnd": 78,
+      "id": 14,
+      "sentence": 2,
+      "text": "so",
+      "word": 6
+    },
+    {
+      "charBegin": 79,
+      "charEnd": 83,
+      "id": 15,
+      "sentence": 2,
+      "text": "viel",
+      "word": 7
+    },
+    {
+      "charBegin": 83,
+      "charEnd": 84,
+      "id": 16,
+      "sentence": 2,
+      "text": "?",
+      "word": 8
+    },
+    {
+      "charBegin": 84,
+      "charEnd": 85,
+      "id": 17,
+      "sentence": 2,
+      "text": "«",
+      "word": 9
+    },
+    {
+      "charBegin": 86,
+      "charEnd": 89,
+      "id": 18,
+      "sentence": 2,
+      "text": "hob",
+      "word": 10
+    },
+    {
+      "charBegin": 90,
+      "charEnd": 95,
+      "id": 19,
+      "sentence": 2,
+      "text": "Simon",
+      "word": 11
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 102,
+      "id": 20,
+      "sentence": 2,
+      "text": "wieder",
+      "word": 12
+    },
+    {
+      "charBegin": 103,
+      "charEnd": 105,
+      "id": 21,
+      "sentence": 2,
+      "text": "an",
+      "word": 13
+    },
+    {
+      "charBegin": 105,
+      "charEnd": 106,
+      "id": 22,
+      "sentence": 2,
+      "text": ".",
+      "word": 14
+    },
+    {
+      "charBegin": 107,
+      "charEnd": 108,
+      "id": 23,
+      "sentence": 3,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 109,
+      "charEnd": 110,
+      "id": 24,
+      "sentence": 3,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 110,
+      "charEnd": 112,
+      "id": 25,
+      "sentence": 3,
+      "text": "Ja",
+      "word": 3
+    },
+    {
+      "charBegin": 112,
+      "charEnd": 113,
+      "id": 26,
+      "sentence": 3,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 114,
+      "charEnd": 119,
+      "id": 27,
+      "sentence": 3,
+      "text": "jeden",
+      "word": 5
+    },
+    {
+      "charBegin": 120,
+      "charEnd": 125,
+      "id": 28,
+      "sentence": 3,
+      "text": "Abend",
+      "word": 6
+    },
+    {
+      "charBegin": 126,
+      "charEnd": 130,
+      "id": 29,
+      "sentence": 3,
+      "text": "zwei",
+      "word": 7
+    },
+    {
+      "charBegin": 131,
+      "charEnd": 142,
+      "id": 30,
+      "sentence": 3,
+      "text": "Rosenkränze",
+      "word": 8
+    },
+    {
+      "charBegin": 142,
+      "charEnd": 143,
+      "id": 31,
+      "sentence": 3,
+      "text": ".",
+      "word": 9
+    },
+    {
+      "charBegin": 143,
+      "charEnd": 144,
+      "id": 32,
+      "sentence": 4,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 145,
+      "charEnd": 146,
+      "id": 33,
+      "sentence": 4,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 147,
+      "charEnd": 148,
+      "id": 34,
+      "sentence": 4,
+      "text": "»",
+      "word": 3
+    },
+    {
+      "charBegin": 148,
+      "charEnd": 150,
+      "id": 35,
+      "sentence": 4,
+      "text": "So",
+      "word": 4
+    },
+    {
+      "charBegin": 150,
+      "charEnd": 151,
+      "id": 36,
+      "sentence": 4,
+      "text": "?",
+      "word": 5
+    },
+    {
+      "charBegin": 152,
+      "charEnd": 155,
+      "id": 37,
+      "sentence": 5,
+      "text": "Und",
+      "word": 1
+    },
+    {
+      "charBegin": 156,
+      "charEnd": 158,
+      "id": 38,
+      "sentence": 5,
+      "text": "du",
+      "word": 2
+    },
+    {
+      "charBegin": 159,
+      "charEnd": 165,
+      "id": 39,
+      "sentence": 5,
+      "text": "betest",
+      "word": 3
+    },
+    {
+      "charBegin": 166,
+      "charEnd": 169,
+      "id": 40,
+      "sentence": 5,
+      "text": "mit",
+      "word": 4
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 170,
+      "id": 41,
+      "sentence": 5,
+      "text": "?",
+      "word": 5
+    },
+    {
+      "charBegin": 170,
+      "charEnd": 171,
+      "id": 42,
+      "sentence": 6,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 172,
+      "charEnd": 173,
+      "id": 43,
+      "sentence": 6,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 174,
+      "charEnd": 177,
+      "id": 44,
+      "sentence": 6,
+      "text": "Der",
+      "word": 3
+    },
+    {
+      "charBegin": 178,
+      "charEnd": 183,
+      "id": 45,
+      "sentence": 6,
+      "text": "Knabe",
+      "word": 4
+    },
+    {
+      "charBegin": 184,
+      "charEnd": 190,
+      "id": 46,
+      "sentence": 6,
+      "text": "lachte",
+      "word": 5
+    },
+    {
+      "charBegin": 191,
+      "charEnd": 195,
+      "id": 47,
+      "sentence": 6,
+      "text": "halb",
+      "word": 6
+    },
+    {
+      "charBegin": 196,
+      "charEnd": 204,
+      "id": 48,
+      "sentence": 6,
+      "text": "verlegen",
+      "word": 7
+    },
+    {
+      "charBegin": 205,
+      "charEnd": 208,
+      "id": 49,
+      "sentence": 6,
+      "text": "mit",
+      "word": 8
+    },
+    {
+      "charBegin": 209,
+      "charEnd": 214,
+      "id": 50,
+      "sentence": 6,
+      "text": "einem",
+      "word": 9
+    },
+    {
+      "charBegin": 215,
+      "charEnd": 229,
+      "id": 51,
+      "sentence": 6,
+      "text": "durchtriebenen",
+      "word": 10
+    },
+    {
+      "charBegin": 230,
+      "charEnd": 241,
+      "id": 52,
+      "sentence": 6,
+      "text": "Seitenblick",
+      "word": 11
+    },
+    {
+      "charBegin": 241,
+      "charEnd": 242,
+      "id": 53,
+      "sentence": 6,
+      "text": ".",
+      "word": 12
+    }
+  ]
+}

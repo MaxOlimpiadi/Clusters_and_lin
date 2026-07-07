@@ -1,0 +1,1151 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 23,
+            "charBegin": 104,
+            "charEnd": 161,
+            "end": 32
+          }
+        ],
+        "text": "Ein verlegenes Murmeln war die ganze Antwort des Försters",
+        "tokenIds": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 31,
+            "charBegin": 153,
+            "charEnd": 161,
+            "end": 32
+          }
+        ],
+        "text": [
+          "Försters"
+        ],
+        "tokenIds": [
+          31
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 616,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 33,
+            "charBegin": 163,
+            "charEnd": 218,
+            "end": 42
+          }
+        ],
+        "text": "der nach Art der meisten rauhen Menschen leicht bereute",
+        "tokenIds": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 37,
+            "charBegin": 180,
+            "charEnd": 203,
+            "end": 40
+          }
+        ],
+        "text": [
+          "meisten rauhen Menschen"
+        ],
+        "tokenIds": [
+          37,
+          38,
+          39
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 617,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 43,
+            "charBegin": 220,
+            "charEnd": 243,
+            "end": 47
+          }
+        ],
+        "text": "Er wandte sich unwirsch",
+        "tokenIds": [
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 43,
+            "charBegin": 220,
+            "charEnd": 222,
+            "end": 44
+          },
+          {
+            "begin": 45,
+            "charBegin": 230,
+            "charEnd": 234,
+            "end": 46
+          }
+        ],
+        "text": [
+          "Er",
+          "sich"
+        ],
+        "tokenIds": [
+          43,
+          45
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 618,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 47,
+            "charBegin": 244,
+            "charEnd": 272,
+            "end": 53
+          }
+        ],
+        "text": "und schritt dem Gebüsche zu .",
+        "tokenIds": [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 619,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 60,
+            "charBegin": 289,
+            "charEnd": 303,
+            "end": 62
+          }
+        ],
+        "text": "rief Friedrich",
+        "tokenIds": [
+          60,
+          61
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 61,
+            "charBegin": 294,
+            "charEnd": 303,
+            "end": 62
+          }
+        ],
+        "text": [
+          "Friedrich"
+        ],
+        "tokenIds": [
+          61
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 620,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__459_465",
+  "originalText": "Überhaupt, daß ich je anderwärts gehauen habe, als auf Bestellung? Denkt nach, ob Ihr das sagen könnt?«\nEin verlegenes Murmeln war die ganze Antwort des Försters, der nach Art der meisten rauhen Menschen leicht bereute. Er wandte sich unwirsch und schritt dem Gebüsche zu. – »Nein, Herr,« rief Friedrich, »wenn Ihr zu den andern Förstern wollt, die sind dort an der Buche hinaufgegangen.« –",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 66,
+      "end": 13,
+      "id": 0,
+      "text": "Überhaupt, daß ich je anderwärts gehauen habe, als auf Bestellung?",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tokens": [
+        "Überhaupt",
+        ",",
+        "daß",
+        "ich",
+        "je",
+        "anderwärts",
+        "gehauen",
+        "habe",
+        ",",
+        "als",
+        "auf",
+        "Bestellung",
+        "?"
+      ]
+    },
+    {
+      "begin": 13,
+      "charBegin": 67,
+      "charEnd": 102,
+      "end": 22,
+      "id": 1,
+      "text": "Denkt nach, ob Ihr das sagen könnt?",
+      "tokenIds": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokens": [
+        "Denkt",
+        "nach",
+        ",",
+        "ob",
+        "Ihr",
+        "das",
+        "sagen",
+        "könnt",
+        "?"
+      ]
+    },
+    {
+      "begin": 22,
+      "charBegin": 102,
+      "charEnd": 219,
+      "end": 43,
+      "id": 2,
+      "text": "«\nEin verlegenes Murmeln war die ganze Antwort des Försters, der nach Art der meisten rauhen Menschen leicht bereute.",
+      "tokenIds": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "tokens": [
+        "«",
+        "Ein",
+        "verlegenes",
+        "Murmeln",
+        "war",
+        "die",
+        "ganze",
+        "Antwort",
+        "des",
+        "Försters",
+        ",",
+        "der",
+        "nach",
+        "Art",
+        "der",
+        "meisten",
+        "rauhen",
+        "Menschen",
+        "leicht",
+        "bereute",
+        "."
+      ]
+    },
+    {
+      "begin": 43,
+      "charBegin": 220,
+      "charEnd": 272,
+      "end": 53,
+      "id": 3,
+      "text": "Er wandte sich unwirsch und schritt dem Gebüsche zu.",
+      "tokenIds": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "tokens": [
+        "Er",
+        "wandte",
+        "sich",
+        "unwirsch",
+        "und",
+        "schritt",
+        "dem",
+        "Gebüsche",
+        "zu",
+        "."
+      ]
+    },
+    {
+      "begin": 53,
+      "charBegin": 273,
+      "charEnd": 388,
+      "end": 81,
+      "id": 4,
+      "text": "– »Nein, Herr,« rief Friedrich, »wenn Ihr zu den andern Förstern wollt, die sind dort an der Buche hinaufgegangen.«",
+      "tokenIds": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Nein",
+        ",",
+        "Herr",
+        ",",
+        "«",
+        "rief",
+        "Friedrich",
+        ",",
+        "»",
+        "wenn",
+        "Ihr",
+        "zu",
+        "den",
+        "andern",
+        "Förstern",
+        "wollt",
+        ",",
+        "die",
+        "sind",
+        "dort",
+        "an",
+        "der",
+        "Buche",
+        "hinaufgegangen",
+        ".",
+        "«"
+      ]
+    },
+    {
+      "begin": 81,
+      "charBegin": 389,
+      "charEnd": 390,
+      "end": 82,
+      "id": 5,
+      "text": "–",
+      "tokenIds": [
+        81
+      ],
+      "tokens": [
+        "–"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 9,
+      "id": 0,
+      "sentence": 1,
+      "text": "Überhaupt",
+      "word": 1
+    },
+    {
+      "charBegin": 9,
+      "charEnd": 10,
+      "id": 1,
+      "sentence": 1,
+      "text": ",",
+      "word": 2
+    },
+    {
+      "charBegin": 11,
+      "charEnd": 14,
+      "id": 2,
+      "sentence": 1,
+      "text": "daß",
+      "word": 3
+    },
+    {
+      "charBegin": 15,
+      "charEnd": 18,
+      "id": 3,
+      "sentence": 1,
+      "text": "ich",
+      "word": 4
+    },
+    {
+      "charBegin": 19,
+      "charEnd": 21,
+      "id": 4,
+      "sentence": 1,
+      "text": "je",
+      "word": 5
+    },
+    {
+      "charBegin": 22,
+      "charEnd": 32,
+      "id": 5,
+      "sentence": 1,
+      "text": "anderwärts",
+      "word": 6
+    },
+    {
+      "charBegin": 33,
+      "charEnd": 40,
+      "id": 6,
+      "sentence": 1,
+      "text": "gehauen",
+      "word": 7
+    },
+    {
+      "charBegin": 41,
+      "charEnd": 45,
+      "id": 7,
+      "sentence": 1,
+      "text": "habe",
+      "word": 8
+    },
+    {
+      "charBegin": 45,
+      "charEnd": 46,
+      "id": 8,
+      "sentence": 1,
+      "text": ",",
+      "word": 9
+    },
+    {
+      "charBegin": 47,
+      "charEnd": 50,
+      "id": 9,
+      "sentence": 1,
+      "text": "als",
+      "word": 10
+    },
+    {
+      "charBegin": 51,
+      "charEnd": 54,
+      "id": 10,
+      "sentence": 1,
+      "text": "auf",
+      "word": 11
+    },
+    {
+      "charBegin": 55,
+      "charEnd": 65,
+      "id": 11,
+      "sentence": 1,
+      "text": "Bestellung",
+      "word": 12
+    },
+    {
+      "charBegin": 65,
+      "charEnd": 66,
+      "id": 12,
+      "sentence": 1,
+      "text": "?",
+      "word": 13
+    },
+    {
+      "charBegin": 67,
+      "charEnd": 72,
+      "id": 13,
+      "sentence": 2,
+      "text": "Denkt",
+      "word": 1
+    },
+    {
+      "charBegin": 73,
+      "charEnd": 77,
+      "id": 14,
+      "sentence": 2,
+      "text": "nach",
+      "word": 2
+    },
+    {
+      "charBegin": 77,
+      "charEnd": 78,
+      "id": 15,
+      "sentence": 2,
+      "text": ",",
+      "word": 3
+    },
+    {
+      "charBegin": 79,
+      "charEnd": 81,
+      "id": 16,
+      "sentence": 2,
+      "text": "ob",
+      "word": 4
+    },
+    {
+      "charBegin": 82,
+      "charEnd": 85,
+      "id": 17,
+      "sentence": 2,
+      "text": "Ihr",
+      "word": 5
+    },
+    {
+      "charBegin": 86,
+      "charEnd": 89,
+      "id": 18,
+      "sentence": 2,
+      "text": "das",
+      "word": 6
+    },
+    {
+      "charBegin": 90,
+      "charEnd": 95,
+      "id": 19,
+      "sentence": 2,
+      "text": "sagen",
+      "word": 7
+    },
+    {
+      "charBegin": 96,
+      "charEnd": 101,
+      "id": 20,
+      "sentence": 2,
+      "text": "könnt",
+      "word": 8
+    },
+    {
+      "charBegin": 101,
+      "charEnd": 102,
+      "id": 21,
+      "sentence": 2,
+      "text": "?",
+      "word": 9
+    },
+    {
+      "charBegin": 102,
+      "charEnd": 103,
+      "id": 22,
+      "sentence": 3,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 104,
+      "charEnd": 107,
+      "id": 23,
+      "sentence": 3,
+      "text": "Ein",
+      "word": 2
+    },
+    {
+      "charBegin": 108,
+      "charEnd": 118,
+      "id": 24,
+      "sentence": 3,
+      "text": "verlegenes",
+      "word": 3
+    },
+    {
+      "charBegin": 119,
+      "charEnd": 126,
+      "id": 25,
+      "sentence": 3,
+      "text": "Murmeln",
+      "word": 4
+    },
+    {
+      "charBegin": 127,
+      "charEnd": 130,
+      "id": 26,
+      "sentence": 3,
+      "text": "war",
+      "word": 5
+    },
+    {
+      "charBegin": 131,
+      "charEnd": 134,
+      "id": 27,
+      "sentence": 3,
+      "text": "die",
+      "word": 6
+    },
+    {
+      "charBegin": 135,
+      "charEnd": 140,
+      "id": 28,
+      "sentence": 3,
+      "text": "ganze",
+      "word": 7
+    },
+    {
+      "charBegin": 141,
+      "charEnd": 148,
+      "id": 29,
+      "sentence": 3,
+      "text": "Antwort",
+      "word": 8
+    },
+    {
+      "charBegin": 149,
+      "charEnd": 152,
+      "id": 30,
+      "sentence": 3,
+      "text": "des",
+      "word": 9
+    },
+    {
+      "charBegin": 153,
+      "charEnd": 161,
+      "id": 31,
+      "sentence": 3,
+      "text": "Försters",
+      "word": 10
+    },
+    {
+      "charBegin": 161,
+      "charEnd": 162,
+      "id": 32,
+      "sentence": 3,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 163,
+      "charEnd": 166,
+      "id": 33,
+      "sentence": 3,
+      "text": "der",
+      "word": 12
+    },
+    {
+      "charBegin": 167,
+      "charEnd": 171,
+      "id": 34,
+      "sentence": 3,
+      "text": "nach",
+      "word": 13
+    },
+    {
+      "charBegin": 172,
+      "charEnd": 175,
+      "id": 35,
+      "sentence": 3,
+      "text": "Art",
+      "word": 14
+    },
+    {
+      "charBegin": 176,
+      "charEnd": 179,
+      "id": 36,
+      "sentence": 3,
+      "text": "der",
+      "word": 15
+    },
+    {
+      "charBegin": 180,
+      "charEnd": 187,
+      "id": 37,
+      "sentence": 3,
+      "text": "meisten",
+      "word": 16
+    },
+    {
+      "charBegin": 188,
+      "charEnd": 194,
+      "id": 38,
+      "sentence": 3,
+      "text": "rauhen",
+      "word": 17
+    },
+    {
+      "charBegin": 195,
+      "charEnd": 203,
+      "id": 39,
+      "sentence": 3,
+      "text": "Menschen",
+      "word": 18
+    },
+    {
+      "charBegin": 204,
+      "charEnd": 210,
+      "id": 40,
+      "sentence": 3,
+      "text": "leicht",
+      "word": 19
+    },
+    {
+      "charBegin": 211,
+      "charEnd": 218,
+      "id": 41,
+      "sentence": 3,
+      "text": "bereute",
+      "word": 20
+    },
+    {
+      "charBegin": 218,
+      "charEnd": 219,
+      "id": 42,
+      "sentence": 3,
+      "text": ".",
+      "word": 21
+    },
+    {
+      "charBegin": 220,
+      "charEnd": 222,
+      "id": 43,
+      "sentence": 4,
+      "text": "Er",
+      "word": 1
+    },
+    {
+      "charBegin": 223,
+      "charEnd": 229,
+      "id": 44,
+      "sentence": 4,
+      "text": "wandte",
+      "word": 2
+    },
+    {
+      "charBegin": 230,
+      "charEnd": 234,
+      "id": 45,
+      "sentence": 4,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 235,
+      "charEnd": 243,
+      "id": 46,
+      "sentence": 4,
+      "text": "unwirsch",
+      "word": 4
+    },
+    {
+      "charBegin": 244,
+      "charEnd": 247,
+      "id": 47,
+      "sentence": 4,
+      "text": "und",
+      "word": 5
+    },
+    {
+      "charBegin": 248,
+      "charEnd": 255,
+      "id": 48,
+      "sentence": 4,
+      "text": "schritt",
+      "word": 6
+    },
+    {
+      "charBegin": 256,
+      "charEnd": 259,
+      "id": 49,
+      "sentence": 4,
+      "text": "dem",
+      "word": 7
+    },
+    {
+      "charBegin": 260,
+      "charEnd": 268,
+      "id": 50,
+      "sentence": 4,
+      "text": "Gebüsche",
+      "word": 8
+    },
+    {
+      "charBegin": 269,
+      "charEnd": 271,
+      "id": 51,
+      "sentence": 4,
+      "text": "zu",
+      "word": 9
+    },
+    {
+      "charBegin": 271,
+      "charEnd": 272,
+      "id": 52,
+      "sentence": 4,
+      "text": ".",
+      "word": 10
+    },
+    {
+      "charBegin": 273,
+      "charEnd": 274,
+      "id": 53,
+      "sentence": 5,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 275,
+      "charEnd": 276,
+      "id": 54,
+      "sentence": 5,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 276,
+      "charEnd": 280,
+      "id": 55,
+      "sentence": 5,
+      "text": "Nein",
+      "word": 3
+    },
+    {
+      "charBegin": 280,
+      "charEnd": 281,
+      "id": 56,
+      "sentence": 5,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 282,
+      "charEnd": 286,
+      "id": 57,
+      "sentence": 5,
+      "text": "Herr",
+      "word": 5
+    },
+    {
+      "charBegin": 286,
+      "charEnd": 287,
+      "id": 58,
+      "sentence": 5,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 287,
+      "charEnd": 288,
+      "id": 59,
+      "sentence": 5,
+      "text": "«",
+      "word": 7
+    },
+    {
+      "charBegin": 289,
+      "charEnd": 293,
+      "id": 60,
+      "sentence": 5,
+      "text": "rief",
+      "word": 8
+    },
+    {
+      "charBegin": 294,
+      "charEnd": 303,
+      "id": 61,
+      "sentence": 5,
+      "text": "Friedrich",
+      "word": 9
+    },
+    {
+      "charBegin": 303,
+      "charEnd": 304,
+      "id": 62,
+      "sentence": 5,
+      "text": ",",
+      "word": 10
+    },
+    {
+      "charBegin": 305,
+      "charEnd": 306,
+      "id": 63,
+      "sentence": 5,
+      "text": "»",
+      "word": 11
+    },
+    {
+      "charBegin": 306,
+      "charEnd": 310,
+      "id": 64,
+      "sentence": 5,
+      "text": "wenn",
+      "word": 12
+    },
+    {
+      "charBegin": 311,
+      "charEnd": 314,
+      "id": 65,
+      "sentence": 5,
+      "text": "Ihr",
+      "word": 13
+    },
+    {
+      "charBegin": 315,
+      "charEnd": 317,
+      "id": 66,
+      "sentence": 5,
+      "text": "zu",
+      "word": 14
+    },
+    {
+      "charBegin": 318,
+      "charEnd": 321,
+      "id": 67,
+      "sentence": 5,
+      "text": "den",
+      "word": 15
+    },
+    {
+      "charBegin": 322,
+      "charEnd": 328,
+      "id": 68,
+      "sentence": 5,
+      "text": "andern",
+      "word": 16
+    },
+    {
+      "charBegin": 329,
+      "charEnd": 337,
+      "id": 69,
+      "sentence": 5,
+      "text": "Förstern",
+      "word": 17
+    },
+    {
+      "charBegin": 338,
+      "charEnd": 343,
+      "id": 70,
+      "sentence": 5,
+      "text": "wollt",
+      "word": 18
+    },
+    {
+      "charBegin": 343,
+      "charEnd": 344,
+      "id": 71,
+      "sentence": 5,
+      "text": ",",
+      "word": 19
+    },
+    {
+      "charBegin": 345,
+      "charEnd": 348,
+      "id": 72,
+      "sentence": 5,
+      "text": "die",
+      "word": 20
+    },
+    {
+      "charBegin": 349,
+      "charEnd": 353,
+      "id": 73,
+      "sentence": 5,
+      "text": "sind",
+      "word": 21
+    },
+    {
+      "charBegin": 354,
+      "charEnd": 358,
+      "id": 74,
+      "sentence": 5,
+      "text": "dort",
+      "word": 22
+    },
+    {
+      "charBegin": 359,
+      "charEnd": 361,
+      "id": 75,
+      "sentence": 5,
+      "text": "an",
+      "word": 23
+    },
+    {
+      "charBegin": 362,
+      "charEnd": 365,
+      "id": 76,
+      "sentence": 5,
+      "text": "der",
+      "word": 24
+    },
+    {
+      "charBegin": 366,
+      "charEnd": 371,
+      "id": 77,
+      "sentence": 5,
+      "text": "Buche",
+      "word": 25
+    },
+    {
+      "charBegin": 372,
+      "charEnd": 386,
+      "id": 78,
+      "sentence": 5,
+      "text": "hinaufgegangen",
+      "word": 26
+    },
+    {
+      "charBegin": 386,
+      "charEnd": 387,
+      "id": 79,
+      "sentence": 5,
+      "text": ".",
+      "word": 27
+    },
+    {
+      "charBegin": 387,
+      "charEnd": 388,
+      "id": 80,
+      "sentence": 5,
+      "text": "«",
+      "word": 28
+    },
+    {
+      "charBegin": 389,
+      "charEnd": 390,
+      "id": 81,
+      "sentence": 6,
+      "text": "–",
+      "word": 1
+    }
+  ]
+}

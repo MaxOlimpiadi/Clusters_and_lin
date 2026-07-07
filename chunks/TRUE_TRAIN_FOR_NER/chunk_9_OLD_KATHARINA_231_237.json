@@ -1,0 +1,839 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 9,
+            "charBegin": 27,
+            "charEnd": 52,
+            "end": 14
+          }
+        ],
+        "text": "flüsterte er vor sich hin",
+        "tokenIds": [
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 10,
+            "charBegin": 37,
+            "charEnd": 39,
+            "end": 11
+          },
+          {
+            "begin": 12,
+            "charBegin": 44,
+            "charEnd": 48,
+            "end": 13
+          }
+        ],
+        "text": [
+          "er",
+          "sich"
+        ],
+        "tokenIds": [
+          10,
+          12
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 487,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 15,
+            "charBegin": 54,
+            "charEnd": 95,
+            "end": 21
+          }
+        ],
+        "text": "indem er mechanisch den Heimweg einschlug",
+        "tokenIds": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 16,
+            "charBegin": 60,
+            "charEnd": 62,
+            "end": 17
+          }
+        ],
+        "text": [
+          "er"
+        ],
+        "tokenIds": [
+          16
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 488,
+      "isNested": false
+    }
+  ],
+  "documentName": "Ein Schwächling__231_237",
+  "originalText": "\n\n– – »Das war kein Spaß,« flüsterte er vor sich hin, indem er mechanisch den Heimweg einschlug. »Der Meister wartet wirklich nur auf eine Ausrede, um mich fortzujagen. Ohne Arbeit – ohne Brot. Auserwähltes Volk – – auserwählt, um getreten zu werden! Auf was sind wir stolz? Auf unsere Fähigkeit zu leiden!",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 96,
+      "end": 22,
+      "id": 0,
+      "text": "\n\n– – »Das war kein Spaß,« flüsterte er vor sich hin, indem er mechanisch den Heimweg einschlug.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tokens": [
+        "–",
+        "–",
+        "»",
+        "Das",
+        "war",
+        "kein",
+        "Spaß",
+        ",",
+        "«",
+        "flüsterte",
+        "er",
+        "vor",
+        "sich",
+        "hin",
+        ",",
+        "indem",
+        "er",
+        "mechanisch",
+        "den",
+        "Heimweg",
+        "einschlug",
+        "."
+      ]
+    },
+    {
+      "begin": 22,
+      "charBegin": 97,
+      "charEnd": 168,
+      "end": 36,
+      "id": 1,
+      "text": "»Der Meister wartet wirklich nur auf eine Ausrede, um mich fortzujagen.",
+      "tokenIds": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "tokens": [
+        "»",
+        "Der",
+        "Meister",
+        "wartet",
+        "wirklich",
+        "nur",
+        "auf",
+        "eine",
+        "Ausrede",
+        ",",
+        "um",
+        "mich",
+        "fortzujagen",
+        "."
+      ]
+    },
+    {
+      "begin": 36,
+      "charBegin": 169,
+      "charEnd": 193,
+      "end": 42,
+      "id": 2,
+      "text": "Ohne Arbeit – ohne Brot.",
+      "tokenIds": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "tokens": [
+        "Ohne",
+        "Arbeit",
+        "–",
+        "ohne",
+        "Brot",
+        "."
+      ]
+    },
+    {
+      "begin": 42,
+      "charBegin": 194,
+      "charEnd": 250,
+      "end": 53,
+      "id": 3,
+      "text": "Auserwähltes Volk – – auserwählt, um getreten zu werden!",
+      "tokenIds": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "tokens": [
+        "Auserwähltes",
+        "Volk",
+        "–",
+        "–",
+        "auserwählt",
+        ",",
+        "um",
+        "getreten",
+        "zu",
+        "werden",
+        "!"
+      ]
+    },
+    {
+      "begin": 53,
+      "charBegin": 251,
+      "charEnd": 274,
+      "end": 59,
+      "id": 4,
+      "text": "Auf was sind wir stolz?",
+      "tokenIds": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "tokens": [
+        "Auf",
+        "was",
+        "sind",
+        "wir",
+        "stolz",
+        "?"
+      ]
+    },
+    {
+      "begin": 59,
+      "charBegin": 275,
+      "charEnd": 306,
+      "end": 65,
+      "id": 5,
+      "text": "Auf unsere Fähigkeit zu leiden!",
+      "tokenIds": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "tokens": [
+        "Auf",
+        "unsere",
+        "Fähigkeit",
+        "zu",
+        "leiden",
+        "!"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 2,
+      "charEnd": 3,
+      "id": 0,
+      "sentence": 1,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 4,
+      "charEnd": 5,
+      "id": 1,
+      "sentence": 1,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 6,
+      "charEnd": 7,
+      "id": 2,
+      "sentence": 1,
+      "text": "»",
+      "word": 3
+    },
+    {
+      "charBegin": 7,
+      "charEnd": 10,
+      "id": 3,
+      "sentence": 1,
+      "text": "Das",
+      "word": 4
+    },
+    {
+      "charBegin": 11,
+      "charEnd": 14,
+      "id": 4,
+      "sentence": 1,
+      "text": "war",
+      "word": 5
+    },
+    {
+      "charBegin": 15,
+      "charEnd": 19,
+      "id": 5,
+      "sentence": 1,
+      "text": "kein",
+      "word": 6
+    },
+    {
+      "charBegin": 20,
+      "charEnd": 24,
+      "id": 6,
+      "sentence": 1,
+      "text": "Spaß",
+      "word": 7
+    },
+    {
+      "charBegin": 24,
+      "charEnd": 25,
+      "id": 7,
+      "sentence": 1,
+      "text": ",",
+      "word": 8
+    },
+    {
+      "charBegin": 25,
+      "charEnd": 26,
+      "id": 8,
+      "sentence": 1,
+      "text": "«",
+      "word": 9
+    },
+    {
+      "charBegin": 27,
+      "charEnd": 36,
+      "id": 9,
+      "sentence": 1,
+      "text": "flüsterte",
+      "word": 10
+    },
+    {
+      "charBegin": 37,
+      "charEnd": 39,
+      "id": 10,
+      "sentence": 1,
+      "text": "er",
+      "word": 11
+    },
+    {
+      "charBegin": 40,
+      "charEnd": 43,
+      "id": 11,
+      "sentence": 1,
+      "text": "vor",
+      "word": 12
+    },
+    {
+      "charBegin": 44,
+      "charEnd": 48,
+      "id": 12,
+      "sentence": 1,
+      "text": "sich",
+      "word": 13
+    },
+    {
+      "charBegin": 49,
+      "charEnd": 52,
+      "id": 13,
+      "sentence": 1,
+      "text": "hin",
+      "word": 14
+    },
+    {
+      "charBegin": 52,
+      "charEnd": 53,
+      "id": 14,
+      "sentence": 1,
+      "text": ",",
+      "word": 15
+    },
+    {
+      "charBegin": 54,
+      "charEnd": 59,
+      "id": 15,
+      "sentence": 1,
+      "text": "indem",
+      "word": 16
+    },
+    {
+      "charBegin": 60,
+      "charEnd": 62,
+      "id": 16,
+      "sentence": 1,
+      "text": "er",
+      "word": 17
+    },
+    {
+      "charBegin": 63,
+      "charEnd": 73,
+      "id": 17,
+      "sentence": 1,
+      "text": "mechanisch",
+      "word": 18
+    },
+    {
+      "charBegin": 74,
+      "charEnd": 77,
+      "id": 18,
+      "sentence": 1,
+      "text": "den",
+      "word": 19
+    },
+    {
+      "charBegin": 78,
+      "charEnd": 85,
+      "id": 19,
+      "sentence": 1,
+      "text": "Heimweg",
+      "word": 20
+    },
+    {
+      "charBegin": 86,
+      "charEnd": 95,
+      "id": 20,
+      "sentence": 1,
+      "text": "einschlug",
+      "word": 21
+    },
+    {
+      "charBegin": 95,
+      "charEnd": 96,
+      "id": 21,
+      "sentence": 1,
+      "text": ".",
+      "word": 22
+    },
+    {
+      "charBegin": 97,
+      "charEnd": 98,
+      "id": 22,
+      "sentence": 2,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 98,
+      "charEnd": 101,
+      "id": 23,
+      "sentence": 2,
+      "text": "Der",
+      "word": 2
+    },
+    {
+      "charBegin": 102,
+      "charEnd": 109,
+      "id": 24,
+      "sentence": 2,
+      "text": "Meister",
+      "word": 3
+    },
+    {
+      "charBegin": 110,
+      "charEnd": 116,
+      "id": 25,
+      "sentence": 2,
+      "text": "wartet",
+      "word": 4
+    },
+    {
+      "charBegin": 117,
+      "charEnd": 125,
+      "id": 26,
+      "sentence": 2,
+      "text": "wirklich",
+      "word": 5
+    },
+    {
+      "charBegin": 126,
+      "charEnd": 129,
+      "id": 27,
+      "sentence": 2,
+      "text": "nur",
+      "word": 6
+    },
+    {
+      "charBegin": 130,
+      "charEnd": 133,
+      "id": 28,
+      "sentence": 2,
+      "text": "auf",
+      "word": 7
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 138,
+      "id": 29,
+      "sentence": 2,
+      "text": "eine",
+      "word": 8
+    },
+    {
+      "charBegin": 139,
+      "charEnd": 146,
+      "id": 30,
+      "sentence": 2,
+      "text": "Ausrede",
+      "word": 9
+    },
+    {
+      "charBegin": 146,
+      "charEnd": 147,
+      "id": 31,
+      "sentence": 2,
+      "text": ",",
+      "word": 10
+    },
+    {
+      "charBegin": 148,
+      "charEnd": 150,
+      "id": 32,
+      "sentence": 2,
+      "text": "um",
+      "word": 11
+    },
+    {
+      "charBegin": 151,
+      "charEnd": 155,
+      "id": 33,
+      "sentence": 2,
+      "text": "mich",
+      "word": 12
+    },
+    {
+      "charBegin": 156,
+      "charEnd": 167,
+      "id": 34,
+      "sentence": 2,
+      "text": "fortzujagen",
+      "word": 13
+    },
+    {
+      "charBegin": 167,
+      "charEnd": 168,
+      "id": 35,
+      "sentence": 2,
+      "text": ".",
+      "word": 14
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 173,
+      "id": 36,
+      "sentence": 3,
+      "text": "Ohne",
+      "word": 1
+    },
+    {
+      "charBegin": 174,
+      "charEnd": 180,
+      "id": 37,
+      "sentence": 3,
+      "text": "Arbeit",
+      "word": 2
+    },
+    {
+      "charBegin": 181,
+      "charEnd": 182,
+      "id": 38,
+      "sentence": 3,
+      "text": "–",
+      "word": 3
+    },
+    {
+      "charBegin": 183,
+      "charEnd": 187,
+      "id": 39,
+      "sentence": 3,
+      "text": "ohne",
+      "word": 4
+    },
+    {
+      "charBegin": 188,
+      "charEnd": 192,
+      "id": 40,
+      "sentence": 3,
+      "text": "Brot",
+      "word": 5
+    },
+    {
+      "charBegin": 192,
+      "charEnd": 193,
+      "id": 41,
+      "sentence": 3,
+      "text": ".",
+      "word": 6
+    },
+    {
+      "charBegin": 194,
+      "charEnd": 206,
+      "id": 42,
+      "sentence": 4,
+      "text": "Auserwähltes",
+      "word": 1
+    },
+    {
+      "charBegin": 207,
+      "charEnd": 211,
+      "id": 43,
+      "sentence": 4,
+      "text": "Volk",
+      "word": 2
+    },
+    {
+      "charBegin": 212,
+      "charEnd": 213,
+      "id": 44,
+      "sentence": 4,
+      "text": "–",
+      "word": 3
+    },
+    {
+      "charBegin": 214,
+      "charEnd": 215,
+      "id": 45,
+      "sentence": 4,
+      "text": "–",
+      "word": 4
+    },
+    {
+      "charBegin": 216,
+      "charEnd": 226,
+      "id": 46,
+      "sentence": 4,
+      "text": "auserwählt",
+      "word": 5
+    },
+    {
+      "charBegin": 226,
+      "charEnd": 227,
+      "id": 47,
+      "sentence": 4,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 228,
+      "charEnd": 230,
+      "id": 48,
+      "sentence": 4,
+      "text": "um",
+      "word": 7
+    },
+    {
+      "charBegin": 231,
+      "charEnd": 239,
+      "id": 49,
+      "sentence": 4,
+      "text": "getreten",
+      "word": 8
+    },
+    {
+      "charBegin": 240,
+      "charEnd": 242,
+      "id": 50,
+      "sentence": 4,
+      "text": "zu",
+      "word": 9
+    },
+    {
+      "charBegin": 243,
+      "charEnd": 249,
+      "id": 51,
+      "sentence": 4,
+      "text": "werden",
+      "word": 10
+    },
+    {
+      "charBegin": 249,
+      "charEnd": 250,
+      "id": 52,
+      "sentence": 4,
+      "text": "!",
+      "word": 11
+    },
+    {
+      "charBegin": 251,
+      "charEnd": 254,
+      "id": 53,
+      "sentence": 5,
+      "text": "Auf",
+      "word": 1
+    },
+    {
+      "charBegin": 255,
+      "charEnd": 258,
+      "id": 54,
+      "sentence": 5,
+      "text": "was",
+      "word": 2
+    },
+    {
+      "charBegin": 259,
+      "charEnd": 263,
+      "id": 55,
+      "sentence": 5,
+      "text": "sind",
+      "word": 3
+    },
+    {
+      "charBegin": 264,
+      "charEnd": 267,
+      "id": 56,
+      "sentence": 5,
+      "text": "wir",
+      "word": 4
+    },
+    {
+      "charBegin": 268,
+      "charEnd": 273,
+      "id": 57,
+      "sentence": 5,
+      "text": "stolz",
+      "word": 5
+    },
+    {
+      "charBegin": 273,
+      "charEnd": 274,
+      "id": 58,
+      "sentence": 5,
+      "text": "?",
+      "word": 6
+    },
+    {
+      "charBegin": 275,
+      "charEnd": 278,
+      "id": 59,
+      "sentence": 6,
+      "text": "Auf",
+      "word": 1
+    },
+    {
+      "charBegin": 279,
+      "charEnd": 285,
+      "id": 60,
+      "sentence": 6,
+      "text": "unsere",
+      "word": 2
+    },
+    {
+      "charBegin": 286,
+      "charEnd": 295,
+      "id": 61,
+      "sentence": 6,
+      "text": "Fähigkeit",
+      "word": 3
+    },
+    {
+      "charBegin": 296,
+      "charEnd": 298,
+      "id": 62,
+      "sentence": 6,
+      "text": "zu",
+      "word": 4
+    },
+    {
+      "charBegin": 299,
+      "charEnd": 305,
+      "id": 63,
+      "sentence": 6,
+      "text": "leiden",
+      "word": 5
+    },
+    {
+      "charBegin": 305,
+      "charEnd": 306,
+      "id": 64,
+      "sentence": 6,
+      "text": "!",
+      "word": 6
+    }
+  ]
+}

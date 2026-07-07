@@ -1,0 +1,2467 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 12,
+            "charBegin": 47,
+            "charEnd": 93,
+            "end": 19
+          }
+        ],
+        "text": "sagte der mit Gabriel angesprochene junge Mann",
+        "tokenIds": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 13,
+            "charBegin": 53,
+            "charEnd": 93,
+            "end": 19
+          }
+        ],
+        "text": [
+          "der mit Gabriel angesprochene junge Mann"
+        ],
+        "tokenIds": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 474,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 20,
+            "charBegin": 95,
+            "charEnd": 154,
+            "end": 28
+          }
+        ],
+        "text": "als gälte es , eine beschämende Anschuldigung zurückzuweisen",
+        "tokenIds": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [
+          {
+            "begin": 13,
+            "charBegin": 53,
+            "charEnd": 93,
+            "end": 19
+          }
+        ],
+        "text": [
+          "der mit Gabriel angesprochene junge Mann"
+        ],
+        "tokenIds": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 475,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 65,
+            "charBegin": 312,
+            "charEnd": 336,
+            "end": 69
+          }
+        ],
+        "text": "äffte der erste Künstler",
+        "tokenIds": [
+          65,
+          66,
+          67,
+          68
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 66,
+            "charBegin": 318,
+            "charEnd": 336,
+            "end": 69
+          }
+        ],
+        "text": [
+          "der erste Künstler"
+        ],
+        "tokenIds": [
+          66,
+          67,
+          68
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 476,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 80,
+            "charBegin": 377,
+            "charEnd": 422,
+            "end": 86
+          }
+        ],
+        "text": "ergänzte voll moralischen Behagens der Zweite",
+        "tokenIds": [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 84,
+            "charBegin": 412,
+            "charEnd": 422,
+            "end": 86
+          }
+        ],
+        "text": [
+          "der Zweite"
+        ],
+        "tokenIds": [
+          84,
+          85
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 477,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 87,
+            "charBegin": 425,
+            "charEnd": 472,
+            "end": 94
+          }
+        ],
+        "text": "Gabriel stieg eine rasche Blutwelle ins Gesicht",
+        "tokenIds": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93
+        ]
+      },
+      "agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 87,
+            "charBegin": 425,
+            "charEnd": 432,
+            "end": 88
+          }
+        ],
+        "text": [
+          "Gabriel"
+        ],
+        "tokenIds": [
+          87
+        ]
+      },
+      "hasNested": false,
+      "id": 478,
+      "isNested": false
+    }
+  ],
+  "documentName": "Ein Schwächling__219_225",
+  "originalText": "»Ich kann nicht so viel trinken wie sie alle,« sagte der mit Gabriel angesprochene junge Mann, als gälte es, eine beschämende Anschuldigung zurückzuweisen, »und mein Wochenlohn ist auch so gering, daß ich – – –«\n\n»Möchtest halt gern so viel bekommen wie wir, damit du nebstbei »e Geschäftche« betreiben kannst,« äffte der erste Künstler.\n\n»Auch wenn's nicht ganz sauber wär',« ergänzte voll moralischen Behagens der Zweite.\n\nGabriel stieg eine rasche Blutwelle ins Gesicht. – – »Ich hab' in meinem Leben noch kein unsauberes Geschäft betrieben, aber wenn der Herr Straubinger mich bezahlen würde, wie sich's gehörte, dann würde ich mein Geld auch nicht vertrinken, sondern zu meiner Ausbildung verwenden.«\n\n»Da seh einer den Juden an, wie der auf einmal das Maul voll nimmt.«\n\n»Der Duckmäuser tut immer, wie wenn er nicht drei zählen könnte.«\n\n»Ich sag's dem Meister, daß der Jud austrompetet, er tat seine Arbeiter schlecht bezahlen.«\n\n»Der Meister hat ohnedies einen Pick auf dich, paß auf, morgen fliegst' zum Tempel 'naus.",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 423,
+      "end": 87,
+      "id": 0,
+      "text": "»Ich kann nicht so viel trinken wie sie alle,« sagte der mit Gabriel angesprochene junge Mann, als gälte es, eine beschämende Anschuldigung zurückzuweisen, »und mein Wochenlohn ist auch so gering, daß ich – – –«\n\n»Möchtest halt gern so viel bekommen wie wir, damit du nebstbei »e Geschäftche« betreiben kannst,« äffte der erste Künstler.\n\n»Auch wenn's nicht ganz sauber wär',« ergänzte voll moralischen Behagens der Zweite.",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ],
+      "tokens": [
+        "»",
+        "Ich",
+        "kann",
+        "nicht",
+        "so",
+        "viel",
+        "trinken",
+        "wie",
+        "sie",
+        "alle",
+        ",",
+        "«",
+        "sagte",
+        "der",
+        "mit",
+        "Gabriel",
+        "angesprochene",
+        "junge",
+        "Mann",
+        ",",
+        "als",
+        "gälte",
+        "es",
+        ",",
+        "eine",
+        "beschämende",
+        "Anschuldigung",
+        "zurückzuweisen",
+        ",",
+        "»",
+        "und",
+        "mein",
+        "Wochenlohn",
+        "ist",
+        "auch",
+        "so",
+        "gering",
+        ",",
+        "daß",
+        "ich",
+        "–",
+        "–",
+        "–",
+        "«",
+        "»",
+        "Möchtest",
+        "halt",
+        "gern",
+        "so",
+        "viel",
+        "bekommen",
+        "wie",
+        "wir",
+        ",",
+        "damit",
+        "du",
+        "nebstbei",
+        "»",
+        "e",
+        "Geschäftche",
+        "«",
+        "betreiben",
+        "kannst",
+        ",",
+        "«",
+        "äffte",
+        "der",
+        "erste",
+        "Künstler",
+        ".",
+        "»",
+        "Auch",
+        "wenn's",
+        "nicht",
+        "ganz",
+        "sauber",
+        "wär",
+        "'",
+        ",",
+        "«",
+        "ergänzte",
+        "voll",
+        "moralischen",
+        "Behagens",
+        "der",
+        "Zweite",
+        "."
+      ]
+    },
+    {
+      "begin": 87,
+      "charBegin": 425,
+      "charEnd": 473,
+      "end": 95,
+      "id": 1,
+      "text": "Gabriel stieg eine rasche Blutwelle ins Gesicht.",
+      "tokenIds": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "tokens": [
+        "Gabriel",
+        "stieg",
+        "eine",
+        "rasche",
+        "Blutwelle",
+        "ins",
+        "Gesicht",
+        "."
+      ]
+    },
+    {
+      "begin": 95,
+      "charBegin": 474,
+      "charEnd": 774,
+      "end": 156,
+      "id": 2,
+      "text": "– – »Ich hab' in meinem Leben noch kein unsauberes Geschäft betrieben, aber wenn der Herr Straubinger mich bezahlen würde, wie sich's gehörte, dann würde ich mein Geld auch nicht vertrinken, sondern zu meiner Ausbildung verwenden.«\n\n»Da seh einer den Juden an, wie der auf einmal das Maul voll nimmt.",
+      "tokenIds": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "tokens": [
+        "–",
+        "–",
+        "»",
+        "Ich",
+        "hab",
+        "'",
+        "in",
+        "meinem",
+        "Leben",
+        "noch",
+        "kein",
+        "unsauberes",
+        "Geschäft",
+        "betrieben",
+        ",",
+        "aber",
+        "wenn",
+        "der",
+        "Herr",
+        "Straubinger",
+        "mich",
+        "bezahlen",
+        "würde",
+        ",",
+        "wie",
+        "sich's",
+        "gehörte",
+        ",",
+        "dann",
+        "würde",
+        "ich",
+        "mein",
+        "Geld",
+        "auch",
+        "nicht",
+        "vertrinken",
+        ",",
+        "sondern",
+        "zu",
+        "meiner",
+        "Ausbildung",
+        "verwenden",
+        ".",
+        "«",
+        "»",
+        "Da",
+        "seh",
+        "einer",
+        "den",
+        "Juden",
+        "an",
+        ",",
+        "wie",
+        "der",
+        "auf",
+        "einmal",
+        "das",
+        "Maul",
+        "voll",
+        "nimmt",
+        "."
+      ]
+    },
+    {
+      "begin": 156,
+      "charBegin": 774,
+      "charEnd": 775,
+      "end": 157,
+      "id": 3,
+      "text": "«",
+      "tokenIds": [
+        156
+      ],
+      "tokens": [
+        "«"
+      ]
+    },
+    {
+      "begin": 157,
+      "charBegin": 775,
+      "charEnd": 841,
+      "end": 171,
+      "id": 4,
+      "text": "\n\n»Der Duckmäuser tut immer, wie wenn er nicht drei zählen könnte.",
+      "tokenIds": [
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "tokens": [
+        "»",
+        "Der",
+        "Duckmäuser",
+        "tut",
+        "immer",
+        ",",
+        "wie",
+        "wenn",
+        "er",
+        "nicht",
+        "drei",
+        "zählen",
+        "könnte",
+        "."
+      ]
+    },
+    {
+      "begin": 171,
+      "charBegin": 841,
+      "charEnd": 1026,
+      "end": 212,
+      "id": 5,
+      "text": "«\n\n»Ich sag's dem Meister, daß der Jud austrompetet, er tat seine Arbeiter schlecht bezahlen.«\n\n»Der Meister hat ohnedies einen Pick auf dich, paß auf, morgen fliegst' zum Tempel 'naus.",
+      "tokenIds": [
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211
+      ],
+      "tokens": [
+        "«",
+        "»",
+        "Ich",
+        "sag's",
+        "dem",
+        "Meister",
+        ",",
+        "daß",
+        "der",
+        "Jud",
+        "austrompetet",
+        ",",
+        "er",
+        "tat",
+        "seine",
+        "Arbeiter",
+        "schlecht",
+        "bezahlen",
+        ".",
+        "«",
+        "»",
+        "Der",
+        "Meister",
+        "hat",
+        "ohnedies",
+        "einen",
+        "Pick",
+        "auf",
+        "dich",
+        ",",
+        "paß",
+        "auf",
+        ",",
+        "morgen",
+        "fliegst",
+        "'",
+        "zum",
+        "Tempel",
+        "'",
+        "naus",
+        "."
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 1,
+      "id": 0,
+      "sentence": 1,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 1,
+      "charEnd": 4,
+      "id": 1,
+      "sentence": 1,
+      "text": "Ich",
+      "word": 2
+    },
+    {
+      "charBegin": 5,
+      "charEnd": 9,
+      "id": 2,
+      "sentence": 1,
+      "text": "kann",
+      "word": 3
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 15,
+      "id": 3,
+      "sentence": 1,
+      "text": "nicht",
+      "word": 4
+    },
+    {
+      "charBegin": 16,
+      "charEnd": 18,
+      "id": 4,
+      "sentence": 1,
+      "text": "so",
+      "word": 5
+    },
+    {
+      "charBegin": 19,
+      "charEnd": 23,
+      "id": 5,
+      "sentence": 1,
+      "text": "viel",
+      "word": 6
+    },
+    {
+      "charBegin": 24,
+      "charEnd": 31,
+      "id": 6,
+      "sentence": 1,
+      "text": "trinken",
+      "word": 7
+    },
+    {
+      "charBegin": 32,
+      "charEnd": 35,
+      "id": 7,
+      "sentence": 1,
+      "text": "wie",
+      "word": 8
+    },
+    {
+      "charBegin": 36,
+      "charEnd": 39,
+      "id": 8,
+      "sentence": 1,
+      "text": "sie",
+      "word": 9
+    },
+    {
+      "charBegin": 40,
+      "charEnd": 44,
+      "id": 9,
+      "sentence": 1,
+      "text": "alle",
+      "word": 10
+    },
+    {
+      "charBegin": 44,
+      "charEnd": 45,
+      "id": 10,
+      "sentence": 1,
+      "text": ",",
+      "word": 11
+    },
+    {
+      "charBegin": 45,
+      "charEnd": 46,
+      "id": 11,
+      "sentence": 1,
+      "text": "«",
+      "word": 12
+    },
+    {
+      "charBegin": 47,
+      "charEnd": 52,
+      "id": 12,
+      "sentence": 1,
+      "text": "sagte",
+      "word": 13
+    },
+    {
+      "charBegin": 53,
+      "charEnd": 56,
+      "id": 13,
+      "sentence": 1,
+      "text": "der",
+      "word": 14
+    },
+    {
+      "charBegin": 57,
+      "charEnd": 60,
+      "id": 14,
+      "sentence": 1,
+      "text": "mit",
+      "word": 15
+    },
+    {
+      "charBegin": 61,
+      "charEnd": 68,
+      "id": 15,
+      "sentence": 1,
+      "text": "Gabriel",
+      "word": 16
+    },
+    {
+      "charBegin": 69,
+      "charEnd": 82,
+      "id": 16,
+      "sentence": 1,
+      "text": "angesprochene",
+      "word": 17
+    },
+    {
+      "charBegin": 83,
+      "charEnd": 88,
+      "id": 17,
+      "sentence": 1,
+      "text": "junge",
+      "word": 18
+    },
+    {
+      "charBegin": 89,
+      "charEnd": 93,
+      "id": 18,
+      "sentence": 1,
+      "text": "Mann",
+      "word": 19
+    },
+    {
+      "charBegin": 93,
+      "charEnd": 94,
+      "id": 19,
+      "sentence": 1,
+      "text": ",",
+      "word": 20
+    },
+    {
+      "charBegin": 95,
+      "charEnd": 98,
+      "id": 20,
+      "sentence": 1,
+      "text": "als",
+      "word": 21
+    },
+    {
+      "charBegin": 99,
+      "charEnd": 104,
+      "id": 21,
+      "sentence": 1,
+      "text": "gälte",
+      "word": 22
+    },
+    {
+      "charBegin": 105,
+      "charEnd": 107,
+      "id": 22,
+      "sentence": 1,
+      "text": "es",
+      "word": 23
+    },
+    {
+      "charBegin": 107,
+      "charEnd": 108,
+      "id": 23,
+      "sentence": 1,
+      "text": ",",
+      "word": 24
+    },
+    {
+      "charBegin": 109,
+      "charEnd": 113,
+      "id": 24,
+      "sentence": 1,
+      "text": "eine",
+      "word": 25
+    },
+    {
+      "charBegin": 114,
+      "charEnd": 125,
+      "id": 25,
+      "sentence": 1,
+      "text": "beschämende",
+      "word": 26
+    },
+    {
+      "charBegin": 126,
+      "charEnd": 139,
+      "id": 26,
+      "sentence": 1,
+      "text": "Anschuldigung",
+      "word": 27
+    },
+    {
+      "charBegin": 140,
+      "charEnd": 154,
+      "id": 27,
+      "sentence": 1,
+      "text": "zurückzuweisen",
+      "word": 28
+    },
+    {
+      "charBegin": 154,
+      "charEnd": 155,
+      "id": 28,
+      "sentence": 1,
+      "text": ",",
+      "word": 29
+    },
+    {
+      "charBegin": 156,
+      "charEnd": 157,
+      "id": 29,
+      "sentence": 1,
+      "text": "»",
+      "word": 30
+    },
+    {
+      "charBegin": 157,
+      "charEnd": 160,
+      "id": 30,
+      "sentence": 1,
+      "text": "und",
+      "word": 31
+    },
+    {
+      "charBegin": 161,
+      "charEnd": 165,
+      "id": 31,
+      "sentence": 1,
+      "text": "mein",
+      "word": 32
+    },
+    {
+      "charBegin": 166,
+      "charEnd": 176,
+      "id": 32,
+      "sentence": 1,
+      "text": "Wochenlohn",
+      "word": 33
+    },
+    {
+      "charBegin": 177,
+      "charEnd": 180,
+      "id": 33,
+      "sentence": 1,
+      "text": "ist",
+      "word": 34
+    },
+    {
+      "charBegin": 181,
+      "charEnd": 185,
+      "id": 34,
+      "sentence": 1,
+      "text": "auch",
+      "word": 35
+    },
+    {
+      "charBegin": 186,
+      "charEnd": 188,
+      "id": 35,
+      "sentence": 1,
+      "text": "so",
+      "word": 36
+    },
+    {
+      "charBegin": 189,
+      "charEnd": 195,
+      "id": 36,
+      "sentence": 1,
+      "text": "gering",
+      "word": 37
+    },
+    {
+      "charBegin": 195,
+      "charEnd": 196,
+      "id": 37,
+      "sentence": 1,
+      "text": ",",
+      "word": 38
+    },
+    {
+      "charBegin": 197,
+      "charEnd": 200,
+      "id": 38,
+      "sentence": 1,
+      "text": "daß",
+      "word": 39
+    },
+    {
+      "charBegin": 201,
+      "charEnd": 204,
+      "id": 39,
+      "sentence": 1,
+      "text": "ich",
+      "word": 40
+    },
+    {
+      "charBegin": 205,
+      "charEnd": 206,
+      "id": 40,
+      "sentence": 1,
+      "text": "–",
+      "word": 41
+    },
+    {
+      "charBegin": 207,
+      "charEnd": 208,
+      "id": 41,
+      "sentence": 1,
+      "text": "–",
+      "word": 42
+    },
+    {
+      "charBegin": 209,
+      "charEnd": 210,
+      "id": 42,
+      "sentence": 1,
+      "text": "–",
+      "word": 43
+    },
+    {
+      "charBegin": 210,
+      "charEnd": 211,
+      "id": 43,
+      "sentence": 1,
+      "text": "«",
+      "word": 44
+    },
+    {
+      "charBegin": 213,
+      "charEnd": 214,
+      "id": 44,
+      "sentence": 1,
+      "text": "»",
+      "word": 45
+    },
+    {
+      "charBegin": 214,
+      "charEnd": 222,
+      "id": 45,
+      "sentence": 1,
+      "text": "Möchtest",
+      "word": 46
+    },
+    {
+      "charBegin": 223,
+      "charEnd": 227,
+      "id": 46,
+      "sentence": 1,
+      "text": "halt",
+      "word": 47
+    },
+    {
+      "charBegin": 228,
+      "charEnd": 232,
+      "id": 47,
+      "sentence": 1,
+      "text": "gern",
+      "word": 48
+    },
+    {
+      "charBegin": 233,
+      "charEnd": 235,
+      "id": 48,
+      "sentence": 1,
+      "text": "so",
+      "word": 49
+    },
+    {
+      "charBegin": 236,
+      "charEnd": 240,
+      "id": 49,
+      "sentence": 1,
+      "text": "viel",
+      "word": 50
+    },
+    {
+      "charBegin": 241,
+      "charEnd": 249,
+      "id": 50,
+      "sentence": 1,
+      "text": "bekommen",
+      "word": 51
+    },
+    {
+      "charBegin": 250,
+      "charEnd": 253,
+      "id": 51,
+      "sentence": 1,
+      "text": "wie",
+      "word": 52
+    },
+    {
+      "charBegin": 254,
+      "charEnd": 257,
+      "id": 52,
+      "sentence": 1,
+      "text": "wir",
+      "word": 53
+    },
+    {
+      "charBegin": 257,
+      "charEnd": 258,
+      "id": 53,
+      "sentence": 1,
+      "text": ",",
+      "word": 54
+    },
+    {
+      "charBegin": 259,
+      "charEnd": 264,
+      "id": 54,
+      "sentence": 1,
+      "text": "damit",
+      "word": 55
+    },
+    {
+      "charBegin": 265,
+      "charEnd": 267,
+      "id": 55,
+      "sentence": 1,
+      "text": "du",
+      "word": 56
+    },
+    {
+      "charBegin": 268,
+      "charEnd": 276,
+      "id": 56,
+      "sentence": 1,
+      "text": "nebstbei",
+      "word": 57
+    },
+    {
+      "charBegin": 277,
+      "charEnd": 278,
+      "id": 57,
+      "sentence": 1,
+      "text": "»",
+      "word": 58
+    },
+    {
+      "charBegin": 278,
+      "charEnd": 279,
+      "id": 58,
+      "sentence": 1,
+      "text": "e",
+      "word": 59
+    },
+    {
+      "charBegin": 280,
+      "charEnd": 291,
+      "id": 59,
+      "sentence": 1,
+      "text": "Geschäftche",
+      "word": 60
+    },
+    {
+      "charBegin": 291,
+      "charEnd": 292,
+      "id": 60,
+      "sentence": 1,
+      "text": "«",
+      "word": 61
+    },
+    {
+      "charBegin": 293,
+      "charEnd": 302,
+      "id": 61,
+      "sentence": 1,
+      "text": "betreiben",
+      "word": 62
+    },
+    {
+      "charBegin": 303,
+      "charEnd": 309,
+      "id": 62,
+      "sentence": 1,
+      "text": "kannst",
+      "word": 63
+    },
+    {
+      "charBegin": 309,
+      "charEnd": 310,
+      "id": 63,
+      "sentence": 1,
+      "text": ",",
+      "word": 64
+    },
+    {
+      "charBegin": 310,
+      "charEnd": 311,
+      "id": 64,
+      "sentence": 1,
+      "text": "«",
+      "word": 65
+    },
+    {
+      "charBegin": 312,
+      "charEnd": 317,
+      "id": 65,
+      "sentence": 1,
+      "text": "äffte",
+      "word": 66
+    },
+    {
+      "charBegin": 318,
+      "charEnd": 321,
+      "id": 66,
+      "sentence": 1,
+      "text": "der",
+      "word": 67
+    },
+    {
+      "charBegin": 322,
+      "charEnd": 327,
+      "id": 67,
+      "sentence": 1,
+      "text": "erste",
+      "word": 68
+    },
+    {
+      "charBegin": 328,
+      "charEnd": 336,
+      "id": 68,
+      "sentence": 1,
+      "text": "Künstler",
+      "word": 69
+    },
+    {
+      "charBegin": 336,
+      "charEnd": 337,
+      "id": 69,
+      "sentence": 1,
+      "text": ".",
+      "word": 70
+    },
+    {
+      "charBegin": 339,
+      "charEnd": 340,
+      "id": 70,
+      "sentence": 1,
+      "text": "»",
+      "word": 71
+    },
+    {
+      "charBegin": 340,
+      "charEnd": 344,
+      "id": 71,
+      "sentence": 1,
+      "text": "Auch",
+      "word": 72
+    },
+    {
+      "charBegin": 345,
+      "charEnd": 351,
+      "id": 72,
+      "sentence": 1,
+      "text": "wenn's",
+      "word": 73
+    },
+    {
+      "charBegin": 352,
+      "charEnd": 357,
+      "id": 73,
+      "sentence": 1,
+      "text": "nicht",
+      "word": 74
+    },
+    {
+      "charBegin": 358,
+      "charEnd": 362,
+      "id": 74,
+      "sentence": 1,
+      "text": "ganz",
+      "word": 75
+    },
+    {
+      "charBegin": 363,
+      "charEnd": 369,
+      "id": 75,
+      "sentence": 1,
+      "text": "sauber",
+      "word": 76
+    },
+    {
+      "charBegin": 370,
+      "charEnd": 373,
+      "id": 76,
+      "sentence": 1,
+      "text": "wär",
+      "word": 77
+    },
+    {
+      "charBegin": 373,
+      "charEnd": 374,
+      "id": 77,
+      "sentence": 1,
+      "text": "'",
+      "word": 78
+    },
+    {
+      "charBegin": 374,
+      "charEnd": 375,
+      "id": 78,
+      "sentence": 1,
+      "text": ",",
+      "word": 79
+    },
+    {
+      "charBegin": 375,
+      "charEnd": 376,
+      "id": 79,
+      "sentence": 1,
+      "text": "«",
+      "word": 80
+    },
+    {
+      "charBegin": 377,
+      "charEnd": 385,
+      "id": 80,
+      "sentence": 1,
+      "text": "ergänzte",
+      "word": 81
+    },
+    {
+      "charBegin": 386,
+      "charEnd": 390,
+      "id": 81,
+      "sentence": 1,
+      "text": "voll",
+      "word": 82
+    },
+    {
+      "charBegin": 391,
+      "charEnd": 402,
+      "id": 82,
+      "sentence": 1,
+      "text": "moralischen",
+      "word": 83
+    },
+    {
+      "charBegin": 403,
+      "charEnd": 411,
+      "id": 83,
+      "sentence": 1,
+      "text": "Behagens",
+      "word": 84
+    },
+    {
+      "charBegin": 412,
+      "charEnd": 415,
+      "id": 84,
+      "sentence": 1,
+      "text": "der",
+      "word": 85
+    },
+    {
+      "charBegin": 416,
+      "charEnd": 422,
+      "id": 85,
+      "sentence": 1,
+      "text": "Zweite",
+      "word": 86
+    },
+    {
+      "charBegin": 422,
+      "charEnd": 423,
+      "id": 86,
+      "sentence": 1,
+      "text": ".",
+      "word": 87
+    },
+    {
+      "charBegin": 425,
+      "charEnd": 432,
+      "id": 87,
+      "sentence": 2,
+      "text": "Gabriel",
+      "word": 1
+    },
+    {
+      "charBegin": 433,
+      "charEnd": 438,
+      "id": 88,
+      "sentence": 2,
+      "text": "stieg",
+      "word": 2
+    },
+    {
+      "charBegin": 439,
+      "charEnd": 443,
+      "id": 89,
+      "sentence": 2,
+      "text": "eine",
+      "word": 3
+    },
+    {
+      "charBegin": 444,
+      "charEnd": 450,
+      "id": 90,
+      "sentence": 2,
+      "text": "rasche",
+      "word": 4
+    },
+    {
+      "charBegin": 451,
+      "charEnd": 460,
+      "id": 91,
+      "sentence": 2,
+      "text": "Blutwelle",
+      "word": 5
+    },
+    {
+      "charBegin": 461,
+      "charEnd": 464,
+      "id": 92,
+      "sentence": 2,
+      "text": "ins",
+      "word": 6
+    },
+    {
+      "charBegin": 465,
+      "charEnd": 472,
+      "id": 93,
+      "sentence": 2,
+      "text": "Gesicht",
+      "word": 7
+    },
+    {
+      "charBegin": 472,
+      "charEnd": 473,
+      "id": 94,
+      "sentence": 2,
+      "text": ".",
+      "word": 8
+    },
+    {
+      "charBegin": 474,
+      "charEnd": 475,
+      "id": 95,
+      "sentence": 3,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 476,
+      "charEnd": 477,
+      "id": 96,
+      "sentence": 3,
+      "text": "–",
+      "word": 2
+    },
+    {
+      "charBegin": 478,
+      "charEnd": 479,
+      "id": 97,
+      "sentence": 3,
+      "text": "»",
+      "word": 3
+    },
+    {
+      "charBegin": 479,
+      "charEnd": 482,
+      "id": 98,
+      "sentence": 3,
+      "text": "Ich",
+      "word": 4
+    },
+    {
+      "charBegin": 483,
+      "charEnd": 486,
+      "id": 99,
+      "sentence": 3,
+      "text": "hab",
+      "word": 5
+    },
+    {
+      "charBegin": 486,
+      "charEnd": 487,
+      "id": 100,
+      "sentence": 3,
+      "text": "'",
+      "word": 6
+    },
+    {
+      "charBegin": 488,
+      "charEnd": 490,
+      "id": 101,
+      "sentence": 3,
+      "text": "in",
+      "word": 7
+    },
+    {
+      "charBegin": 491,
+      "charEnd": 497,
+      "id": 102,
+      "sentence": 3,
+      "text": "meinem",
+      "word": 8
+    },
+    {
+      "charBegin": 498,
+      "charEnd": 503,
+      "id": 103,
+      "sentence": 3,
+      "text": "Leben",
+      "word": 9
+    },
+    {
+      "charBegin": 504,
+      "charEnd": 508,
+      "id": 104,
+      "sentence": 3,
+      "text": "noch",
+      "word": 10
+    },
+    {
+      "charBegin": 509,
+      "charEnd": 513,
+      "id": 105,
+      "sentence": 3,
+      "text": "kein",
+      "word": 11
+    },
+    {
+      "charBegin": 514,
+      "charEnd": 524,
+      "id": 106,
+      "sentence": 3,
+      "text": "unsauberes",
+      "word": 12
+    },
+    {
+      "charBegin": 525,
+      "charEnd": 533,
+      "id": 107,
+      "sentence": 3,
+      "text": "Geschäft",
+      "word": 13
+    },
+    {
+      "charBegin": 534,
+      "charEnd": 543,
+      "id": 108,
+      "sentence": 3,
+      "text": "betrieben",
+      "word": 14
+    },
+    {
+      "charBegin": 543,
+      "charEnd": 544,
+      "id": 109,
+      "sentence": 3,
+      "text": ",",
+      "word": 15
+    },
+    {
+      "charBegin": 545,
+      "charEnd": 549,
+      "id": 110,
+      "sentence": 3,
+      "text": "aber",
+      "word": 16
+    },
+    {
+      "charBegin": 550,
+      "charEnd": 554,
+      "id": 111,
+      "sentence": 3,
+      "text": "wenn",
+      "word": 17
+    },
+    {
+      "charBegin": 555,
+      "charEnd": 558,
+      "id": 112,
+      "sentence": 3,
+      "text": "der",
+      "word": 18
+    },
+    {
+      "charBegin": 559,
+      "charEnd": 563,
+      "id": 113,
+      "sentence": 3,
+      "text": "Herr",
+      "word": 19
+    },
+    {
+      "charBegin": 564,
+      "charEnd": 575,
+      "id": 114,
+      "sentence": 3,
+      "text": "Straubinger",
+      "word": 20
+    },
+    {
+      "charBegin": 576,
+      "charEnd": 580,
+      "id": 115,
+      "sentence": 3,
+      "text": "mich",
+      "word": 21
+    },
+    {
+      "charBegin": 581,
+      "charEnd": 589,
+      "id": 116,
+      "sentence": 3,
+      "text": "bezahlen",
+      "word": 22
+    },
+    {
+      "charBegin": 590,
+      "charEnd": 595,
+      "id": 117,
+      "sentence": 3,
+      "text": "würde",
+      "word": 23
+    },
+    {
+      "charBegin": 595,
+      "charEnd": 596,
+      "id": 118,
+      "sentence": 3,
+      "text": ",",
+      "word": 24
+    },
+    {
+      "charBegin": 597,
+      "charEnd": 600,
+      "id": 119,
+      "sentence": 3,
+      "text": "wie",
+      "word": 25
+    },
+    {
+      "charBegin": 601,
+      "charEnd": 607,
+      "id": 120,
+      "sentence": 3,
+      "text": "sich's",
+      "word": 26
+    },
+    {
+      "charBegin": 608,
+      "charEnd": 615,
+      "id": 121,
+      "sentence": 3,
+      "text": "gehörte",
+      "word": 27
+    },
+    {
+      "charBegin": 615,
+      "charEnd": 616,
+      "id": 122,
+      "sentence": 3,
+      "text": ",",
+      "word": 28
+    },
+    {
+      "charBegin": 617,
+      "charEnd": 621,
+      "id": 123,
+      "sentence": 3,
+      "text": "dann",
+      "word": 29
+    },
+    {
+      "charBegin": 622,
+      "charEnd": 627,
+      "id": 124,
+      "sentence": 3,
+      "text": "würde",
+      "word": 30
+    },
+    {
+      "charBegin": 628,
+      "charEnd": 631,
+      "id": 125,
+      "sentence": 3,
+      "text": "ich",
+      "word": 31
+    },
+    {
+      "charBegin": 632,
+      "charEnd": 636,
+      "id": 126,
+      "sentence": 3,
+      "text": "mein",
+      "word": 32
+    },
+    {
+      "charBegin": 637,
+      "charEnd": 641,
+      "id": 127,
+      "sentence": 3,
+      "text": "Geld",
+      "word": 33
+    },
+    {
+      "charBegin": 642,
+      "charEnd": 646,
+      "id": 128,
+      "sentence": 3,
+      "text": "auch",
+      "word": 34
+    },
+    {
+      "charBegin": 647,
+      "charEnd": 652,
+      "id": 129,
+      "sentence": 3,
+      "text": "nicht",
+      "word": 35
+    },
+    {
+      "charBegin": 653,
+      "charEnd": 663,
+      "id": 130,
+      "sentence": 3,
+      "text": "vertrinken",
+      "word": 36
+    },
+    {
+      "charBegin": 663,
+      "charEnd": 664,
+      "id": 131,
+      "sentence": 3,
+      "text": ",",
+      "word": 37
+    },
+    {
+      "charBegin": 665,
+      "charEnd": 672,
+      "id": 132,
+      "sentence": 3,
+      "text": "sondern",
+      "word": 38
+    },
+    {
+      "charBegin": 673,
+      "charEnd": 675,
+      "id": 133,
+      "sentence": 3,
+      "text": "zu",
+      "word": 39
+    },
+    {
+      "charBegin": 676,
+      "charEnd": 682,
+      "id": 134,
+      "sentence": 3,
+      "text": "meiner",
+      "word": 40
+    },
+    {
+      "charBegin": 683,
+      "charEnd": 693,
+      "id": 135,
+      "sentence": 3,
+      "text": "Ausbildung",
+      "word": 41
+    },
+    {
+      "charBegin": 694,
+      "charEnd": 703,
+      "id": 136,
+      "sentence": 3,
+      "text": "verwenden",
+      "word": 42
+    },
+    {
+      "charBegin": 703,
+      "charEnd": 704,
+      "id": 137,
+      "sentence": 3,
+      "text": ".",
+      "word": 43
+    },
+    {
+      "charBegin": 704,
+      "charEnd": 705,
+      "id": 138,
+      "sentence": 3,
+      "text": "«",
+      "word": 44
+    },
+    {
+      "charBegin": 707,
+      "charEnd": 708,
+      "id": 139,
+      "sentence": 3,
+      "text": "»",
+      "word": 45
+    },
+    {
+      "charBegin": 708,
+      "charEnd": 710,
+      "id": 140,
+      "sentence": 3,
+      "text": "Da",
+      "word": 46
+    },
+    {
+      "charBegin": 711,
+      "charEnd": 714,
+      "id": 141,
+      "sentence": 3,
+      "text": "seh",
+      "word": 47
+    },
+    {
+      "charBegin": 715,
+      "charEnd": 720,
+      "id": 142,
+      "sentence": 3,
+      "text": "einer",
+      "word": 48
+    },
+    {
+      "charBegin": 721,
+      "charEnd": 724,
+      "id": 143,
+      "sentence": 3,
+      "text": "den",
+      "word": 49
+    },
+    {
+      "charBegin": 725,
+      "charEnd": 730,
+      "id": 144,
+      "sentence": 3,
+      "text": "Juden",
+      "word": 50
+    },
+    {
+      "charBegin": 731,
+      "charEnd": 733,
+      "id": 145,
+      "sentence": 3,
+      "text": "an",
+      "word": 51
+    },
+    {
+      "charBegin": 733,
+      "charEnd": 734,
+      "id": 146,
+      "sentence": 3,
+      "text": ",",
+      "word": 52
+    },
+    {
+      "charBegin": 735,
+      "charEnd": 738,
+      "id": 147,
+      "sentence": 3,
+      "text": "wie",
+      "word": 53
+    },
+    {
+      "charBegin": 739,
+      "charEnd": 742,
+      "id": 148,
+      "sentence": 3,
+      "text": "der",
+      "word": 54
+    },
+    {
+      "charBegin": 743,
+      "charEnd": 746,
+      "id": 149,
+      "sentence": 3,
+      "text": "auf",
+      "word": 55
+    },
+    {
+      "charBegin": 747,
+      "charEnd": 753,
+      "id": 150,
+      "sentence": 3,
+      "text": "einmal",
+      "word": 56
+    },
+    {
+      "charBegin": 754,
+      "charEnd": 757,
+      "id": 151,
+      "sentence": 3,
+      "text": "das",
+      "word": 57
+    },
+    {
+      "charBegin": 758,
+      "charEnd": 762,
+      "id": 152,
+      "sentence": 3,
+      "text": "Maul",
+      "word": 58
+    },
+    {
+      "charBegin": 763,
+      "charEnd": 767,
+      "id": 153,
+      "sentence": 3,
+      "text": "voll",
+      "word": 59
+    },
+    {
+      "charBegin": 768,
+      "charEnd": 773,
+      "id": 154,
+      "sentence": 3,
+      "text": "nimmt",
+      "word": 60
+    },
+    {
+      "charBegin": 773,
+      "charEnd": 774,
+      "id": 155,
+      "sentence": 3,
+      "text": ".",
+      "word": 61
+    },
+    {
+      "charBegin": 774,
+      "charEnd": 775,
+      "id": 156,
+      "sentence": 4,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 777,
+      "charEnd": 778,
+      "id": 157,
+      "sentence": 5,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 778,
+      "charEnd": 781,
+      "id": 158,
+      "sentence": 5,
+      "text": "Der",
+      "word": 2
+    },
+    {
+      "charBegin": 782,
+      "charEnd": 792,
+      "id": 159,
+      "sentence": 5,
+      "text": "Duckmäuser",
+      "word": 3
+    },
+    {
+      "charBegin": 793,
+      "charEnd": 796,
+      "id": 160,
+      "sentence": 5,
+      "text": "tut",
+      "word": 4
+    },
+    {
+      "charBegin": 797,
+      "charEnd": 802,
+      "id": 161,
+      "sentence": 5,
+      "text": "immer",
+      "word": 5
+    },
+    {
+      "charBegin": 802,
+      "charEnd": 803,
+      "id": 162,
+      "sentence": 5,
+      "text": ",",
+      "word": 6
+    },
+    {
+      "charBegin": 804,
+      "charEnd": 807,
+      "id": 163,
+      "sentence": 5,
+      "text": "wie",
+      "word": 7
+    },
+    {
+      "charBegin": 808,
+      "charEnd": 812,
+      "id": 164,
+      "sentence": 5,
+      "text": "wenn",
+      "word": 8
+    },
+    {
+      "charBegin": 813,
+      "charEnd": 815,
+      "id": 165,
+      "sentence": 5,
+      "text": "er",
+      "word": 9
+    },
+    {
+      "charBegin": 816,
+      "charEnd": 821,
+      "id": 166,
+      "sentence": 5,
+      "text": "nicht",
+      "word": 10
+    },
+    {
+      "charBegin": 822,
+      "charEnd": 826,
+      "id": 167,
+      "sentence": 5,
+      "text": "drei",
+      "word": 11
+    },
+    {
+      "charBegin": 827,
+      "charEnd": 833,
+      "id": 168,
+      "sentence": 5,
+      "text": "zählen",
+      "word": 12
+    },
+    {
+      "charBegin": 834,
+      "charEnd": 840,
+      "id": 169,
+      "sentence": 5,
+      "text": "könnte",
+      "word": 13
+    },
+    {
+      "charBegin": 840,
+      "charEnd": 841,
+      "id": 170,
+      "sentence": 5,
+      "text": ".",
+      "word": 14
+    },
+    {
+      "charBegin": 841,
+      "charEnd": 842,
+      "id": 171,
+      "sentence": 6,
+      "text": "«",
+      "word": 1
+    },
+    {
+      "charBegin": 844,
+      "charEnd": 845,
+      "id": 172,
+      "sentence": 6,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 845,
+      "charEnd": 848,
+      "id": 173,
+      "sentence": 6,
+      "text": "Ich",
+      "word": 3
+    },
+    {
+      "charBegin": 849,
+      "charEnd": 854,
+      "id": 174,
+      "sentence": 6,
+      "text": "sag's",
+      "word": 4
+    },
+    {
+      "charBegin": 855,
+      "charEnd": 858,
+      "id": 175,
+      "sentence": 6,
+      "text": "dem",
+      "word": 5
+    },
+    {
+      "charBegin": 859,
+      "charEnd": 866,
+      "id": 176,
+      "sentence": 6,
+      "text": "Meister",
+      "word": 6
+    },
+    {
+      "charBegin": 866,
+      "charEnd": 867,
+      "id": 177,
+      "sentence": 6,
+      "text": ",",
+      "word": 7
+    },
+    {
+      "charBegin": 868,
+      "charEnd": 871,
+      "id": 178,
+      "sentence": 6,
+      "text": "daß",
+      "word": 8
+    },
+    {
+      "charBegin": 872,
+      "charEnd": 875,
+      "id": 179,
+      "sentence": 6,
+      "text": "der",
+      "word": 9
+    },
+    {
+      "charBegin": 876,
+      "charEnd": 879,
+      "id": 180,
+      "sentence": 6,
+      "text": "Jud",
+      "word": 10
+    },
+    {
+      "charBegin": 880,
+      "charEnd": 892,
+      "id": 181,
+      "sentence": 6,
+      "text": "austrompetet",
+      "word": 11
+    },
+    {
+      "charBegin": 892,
+      "charEnd": 893,
+      "id": 182,
+      "sentence": 6,
+      "text": ",",
+      "word": 12
+    },
+    {
+      "charBegin": 894,
+      "charEnd": 896,
+      "id": 183,
+      "sentence": 6,
+      "text": "er",
+      "word": 13
+    },
+    {
+      "charBegin": 897,
+      "charEnd": 900,
+      "id": 184,
+      "sentence": 6,
+      "text": "tat",
+      "word": 14
+    },
+    {
+      "charBegin": 901,
+      "charEnd": 906,
+      "id": 185,
+      "sentence": 6,
+      "text": "seine",
+      "word": 15
+    },
+    {
+      "charBegin": 907,
+      "charEnd": 915,
+      "id": 186,
+      "sentence": 6,
+      "text": "Arbeiter",
+      "word": 16
+    },
+    {
+      "charBegin": 916,
+      "charEnd": 924,
+      "id": 187,
+      "sentence": 6,
+      "text": "schlecht",
+      "word": 17
+    },
+    {
+      "charBegin": 925,
+      "charEnd": 933,
+      "id": 188,
+      "sentence": 6,
+      "text": "bezahlen",
+      "word": 18
+    },
+    {
+      "charBegin": 933,
+      "charEnd": 934,
+      "id": 189,
+      "sentence": 6,
+      "text": ".",
+      "word": 19
+    },
+    {
+      "charBegin": 934,
+      "charEnd": 935,
+      "id": 190,
+      "sentence": 6,
+      "text": "«",
+      "word": 20
+    },
+    {
+      "charBegin": 937,
+      "charEnd": 938,
+      "id": 191,
+      "sentence": 6,
+      "text": "»",
+      "word": 21
+    },
+    {
+      "charBegin": 938,
+      "charEnd": 941,
+      "id": 192,
+      "sentence": 6,
+      "text": "Der",
+      "word": 22
+    },
+    {
+      "charBegin": 942,
+      "charEnd": 949,
+      "id": 193,
+      "sentence": 6,
+      "text": "Meister",
+      "word": 23
+    },
+    {
+      "charBegin": 950,
+      "charEnd": 953,
+      "id": 194,
+      "sentence": 6,
+      "text": "hat",
+      "word": 24
+    },
+    {
+      "charBegin": 954,
+      "charEnd": 962,
+      "id": 195,
+      "sentence": 6,
+      "text": "ohnedies",
+      "word": 25
+    },
+    {
+      "charBegin": 963,
+      "charEnd": 968,
+      "id": 196,
+      "sentence": 6,
+      "text": "einen",
+      "word": 26
+    },
+    {
+      "charBegin": 969,
+      "charEnd": 973,
+      "id": 197,
+      "sentence": 6,
+      "text": "Pick",
+      "word": 27
+    },
+    {
+      "charBegin": 974,
+      "charEnd": 977,
+      "id": 198,
+      "sentence": 6,
+      "text": "auf",
+      "word": 28
+    },
+    {
+      "charBegin": 978,
+      "charEnd": 982,
+      "id": 199,
+      "sentence": 6,
+      "text": "dich",
+      "word": 29
+    },
+    {
+      "charBegin": 982,
+      "charEnd": 983,
+      "id": 200,
+      "sentence": 6,
+      "text": ",",
+      "word": 30
+    },
+    {
+      "charBegin": 984,
+      "charEnd": 987,
+      "id": 201,
+      "sentence": 6,
+      "text": "paß",
+      "word": 31
+    },
+    {
+      "charBegin": 988,
+      "charEnd": 991,
+      "id": 202,
+      "sentence": 6,
+      "text": "auf",
+      "word": 32
+    },
+    {
+      "charBegin": 991,
+      "charEnd": 992,
+      "id": 203,
+      "sentence": 6,
+      "text": ",",
+      "word": 33
+    },
+    {
+      "charBegin": 993,
+      "charEnd": 999,
+      "id": 204,
+      "sentence": 6,
+      "text": "morgen",
+      "word": 34
+    },
+    {
+      "charBegin": 1000,
+      "charEnd": 1007,
+      "id": 205,
+      "sentence": 6,
+      "text": "fliegst",
+      "word": 35
+    },
+    {
+      "charBegin": 1007,
+      "charEnd": 1008,
+      "id": 206,
+      "sentence": 6,
+      "text": "'",
+      "word": 36
+    },
+    {
+      "charBegin": 1009,
+      "charEnd": 1012,
+      "id": 207,
+      "sentence": 6,
+      "text": "zum",
+      "word": 37
+    },
+    {
+      "charBegin": 1013,
+      "charEnd": 1019,
+      "id": 208,
+      "sentence": 6,
+      "text": "Tempel",
+      "word": 38
+    },
+    {
+      "charBegin": 1020,
+      "charEnd": 1021,
+      "id": 209,
+      "sentence": 6,
+      "text": "'",
+      "word": 39
+    },
+    {
+      "charBegin": 1021,
+      "charEnd": 1025,
+      "id": 210,
+      "sentence": 6,
+      "text": "naus",
+      "word": 40
+    },
+    {
+      "charBegin": 1025,
+      "charEnd": 1026,
+      "id": 211,
+      "sentence": 6,
+      "text": ".",
+      "word": 41
+    }
+  ]
+}

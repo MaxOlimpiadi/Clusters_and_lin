@@ -1,0 +1,714 @@
+{
+  "annotations": [
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 15,
+            "charBegin": 63,
+            "charEnd": 100,
+            "end": 22
+          }
+        ],
+        "text": "Sie wandte sich wieder zu ihrem Sohne",
+        "tokenIds": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 15,
+            "charBegin": 63,
+            "charEnd": 66,
+            "end": 16
+          },
+          {
+            "begin": 17,
+            "charBegin": 74,
+            "charEnd": 78,
+            "end": 18
+          },
+          {
+            "begin": 20,
+            "charBegin": 89,
+            "charEnd": 94,
+            "end": 21
+          }
+        ],
+        "text": [
+          "Sie",
+          "sich",
+          "ihrem"
+        ],
+        "tokenIds": [
+          15,
+          17,
+          20
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [
+          {
+            "begin": 21,
+            "charBegin": 95,
+            "charEnd": 100,
+            "end": 22
+          }
+        ],
+        "text": [
+          "Sohne"
+        ],
+        "tokenIds": [
+          21
+        ]
+      },
+      "hasNested": false,
+      "id": 713,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 23,
+            "charBegin": 102,
+            "charEnd": 120,
+            "end": 26
+          }
+        ],
+        "text": "der Schreiber ging",
+        "tokenIds": [
+          23,
+          24,
+          25
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 24,
+            "charBegin": 106,
+            "charEnd": 115,
+            "end": 25
+          }
+        ],
+        "text": [
+          "Schreiber"
+        ],
+        "tokenIds": [
+          24
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 714,
+      "isNested": false
+    },
+    {
+      "phrase": {
+        "spans": [
+          {
+            "begin": 36,
+            "charBegin": 150,
+            "charEnd": 166,
+            "end": 39
+          }
+        ],
+        "text": "sagte die Mutter",
+        "tokenIds": [
+          36,
+          37,
+          38
+        ]
+      },
+      "agentive": {
+        "spans": [
+          {
+            "begin": 38,
+            "charBegin": 160,
+            "charEnd": 166,
+            "end": 39
+          }
+        ],
+        "text": [
+          "Mutter"
+        ],
+        "tokenIds": [
+          38
+        ]
+      },
+      "low_agentive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "passive": {
+        "spans": [],
+        "text": [],
+        "tokenIds": []
+      },
+      "hasNested": false,
+      "id": 715,
+      "isNested": false
+    }
+  ],
+  "documentName": "Die Judenbuche__561_567",
+  "originalText": "»seid Ihr gekommen, um ehrliche Leute zu beschimpfen? Geht!« – Sie wandte sich wieder zu ihrem Sohne; der Schreiber ging. – »Friedrich, wie ist dir?« sagte die Mutter; »hast du wohl gehört?",
+  "sentences": [
+    {
+      "begin": 0,
+      "charBegin": 0,
+      "charEnd": 53,
+      "end": 11,
+      "id": 0,
+      "text": "»seid Ihr gekommen, um ehrliche Leute zu beschimpfen?",
+      "tokenIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tokens": [
+        "»",
+        "seid",
+        "Ihr",
+        "gekommen",
+        ",",
+        "um",
+        "ehrliche",
+        "Leute",
+        "zu",
+        "beschimpfen",
+        "?"
+      ]
+    },
+    {
+      "begin": 11,
+      "charBegin": 54,
+      "charEnd": 62,
+      "end": 15,
+      "id": 1,
+      "text": "Geht!« –",
+      "tokenIds": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "tokens": [
+        "Geht",
+        "!",
+        "«",
+        "–"
+      ]
+    },
+    {
+      "begin": 15,
+      "charBegin": 63,
+      "charEnd": 101,
+      "end": 23,
+      "id": 2,
+      "text": "Sie wandte sich wieder zu ihrem Sohne;",
+      "tokenIds": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "tokens": [
+        "Sie",
+        "wandte",
+        "sich",
+        "wieder",
+        "zu",
+        "ihrem",
+        "Sohne",
+        ";"
+      ]
+    },
+    {
+      "begin": 23,
+      "charBegin": 102,
+      "charEnd": 121,
+      "end": 27,
+      "id": 3,
+      "text": "der Schreiber ging.",
+      "tokenIds": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "tokens": [
+        "der",
+        "Schreiber",
+        "ging",
+        "."
+      ]
+    },
+    {
+      "begin": 27,
+      "charBegin": 122,
+      "charEnd": 167,
+      "end": 40,
+      "id": 4,
+      "text": "– »Friedrich, wie ist dir?« sagte die Mutter;",
+      "tokenIds": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "tokens": [
+        "–",
+        "»",
+        "Friedrich",
+        ",",
+        "wie",
+        "ist",
+        "dir",
+        "?",
+        "«",
+        "sagte",
+        "die",
+        "Mutter",
+        ";"
+      ]
+    },
+    {
+      "begin": 40,
+      "charBegin": 168,
+      "charEnd": 189,
+      "end": 46,
+      "id": 5,
+      "text": "»hast du wohl gehört?",
+      "tokenIds": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "tokens": [
+        "»",
+        "hast",
+        "du",
+        "wohl",
+        "gehört",
+        "?"
+      ]
+    }
+  ],
+  "tokens": [
+    {
+      "charBegin": 0,
+      "charEnd": 1,
+      "id": 0,
+      "sentence": 1,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 1,
+      "charEnd": 5,
+      "id": 1,
+      "sentence": 1,
+      "text": "seid",
+      "word": 2
+    },
+    {
+      "charBegin": 6,
+      "charEnd": 9,
+      "id": 2,
+      "sentence": 1,
+      "text": "Ihr",
+      "word": 3
+    },
+    {
+      "charBegin": 10,
+      "charEnd": 18,
+      "id": 3,
+      "sentence": 1,
+      "text": "gekommen",
+      "word": 4
+    },
+    {
+      "charBegin": 18,
+      "charEnd": 19,
+      "id": 4,
+      "sentence": 1,
+      "text": ",",
+      "word": 5
+    },
+    {
+      "charBegin": 20,
+      "charEnd": 22,
+      "id": 5,
+      "sentence": 1,
+      "text": "um",
+      "word": 6
+    },
+    {
+      "charBegin": 23,
+      "charEnd": 31,
+      "id": 6,
+      "sentence": 1,
+      "text": "ehrliche",
+      "word": 7
+    },
+    {
+      "charBegin": 32,
+      "charEnd": 37,
+      "id": 7,
+      "sentence": 1,
+      "text": "Leute",
+      "word": 8
+    },
+    {
+      "charBegin": 38,
+      "charEnd": 40,
+      "id": 8,
+      "sentence": 1,
+      "text": "zu",
+      "word": 9
+    },
+    {
+      "charBegin": 41,
+      "charEnd": 52,
+      "id": 9,
+      "sentence": 1,
+      "text": "beschimpfen",
+      "word": 10
+    },
+    {
+      "charBegin": 52,
+      "charEnd": 53,
+      "id": 10,
+      "sentence": 1,
+      "text": "?",
+      "word": 11
+    },
+    {
+      "charBegin": 54,
+      "charEnd": 58,
+      "id": 11,
+      "sentence": 2,
+      "text": "Geht",
+      "word": 1
+    },
+    {
+      "charBegin": 58,
+      "charEnd": 59,
+      "id": 12,
+      "sentence": 2,
+      "text": "!",
+      "word": 2
+    },
+    {
+      "charBegin": 59,
+      "charEnd": 60,
+      "id": 13,
+      "sentence": 2,
+      "text": "«",
+      "word": 3
+    },
+    {
+      "charBegin": 61,
+      "charEnd": 62,
+      "id": 14,
+      "sentence": 2,
+      "text": "–",
+      "word": 4
+    },
+    {
+      "charBegin": 63,
+      "charEnd": 66,
+      "id": 15,
+      "sentence": 3,
+      "text": "Sie",
+      "word": 1
+    },
+    {
+      "charBegin": 67,
+      "charEnd": 73,
+      "id": 16,
+      "sentence": 3,
+      "text": "wandte",
+      "word": 2
+    },
+    {
+      "charBegin": 74,
+      "charEnd": 78,
+      "id": 17,
+      "sentence": 3,
+      "text": "sich",
+      "word": 3
+    },
+    {
+      "charBegin": 79,
+      "charEnd": 85,
+      "id": 18,
+      "sentence": 3,
+      "text": "wieder",
+      "word": 4
+    },
+    {
+      "charBegin": 86,
+      "charEnd": 88,
+      "id": 19,
+      "sentence": 3,
+      "text": "zu",
+      "word": 5
+    },
+    {
+      "charBegin": 89,
+      "charEnd": 94,
+      "id": 20,
+      "sentence": 3,
+      "text": "ihrem",
+      "word": 6
+    },
+    {
+      "charBegin": 95,
+      "charEnd": 100,
+      "id": 21,
+      "sentence": 3,
+      "text": "Sohne",
+      "word": 7
+    },
+    {
+      "charBegin": 100,
+      "charEnd": 101,
+      "id": 22,
+      "sentence": 3,
+      "text": ";",
+      "word": 8
+    },
+    {
+      "charBegin": 102,
+      "charEnd": 105,
+      "id": 23,
+      "sentence": 4,
+      "text": "der",
+      "word": 1
+    },
+    {
+      "charBegin": 106,
+      "charEnd": 115,
+      "id": 24,
+      "sentence": 4,
+      "text": "Schreiber",
+      "word": 2
+    },
+    {
+      "charBegin": 116,
+      "charEnd": 120,
+      "id": 25,
+      "sentence": 4,
+      "text": "ging",
+      "word": 3
+    },
+    {
+      "charBegin": 120,
+      "charEnd": 121,
+      "id": 26,
+      "sentence": 4,
+      "text": ".",
+      "word": 4
+    },
+    {
+      "charBegin": 122,
+      "charEnd": 123,
+      "id": 27,
+      "sentence": 5,
+      "text": "–",
+      "word": 1
+    },
+    {
+      "charBegin": 124,
+      "charEnd": 125,
+      "id": 28,
+      "sentence": 5,
+      "text": "»",
+      "word": 2
+    },
+    {
+      "charBegin": 125,
+      "charEnd": 134,
+      "id": 29,
+      "sentence": 5,
+      "text": "Friedrich",
+      "word": 3
+    },
+    {
+      "charBegin": 134,
+      "charEnd": 135,
+      "id": 30,
+      "sentence": 5,
+      "text": ",",
+      "word": 4
+    },
+    {
+      "charBegin": 136,
+      "charEnd": 139,
+      "id": 31,
+      "sentence": 5,
+      "text": "wie",
+      "word": 5
+    },
+    {
+      "charBegin": 140,
+      "charEnd": 143,
+      "id": 32,
+      "sentence": 5,
+      "text": "ist",
+      "word": 6
+    },
+    {
+      "charBegin": 144,
+      "charEnd": 147,
+      "id": 33,
+      "sentence": 5,
+      "text": "dir",
+      "word": 7
+    },
+    {
+      "charBegin": 147,
+      "charEnd": 148,
+      "id": 34,
+      "sentence": 5,
+      "text": "?",
+      "word": 8
+    },
+    {
+      "charBegin": 148,
+      "charEnd": 149,
+      "id": 35,
+      "sentence": 5,
+      "text": "«",
+      "word": 9
+    },
+    {
+      "charBegin": 150,
+      "charEnd": 155,
+      "id": 36,
+      "sentence": 5,
+      "text": "sagte",
+      "word": 10
+    },
+    {
+      "charBegin": 156,
+      "charEnd": 159,
+      "id": 37,
+      "sentence": 5,
+      "text": "die",
+      "word": 11
+    },
+    {
+      "charBegin": 160,
+      "charEnd": 166,
+      "id": 38,
+      "sentence": 5,
+      "text": "Mutter",
+      "word": 12
+    },
+    {
+      "charBegin": 166,
+      "charEnd": 167,
+      "id": 39,
+      "sentence": 5,
+      "text": ";",
+      "word": 13
+    },
+    {
+      "charBegin": 168,
+      "charEnd": 169,
+      "id": 40,
+      "sentence": 6,
+      "text": "»",
+      "word": 1
+    },
+    {
+      "charBegin": 169,
+      "charEnd": 173,
+      "id": 41,
+      "sentence": 6,
+      "text": "hast",
+      "word": 2
+    },
+    {
+      "charBegin": 174,
+      "charEnd": 176,
+      "id": 42,
+      "sentence": 6,
+      "text": "du",
+      "word": 3
+    },
+    {
+      "charBegin": 177,
+      "charEnd": 181,
+      "id": 43,
+      "sentence": 6,
+      "text": "wohl",
+      "word": 4
+    },
+    {
+      "charBegin": 182,
+      "charEnd": 188,
+      "id": 44,
+      "sentence": 6,
+      "text": "gehört",
+      "word": 5
+    },
+    {
+      "charBegin": 188,
+      "charEnd": 189,
+      "id": 45,
+      "sentence": 6,
+      "text": "?",
+      "word": 6
+    }
+  ]
+}
